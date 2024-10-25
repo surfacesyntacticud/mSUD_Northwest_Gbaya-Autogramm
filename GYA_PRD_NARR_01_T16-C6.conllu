@@ -1,10 +1,10 @@
 # sent_id = GYA_PRD_NARR_01_T16-C6_001-001
+# text = ɲínám nɛ́ ʔánà zàngé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 2960, 4768
-# text = ɲínám nɛ́ ʔánà zàngé
-# phonetic_text = ɲínám nɛ́ ʔánà zàngé
-# text_fr =  Je m'appelle Anna Zangué.
+# phonetic_text = ɲínám nɛ́ ʔánà zàngé //
+# text_fr =  Je m'appelle Anna Zangué //
 1-3	ɲínám	ɲínám	_	_	_	_	_	_	_
 1	ɲîn	ɲîn	NOUN	N	_	4	subj	_	AlignBegin=2960|AlignEnd=3111|GE=[nom_propre]|nWord=1|RX=[N]
 2	-H	-H	ADP	FCT	_	1	udep	_	AlignBegin=3111|AlignEnd=3262|GE=[MT]|nWord=1|RX=[FCT]
@@ -14,12 +14,12 @@
 6	zàngé	zàngé	PROPN	NPR	_	5	comp:appos	_	AlignBegin=4316|AlignEnd=4768|GE=[Zangué]|nWord=4|RX=[NPR]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_002-002
+# text = tó gàì kɔ́ nàà kɔ́ bêm nɛ̀ gáí nɛ̀ yì ʔá̰-nàm tɛ́-tɔ̰̀.
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 4768, 7940
-# text = tó gàì kɔ́ nàà kɔ́ bêm nɛ̀ gáí nɛ̀ yì ʔá̰-nàm tɛ́-tɔ̰̀.
-# phonetic_text = tó gàì kɔ́ nàà kɔ́ bêm nɛ̀ gáí nɛ̀ yì ʔá̰-nàm tɛ́-tɔ̰̀.
-# text_fr =  Le conte de la mère de l'enfant qui écope la rivière, voilà ce que je vais raconter.
+# phonetic_text = tó gàì kɔ́ nàà kɔ́ bêm nɛ̀ gáí nɛ̀ yì ʔá̰-nàm tɛ́-tɔ̰̀ //
+# text_fr =  Le conte de la mère de l'enfant qui écope la rivière, voilà ce que je vais raconter //
 1-2	tó	tó	_	_	_	_	_	_	_
 1	tò	tò	NOUN	N	_	18	dislocated:obj	_	AlignBegin=4768|AlignEnd=4900|GE=[conte]|nWord=1|RX=[N]
 2	-H	-H	X	FCT	_	1	aff	_	AlignBegin=4900|AlignEnd=5032|GE=[D]|nWord=1|RX=[FCT]
@@ -41,22 +41,22 @@
 15	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	18	subj	_	AlignBegin=7496|AlignEnd=7584|GE=[1SG]|nWord=11|RX=[PERS]
 16	-H	-H	X	FCT	_	15	aff	_	AlignBegin=7584|AlignEnd=7672|GE=[MT]|nWord=11|RX=[FCT]
 17-18	tɛ́-tɔ̰̀.	tɛ́-tɔ̰̀.	_	_	_	_	_	_	_
-17	tɛ́-B	tɛ́-B	AUX	MV	Aspect=Imp	18	aux	_	AlignBegin=7672|AlignEnd=7806|GE=[VIRT].[INAC]|nWord=12|RX=[MV]
+17	tɛ́-B	tɛ́-B	AUX	MV	Aspect=Imp|Mood=Irr	18	aux	_	AlignBegin=7672|AlignEnd=7806|GE=[VIRT].[INAC]|nWord=12|RX=[MV]
 18	tɔ̰	tɔ̰	VERB	V	_	0	root	_	AlignBegin=7806|AlignEnd=7940|GE=[dire]|nWord=12|RX=[V]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_003-003
+# text = nàà kɔ́ bêm ʔá̰ bàà bêm bá tòè yák sí kɔ̀zér
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 7940, 13160
-# text = nàà kɔ́ bêm ʔá̰ bàà bêm bá tòè yák sí kɔ̀zér
-# phonetic_text = nàà kɔ́ bêm ʔá̰ bàà bêm bá tòè yák sí kɔ̀zér
-# text_fr =  La mère de l'enfant elle prend [son] enfant, prend un récipient, part vers la rivière.
+# phonetic_text = nàà kɔ́ bêm ʔá̰ bàà bêm bá tòè yák sí kɔ̀zér //
+# text_fr =  La mère de l'enfant elle prend [son] enfant, prend un récipient, part vers la rivière.//
 1	nàà	nàà	NOUN	N	_	6	dislocated:subj	_	AlignBegin=7940|AlignEnd=8415|GE=[mère]|nWord=1|RX=[N]
 2	kɔ́	kɔ́	ADP	FCT	_	1	udep	_	AlignBegin=8415|AlignEnd=8890|GE=[de]|nWord=2|RX=[FCT]
 3	bêm	bêm	NOUN	N	_	2	comp	_	AlignBegin=8890|AlignEnd=9365|GE=[enfant]|nWord=3|RX=[N]
 4	ʔá̰	ʔá̰	DET	_	_	1	det	_	AlignBegin=9365|AlignEnd=9840|GE=[TOP]|nWord=4|RX=[TOP]|Topicalization=Yes
 5-7	bàà	bàà	_	_	_	_	_	_	_
-5	BHa-	BHa-	AUX	MV	Aspect=Pfv	6	aux	_	AlignBegin=9840|AlignEnd=9998|GE=[ACC]|nWord=5|RX=[MV]
+5	BHa-	BHa-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=9840|AlignEnd=9998|GE=[ACC]|nWord=5|RX=[MV]
 6	ba	ba	VERB	V	_	0	root	_	AlignBegin=9998|AlignEnd=10156|GE=[prendre]|nWord=5|RX=[V]
 7	-H	-H	X	MOD	_	6	aff	_	AlignBegin=10156|AlignEnd=10315|GE=[MT]|nWord=5|RX=[MOD]
 8	bêm	bêm	NOUN	N	_	6	comp:obj	_	AlignBegin=10315|AlignEnd=10790|GE=[enfant]|nWord=6|RX=[N]
@@ -68,45 +68,45 @@
 12	H-	H-	AUX	MV	Aspect=Imp	13	aux	_	AlignBegin=11740|AlignEnd=11978|GE=[INAC]|nWord=9|RX=[MV]
 13	yak	yak	VERB	V	_	10	conj:coord	_	AlignBegin=11978|AlignEnd=12215|GE=[partir]|nWord=9|RX=[V]
 14-15	sí	sí	_	_	_	_	_	_	_
-14	H-	H-	AUX	MV	Aspect=Pfv	15	aux	_	AlignBegin=12215|AlignEnd=12453|GE=[INF].[ACC]|nWord=10|RX=[MV]
+14	H-	H-	AUX	MV	Aspect=Perf	15	aux	_	AlignBegin=12215|AlignEnd=12453|GE=[INF].[ACC]|nWord=10|RX=[MV]
 15	si	si	VERB	V	_	13	comp:svc	_	AlignBegin=12453|AlignEnd=12690|GE=[s'en_aller]|nWord=10|RX=[V]
 16	kɔ̀zér	kɔ̀zér	NOUN	N	_	15	comp:obl	_	AlignBegin=12690|AlignEnd=13160|GE=[marigot]|nWord=11|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_004-004
+# text = ʔá̰-nàá nɛ̀ɛ̀ gbó táá kɔ̀zér mɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 13743, 15768
-# text = ʔá̰-nàá nɛ̀ɛ̀ gbó táá kɔ̀zér mɛ̀
-# phonetic_text = ʔá̰-nàá nɛ̀ɛ̀ gbó táá kɔ̀zér mɛ̀
-# text_fr =  Voilà qu'elle arrive à cette rivière.
+# phonetic_text = ʔá̰-nàá nɛ̀ɛ̀ gbó táá kɔ̀zér mɛ̀ //
+# text_fr =  Voilà qu'elle arrive à cette rivière //
 1-3	ʔá̰-nàá	ʔá̰-nàá	_	_	_	_	_	_	_
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=13743|AlignEnd=13856|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=13856|AlignEnd=13969|GE=[3SG]|nWord=1|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=13969|AlignEnd=14081|GE=[MT]|nWord=1|RX=[MOD]
 4-6	nɛ̀ɛ̀	nɛ̀ɛ̀	_	_	_	_	_	_	_
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=14081|AlignEnd=14194|GE=[ACC]|nWord=2|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=14081|AlignEnd=14194|GE=[ACC]|nWord=2|RX=[MV]
 5	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=14194|AlignEnd=14307|GE=[aller]|nWord=2|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=14307|AlignEnd=14419|GE=[MT]|nWord=2|RX=[MOD]
 7-8	gbó	gbó	_	_	_	_	_	_	_
-7	H-	H-	AUX	MV	Aspect=Pfv	8	aux	_	AlignBegin=14419|AlignEnd=14588|GE=[INF].[ACC]|nWord=3|RX=[MV]
+7	H-	H-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=14419|AlignEnd=14588|GE=[INF].[ACC]|nWord=3|RX=[MV]
 8	gbo	gbo	VERB	V	_	5	comp:svc	_	AlignBegin=14588|AlignEnd=14757|GE=[arriver]|nWord=3|RX=[V]
 9	táá	táá	ADP	FCT	_	8	comp:obl	_	AlignBegin=14757|AlignEnd=15095|GE=[vers]|nWord=4|RX=[FCT]
 10	kɔ̀zér	kɔ̀zér	NOUN	N	_	9	comp	_	AlignBegin=15095|AlignEnd=15433|GE=[marigot]|nWord=5|RX=[N]
 11	mɛ̀	mɛ̀	ADV	ADV	_	8	mod	_	AlignBegin=15433|AlignEnd=15768|GE=[là-bas]|nWord=6|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_005-005
+# text = ʔá̰-nàá gɔ̀má tè hɔ́r ɓɔ̀tɛ́ kpé nɛ̀ gbàzù
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 15768, 18945
-# text = ʔá̰-nàá gɔ̀má tè hɔ́r ɓɔ̀tɛ́ kpé nɛ̀ gbàzù
-# phonetic_text = ʔá̰-nàá gɔ̀má tè hɔ́r ɓɔ̀tɛ́ kpé nɛ̀ gbàzù
-# text_fr =  Voilà qu'elle coupe des bois, rassemble de la boue et en ferme le barrage.
+# phonetic_text = ʔá̰-nàá gɔ̀má tè hɔ́r ɓɔ̀tɛ́ kpé nɛ̀ gbàzù //
+# text_fr =  Voilà qu'elle coupe des bois, rassemble de la boue et en ferme le barrage //
 1-3	ʔá̰-nàá	ʔá̰-nàá	_	_	_	_	_	_	_
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=15768|AlignEnd=15900|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=15900|AlignEnd=16032|GE=[3SG]|nWord=1|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=16032|AlignEnd=16165|GE=[MT]|nWord=1|RX=[MOD]
 4-6	gɔ̀má	gɔ̀má	_	_	_	_	_	_	_
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=16165|AlignEnd=16297|GE=[ACC]|nWord=2|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=16165|AlignEnd=16297|GE=[ACC]|nWord=2|RX=[MV]
 5	gɔm	gɔm	VERB	V	_	0	root	_	AlignBegin=16297|AlignEnd=16429|GE=[couper]|nWord=2|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=16429|AlignEnd=16562|GE=[MT]|nWord=2|RX=[MOD]
 7	tè	tè	NOUN	N	_	5	comp:obj	_	AlignBegin=16562|AlignEnd=16959|GE=[bois]|nWord=3|RX=[N]
@@ -121,76 +121,76 @@
 14	gbàzù	gbàzù	NOUN	N	_	12	comp:obj	_	AlignBegin=18547|AlignEnd=18945|GE=[barrage]|nWord=8|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_006-006
+# text = nàá kpèé gbàzù nɛ̀ ʔɔ̰̀sà káɗí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 18945, 21458
-# text = nàá kpèé gbàzù nɛ̀ ʔɔ̰̀sà káɗí
-# phonetic_text = nàá kpèé gbàzù nɛ̀ ʔɔ̰̀sà káɗí
-# text_fr =  Elle a ainsi fermé le barrage dont l'eau est complètement tarie.
+# phonetic_text = nàá kpèé gbàzù nɛ̀ ʔɔ̰̀sà káɗí //
+# text_fr =  Elle a ainsi fermé le barrage dont l'eau est complètement tarie.//
 1-3	nàá	nàá	_	_	_	_	_	_	_
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=18945|AlignEnd=18997|GE=[et_ainsi]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=18997|AlignEnd=19049|GE=[3SG]|nWord=1|RX=[PERS]
 3	-H	-H	AUX	MOD	_	2	aff	_	AlignBegin=19049|AlignEnd=19102|GE=[MT]|nWord=1|RX=[MOD]
 4-6	kpèé	kpèé	_	_	_	_	_	_	_
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=19102|AlignEnd=19154|GE=[ACC]|nWord=2|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=19102|AlignEnd=19154|GE=[ACC]|nWord=2|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=19154|AlignEnd=19206|GE=[fermer]|nWord=2|RX=[V]
 6	-H	-H	AUX	MOD	_	5	aff	_	AlignBegin=19206|AlignEnd=19259|GE=[MT]|nWord=2|RX=[MOD]
 7	gbàzù	gbàzù	NOUN	N	_	5	comp:obj	_	AlignBegin=19259|AlignEnd=19416|GE=[barrage]|nWord=3|RX=[N]
 8	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	10	subj	_	AlignBegin=19416|AlignEnd=19573|GE=[REL]|nWord=4|RX=[SUB]
 9-11	ʔɔ̰̀sà	ʔɔ̰̀sà	_	_	_	_	_	_	_
-9	BHa-	BHa-	AUX	MV	Aspect=Pfv	10	aux	_	AlignBegin=19573|AlignEnd=19625|GE=[ACC]|nWord=5|RX=[MV]
+9	BHa-	BHa-	AUX	MV	Aspect=Perf	10	aux	_	AlignBegin=19573|AlignEnd=19625|GE=[ACC]|nWord=5|RX=[MV]
 10	ʔɔ̰si	ʔɔ̰si	VERB	V	_	7	mod:relcl	_	AlignBegin=19625|AlignEnd=19677|GE=[réduire]|nWord=5|RX=[V]
 11	-H	-H	X	MOD	_	10	aff	_	AlignBegin=19677|AlignEnd=19730|GE=[MT]|nWord=5|RX=[MOD]
 12	káɗí	káɗí	ADV	ADV	_	10	mod	_	AlignBegin=19730|AlignEnd=19887|GE=[totalement]|nWord=6|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_007-007
+# text = ʔá̰-nɛ̀ =à̰ -H BHa- ba -H bêm
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 21458, 25347
-# text = ʔá̰-nɛ̀ =à̰ -H BHa- ba -H bêm
-# phonetic_text = ʔá̰-nàá bàà bêm
-# text_fr =  Voilà qu'elle prend l'enfant
+# phonetic_text = ʔá̰-nàá bàà bêm //
+# text_fr =  Voilà qu'elle prend l'enfant //
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=21458|AlignEnd=21693|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=21693|AlignEnd=21928|GE=[3SG]|nWord=1|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=21928|AlignEnd=22164|GE=[MT]|nWord=1|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=22164|AlignEnd=22399|GE=[ACC]|nWord=2|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=22164|AlignEnd=22399|GE=[ACC]|nWord=2|RX=[MV]
 5	ba	ba	VERB	V	_	0	root	_	AlignBegin=22399|AlignEnd=22634|GE=[prendre]|nWord=2|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=22634|AlignEnd=22870|GE=[MT]|nWord=2|RX=[MOD]
 7	bêm	bêm	NOUN	N	_	5	comp:obj	_	AlignBegin=22870|AlignEnd=23576|GE=[enfant]|nWord=3|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_008-008
+# text = ʔà̰ H- pḭ kàmbú
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 21458, 25347
-# text = ʔà̰ H- pḭ kàmbú
-# phonetic_text = ʔà̰ pḭ́ kàmbú
-# text_fr =  Elle le met dans la ceinture de portage
+# phonetic_text = ʔà̰ pḭ́ kàmbú //
+# text_fr =  Elle le met dans la ceinture de portage //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=23576|AlignEnd=23840|GE=[3SG]|nWord=4|RX=[PERS]
 2	H-	H-	AUX	_	Aspect=Imp	3	aux	_	AlignBegin=23840|AlignEnd=23972|GE=[INAC]|nWord=5|RX=[MOD MV]
 3	pḭ	pḭ	VERB	V	_	0	root	_	AlignBegin=23972|AlignEnd=24104|GE=[mettre]|nWord=5|RX=[V]
 4	kàmbú	kàmbú	NOUN	_	_	3	comp:obl	_	AlignBegin=24104|AlignEnd=24369|GE=[ceinture_de_portage_du_bébé]|nWord=6|RX=[MOD N PERS MV- V N PERS]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_009-009
+# text = ʔà̰ H- yak H- ye kɔ̀zér
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 21458, 25347
-# text = ʔà̰ H- yak H- ye kɔ̀zér
-# phonetic_text = ʔà̰ yák yé kɔ̀zér
-# text_fr = Elle va entrer dans la rivière.
+# phonetic_text = ʔà̰ yák yé kɔ̀zér //
+# text_fr = Elle va entrer dans la rivière //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=24373|AlignEnd=24617|GE=[3SG]|nWord=7|RX=[PERS]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=24617|AlignEnd=24739|GE=[INAC]|nWord=8|RX=[MV]
 3	yak	yak	VERB	V	_	0	root	_	AlignBegin=24739|AlignEnd=24861|GE=[partir]|nWord=8|RX=[V]
-4	H-	H-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=24861|AlignEnd=24983|GE=[INF].[ACC]|nWord=9|RX=[MV]
+4	H-	H-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=24861|AlignEnd=24983|GE=[INF].[ACC]|nWord=9|RX=[MV]
 5	ye	ye	VERB	V	_	3	comp:svc	_	AlignBegin=24983|AlignEnd=25105|GE=[entrer]|nWord=9|RX=[V]
 6	kɔ̀zér	kɔ̀zér	NOUN	N	_	5	comp:obj	_	AlignBegin=25105|AlignEnd=25347|GE=[marigot]|nWord=10|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_010-010
+# text = ʔà̰ H- nɛ nɛ́nɛ́ H- gbo táá mɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 25347, 28095
-# text = ʔà̰ H- nɛ nɛ́nɛ́ H- gbo táá mɛ̀
-# phonetic_text = ʔà̰ nɛ́ nɛ́nɛ́ gbó táá mɛ̀
-# text_fr =  Elle y va et arrive là-bas.
+# phonetic_text = ʔà̰ nɛ́ nɛ́nɛ́ gbó táá mɛ̀ //
+# text_fr =  Elle y va et arrive là-bas //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=25347|AlignEnd=25584|GE=[3SG]|nWord=1|RX=[PERS]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=25584|AlignEnd=25702|GE=[INAC]|nWord=2|RX=[MV]
 3	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=25702|AlignEnd=25821|GE=[aller]|nWord=2|RX=[V]
@@ -201,27 +201,27 @@
 8	mɛ̀	mɛ̀	ADV	ADV	_	7	comp	_	AlignBegin=26532|AlignEnd=26767|GE=[là-bas]|nWord=6|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_011-011
+# text = ká yì ʔá̰-nɛ̀ BHa- ʔɔ̰si -H ʔé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 25347, 28095
-# text = ká yì ʔá̰-nɛ̀ BHa- ʔɔ̰si -H ʔé
-# phonetic_text = ká yì ʔá̰-nɛ̀ ʔɔ̰̀sà ʔé
-# text_fr = Alors le niveau d'eau il a déjà baissé.
+# phonetic_text = ká yì ʔá̰-nɛ̀ ʔɔ̰̀sà ʔé //
+# text_fr = Alors le niveau d'eau il a déjà baissé //
 1	ká	ká	CCONJ	COORD	_	5	cc	_	AlignBegin=26767|AlignEnd=27033|GE=[alors]|nWord=7|RX=[COORD]
 2	yì	yì	NOUN	N	_	5	dislocated:subj	_	AlignBegin=27033|AlignEnd=27299|GE=[eau]|nWord=8|RX=[N]
 3	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	2	det	_	AlignBegin=27299|AlignEnd=27565|GE=[TOP]|nWord=9|RX=[MOD]|Topicalization=Yes
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=27565|AlignEnd=27654|GE=[ACC]|nWord=10|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=27565|AlignEnd=27654|GE=[ACC]|nWord=10|RX=[MV]
 5	ʔɔ̰si	ʔɔ̰si	VERB	V	_	0	root	_	AlignBegin=27654|AlignEnd=27743|GE=[réduire]|nWord=10|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=27743|AlignEnd=27831|GE=[MT]|nWord=10|RX=[MOD]
 7	ʔé	ʔé	ADV	ADV	_	5	mod	_	AlignBegin=27831|AlignEnd=28095|GE=[déjà]|nWord=11|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_012-012
+# text = ʔèé ʔà̰ pı̰́ bêm nù sɛ̌n zù kɛ́sɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 28213, 30458
-# text = ʔèé ʔà̰ pı̰́ bêm nù sɛ̌n zù kɛ́sɛ̀
-# phonetic_text = ʔèé ʔà̰ pı̰́ bêm nù sɛ̌n zù kɛ́sɛ̀
-# text_fr =  Et elle pose l'enfant à terre sur le sable.
+# phonetic_text = ʔèé ʔà̰ pı̰́ bêm nù sɛ̌n zù kɛ́sɛ̀ //
+# text_fr =  Et elle pose l'enfant à terre sur le sable.//
 1-2	ʔèé	ʔèé	_	_	_	_	_	_	_
 1	ʔèè	ʔèè	CCONJ	COORD	_	5	cc	_	AlignBegin=28213|AlignEnd=28353|GE=[puis]|nWord=1|RX=[COORD]
 2	-H	-H	X	MOD	_	1	aff	_	AlignBegin=28353|AlignEnd=28494|GE=[MT]|nWord=1|RX=[MOD]
@@ -238,12 +238,12 @@
 11	kɛ́sɛ̀	kɛ́sɛ̀	NOUN	N	_	10	comp	_	AlignBegin=30180|AlignEnd=30458|GE=[sable]|nWord=8|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_013-013
+# text = ʔá̰-nàà kṵ́ náŋ gáyá yì gáyá yì gáyá yì
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 30458, 32812
-# text = ʔá̰-nàà kṵ́ náŋ gáyá yì gáyá yì gáyá yì
-# phonetic_text = ʔá̰-nàà kṵ́ náŋ gáyá yì gáyá yì gáyá yì
-# text_fr =  Voilà qu'elle se met à écoper l'eau, écoper l'eau, écoper l'eau.
+# phonetic_text = ʔá̰-nàà kṵ́ náŋ gáyá yì gáyá yì gáyá yì //
+# text_fr =  Voilà qu'elle se met à écoper l'eau, écoper l'eau, écoper l'eau.//
 1-3	ʔá̰-nàà	ʔá̰-nàà	_	_	_	_	_	_	_
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=30458|AlignEnd=30545|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=30545|AlignEnd=30632|GE=[3SG]|nWord=1|RX=[PERS]
@@ -266,48 +266,48 @@
 15	yì	yì	NOUN	N	_	14	comp:obj	_	AlignBegin=32554|AlignEnd=32812|GE=[eau]|nWord=9|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_014-014
+# text = ʔà̰ H- kai zòrò
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 32812, 34003
-# text = ʔà̰ H- kai zòrò
-# phonetic_text = ʔà̰ káí zòrò
-# text_fr =  Elle ramasse du poisson.
+# phonetic_text = ʔà̰ káí zòrò //
+# text_fr =  Elle ramasse du poisson //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=32812|AlignEnd=33041|GE=[3SG]|nWord=1|RX=[PERS]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=33041|AlignEnd=33155|GE=[INAC]|nWord=2|RX=[MV]
 3	kai	kai	VERB	V	_	0	root	_	AlignBegin=33155|AlignEnd=33270|GE=[ramasser]|nWord=2|RX=[V]
 4	zòrò	zòrò	NOUN	N	_	3	comp:obj	_	AlignBegin=33270|AlignEnd=33498|GE=[poisson]|nWord=3|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_015-015
+# text = ʔà̰ H- ba bêm
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 32812, 34003
-# text = ʔà̰ H- ba bêm
-# phonetic_text = ʔà̰ bá bêm
-# text_fr = Elle prend l'enfant.
+# phonetic_text = ʔà̰ bá bêm //
+# text_fr = Elle prend l'enfant //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=33498|AlignEnd=33666|GE=[3SG]|nWord=4|RX=[PERS]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=33666|AlignEnd=33750|GE=[INAC]|nWord=5|RX=[MV]
 3	ba	ba	VERB	V	_	0	root	_	AlignBegin=33750|AlignEnd=33834|GE=[prendre]|nWord=5|RX=[V]
 4	bêm	bêm	NOUN	N	_	3	comp:obj	_	AlignBegin=33834|AlignEnd=34003|GE=[enfant]|nWord=6|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_016-016
+# text = ʔà̰ yák
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 34003, 34673
-# text = ʔà̰ yák
-# phonetic_text = ʔà̰ yák
-# text_fr =  Elle part, Elle avance, elle va écoper à nouveau.
+# phonetic_text = ʔà̰ yák //
+# text_fr =  Elle part //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=34003|AlignEnd=34338|GE=[3SG]|nWord=1|RX=[PERS]
 2-3	yák	yák	_	_	_	_	_	_	_
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=34338|AlignEnd=34506|GE=[INAC]|nWord=2|RX=[MV]
 3	yak	yak	VERB	V	_	0	root	_	AlignBegin=34506|AlignEnd=34673|GE=[partir]|nWord=2|RX=[V]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_017-017
+# text = ʔà̰ H- ɗoŋ táá tí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 34673, 37068
-# text = ʔà̰ H- ɗoŋ táá tí
-# phonetic_text = ʔà̰ ɗóŋ táá tí
-# text_fr =  Elle avance.
+# phonetic_text = ʔà̰ ɗóŋ táá tí //
+# text_fr =  Elle avance //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=34673|AlignEnd=34921|GE=[3SG]|nWord=1|RX=[PERS]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=34921|AlignEnd=35045|GE=[INAC]|nWord=2|RX=[MV]
 3	ɗoŋ	ɗoŋ	VERB	V	_	0	root	_	AlignBegin=35045|AlignEnd=35169|GE=[se_déplacer]|nWord=2|RX=[V]
@@ -315,27 +315,27 @@
 5	tí	tí	ADV	ADV	_	4	comp	_	AlignBegin=35417|AlignEnd=35663|GE=[avant]|nWord=4|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_018-018
+# text = ʔà̰ H- nɛ H- gai mbé -à
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 34673, 37068
-# text = ʔà̰ H- nɛ H- gai mbé -à
-# phonetic_text = ʔà̰ nɛ́ gáí mbéà
-# text_fr = Elle va écoper une nouvelle place.
+# phonetic_text = ʔà̰ nɛ́ gáí mbéà //
+# text_fr = Elle va écoper une nouvelle place //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=35663|AlignEnd=36014|GE=[3SG]|nWord=5|RX=[PERS]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=36014|AlignEnd=36190|GE=[INAC]|nWord=6|RX=[MV]
 3	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=36190|AlignEnd=36365|GE=[aller]|nWord=6|RX=[V]
-4	H-	H-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=36365|AlignEnd=36541|GE=[INF-ACC]|nWord=7|RX=[MV]
+4	H-	H-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=36365|AlignEnd=36541|GE=[INF-ACC]|nWord=7|RX=[MV]
 5	gai	gai	VERB	V	_	3	comp:svc	_	AlignBegin=36541|AlignEnd=36716|GE=[écoper]|nWord=7|RX=[V]
 6	mbé	mbé	ADJ	A	_	5	comp:obj	_	AlignBegin=36716|AlignEnd=36892|GE=[nouveau]|nWord=8|RX=[A]
 7	-à	-à	DET	MN	_	6	det	_	AlignBegin=36892|AlignEnd=37068|GE=[NMLS]|nWord=8|RX=[MN]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_019-019
+# text = ʔà̰ gáííí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 37068, 38180
-# text = ʔà̰ gáííí
-# phonetic_text = ʔà̰ gáííí
-# text_fr =  Elle écope longtemps.
+# phonetic_text = ʔà̰ gáííí //
+# text_fr =  Elle écope longtemps //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=37068|AlignEnd=37624|GE=[3SG]|nWord=1|RX=[PERS]
 2-4	gáííí	gáííí	_	_	_	_	_	_	_
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=37624|AlignEnd=37809|GE=[INAC]|nWord=2|RX=[MV]
@@ -343,42 +343,43 @@
 4	-VV	-VV	DET	MOD	_	3	det	_	AlignBegin=37994|AlignEnd=38180|GE=[DUR]|nWord=2|RX=[MOD]|wordform=-vv
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_020-020
+# text = kà zɔ́k mɔ̀ ká nú gúé ʔá̰à̰
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 38180, 39746
-# text = kà zɔ́k mɔ̀ ká nú gúé ʔá̰à̰
-# phonetic_text = kà zɔ́k mɔ̀ ká nú gúé ʔá̰à̰
-# text_fr =  Quand elle voit que voilà un trou à poissons.
-1	kà	kà	SCONJ	SUB	_	8	mod	_	AlignBegin=38180|AlignEnd=38404|GE=[quand]|nWord=1|RX=[SUB]
+# phonetic_text = kà zɔ́k mɔ̀ ká nú gúé ʔá̰à̰ //
+# text_fr =  Quand elle voit que voilà un trou à poissons //.
+1	kà	kà	SCONJ	SUB	_	9	mod	_	AlignBegin=38180|AlignEnd=38404|GE=[quand]|nWord=1|RX=[SUB]
 2-3	zɔ́k	zɔ́k	_	_	_	_	_	_	_
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=38404|AlignEnd=38516|GE=[INAC]|nWord=2|RX=[MV]
 3	zɔk	zɔk	VERB	V	_	1	comp	_	AlignBegin=38516|AlignEnd=38628|GE=[voir]|nWord=2|RX=[V]
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp:obj	_	AlignBegin=38628|AlignEnd=38852|GE=[chose]|nWord=3|RX=[N]
-5	ká	ká	CCONJ	COORD	_	8	cc	_	AlignBegin=38852|AlignEnd=39076|GE=[alors]|nWord=4|RX=[COORD]
-6	nú	nú	NOUN	N	_	8	subj	_	AlignBegin=39076|AlignEnd=39300|GE=[partie_active]|nWord=5|RX=[N]
-7	gúé	gúé	NOUN	N	_	6	comp	_	AlignBegin=39300|AlignEnd=39524|GE=[trou_à_poissons]|nWord=6|RX=[N]
-8	ʔá̰à̰	ʔá̰à̰	AUX	PRÉD	_	0	root	_	AlignBegin=39524|AlignEnd=39746|GE=[PRST-LOC]|nWord=7|RX=[PRÉD]
+5	ká	ká	CCONJ	COORD	_	9	cc	_	AlignBegin=38852|AlignEnd=39076|GE=[alors]|nWord=4|RX=[COORD]
+6	nú	nú	NOUN	N	_	9	subj	_	AlignBegin=39076|AlignEnd=39300|GE=[partie_active]|nWord=5|RX=[N]
+7	-H	-H	ADP	_	_	6	udep	_	GE=[MT]|nWord=5|RX=[FCT]
+8	gúé	gúé	NOUN	N	_	7	comp	_	AlignBegin=39300|AlignEnd=39524|GE=[trou_à_poissons]|nWord=6|RX=[N]
+9	ʔá̰à̰	ʔá̰à̰	AUX	PRÉD	_	0	root	_	AlignBegin=39524|AlignEnd=39746|GE=[PRST-LOC]|nWord=7|RX=[PRÉD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_021-021
+# text = ʔá̰-nɛ̀ =à̰ -H BHa- ye
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 40050, 42920
-# text = ʔá̰-nɛ̀ =à̰ -H BHa- ye
-# phonetic_text = ʔá̰-nàá yèé
-# text_fr =  Voilà qu'elle entre [dans l'eau].
+# phonetic_text = ʔá̰-nàá yèé //
+# text_fr =  Voilà qu'elle entre [dans l'eau].//
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=40050|AlignEnd=40225|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=40225|AlignEnd=40400|GE=[3SG]|nWord=1|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=40400|AlignEnd=40576|GE=[MT]|nWord=1|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=40576|AlignEnd=40839|GE=[ACC]|nWord=2|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=40576|AlignEnd=40839|GE=[ACC]|nWord=2|RX=[MV]
 5	ye	ye	VERB	V	_	0	root	_	AlignBegin=40839|AlignEnd=41102|GE=[entrer]|nWord=2|RX=[V]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_022_023
+# text = nɛ̀ =à̰ -H H- kai zòrò nɛ́nɛ́ -VV
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 42920, 43567
-# text = nɛ̀ =à̰ -H H- kai zòrò nɛ́nɛ́ -VV
-# phonetic_text = nàà káí zòrò nɛ́nɛ́ɛ́ɛ́
-# text_fr = Et elle ramasse ainsi du poisson.
+# phonetic_text = nàà káí zòrò nɛ́nɛ́ɛ́ɛ́ //
+# text_fr = Et elle ramasse ainsi du poisson //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=41102|AlignEnd=41304|GE=[et_ainsi]|nWord=3|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=41304|AlignEnd=41506|GE=[3SG]|nWord=3|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=41506|AlignEnd=41708|GE=[MT]|nWord=3|RX=[MOD]
@@ -389,12 +390,12 @@
 8	-VV	-VV	DET	N	_	7	det	_	AlignBegin=43244|AlignEnd=43567|GE=[DUR]|nWord=6|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_024-025
+# text = kà̰à̰ pı̰́ ʔɛ́ráà kɔ̀ gúé ká gúé ká gúé ʔá̰ hɛ̰̀ɛ̰́-hɛ̰̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 43567, 46365
-# text = kà̰à̰ pı̰́ ʔɛ́ráà kɔ̀ gúé ká gúé ká gúé ʔá̰ hɛ̰̀ɛ̰́-hɛ̰̀
-# phonetic_text = kà̰à̰ pı̰́ ʔɛ́ráà kɔ̀ gúé ká gúé ká gúé ʔá̰ hɛ̰̀ɛ̰́-hɛ̰̀.
-# text_fr =  Lorsqu'elle met la main dans le trou à poissons c'est bien un trou à poissons qui est là.
+# phonetic_text = kà̰à̰ pı̰́ ʔɛ́ráà kɔ̀ gúé ká gúé ká gúé ʔá̰ hɛ̰̀ɛ̰́-hɛ̰̀ //
+# text_fr =  Lorsqu'elle met la main dans le trou à poissons c'est bien un trou à poissons qui est là //
 1-2	kà̰à̰	kà̰à̰	_	_	_	_	_	_	_
 1	kà	kà	SCONJ	SUB	_	14	mod	_	AlignBegin=43567|AlignEnd=43659|GE=[quand]|nWord=1|RX=[SUB]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	4	subj	_	AlignBegin=43659|AlignEnd=43751|GE=[3SG]|nWord=1|RX=[PERS]
@@ -415,12 +416,12 @@
 15	hɛ̰̀ɛ̰́-hɛ̰̀	hɛ̰̀ɛ̰́-hɛ̰̀	ADV	ADV	_	14	comp:obl	_	AlignBegin=45988|AlignEnd=46365|GE=[ici_même]|nWord=11|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_026-026
+# text = ɓɛ̀ɛ̀ ɗòŋ ɗòŋáìí húʋúʋú ká gbàzù ʔá̰-nɛ̀ BHa- gbìnáìí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 46365, 49815
-# text = ɓɛ̀ɛ̀ ɗòŋ ɗòŋáìí húʋúʋú ká gbàzù ʔá̰-nɛ̀ BHa- gbìnáìí
-# phonetic_text = ɓɛ̀ɛ̀ ɗòŋáìí húʋúʋú ká gbàzù ʔá̰-nɛ̀ gbìnáìí
-# text_fr =  Après cela l'eau dévalant bruyamment, alors le barrage il s'effondre.
+# phonetic_text = ɓɛ̀ɛ̀ ɗòŋáìí húʋúʋú ká gbàzù ʔá̰-nɛ̀ gbìnáìí //
+# text_fr =  Après cela l'eau dévalant bruyamment, alors le barrage il s'effondre //
 1	ɓɛ̀ɛ̀	ɓɛ̀ɛ̀	_	_	_	11	cc	_	AlignBegin=46365|AlignEnd=46858|nWord=1
 2	ɗòŋ	ɗòŋ	ADJ	AR	_	11	mod	_	AlignBegin=46858|AlignEnd=46981|GE=[après]|nWord=2|RX=[AR]
 3-5	ɗòŋáìí	ɗòŋáìí	_	_	_	_	_	_	_
@@ -431,19 +432,19 @@
 7	ká	ká	CCONJ	COORD	_	11	cc	_	AlignBegin=47844|AlignEnd=48337|GE=[alors]|nWord=4|RX=[COORD]
 8	gbàzù	gbàzù	NOUN	N	_	11	dislocated:subj	_	AlignBegin=48337|AlignEnd=48830|GE=[barrage]|nWord=5|RX=[N]
 9	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	COORD	_	8	det	_	AlignBegin=48830|AlignEnd=49323|GE=[TOP]|nWord=6|RX=[COORD]|Topicalization=Yes
-10	BHa-	BHa-	AUX	MV	Aspect=Pfv	11	aux	_	AlignBegin=49323|AlignEnd=49446|GE=[ACC]|nWord=7|RX=[MV]
+10	BHa-	BHa-	AUX	MV	Aspect=Perf	11	aux	_	AlignBegin=49323|AlignEnd=49446|GE=[ACC]|nWord=7|RX=[MV]
 11-13	gbìnáìí	gbìnáìí	_	_	_	_	_	_	_
 11	gbin	gbin	VERB	V	_	0	root	_	AlignBegin=49446|AlignEnd=49569|GE=[casser]|nWord=7|RX=[V]
 12	-H	-H	AUX	MOD	_	11	aff	_	AlignBegin=49569|AlignEnd=49692|GE=[MT]|nWord=7|RX=[MOD]
 13	-ìí	-ìí	DET	MOD	_	11	det	_	AlignBegin=49692|AlignEnd=49815|GE=[ANAPH]|nWord=7|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_027-027
+# text = ʔá̰-nɛ̀ H- pei -ìí ʔèááá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 50974, 55035
-# text = ʔá̰-nɛ̀ H- pei -ìí ʔèááá
-# phonetic_text = ʔá̰-nɛ̀ péìí ʔèááá
-# text_fr =  Voilà qu'elle revient. cela dure longtemps.
+# phonetic_text = ʔá̰-nɛ̀ péìí ʔèááá //
+# text_fr =  Voilà qu'elle revient. cela dure longtemps //
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	SCONJ	SUB	_	3	cc	_	AlignBegin=49815|AlignEnd=50395|GE=[voilà_que]|nWord=1|RX=[SUB]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=50395|AlignEnd=50588|GE=[INAC]|nWord=2|RX=[MV]
 3	pei	pei	VERB	V	_	0	root	_	AlignBegin=50588|AlignEnd=50781|GE=[revenir]|nWord=2|RX=[V]
@@ -451,15 +452,15 @@
 5	ʔèááá	ʔèááá	ADV	ADV	_	3	mod	_	AlignBegin=50974|AlignEnd=51201|GE=[longtemps]|nWord=1|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_028-030
+# text = nɛ̀ =à̰ -Hv tɛ̀ɛ́-B gbo sɛ̀n -H kɔ̀ gúé mɛ̀ ká gbàzù ká gbàzù BHa- ba -H bêm yáknɛ́ H- kii mɔ̀ nɛ̀ ɗòŋ fór yì H- kii mɔ̀ nɛ̀ ɗòŋ fór yì
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 55035, 58026
-# text = nɛ̀ =à̰ -Hv tɛ̀ɛ́-B gbo sɛ̀n -H kɔ̀ gúé mɛ̀ ká gbàzù ká gbàzù BHa- ba -H bêm yáknɛ́ H- kii mɔ̀ nɛ̀ ɗòŋ fór yì H- kii mɔ̀ nɛ̀ ɗòŋ fór yì
-# phonetic_text = nàá tɛ̀ɛ́-gbò sɛ̌n kɔ̀ gúé mɛ̀ ká gbàzù bàà bêm yáknɛ́ kíí mɔ̀ nɛ̀ ɗòŋ fór yì kíí mɔ̀ nɛ̀ ɗòŋ fór yì
+# phonetic_text = nàá tɛ̀ɛ́-gbò sɛ̌n kɔ̀ gúé mɛ̀ ká gbàzù bàà bêm yáknɛ́ kíí mɔ̀ nɛ̀ ɗòŋ fór yì kíí mɔ̀ nɛ̀ ɗòŋ fór yì //
 # text_fr =  Comme elle est ainsi sortie du trou à poissons là-bas, alors le barrage a emporté l'enfant.  et elle cherche en suivant le courant elle cherche en suivant le courant //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=51201|AlignEnd=51277|GE=[et_ainsi]|nWord=2|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=51277|AlignEnd=51353|GE=[3SG]|nWord=2|RX=[PERS]
-3	-Hv	-Hv	AUX	MV	Mood=Cnd	5	aux	_	AlignBegin=51353|AlignEnd=51428|GE=[cond].[COND-ACC]|nWord=2|RX=[MV]
+3	-Hv	-Hv	AUX	MV	Aspect=Perf|Mood=Cnd	5	aux	_	AlignBegin=51353|AlignEnd=51428|GE=[cond].[COND-ACC]|nWord=2|RX=[MV]
 4	tɛ̀ɛ́-B	tɛ̀ɛ́-B	AUX	_	_	5	aux	_	AlignBegin=51428|AlignEnd=51542|nWord=3]|RX=[MV]
 5	gbo	gbo	VERB	V	_	16	mod	_	AlignBegin=51542|AlignEnd=51655|GE=[arriver]|nWord=3|RX=[V]
 6	sɛ̀n	sɛ̀n	ADP	FCT	_	5	comp:obl	_	AlignBegin=51655|AlignEnd=51769|GE=[dans]|nWord=4|RX=[FCT]
@@ -471,7 +472,7 @@
 12	gbàzù	gbàzù	NOUN	N	_	16	subj	_	AlignBegin=52790|AlignEnd=53014|GE=[barrage]|nWord=9|RX=[N]
 13	ká	ká	CCONJ	COORD	_	11	conj:dicto	_	AlignBegin=53014|AlignEnd=53418|GE=[alors]|nWord=10|RX=[COORD]
 14	gbàzù	gbàzù	NOUN	N	_	12	conj:dicto	_	AlignBegin=53418|AlignEnd=53822|GE=[barrage]|nWord=11|RX=[N]
-15	BHa-	BHa-	AUX	MV	Aspect=Pfv	16	aux	_	AlignBegin=53822|AlignEnd=53957|GE=[ACC]|nWord=12|RX=[MV]
+15	BHa-	BHa-	AUX	MV	Aspect=Perf	16	aux	_	AlignBegin=53822|AlignEnd=53957|GE=[ACC]|nWord=12|RX=[MV]
 16	ba	ba	VERB	V	_	0	root	_	AlignBegin=53957|AlignEnd=54092|GE=[prendre]|nWord=12|RX=[V]
 17	-H	-H	X	MOD	_	16	aff	_	AlignBegin=54092|AlignEnd=54226|GE=[MT]|nWord=12|RX=[MOD]
 18	bêm	bêm	NOUN	N	_	16	comp:obj	_	AlignBegin=54226|AlignEnd=54630|GE=[enfant]|nWord=13|RX=[N]
@@ -482,35 +483,37 @@
 23	nɛ̀	nɛ̀	ADP	FCT	_	21	comp:obl	_	AlignBegin=55359|AlignEnd=55521|GE=[par]|nWord=3|RX=[FCT]
 24	ɗòŋ	ɗòŋ	_	_	_	25	mod	_	AlignBegin=55521|AlignEnd=55683|GE=[arrière]|nWord=4|RX=[ADJ]
 25	fór	fór	NOUN	N	_	23	comp:obl	_	AlignBegin=55683|AlignEnd=55845|GE=[courant]|nWord=5|RX=[N]
-26	yì	yì	NOUN	N	_	25	comp	_	AlignBegin=55845|AlignEnd=56007|GE=[rivière]|nWord=6|RX=[N]
-27	H-	H-	AUX	MV	Aspect=Imp	28	aux	_	AlignBegin=56007|AlignEnd=56088|GE=[INAC]|nWord=7|RX=[MV]
-28	kii	kii	VERB	V	_	21	conj:redup	_	AlignBegin=56088|AlignEnd=56169|GE=[chercher]|nWord=7|RX=[V]
-29	mɔ̀	mɔ̀	NOUN	N	_	28	comp:obj	_	AlignBegin=56169|AlignEnd=56331|GE=[chose]|nWord=8|RX=[N]
-30	nɛ̀	nɛ̀	ADP	FCT	_	28	comp:obl	_	AlignBegin=56331|AlignEnd=56493|GE=[par]|nWord=9|RX=[FCT]
-31	ɗòŋ	ɗòŋ	ADJ	AR	_	32	mod	_	AlignBegin=56493|AlignEnd=56655|GE=[arrière]|nWord=10|RX=[AR]
-32	fór	fór	NOUN	N	_	30	comp:obl	_	AlignBegin=56655|AlignEnd=56817|GE=[courant]|nWord=11|RX=[N]
-33	yì	yì	NOUN	N	_	32	comp	_	AlignBegin=56817|AlignEnd=56976|GE=[rivière]|nWord=12|RX=[N]
+26	-H	-H	ADP	_	_	25	udep	_	GE=[MT]|nWord=5|RX=[FCT]
+27	yì	yì	NOUN	N	_	26	comp	_	AlignBegin=55845|AlignEnd=56007|GE=[rivière]|nWord=6|RX=[N]
+28	H-	H-	AUX	MV	Aspect=Imp	29	aux	_	AlignBegin=56007|AlignEnd=56088|GE=[INAC]|nWord=7|RX=[MV]
+29	kii	kii	VERB	V	_	21	conj:redup	_	AlignBegin=56088|AlignEnd=56169|GE=[chercher]|nWord=7|RX=[V]
+30	mɔ̀	mɔ̀	NOUN	N	_	29	comp:obj	_	AlignBegin=56169|AlignEnd=56331|GE=[chose]|nWord=8|RX=[N]
+31	nɛ̀	nɛ̀	ADP	FCT	_	29	comp:obl	_	AlignBegin=56331|AlignEnd=56493|GE=[par]|nWord=9|RX=[FCT]
+32	ɗòŋ	ɗòŋ	ADJ	AR	_	33	mod	_	AlignBegin=56493|AlignEnd=56655|GE=[arrière]|nWord=10|RX=[AR]
+33	fór	fór	NOUN	N	_	31	comp:obl	_	AlignBegin=56655|AlignEnd=56817|GE=[courant]|nWord=11|RX=[N]
+34	-H	-H	ADP	_	_	33	udep	_	GE=[MT]|nWord=11|RX=[FCT]
+35	yì	yì	NOUN	N	_	34	comp	_	AlignBegin=56817|AlignEnd=56976|GE=[rivière]|nWord=12|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_031-031
+# text = ʔà̰ H- kpa bêm ná
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 55035, 58026
-# text = ʔà̰ H- kpa bêm ná
-# phonetic_text = ʔà̰ kpá bêm ná
-# text_fr =   elle ne trouve pas l'enfant.
-1	ʔà̰	ʔà̰	PRON	PERS	Person=3	3	subj	_	AlignBegin=56976|AlignEnd=57238|GE=[3S]|nWord=13|RX=[PERS]
+# phonetic_text = ʔà̰ kpá bêm ná //
+# text_fr =   elle ne trouve pas l'enfant //
+1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=56976|AlignEnd=57238|GE=[3SG]|nWord=13|RX=[PERS]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=57238|AlignEnd=57369|GE=[INAC]|nWord=14|RX=[MV]
 3	kpa	kpa	VERB	V	_	0	root	_	AlignBegin=57369|AlignEnd=57500|GE=[trouver]|nWord=14|RX=[V]
 4	bêm	bêm	NOUN	N	_	3	comp:obj	_	AlignBegin=57500|AlignEnd=57762|GE=[enfant]|nWord=15|RX=[N]
 5	ná	ná	PART	MV	Polarity=Neg	3	mod	_	AlignBegin=57762|AlignEnd=58026|GE=[NEG]|nWord=16|RX=[MV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_032-032
+# text = ʔèé ʔà̰ héí kɔ̰̀á̰
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 58026, 59184
-# text = ʔèé ʔà̰ héí kɔ̰̀á̰
-# phonetic_text = ʔèé ʔà̰ héí kɔ̰̀á̰
-# text_fr =  Puis elle pleure.
+# phonetic_text = ʔèé ʔà̰ héí kɔ̰̀á̰ //
+# text_fr =  Puis elle pleure //
 1-2	ʔèé	ʔèé	_	_	_	_	_	_	_
 1	ʔèè	ʔèè	CCONJ	COORD	_	5	cc	_	AlignBegin=58026|AlignEnd=58171|GE=[puis]|nWord=1|RX=[COORD]
 2	-H	-H	X	MOD	_	1	aff	_	AlignBegin=58171|AlignEnd=58316|GE=[MT]|nWord=1|RX=[MOD]
@@ -521,11 +524,11 @@
 6	kɔ̰̀á̰	kɔ̰̀á̰	NOUN	N	_	5	comp:obj	_	AlignBegin=58896|AlignEnd=59184|GE=[pleurs]|nWord=4|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_033-033
+# text = ʔà̰ H- ba kàfú
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 59184, 66907
-# text = ʔà̰ H- ba kàfú
-# phonetic_text = ʔà̰ bá kàfú
+# phonetic_text = ʔà̰ bá kàfú //
 # text_fr =  Elle prend la couverture //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=59184|AlignEnd=59428|GE=[3SG]|nWord=1|RX=[PERS]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=59428|AlignEnd=59550|GE=[INAC]|nWord=2|RX=[MV]
@@ -533,11 +536,11 @@
 4	kàfú	kàfú	NOUN	N	_	3	comp:obj	_	AlignBegin=59672|AlignEnd=59915|GE=[couverture_de_bébé]|nWord=3|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_034-034
+# text = ʔà̰ H- daŋ zân H- pei
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 59184, 66907
-# text = ʔà̰ H- daŋ zân H- pei
-# phonetic_text = ʔà̰ dáŋ zân... péí
+# phonetic_text = ʔà̰ dáŋ zân péí //
 # text_fr =  Elle remonte dans la savane et revient //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=59915|AlignEnd=60181|GE=[3SG]|nWord=4|RX=[PERS]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=60181|AlignEnd=60314|GE=[INAC]|nWord=5|RX=[MV]
@@ -547,18 +550,18 @@
 6	pei	pei	VERB	V	_	3	conj:coord	_	AlignBegin=60846|AlignEnd=60979|GE=[revenir]|nWord=7|RX=[V]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_035-035
+# text = dáà kɔ́ bêm ná ʔéí BHa- nɛ -H Háà- kpe -H yì
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 59184, 66907
-# text = dáà kɔ́ bêm ná ʔéí BHa- nɛ -H Háà- kpe -H yì
-# phonetic_text = dáà kɔ́ bêm ná ʔéí nɛ̀ɛ̀ kpéé yì
+# phonetic_text = dáà kɔ́ bêm ná ʔéí nɛ̀ɛ̀ kpéé yì //
 # text_fr =  Elle dit au père de l'enfant : je suis allée barrer la rivière //
 1	dáà	dáà	NOUN	N	_	7	comp:quoter	_	AlignBegin=60979|AlignEnd=61245|GE=[père]|nWord=8|RX=[N]
 2	kɔ́	kɔ́	ADP	FCT	_	1	udep	_	AlignBegin=61245|AlignEnd=61511|GE=[de]|nWord=9|RX=[FCT]
 3	bêm	bêm	NOUN	N	_	2	comp	_	AlignBegin=61511|AlignEnd=61777|GE=[enfant]|nWord=10|RX=[N]
 4	ná	ná	INTJ	_	_	1	discourse	_	AlignBegin=61777|AlignEnd=62039|GE=[DISC]|nWord=11|RX=[DISC]
 5	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	7	subj	_	AlignBegin=62039|AlignEnd=62238|GE=[LOGSG]|nWord=12|RX=[PERS]
-6	BHa-	BHa-	AUX	MV	Aspect=Pfv	7	aux	_	AlignBegin=62238|AlignEnd=62304|GE=[ACC]|nWord=13|RX=[MV]
+6	BHa-	BHa-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=62238|AlignEnd=62304|GE=[ACC]|nWord=13|RX=[MV]
 7	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=62304|AlignEnd=62370|GE=[aller]|nWord=13|RX=[V]
 8	-H	-H	X	MOD	_	7	aff	_	AlignBegin=62370|AlignEnd=62437|GE=[MT]|nWord=13|RX=[MOD]
 9	Háà-	Háà-	AUX	MV	Aspect=Imp	10	aux	_	AlignBegin=62437|AlignEnd=62503|GE=[INF].[INAC]|nWord=14|RX=[MV]
@@ -567,15 +570,15 @@
 12	yì	yì	NOUN	N	_	10	comp:obj	_	AlignBegin=62636|AlignEnd=62834|GE=[rivière]|nWord=15|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_036-036
+# text = ʔá̰-nɛ̀ gbàzù BHa- gbin -H nɛ̀ ʔò bêm
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 59184, 66907
-# text = ʔá̰-nɛ̀ gbàzù BHa- gbin -H nɛ̀ ʔò bêm
-# phonetic_text = ʔá̰-nɛ̀ gbàzù gbìná nɛ̀ ʔò bêm
-# text_fr =  Et voilà que le barrage s'est cassé sur l'enfant
+# phonetic_text = ʔá̰-nɛ̀ gbàzù gbìná nɛ̀ ʔò bêm //
+# text_fr =  Et voilà que le barrage s'est cassé sur l'enfant //
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=62834|AlignEnd=63264|GE=[voilà_que]|nWord=16|RX=[COORD]
 2	gbàzù	gbàzù	NOUN	N	_	4	subj	_	AlignBegin=63264|AlignEnd=63694|GE=[barrage]|nWord=17|RX=[N]
-3	BHa-	BHa-	AUX	MV	Aspect=Pfv	4	aux	_	AlignBegin=63694|AlignEnd=63837|GE=[ACC]|nWord=18|RX=[MV]
+3	BHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=63694|AlignEnd=63837|GE=[ACC]|nWord=18|RX=[MV]
 4	gbin	gbin	VERB	V	_	0	root	_	AlignBegin=63837|AlignEnd=63980|GE=[casser]|nWord=18|RX=[V]
 5	-H	-H	X	MOD	_	4	aff	_	AlignBegin=63980|AlignEnd=64124|GE=[MT]|nWord=18|RX=[MOD]
 6	nɛ̀	nɛ̀	ADP	FCT	_	4	comp:obl	_	AlignBegin=64124|AlignEnd=64554|GE=[par]|nWord=19|RX=[FCT]
@@ -583,11 +586,11 @@
 8	bêm	bêm	NOUN	_	_	6	comp	_	AlignBegin=64984|AlignEnd=65417|GE=[enfant]|nWord=21|RX=[N S]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_037-038
+# text = ʔá̰-nɛ̀ =éí -H H- kii mɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 59184, 66907
-# text = ʔá̰-nɛ̀ =éí -H H- kii mɔ̀
-# phonetic_text = ʔá̰-ndèì kíí mɔ̀
+# phonetic_text = ʔá̰-ndèì kíí mɔ̀ //
 # text_fr =  Et je l'ai cherché //
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	SCONJ	SUB	_	5	cc	_	AlignBegin=65417|AlignEnd=65500|GE=[voilà_que]|nWord=22|RX=[SUB]
 2	=éí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	5	subj	_	AlignBegin=65500|AlignEnd=65583|GE=[LogS]|nWord=22|RX=[PR]
@@ -597,12 +600,12 @@
 6	mɔ̀	mɔ̀	NOUN	N	_	5	comp:obj	_	AlignBegin=65913|AlignEnd=66161|GE=[chose]|nWord=24|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_038-039
+# text = tɛ̀ -H wí H- kaɗi yè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 59184, 66907
-# text = tɛ̀ -H wí H- kaɗi yè
-# phonetic_text = tɛ̀í káɗí yè
-# text_fr =  // jusqu'à être complètement épuisée.
+# phonetic_text = tɛ̀í káɗí yè //
+# text_fr =  Je suis pour finir complètement épuisée //
 1	tɛ̀	tɛ̀	NOUN	N	_	5	subj	_	AlignBegin=66161|AlignEnd=66244|GE=[corps]|nWord=25|RX=[N]
 2	-H	-H	ADP	FCT	_	1	udep	_	AlignBegin=66244|AlignEnd=66327|GE=[MT]|nWord=25|RX=[FCT]
 3	wí	wí	PRON	PERS	Number=Sing|PronType=Log	2	comp	_	AlignBegin=66327|AlignEnd=66409|GE=[LOGSG]|nWord=25|RX=[PERS]
@@ -611,12 +614,12 @@
 6	yè	yè	INTJ	MOD	_	5	discourse	_	AlignBegin=66657|AlignEnd=66907|GE=[finalement]|nWord=27|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_038-038
+# text = ʔó báà kɔ́ bêm gbín tɛ̀ mbɛ́rá nàà kɔ́à̰ ʔèááá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 66909, 70590
-# text = ʔó báà kɔ́ bêm gbín tɛ̀ mbɛ́rá nàà kɔ́à̰ ʔèááá
-# phonetic_text = ʔó báà kɔ́ bêm gbín tɛ̀ mbɛ́rá nàà kɔ́à̰ ʔèááá
-# text_fr =  Les tantes paternelles de l'enfant se sont rassemblées pour taper sa mère, longtemps.
+# phonetic_text = ʔó báà kɔ́ bêm gbín tɛ̀ mbɛ́rá nàà kɔ́à̰ ʔèááá //
+# text_fr =  Les tantes paternelles de l'enfant se sont rassemblées pour taper sa mère, longtemps //
 1	ʔó	ʔó	DET	MN	Number=Plur	2	det	_	AlignBegin=66909|AlignEnd=67277|GE=[PL]|nWord=1|RX=[MN]
 2	báà	báà	NOUN	N	_	6	subj	_	AlignBegin=67277|AlignEnd=67645|GE=[tante_paternelle]|nWord=2|RX=[N]
 3	kɔ́	kɔ́	ADP	FCT	_	2	udep	_	AlignBegin=67645|AlignEnd=68013|GE=[de]|nWord=3|RX=[FCT]
@@ -635,11 +638,11 @@
 13	ʔèááá	ʔèááá	ADV	ADV	_	9	mod	_	AlignBegin=70221|AlignEnd=70590|GE=[longtemps]|nWord=10|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_039-039
+# text = ʔà̰ H- hei nɛ̀ kɔ̰̀á̰ ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 70590, 72418
-# text = ʔà̰ H- hei nɛ̀ kɔ̰̀á̰ ʔèá
-# phonetic_text = ʔà̰ héí nɛ̀ kɔ̰̀á̰ ʔèá
+# phonetic_text = ʔà̰ héí nɛ̀ kɔ̰̀á̰ ʔèá //
 # text_fr =  Elle ne fait que pleurer //
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=70590|AlignEnd=70774|GE=[3SG]|nWord=1|RX=[PERS]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=70774|AlignEnd=70866|GE=[INAC]|nWord=2|RX=[MV]
@@ -649,27 +652,28 @@
 6	ʔèá	ʔèá	ADV	ADV	_	3	mod	_	AlignBegin=71326|AlignEnd=71512|GE=[seulement]|nWord=5|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_040-040
+# text = ɓɛ̀ɛ̀ -H ʔà̰ H- dak nú =à
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 70590, 72418
-# text = ɓɛ̀ɛ̀ -H ʔà̰ H- dak nú =à
-# phonetic_text = ɓɛ̀ɛ́ ʔà̰ dák núà
-# text_fr =  Puis elle se tait.
+# phonetic_text = ɓɛ̀ɛ́ ʔà̰ dák núà //
+# text_fr =  Puis elle se tait //
 1	ɓɛ̀ɛ̀	ɓɛ̀ɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=71512|AlignEnd=71625|GE=[puis]|nWord=6|RX=[COORD]
 2	-H	-H	X	MOD	_	1	aff	_	AlignBegin=71625|AlignEnd=71738|GE=[MT]|nWord=6|RX=[MOD]
 3	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=71738|AlignEnd=71964|GE=[3SG]|nWord=7|RX=[PERS]
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=71964|AlignEnd=72077|GE=[INAC]|nWord=8|RX=[MV]
 5	dak	dak	VERB	V	_	0	root	_	AlignBegin=72077|AlignEnd=72190|GE=[retirer]|nWord=8|RX=[V]
 6	nú	nú	NOUN	N	_	5	comp:obj	_	AlignBegin=72190|AlignEnd=72304|GE=[partie_active]|nWord=9|RX=[N]
-7	=à	ʔà	PRON	MN	Number=Sing|Person=3	6	comp	_	AlignBegin=72304|AlignEnd=72418|GE=[3SG]|nWord=9|RX=[MN]
+7	-H	-H	ADP	_	_	6	udep	_	GE=[MT]|nWord=9|RX=[FCT]
+8	=à	ʔà	PRON	MN	Number=Sing|Person=3	7	comp	_	AlignBegin=72304|AlignEnd=72418|GE=[3SG]|nWord=9|RX=[MN]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_041-041
+# text = ɗòŋ ɗòŋáìí ʔá̰-ndɔ̀wá dùkà hɔ̰́gɔ̰́ɔ̰́ɔ̰́
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 72418, 75010
-# text = ɗòŋ ɗòŋáìí ʔá̰-ndɔ̀wá dùkà hɔ̰́gɔ̰́ɔ̰́ɔ̰́
-# phonetic_text = ɗòŋ ɗòŋáìí ʔá̰-ndɔ̀wá dùkà hɔ̰́gɔ̰́ɔ̰́ɔ̰́
-# text_fr =  Ensuite ils restent comme ça longtemps.
+# phonetic_text = ɗòŋ ɗòŋáìí ʔá̰-ndɔ̀wá dùkà hɔ̰́gɔ̰́ɔ̰́ɔ̰́ //
+# text_fr =  Ensuite ils restent comme ça longtemps //
 1	ɗòŋ	ɗòŋ	ADJ	AR	_	9	dislocated:obl	_	AlignBegin=72418|AlignEnd=72580|GE=[après]|nWord=1|RX=[AR]
 2-4	ɗòŋáìí	ɗòŋáìí	_	_	_	_	_	_	_
 2	-H	-H	X	MOD	_	1	aff	_	AlignBegin=72580|AlignEnd=72742|GE=[MT]|nWord=1|RX=[MOD]
@@ -680,39 +684,40 @@
 6	=wà	wà	PRON	PERS	Number=Plur|Person=3	9	subj	_	AlignBegin=73282|AlignEnd=73498|GE=[3PL]|nWord=2|RX=[PERS]
 7	-H	-H	X	MOD	_	6	aff	_	AlignBegin=73498|AlignEnd=73714|GE=[MT]|nWord=2|RX=[MOD]
 8-10	dùkà	dùkà	_	_	_	_	_	_	_
-8	BHa-	BHa-	AUX	MV	Aspect=Pfv	9	aux	_	AlignBegin=73714|AlignEnd=73930|GE=[ACC]|nWord=3|RX=[MV]
+8	BHa-	BHa-	AUX	MV	Aspect=Perf	9	aux	_	AlignBegin=73714|AlignEnd=73930|GE=[ACC]|nWord=3|RX=[MV]
 9	duk	duk	VERB	V	_	0	root	_	AlignBegin=73930|AlignEnd=74146|GE=[rester]|nWord=3|RX=[V]
 10	-H	-H	X	MOD	_	9	aff	_	AlignBegin=74146|AlignEnd=74362|GE=[MT]|nWord=3|RX=[MOD]
 11	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	ADV	ADV	_	9	mod	_	AlignBegin=74362|AlignEnd=75010|GE=[longtemps]|nWord=4|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_042-042
+# text = wàn ndàlàŋ kpèé ndàlàŋ kéí nɛ̀ ɗɔ̀ɔ̀ mɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 75010, 77696
-# text = wàn ndàlàŋ kpèé ndàlàŋ kéí nɛ̀ ɗɔ̀ɔ̀ mɛ̀
-# phonetic_text = wàn ndàlàŋ kpèé ndàlàŋ kéí nɛ̀ ɗɔ̀ɔ̀ mɛ̀
-# text_fr =  La propriétaire d'une nasse avait posé sa nasse en aval là-bas.
-1	wàn	wàn	NOUN	N	_	4	subj	_	AlignBegin=75010|AlignEnd=75346|GE=[propriétaire]|nWord=1|RX=[N]
-2	ndàlàŋ	ndàlàŋ	NOUN	N	_	1	comp	_	AlignBegin=75346|AlignEnd=75682|GE=[nasse]|nWord=2|RX=[N]
-3-5	kpèé	kpèé	_	_	_	_	_	_	_
-3	BHa-	BHa-	AUX	MV	Aspect=Pfv	4	aux	_	AlignBegin=75682|AlignEnd=75794|GE=[ACC]|nWord=3|RX=[MV]
-4	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=75794|AlignEnd=75906|GE=[fermer]|nWord=3|RX=[V]
-5	-H	-H	X	MOD	_	4	aff	_	AlignBegin=75906|AlignEnd=76018|GE=[MT]|nWord=3|RX=[MOD]
-6	ndàlàŋ	ndàlàŋ	NOUN	N	_	4	comp:obj	_	AlignBegin=76018|AlignEnd=76354|GE=[nasse]|nWord=4|RX=[N]
-7-8	kéí	kéí	_	_	_	_	_	_	_
-7	kɔ́	kɔ́	ADP	FCT	_	6	udep	_	AlignBegin=76354|AlignEnd=76522|GE=[de]|nWord=5|RX=[FCT]
-8	=éí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	7	comp	_	AlignBegin=76522|AlignEnd=76690|GE=[LogS]|nWord=5|RX=[PR]
-9	nɛ̀	nɛ̀	ADP	FCT	_	4	comp:obl	_	AlignBegin=76690|AlignEnd=77026|GE=[en]|nWord=6|RX=[FCT]
-10	ɗɔ̀ɔ̀	ɗɔ̀ɔ̀	ADV	ADV	_	9	comp	_	AlignBegin=77026|AlignEnd=77362|GE=[en_aval]|nWord=7|RX=[ADV]
-11	mɛ̀	mɛ̀	ADV	ADV	_	4	mod	_	AlignBegin=77362|AlignEnd=77696|GE=[là-bas]|nWord=8|RX=[ADV]
+# phonetic_text = wàn ndàlàŋ kpèé ndàlàŋ kéí nɛ̀ ɗɔ̀ɔ̀ mɛ̀ //
+# text_fr =  La propriétaire d'une nasse avait posé sa nasse en aval là-bas //
+1	wàn	wàn	NOUN	N	_	5	subj	_	AlignBegin=75010|AlignEnd=75346|GE=[propriétaire]|nWord=1|RX=[N]
+2	-H	-H	ADP	_	_	1	udep	_	GE=[MT]|nWord=1|RX=[FCT]
+3	ndàlàŋ	ndàlàŋ	NOUN	N	_	2	comp	_	AlignBegin=75346|AlignEnd=75682|GE=[nasse]|nWord=2|RX=[N]
+4-6	kpèé	_	_	_	_	_	_	_	_
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=75682|AlignEnd=75794|GE=[ACC]|nWord=3|RX=[MV]
+5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=75794|AlignEnd=75906|GE=[fermer]|nWord=3|RX=[V]
+6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=75906|AlignEnd=76018|GE=[MT]|nWord=3|RX=[MOD]
+7	ndàlàŋ	ndàlàŋ	NOUN	N	_	5	comp:obj	_	AlignBegin=76018|AlignEnd=76354|GE=[nasse]|nWord=4|RX=[N]
+8-9	kéí	_	_	_	_	_	_	_	_
+8	kɔ́	kɔ́	ADP	FCT	_	7	udep	_	AlignBegin=76354|AlignEnd=76522|GE=[de]|nWord=5|RX=[FCT]
+9	=éí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	8	comp	_	AlignBegin=76522|AlignEnd=76690|GE=[LogS]|nWord=5|RX=[PR]
+10	nɛ̀	nɛ̀	ADP	FCT	_	5	comp:obl	_	AlignBegin=76690|AlignEnd=77026|GE=[en]|nWord=6|RX=[FCT]
+11	ɗɔ̀ɔ̀	ɗɔ̀ɔ̀	ADV	ADV	_	10	comp	_	AlignBegin=77026|AlignEnd=77362|GE=[en_aval]|nWord=7|RX=[ADV]
+12	mɛ̀	mɛ̀	ADV	ADV	_	5	mod	_	AlignBegin=77362|AlignEnd=77696|GE=[là-bas]|nWord=8|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_043-043
+# text = ʔá̰-nàà nɛ́ wó
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 77696, 78932
-# text = ʔá̰-nàà nɛ́ wó
-# phonetic_text = ʔá̰-nàà nɛ́ wó
-# text_fr =  Voilà qu'elle y va.
+# phonetic_text = ʔá̰-nàà nɛ́ wó //
+# text_fr =  Voilà qu'elle y va //
 1-3	ʔá̰-nàà	ʔá̰-nàà	_	_	_	_	_	_	_
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=77696|AlignEnd=77833|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=77833|AlignEnd=77970|GE=[3SG]|nWord=1|RX=[PERS]
@@ -723,17 +728,17 @@
 6	wó	wó	INTJ	MOD	_	5	discourse	_	AlignBegin=78520|AlignEnd=78932|GE=[vraiment]|nWord=3|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_044-044
+# text = ʔà̰á̰ bà ndàlàŋ nɛ̀ ŋɔ́n ká bêm yèé ndàlàŋ
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 78932, 81778
-# text = ʔà̰á̰ bà ndàlàŋ nɛ̀ ŋɔ́n ká bêm yèé ndàlàŋ
-# phonetic_text = ʔà̰á̰ bà ndàlàŋ nɛ̀ ŋɔ́n ká bêm yèé ndàlàŋ
-# text_fr =  Comme elle soulève la nasse, alors l'enfant est entré dans la nasse.
+# phonetic_text = ʔà̰á̰ bà ndàlàŋ nɛ̀ ŋɔ́n ká bêm yèé ndàlàŋ //
+# text_fr =  Comme elle soulève la nasse, alors l'enfant est entré dans la nasse //
 1-2	ʔà̰á̰	ʔà̰á̰	_	_	_	_	_	_	_
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	4	subj	_	AlignBegin=78932|AlignEnd=79090|GE=[3SG]|nWord=1|RX=[PERS]
 2	-Hv	-Hv	AUX	MV	Mood=Cnd	4	aux	_	AlignBegin=79090|AlignEnd=79248|GE=[cond]|nWord=1|RX=[MV]
 3-4	bà	bà	_	_	_	_	_	_	_
-3	B-	B-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=79248|AlignEnd=79406|GE=[COND-INAC]|nWord=2|RX=[MV]
+3	B-	B-	AUX	MV	Aspect=Imp|Mood=Cnd	4	aux	_	AlignBegin=79248|AlignEnd=79406|GE=[COND-INAC]|nWord=2|RX=[MV]
 4	ba	ba	VERB	V	_	11	comp	_	AlignBegin=79406|AlignEnd=79564|GE=[prendre]|nWord=2|RX=[V]
 5	ndàlàŋ	ndàlàŋ	NOUN	N	_	4	comp:obj	_	AlignBegin=79564|AlignEnd=79880|GE=[nasse]|nWord=3|RX=[N]
 6	nɛ̀	nɛ̀	ADP	FCT	_	4	comp:obl	_	AlignBegin=79880|AlignEnd=80196|GE=[en]|nWord=4|RX=[FCT]
@@ -741,18 +746,18 @@
 8	ká	ká	SCONJ	SUB	_	11	cc	_	AlignBegin=80512|AlignEnd=80828|GE=[alors]|nWord=6|RX=[SUB]
 9	bêm	bêm	NOUN	N	_	11	subj	_	AlignBegin=80828|AlignEnd=81144|GE=[enfant]|nWord=7|RX=[N]
 10-12	yèé	yèé	_	_	_	_	_	_	_
-10	BHa-	BHa-	AUX	MV	Aspect=Pfv	11	aux	_	AlignBegin=81144|AlignEnd=81249|GE=[ACC]|nWord=8|RX=[MV]
+10	BHa-	BHa-	AUX	MV	Aspect=Perf	11	aux	_	AlignBegin=81144|AlignEnd=81249|GE=[ACC]|nWord=8|RX=[MV]
 11	ye	ye	VERB	V	_	0	root	_	AlignBegin=81249|AlignEnd=81354|GE=[entrer]|nWord=8|RX=[V]
 12	-H	-H	X	MOD	_	11	aff	_	AlignBegin=81354|AlignEnd=81460|GE=[MT]|nWord=8|RX=[MOD]
 13	ndàlàŋ	ndàlàŋ	NOUN	N	_	11	comp:obl	_	AlignBegin=81460|AlignEnd=81778|GE=[nasse]|nWord=9|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_045-045
+# text = ʔá̰-nɛ̀ =à̰ -H H- bur ndàyà -H ndàlàŋ
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 81778, 84296
-# text = ʔá̰-nɛ̀ =à̰ -H H- bur ndàyà -H ndàlàŋ
-# phonetic_text = ʔá̰-nàà búr ndàyá ndàlàŋ
-# text_fr =  Voilà qu'elle délie le fond de la nasse
+# phonetic_text = ʔá̰-nàà búr ndàyá ndàlàŋ //
+# text_fr =  Voilà qu'elle délie le fond de la nasse //
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=81778|AlignEnd=81829|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=81829|AlignEnd=81880|GE=[3SG]|nWord=1|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=81880|AlignEnd=81932|GE=[MT]|nWord=1|RX=[MOD]
@@ -763,27 +768,27 @@
 8	ndàlàŋ	ndàlàŋ	NOUN	N	_	7	comp	_	AlignBegin=82240|AlignEnd=82394|GE=[nasse]|nWord=4|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_046-046
+# text = ʔà̰ H- sɛ̰ bêm H- pḭ nù
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 81778, 84296
-# text = ʔà̰ H- sɛ̰ bêm H- pḭ nù
-# phonetic_text = ʔà̰ sɛ̰́ bêm pı̰́ nù
-# text_fr = elle secoue la nasse pour en faire tomber l'enfant par terre.
-1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=82394|AlignEnd=82548|GE=[3S]|nWord=5|RX=[PR]
+# phonetic_text = ʔà̰ sɛ̰́ bêm pı̰́ nù //
+# text_fr = elle secoue la nasse pour en faire tomber l'enfant par terre //
+1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=82394|AlignEnd=82548|GE=[3SG]|nWord=5|RX=[PR]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=82548|AlignEnd=82625|GE=[INAC]|nWord=6|RX=[MV]
 3	sɛ̰	sɛ̰	VERB	V	_	0	root	_	AlignBegin=82625|AlignEnd=82702|GE=[déverser]|nWord=6|RX=[V]
 4	bêm	bêm	NOUN	N	_	3	comp:obj	_	AlignBegin=82702|AlignEnd=82856|GE=[enfant]|nWord=7|RX=[N]
-5	H-	H-	AUX	MV	Aspect=Pfv	6	aux	_	AlignBegin=82856|AlignEnd=82933|GE=[INF].[ACC]|nWord=8|RX=[MV]
+5	H-	H-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=82856|AlignEnd=82933|GE=[INF].[ACC]|nWord=8|RX=[MV]
 6	pḭ	pḭ	VERB	V	_	3	comp:svc	_	AlignBegin=82933|AlignEnd=83010|GE=[lancer]|nWord=8|RX=[V]
 7	nù	nù	NOUN	N	_	6	comp:obl	_	AlignBegin=83010|AlignEnd=83167|GE=[terre]|nWord=9|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_047-047
+# text = ʔèè ká zɔ̀m mbɔ́zɔ̀-bêm ʔá̰ hɛ̰̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 84296, 86003
-# text = ʔèè ká zɔ̀m mbɔ́zɔ̀-bêm ʔá̰ hɛ̰̀
-# phonetic_text = ʔèè ká zɔ̀m mbɔ́zɔ̀-bêm ʔá̰ hɛ̰̀.
-# text_fr =  Et voici que c'est un très gros nourrisson.
+# phonetic_text = ʔèè ká zɔ̀m mbɔ́zɔ̀-bêm ʔá̰ hɛ̰̀ //
+# text_fr =  Et voici que c'est un très gros nourrisson //
 1	ʔèè	ʔèè	SCONJ	SUB	_	5	cc	_	AlignBegin=84296|AlignEnd=84580|GE=[puis]|nWord=1|RX=[SUB]
 2	ká	ká	SCONJ	SUB	_	5	cc	_	AlignBegin=84580|AlignEnd=84864|GE=[alors]|nWord=2|RX=[SUB]
 3	zɔ̀m	zɔ̀m	DET	MN	Degree=Aug	4	det	_	AlignBegin=84864|AlignEnd=85148|GE=[AUG]|nWord=3|RX=[MN]
@@ -792,12 +797,12 @@
 6	hɛ̰̀	hɛ̰̀	ADV	ADV	_	5	comp:obl	_	AlignBegin=85716|AlignEnd=86003|GE=[ici]|nWord=6|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_048-048
+# text = ʔá̰-nɛ̀ =à̰ -H H- nɛ H- zɔk mɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 86003, 90785
-# text = ʔá̰-nɛ̀ =à̰ -H H- nɛ H- zɔk mɔ̀
-# phonetic_text = ʔá̰-nàà nɛ́ zɔ́k mɔ̀
-# text_fr =  Elle marche et regarde
+# phonetic_text = ʔá̰-nàà nɛ́ zɔ́k mɔ̀ //
+# text_fr =  Elle marche et regarde //
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=86003|AlignEnd=86074|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=86074|AlignEnd=86145|GE=[3SG]|nWord=1|RX=[PERS]
 3	-H	-H	AUX	MOD	_	2	aff	_	AlignBegin=86145|AlignEnd=86215|GE=[MT]|nWord=1|RX=[MOD]
@@ -808,12 +813,12 @@
 8	mɔ̀	mɔ̀	NOUN	N	_	7	comp:obj	_	AlignBegin=86639|AlignEnd=86851|GE=[chose]|nWord=4|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_049-049
+# text = ká wáɲá nɛ̀ ká wáɲá nɛ̀ tàrɛ̀ -H -à ʔà̰ H- duk sɛ̀n ká zàŋ -H yì hòkòyòkò
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 86003, 90785
-# text = ká wáɲá nɛ̀ ká wáɲá nɛ̀ tàrɛ̀ -H -à ʔà̰ H- duk sɛ̀n ká zàŋ -H yì hòkòyòkò
-# phonetic_text = ká wáɲá nɛ̀ ká wáɲá nɛ̀ tàrɛ́à ʔà̰ dúk sɛ̀n ká zǎŋ yì hòkòyòkò.
-# text_fr = voilà des feuilles urticantes, un peu sèches, se trouvent au bord de la rivière.
+# phonetic_text = ká wáɲá nɛ̀ ká wáɲá nɛ̀ tàrɛ́à ʔà̰ dúk sɛ̀n ká zǎŋ yì hòkòyòkò //
+# text_fr = voilà des feuilles urticantes, un peu sèches, se trouvent au bord de la rivière //
 1	ká	ká	CCONJ	SUB	_	12	cc	_	AlignBegin=86851|AlignEnd=87063|GE=[alors]|nWord=5|RX=[SUB]
 2	wáɲá	wáɲá	NOUN	N	_	12	dislocated:subj	_	AlignBegin=87063|AlignEnd=87275|GE=[feuille]|nWord=6|RX=[N]
 3	nɛ̀	nɛ̀	ADP	FCT	_	2	comp:obl	_	AlignBegin=87275|AlignEnd=87485|GE=[en_tant_que]|nWord=7|RX=[FCT]
@@ -833,59 +838,57 @@
 17	yì	yì	NOUN	N	_	16	comp	_	AlignBegin=90185|AlignEnd=90485|GE=[rivière]|nWord=17|RX=[N]
 18	hòkòyòkò	hòkòyòkò	ADJ	AA	_	12	mod	_	AlignBegin=90485|AlignEnd=90785|GE=[un_peu_sec]|nWord=18|RX=[AA]
 
-# sent_id = GYA_PRD_NARR_01_T16-C6_050-051
+# sent_id = GYA_PRD_NARR_01_T16-C6_050-050
+# text = ʔá̰-nɛ̀ =à̰ -H H- nɛ H- ŋman
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 90785, 95042
-# text = ʔá̰-nàà nɛ́ ŋmán ʔá̰-nàà kpúr nɛ̀ ndàyáà, kpúr nɛ̀ ndàyáà, kpúr nɛ̀ ndàyáà.
-# phonetic_text = ʔá̰-nàà nɛ́ ŋmán ʔá̰-nàà kpúr nɛ̀ ndàyáà, kpúr nɛ̀ ndàyáà, kpúr nɛ̀ ndàyáà.
-# text_fr =  Et elle va en cueillir // et elle frotte avec les fesses de l'enfant, lui frotte les fesses, lui frotte les fesses.
-1-3	ʔá̰-nàà	ʔá̰-nàà	_	_	_	_	_	_	_
+# phonetic_text = ʔá̰-nàà nɛ́ ŋmán //
+# text_fr =  Et elle va en cueillir //
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=90785|AlignEnd=90921|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=90921|AlignEnd=91057|GE=[3SG]|nWord=1|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=91057|AlignEnd=91193|GE=[MT]|nWord=1|RX=[MOD]
-4-5	nɛ́	nɛ́	_	_	_	_	_	_	_
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=91193|AlignEnd=91397|GE=[INAC]|nWord=2|RX=[MV]
 5	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=91397|AlignEnd=91601|GE=[aller]|nWord=2|RX=[V]
-6-7	ŋmán	ŋmán	_	_	_	_	_	_	_
-6	H-	H-	AUX	MV	Aspect=Pfv	7	aux	_	AlignBegin=91601|AlignEnd=91805|GE=[INF-ACC]|nWord=3|RX=[MV]
+6	H-	H-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=91601|AlignEnd=91805|GE=[INF-ACC]|nWord=3|RX=[MV]
 7	ŋman	ŋman	VERB	V	_	5	comp:svc	_	AlignBegin=91805|AlignEnd=92010|GE=[casser]|nWord=3|RX=[V]
-8-10	ʔá̰-nàà	ʔá̰-nàà	_	_	_	_	_	_	_
-8	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	12	cc	_	AlignBegin=92010|AlignEnd=92111|GE=[voilà_que]|nWord=4|RX=[COORD]
-9	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	12	subj	_	AlignBegin=92111|AlignEnd=92212|GE=[3SG]|nWord=4|RX=[PERS]
-10	-H	-H	X	MOD	_	9	aff	_	AlignBegin=92212|AlignEnd=92313|GE=[MT]|nWord=4|RX=[MOD]
-11-12	kpúr	kpúr	_	_	_	_	_	_	_
-11	H-	H-	AUX	MV	Aspect=Imp	12	aux	_	AlignBegin=92313|AlignEnd=92465|GE=[INAC]|nWord=5|RX=[MV]
-12	kpur	kpur	VERB	V	_	0	root	_	AlignBegin=92465|AlignEnd=92616|GE=[griffer]|nWord=5|RX=[V]
-13	nɛ̀	nɛ̀	PART	MV	_	12	mod	_	AlignBegin=92616|AlignEnd=92919|GE=[CIRC]|nWord=6|RX=[MV]
-14-16	ndàyáà,	ndàyáà,	_	_	_	_	_	_	_
-14	ndàyà	ndàyà	NOUN	N	_	12	comp:obj	_	AlignBegin=92919|AlignEnd=93020|GE=[fesses]|nWord=7|RX=[N]
-15	-H	-H	ADP	FCT	_	14	udep	_	AlignBegin=93020|AlignEnd=93121|GE=[MT]|nWord=7|RX=[FCT]
-16	=à	ʔà	PRON	MN	Number=Sing|Person=3	15	comp	_	AlignBegin=93121|AlignEnd=93222|GE=[3SG]|nWord=7|RX=[MN]
-17-18	kpúr	kpúr	_	_	_	_	_	_	_
-17	H-	H-	AUX	MV	Aspect=Imp	18	aux	_	AlignBegin=93222|AlignEnd=93374|GE=[INAC]|nWord=8|RX=[MV]
-18	kpur	kpur	VERB	V	_	12	root:redup	_	AlignBegin=93374|AlignEnd=93525|GE=[griffer]|nWord=8|RX=[V]
-19	nɛ̀	nɛ̀	PART	MV	_	18	mod	_	AlignBegin=93525|AlignEnd=93828|GE=[CIRC]|nWord=9|RX=[MV]
-20-22	ndàyáà,	ndàyáà,	_	_	_	_	_	_	_
-20	ndàyà	ndàyà	NOUN	N	_	18	comp:obj	_	AlignBegin=93828|AlignEnd=93929|GE=[fesses]|nWord=10|RX=[N]
-21	-H	-H	ADP	FCT	_	20	udep	_	AlignBegin=93929|AlignEnd=94030|GE=[MT]|nWord=10|RX=[FCT]
-22	=à	ʔà	PRON	MN	Number=Sing|Person=3	21	comp	_	AlignBegin=94030|AlignEnd=94131|GE=[3SG]|nWord=10|RX=[MN]
-23-24	kpúr	kpúr	_	_	_	_	_	_	_
-23	H-	H-	AUX	MV	Aspect=Imp	24	aux	_	AlignBegin=94131|AlignEnd=94283|GE=[INAC]|nWord=11|RX=[MV]
-24	kpur	kpur	VERB	V	_	18	root:redup	_	AlignBegin=94283|AlignEnd=94434|GE=[griffer]|nWord=11|RX=[V]
-25	nɛ̀	nɛ̀	PART	MV	_	24	mod	_	AlignBegin=94434|AlignEnd=94737|GE=[CIRC]|nWord=12|RX=[MV]
-26-28	ndàyáà.	ndàyáà.	_	_	_	_	_	_	_
-26	ndàyà	ndàyà	NOUN	N	_	24	comp:obj	_	AlignBegin=94737|AlignEnd=94839|GE=[fesses]|nWord=13|RX=[N]
-27	-H	-H	X	FCT	_	26	udep	_	AlignBegin=94839|AlignEnd=94941|GE=[MT]|nWord=13|RX=[FCT]
-28	-à	-à	DET	MN	Number=Sing|Person=3	27	comp	_	AlignBegin=94941|AlignEnd=95042|GE=[3SG]|nWord=13|RX=[MN]
+
+# sent_id = GYA_PRD_NARR_01_T16-C6_051-051
+# text = ʔá̰-nɛ̀ =à̰ -H H- kpur nɛ̀ ndàyà -H =à H- kpur nɛ̀ ndàyà -H =à H- kpur nɛ̀ ndàyà -H -à
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
+# sent_timecode = 90785, 95042
+# phonetic_text = ʔá̰-nàà kpúr nɛ̀ ndàyáà, kpúr nɛ̀ ndàyáà, kpúr nɛ̀ ndàyáà //
+# text_fr = et elle frotte avec les fesses de l'enfant, lui frotte les fesses, lui frotte les fesses //
+1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=92010|AlignEnd=92111|GE=[voilà_que]|nWord=4|RX=[COORD]
+2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=92111|AlignEnd=92212|GE=[3SG]|nWord=4|RX=[PERS]
+3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=92212|AlignEnd=92313|GE=[MT]|nWord=4|RX=[MOD]
+4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=92313|AlignEnd=92465|GE=[INAC]|nWord=5|RX=[MV]
+5	kpur	kpur	VERB	V	_	0	root	_	AlignBegin=92465|AlignEnd=92616|GE=[griffer]|nWord=5|RX=[V]
+6	nɛ̀	nɛ̀	PART	MV	_	5	mod	_	AlignBegin=92616|AlignEnd=92919|GE=[CIRC]|nWord=6|RX=[MV]
+7	ndàyà	ndàyà	NOUN	N	_	5	comp:obj	_	AlignBegin=92919|AlignEnd=93020|GE=[fesses]|nWord=7|RX=[N]
+8	-H	-H	ADP	FCT	_	7	udep	_	AlignBegin=93020|AlignEnd=93121|GE=[MT]|nWord=7|RX=[FCT]
+9	=à	ʔà	PRON	MN	Number=Sing|Person=3	8	comp	_	AlignBegin=93121|AlignEnd=93222|GE=[3SG]|nWord=7|RX=[MN]
+10	H-	H-	AUX	MV	Aspect=Imp	11	aux	_	AlignBegin=93222|AlignEnd=93374|GE=[INAC]|nWord=8|RX=[MV]
+11	kpur	kpur	VERB	V	_	5	root:redup	_	AlignBegin=93374|AlignEnd=93525|GE=[griffer]|nWord=8|RX=[V]
+12	nɛ̀	nɛ̀	PART	MV	_	11	mod	_	AlignBegin=93525|AlignEnd=93828|GE=[CIRC]|nWord=9|RX=[MV]
+13	ndàyà	ndàyà	NOUN	N	_	11	comp:obj	_	AlignBegin=93828|AlignEnd=93929|GE=[fesses]|nWord=10|RX=[N]
+14	-H	-H	ADP	FCT	_	13	udep	_	AlignBegin=93929|AlignEnd=94030|GE=[MT]|nWord=10|RX=[FCT]
+15	=à	ʔà	PRON	MN	Number=Sing|Person=3	14	comp	_	AlignBegin=94030|AlignEnd=94131|GE=[3SG]|nWord=10|RX=[MN]
+16	H-	H-	AUX	MV	Aspect=Imp	17	aux	_	AlignBegin=94131|AlignEnd=94283|GE=[INAC]|nWord=11|RX=[MV]
+17	kpur	kpur	VERB	V	_	11	root:redup	_	AlignBegin=94283|AlignEnd=94434|GE=[griffer]|nWord=11|RX=[V]
+18	nɛ̀	nɛ̀	PART	MV	_	17	mod	_	AlignBegin=94434|AlignEnd=94737|GE=[CIRC]|nWord=12|RX=[MV]
+19	ndàyà	ndàyà	NOUN	N	_	17	comp:obj	_	AlignBegin=94737|AlignEnd=94839|GE=[fesses]|nWord=13|RX=[N]
+20	-H	-H	X	FCT	_	19	udep	_	AlignBegin=94839|AlignEnd=94941|GE=[MT]|nWord=13|RX=[FCT]
+21	-à	-à	DET	MN	Number=Sing|Person=3	20	comp	_	AlignBegin=94941|AlignEnd=95042|GE=[3SG]|nWord=13|RX=[MN]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_052-052
+# text = ndàyáà má tɔ̀k má tɔ̀k má tɔ̀k
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 95042, 96500
-# text = ndàyáà má tɔ̀k má tɔ̀k má tɔ̀k
-# phonetic_text = ndàyáà má tɔ̀k má tɔ̀k má tɔ̀k
-# text_fr =  Ses fesses saignent, saignent, saignent.
+# phonetic_text = ndàyáà má tɔ̀k má tɔ̀k má tɔ̀k //
+# text_fr =  Ses fesses saignent, saignent, saignent //
 1-3	ndàyáà	ndàyáà	_	_	_	_	_	_	_
 1	ndàyà	ndàyà	NOUN	N	_	5	subj	_	AlignBegin=95042|AlignEnd=95111|GE=[fesses]|nWord=1|RX=[N]
 2	-H	-H	ADP	FCT	_	1	udep	_	AlignBegin=95111|AlignEnd=95180|GE=[MT]|nWord=1|RX=[FCT]
@@ -904,12 +907,12 @@
 12	tɔ̀k	tɔ̀k	NOUN	N	_	11	comp:obj	_	AlignBegin=96290|AlignEnd=96500|GE=[sang]|nWord=7|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_053-056
+# text = dáŋáà ʔá̰ sɛ̌n hı̰̀ı̰́ dáŋáà ʔá̰ sɛ̌n hı̰̀ı̰́ wéì kɔ́í ná ʔéí kòò bêm mbè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 96500, 102264
-# text = dáŋáà ʔá̰ sɛ̌n hı̰̀ı̰́ dáŋáà ʔá̰ sɛ̌n hı̰̀ı̰́ wéì kɔ́í ná ʔéí kòò bêm mbè
-# phonetic_text = dáŋáà ʔá̰ sɛ̌n hı̰̀ı̰́ dáŋáà ʔá̰ sɛ̌n hı̰̀ı̰́ wéì kɔ́ =éí ná ʔéí kòò bêm mbè
-# text_fr =  Et elle remonte ainsi et elle remonte ainsi // Elle dit à son mari aussi étonnant que cela puisse paraître, j'ai accouché d'un enfant.
+# phonetic_text = dáŋáà ʔá̰ sɛ̌n hı̰̀ı̰́ dáŋáà ʔá̰ sɛ̌n hı̰̀ı̰́ // wéì kɔ́ =éí ná ʔéí kòò bêm mbè //
+# text_fr =  Et elle remonte ainsi et elle remonte ainsi // Elle dit à son mari aussi étonnant que cela puisse paraître, j'ai accouché d'un enfant //
 1-3	dáŋáà	dáŋáà	_	_	_	_	_	_	_
 1	Há-	Há-	AUX	MN	VerbForm=Vnoun	2	aux	_	AlignBegin=96500|AlignEnd=96626|GE=[NV]|nWord=1|RX=[MN]
 2	daŋ	daŋ	VERB	V	VerbForm=Vnoun	4	subj	_	AlignBegin=96626|AlignEnd=96752|GE=[monter]|nWord=1|RX=[V]
@@ -935,21 +938,21 @@
 18	ná	ná	INTJ	_	_	15	discourse	_	AlignBegin=100454|AlignEnd=100957|GE=[DISC]|nWord=11|RX=[DISC]
 19	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	21	subj	_	AlignBegin=100960|AlignEnd=101286|GE=[LOGSG]|nWord=12|RX=[PERS]
 20-22	kòò	kòò	_	_	_	_	_	_	_
-20	BHa-	BHa-	AUX	MV	Aspect=Pfv	21	aux	_	AlignBegin=101286|AlignEnd=101395|GE=[ACC]|nWord=13|RX=[MV]
+20	BHa-	BHa-	AUX	MV	Aspect=Perf	21	aux	_	AlignBegin=101286|AlignEnd=101395|GE=[ACC]|nWord=13|RX=[MV]
 21	ko	ko	VERB	V	_	0	root	_	AlignBegin=101395|AlignEnd=101504|GE=[accoucher]|nWord=13|RX=[V]
 22	-H	-H	X	MOD	_	21	aff	_	AlignBegin=101504|AlignEnd=101612|GE=[MT]|nWord=13|RX=[MOD]
 23	bêm	bêm	NOUN	N	_	21	comp:obj	_	AlignBegin=101612|AlignEnd=101938|GE=[enfant]|nWord=14|RX=[N]
 24	mbè	mbè	INTJ	MOD	_	21	discourse	_	AlignBegin=101938|AlignEnd=102264|GE=[étonnant]|nWord=15|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_057-058
+# text = ʔá̰-nɛ̀ =wà -H dɛ ʔó dáà kɔ́ bêm dɛ́ ngàyà bêm dɛ́ ngàyà bêm zero H- duk hɛ̌n ɗòŋáà
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 102264, 107942
-# text = ʔá̰-nɛ̀ =wà -H dɛ ʔó dáà kɔ́ bêm dɛ́ ngàyà bêm dɛ́ ngàyà bêm zero H- duk hɛ̌n ɗòŋáà
-# phonetic_text = ʔá̰-ndɔ̀wà dɛ́ ʔó dáà kɔ́ bêm dɛ́ ngàyà bêm dɛ́ ngàyà bêm. dúk hɛ̌n ɗòŋáà
-# text_fr =  Le père de l'enfant se réjouit de l'enfant, se réjouit de l'enfant,// peu après.
+# phonetic_text = ʔá̰-ndɔ̀wà dɛ́ ʔó dáà kɔ́ bêm dɛ́ ngàyà bêm dɛ́ ngàyà bêm // dúk hɛ̌n ɗòŋáà //
+# text_fr =  Le père de l'enfant se réjouit de l'enfant, se réjouit de l'enfant,// peu après //
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	MN	_	4	cc	_	AlignBegin=102968|AlignEnd=103320|GE=[voilà_que]|nWord=3|RX=[coord]
-2	=wà	wà	PRON	MN	_	4	subj	_	AlignBegin=102968|AlignEnd=103320|GE=[3POL]|nWord=3|RX=[PERS]
+2	=wà	wà	PRON	MN	Person=3	4	subj	_	AlignBegin=102968|AlignEnd=103320|GE=[3POL]|nWord=3|RX=[PERS]
 3	-H	-H	X	MN	_	2	aff	_	AlignBegin=102968|AlignEnd=103320|GE=[MT]|nWord=3|RX=[MOD]
 4	dɛ	dɛ	VERB	MN	_	0	root	_	AlignBegin=102968|AlignEnd=103320|GE=[faire]|nWord=3|RX=[V]
 5	ʔó	ʔó	DET	MN	_	6	det	_	AlignBegin=102968|AlignEnd=103320|GE=[POL]|nWord=3|RX=[MN]
@@ -967,7 +970,7 @@
 15	ngàyà	ngàyà	NOUN	N	_	14	comp:obj	_	AlignBegin=105784|AlignEnd=106136|GE=[joie]|nWord=11|RX=[N]
 16	bêm	bêm	NOUN	N	_	15	comp	_	AlignBegin=106136|AlignEnd=106482|GE=[enfant]|nWord=12|RX=[N]
 17	zero	zero	X	MV	Aspect=Imp	19	subj	_	AlignBegin=106482|AlignEnd=106726|GE=[ça]|nWord=13|RX=[n]
-18	H-	H-	AUX	V	_	19	aux	_	AlignBegin=106726|AlignEnd=106969|GE=[INAC]|nWord=13|RX=[MV]
+18	H-	H-	AUX	V	Aspect=Imp	19	aux	_	AlignBegin=106726|AlignEnd=106969|GE=[INAC]|nWord=13|RX=[MV]
 19	duk	duk	VERB	V	_	0	root	_	AlignBegin=106726|AlignEnd=106969|GE=[rester]|nWord=13|RX=[V]
 20-21	hɛ̌n	hɛ̌n	_	_	_	_	_	_	_
 20	hɛ̀n	hɛ̀n	ADP	FCT	_	19	comp:obl	_	AlignBegin=106969|AlignEnd=107213|GE=[dans]|nWord=14|RX=[FCT]
@@ -978,12 +981,12 @@
 24	-à	-à	DET	MN	_	22	det	_	AlignBegin=107780|AlignEnd=107942|GE=[NMLS]|nWord=15|RX=[MN]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_059-059
+# text = bêm gásí nɛ́nɛ́ gásí nɛ́nɛ́
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 107942, 110271
-# text = bêm gásí nɛ́nɛ́ gásí nɛ́nɛ́
-# phonetic_text = bêm gásí nɛ́nɛ́ gásí nɛ́nɛ́
-# text_fr =  'enfant grandit, l'enfant grandit.
+# phonetic_text = bêm gásí nɛ́nɛ́ gásí nɛ́nɛ́ //
+# text_fr =  'enfant grandit, l'enfant grandit //
 1	bêm	bêm	NOUN	N	_	3	subj	_	AlignBegin=107942|AlignEnd=108408|GE=[enfant]|nWord=1|RX=[N]
 2-3	gásí	gásí	_	_	_	_	_	_	_
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=108408|AlignEnd=108641|GE=[INAC]|nWord=2|RX=[MV]
@@ -995,19 +998,19 @@
 7	nɛ́nɛ́	nɛ́nɛ́	PART	MV	_	6	mod	_	AlignBegin=109806|AlignEnd=110271|GE=[en_allant]|nWord=5|RX=[MV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_061-062
+# text = kóáà nɛ̀ ʔéí kòò bêm mbè zɔ́k mɔ̀ ná ká bêmí ʔá̰-nɛ̀ dɛ̀ɛ̀ ɗéŋ-kéyéŋ ʔòóyɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 112257, 117371
-# text = kóáà nɛ̀ ʔéí kòò bêm mbè zɔ́k mɔ̀ ná ká bêmí ʔá̰-nɛ̀ dɛ̀ɛ̀ ɗéŋ-kéyéŋ ʔòóyɛ̀
-# phonetic_text = kóáà nɛ̀ ʔéí kòò bêm mbè zɔ́k mɔ̀ ná ká bêmí ʔá̰-nɛ̀ dɛ̀ɛ̀ ɗéŋ-kéyéŋ ʔòóyɛ̀
-# text_fr =  d'avoir accoucher d'un enfant de façon étonnante elle s'aperçoit que l'enfant est bien entendu grand [6-8 ans].
+# phonetic_text = kóáà nɛ̀ ʔéí kòò bêm mbè zɔ́k mɔ̀ ná ká bêmí ʔá̰-nɛ̀ dɛ̀ɛ̀ ɗéŋ-kéyéŋ ʔòóyɛ̀ //
+# text_fr =  d'avoir accoucher d'un enfant de façon étonnante elle s'aperçoit que l'enfant est bien entendu grand [6-8 ans] //
 1-2	kóáà	kóáà	_	_	_	_	_	_	_
 1	Háà-	Háà-	AUX	MV	VerbForm=Vnoun	2	aux	_	AlignBegin=112257|AlignEnd=112457|GE=[NV]|nWord=1|RX=[MV]
 2	ko	ko	VERB	V	VerbForm=Vnoun	11	dislocated:obl	_	AlignBegin=112457|AlignEnd=112657|GE=[accoucher]|nWord=1|RX=[V]
 3	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	2	mod@relcl	_	AlignBegin=112657|AlignEnd=113057|GE=[REL]|nWord=2|RX=[SUB]
 4	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	6	subj	_	AlignBegin=113057|AlignEnd=113457|GE=[LOGSG]|nWord=3|RX=[PERS]
 5-7	kòò	kòò	_	_	_	_	_	_	_
-5	BHa-	BHa-	AUX	MV	Aspect=Pfv	6	aux	_	AlignBegin=113457|AlignEnd=113590|GE=[ACC]|nWord=4|RX=[MV]
+5	BHa-	BHa-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=113457|AlignEnd=113590|GE=[ACC]|nWord=4|RX=[MV]
 6	ko	ko	VERB	V	_	3	comp	_	AlignBegin=113590|AlignEnd=113723|GE=[accoucher]|nWord=4|RX=[V]
 7	-H	-H	X	MOD	_	6	aff	_	AlignBegin=113723|AlignEnd=113857|GE=[MT]|nWord=4|RX=[MOD]
 8	bêm	bêm	NOUN	N	_	6	comp:obj	_	AlignBegin=113857|AlignEnd=114257|GE=[enfant]|nWord=5|RX=[N]
@@ -1023,29 +1026,29 @@
 16	-ìí	-ìí	DET	MOD	_	15	det	_	AlignBegin=116016|AlignEnd=116167|GE=[ANAPH]|nWord=11|RX=[MOD]
 17	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	15	det	_	AlignBegin=116167|AlignEnd=116469|GE=[TOP]|nWord=12|RX=[MOD]|Topicalization=Yes
 18-20	dɛ̀ɛ̀	dɛ̀ɛ̀	_	_	_	_	_	_	_
-18	BHa-	BHa-	AUX	MV	Aspect=Pfv	19	aux	_	AlignBegin=116469|AlignEnd=116570|GE=[ACC]|nWord=13|RX=[MV]
+18	BHa-	BHa-	AUX	MV	Aspect=Perf	19	aux	_	AlignBegin=116469|AlignEnd=116570|GE=[ACC]|nWord=13|RX=[MV]
 19	dɛ	dɛ	VERB	V	_	11	parataxis:comp	_	AlignBegin=116570|AlignEnd=116671|GE=[faire]|nWord=13|RX=[V]
 20	-H	-H	X	MOD	_	19	aff	_	AlignBegin=116671|AlignEnd=116771|GE=[MT]|nWord=13|RX=[MOD]
 21	ɗéŋ-kéyéŋ	ɗéŋ-kéyéŋ	ADJ	AA	_	19	comp:pred	_	AlignBegin=116771|AlignEnd=117073|GE=[grandet]|nWord=14|RX=[AA]
 22	ʔòóyɛ̀	ʔòóyɛ̀	INTJ	MOD	_	19	discourse	_	AlignBegin=117073|AlignEnd=117371|GE=[bien_entendu]|nWord=15|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_063-064
+# text = ʔá̰-nɛ̀ bàà bé pàyà ká yèká sɛ̌n ɗòŋ yé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 117371, 120780
-# text = ʔá̰-nɛ̀ bàà bé pàyà ká yèká sɛ̌n ɗòŋ yé
-# phonetic_text = ʔá̰-nɛ̀ bàà bé pàyà ká yèká sɛ̌n ɗòŋ yé
-# text_fr =  Voilà qu'il prend un petit couteau // Et alors se met en route allant de village en village.
+# phonetic_text = ʔá̰-nɛ̀ bàà bé pàyà // ká yèká sɛ̌n ɗòŋ yé
+# text_fr =  Voilà qu'il prend un petit couteau // Et alors se met en route allant de village en village
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	3	cc	_	AlignBegin=117371|AlignEnd=117785|GE=[voilà_que]|nWord=1|RX=[COORD]
 2-4	bàà	bàà	_	_	_	_	_	_	_
-2	BHa-	BHa-	AUX	MV	Aspect=Pfv	3	aux	_	AlignBegin=117785|AlignEnd=117923|GE=[ACC]|nWord=2|RX=[MV]
+2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=117785|AlignEnd=117923|GE=[ACC]|nWord=2|RX=[MV]
 3	ba	ba	VERB	V	_	0	root	_	AlignBegin=117923|AlignEnd=118061|GE=[prendre]|nWord=2|RX=[V]
 4	-H	-H	X	MOD	_	3	aff	_	AlignBegin=118061|AlignEnd=118199|GE=[MT]|nWord=2|RX=[MOD]
 5	bé	bé	ADJ	AR	_	6	mod	_	AlignBegin=118199|AlignEnd=118613|GE=[petit]|nWord=3|RX=[AR]
 6	pàyà	pàyà	NOUN	N	_	3	comp:obj	_	AlignBegin=118613|AlignEnd=119028|GE=[couteau]|nWord=4|RX=[N]
 7	ká	ká	CCONJ	COORD	_	9	cc	_	AlignBegin=119028|AlignEnd=119378|GE=[alors]|nWord=5|RX=[COORD]
 8-10	yèká	yèká	_	_	_	_	_	_	_
-8	BHa-	BHa-	AUX	MV	Aspect=Pfv	9	aux	_	AlignBegin=119378|AlignEnd=119495|GE=[ACC]|nWord=6|RX=[MV]
+8	BHa-	BHa-	AUX	MV	Aspect=Perf	9	aux	_	AlignBegin=119378|AlignEnd=119495|GE=[ACC]|nWord=6|RX=[MV]
 9	yek	yek	VERB	V	_	0	root	_	AlignBegin=119495|AlignEnd=119612|GE=[se_mettre_à]|nWord=6|RX=[V]
 10	-H	-H	X	MOD	_	9	aff	_	AlignBegin=119612|AlignEnd=119728|GE=[MT]|nWord=6|RX=[MOD]
 11-12	sɛ̌n	sɛ̌n	_	_	_	_	_	_	_
@@ -1055,12 +1058,12 @@
 14	yé	yé	NOUN	N	_	13	comp	_	AlignBegin=120428|AlignEnd=120780|GE=[village]|nWord=9|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_065-068
+# text = ʔá̰-nɛ̀ mɛ̀ tɛ́... káì gbó hɛ̌n zǎŋ kòlèɲáà ká dɔ̀nɔ̀ ʔá̰ sɛ̌n hḭ̀ḭ́ ʔà̰ kùrá nɛ̀ zàòrò-mámbɛ̀rɛ̀ gbó sɛ̌n kòlèɲáà ká dɔ̀nɔ̀ ʔá̰à̰
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 120780, 129460
-# text = ʔá̰-nɛ̀ mɛ̀ tɛ́... káì gbó hɛ̌n zǎŋ kòlèɲáà ká dɔ̀nɔ̀ ʔá̰ sɛ̌n hḭ̀ḭ́ ʔà̰ kùrá nɛ̀ zàòrò-mámbɛ̀rɛ̀ gbó sɛ̌n kòlèɲáà ká dɔ̀nɔ̀ ʔá̰à̰
-# phonetic_text = ʔá̰-nɛ̀ [mɛ̀ tɛ́ káì] gbó hɛ̌n zǎŋ kòlèɲáà ká dɔ̀nɔ̀ ʔá̰ sɛ̌n hḭ̀ḭ́ ʔà̰ kùrá nɛ̀ zàòrò-mámbɛ̀rɛ̀ gbó sɛ̌n kòlèɲáà ká dɔ̀nɔ̀ ʔá̰à̰
-# text_fr =  voilà que [viens zut] il arrive à Kolegnan // alors il y a là un marteau de forge // Il part de Zaoro-Mambéré et arrive à Kolegnan // alors un marteau de forge est là.
+# phonetic_text = ʔá̰-nɛ̀ [mɛ̀ tɛ́ káì] gbó hɛ̌n zǎŋ kòlèɲáà // ká dɔ̀nɔ̀ ʔá̰ sɛ̌n hḭ̀ḭ́ // ʔà̰ kùrá nɛ̀ zàòrò-mámbɛ̀rɛ̀ gbó sɛ̌n kòlèɲáà // ká dɔ̀nɔ̀ ʔá̰à̰ //
+# text_fr =  voilà que [viens zut] il arrive à Kolegnan // alors il y a là un marteau de forge // Il part de Zaoro-Mambéré et arrive à Kolegnan // alors un marteau de forge est là //
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	8	cc	_	AlignBegin=120780|AlignEnd=121331|GE=[voilà_que]|nWord=1|RX=[COORD]
 2-3	mɛ̀	mɛ̀	_	_	_	_	_	_	_
 2	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	5	subj	_	AlignBegin=121331|AlignEnd=121607|GE=[2SG]|nWord=2|RX=[PERS]
@@ -1088,7 +1091,7 @@
 19	hḭ̀ḭ́	hḭ̀ḭ́	ADV	ADV	_	17	comp	_	AlignBegin=126277|AlignEnd=126550|GE=[là-ANAPH]|nWord=13|RX=[ADV]
 20	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	22	subj	_	AlignBegin=126550|AlignEnd=126852|GE=[3SG]|nWord=14|RX=[PERS]
 21-23	kùrá	kùrá	_	_	_	_	_	_	_
-21	BHa-	BHa-	AUX	MV	Aspect=Pfv	22	aux	_	AlignBegin=126852|AlignEnd=126953|GE=[ACC]|nWord=15|RX=[MV]
+21	BHa-	BHa-	AUX	MV	Aspect=Perf	22	aux	_	AlignBegin=126852|AlignEnd=126953|GE=[ACC]|nWord=15|RX=[MV]
 22	kur	kur	VERB	V	_	0	root	_	AlignBegin=126953|AlignEnd=127054|GE=[se_lever]|nWord=15|RX=[V]
 23	-H	-H	X	MOD	_	22	aff	_	AlignBegin=127054|AlignEnd=127154|GE=[MT]|nWord=15|RX=[MOD]
 24	nɛ̀	nɛ̀	ADP	FCT	_	22	comp:obl	_	AlignBegin=127154|AlignEnd=127456|GE=[par]|nWord=16|RX=[FCT]
@@ -1105,18 +1108,18 @@
 33	ʔá̰à̰	ʔá̰à̰	AUX	PRÉD	_	0	root	_	AlignBegin=129194|AlignEnd=129460|GE=[PRST-LOC]|nWord=23|RX=[PRÉD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_069-074
+# text = nàá zɔ̀k ʔó kòòkóò ʔɛ̀nɛ̀ há̰ bé dɔ̀nɔ̀ hám ʔàm ɗáfí nɛ́ nú pàyà kɔ́m hám ɲɔ́ŋ nɛ̀nɛ́ ʔàm ɗáfí núà kàm mɔ́-ɗòŋ táá tí kɔ́m nɛ́-kpàà ngáyá gèɗà kɔ́m ɲɔ̀ŋá nɛ̀nɛ́
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 129460, 140975
-# text = nàá zɔ̀k ʔó kòòkóò ʔɛ̀nɛ̀ há̰ bé dɔ̀nɔ̀ hám ʔàm ɗáfí nɛ́ nú pàyà kɔ́m hám ɲɔ́ŋ nɛ̀nɛ́ ʔàm ɗáfí núà kàm mɔ́-ɗòŋ táá tí kɔ́m nɛ́-kpàà ngáyá gèɗà kɔ́m ɲɔ̀ŋá nɛ̀nɛ́
-# phonetic_text = nàá zɔ̀k ʔó kòòkóò ʔɛ̀nɛ̀ há̰ bé dɔ̀nɔ̀ hám ʔàm ɗáfí nɛ́ nú pàyà kɔ́m hám ɲɔ́ŋ nɛ̀nɛ́ ʔàm ɗáfí núà kàm mɔ́-ɗòŋ táá tí kɔ́m nɛ́-kpàà ngáyá gèɗà kɔ́m ɲɔ̀ŋá nɛ̀nɛ́
-# text_fr =  Et quand il a vu le grand père  [il lui dit] Donnez moi le petit marteau de forge // Je répare ainsi la lame de mon couteau, pour que je m'en serve pour manger // bafouille, incompréhensible et donc j'en affuterai la lame // quand je marcherai plus avant, s'il se trouve que je trouve un tubercule de manioc, je m'en servirai pour le manger.
+# phonetic_text = nàá zɔ̀k ʔó kòòkóò ʔɛ̀nɛ̀ há̰ bé dɔ̀nɔ̀ hám // ʔàm ɗáfí nɛ́ nú pàyà kɔ́m hám ɲɔ́ŋ nɛ̀nɛ́ // ʔàm ɗáfí núà // kàm mɔ́-ɗòŋ táá tí kɔ́m nɛ́-kpàà ngáyá gèɗà kɔ́m ɲɔ̀ŋá nɛ̀nɛ́ //
+# text_fr =  Et quand il a vu le grand père  [il lui dit] Donnez moi le petit marteau de forge // Je répare ainsi la lame de mon couteau, pour que je m'en serve pour manger // et donc j'en affuterai la lame // quand je marcherai plus avant, s'il se trouve que je trouve un tubercule de manioc, je m'en servirai pour le manger //
 1-3	nàá	nàá	_	_	_	_	_	_	_
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=129460|AlignEnd=129602|GE=[et_ainsi]|nWord=1|RX=[COORD]
 2	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=129602|AlignEnd=129744|GE=[3SG]|nWord=1|RX=[PERS]
 3	-Hv	-Hv	AUX	MV	Mood=Cnd	2	aff	_	AlignBegin=129744|AlignEnd=129886|GE=[cond]|nWord=1|RX=[MV]
 4-5	zɔ̀k	zɔ̀k	_	_	_	_	_	_	_
-4	B-	B-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=129886|AlignEnd=130099|GE=[COND-INAC]|nWord=2|RX=[MV]
+4	B-	B-	AUX	MV	Aspect=Imp|Mood=Cnd	5	aux	_	AlignBegin=129886|AlignEnd=130099|GE=[COND-INAC]|nWord=2|RX=[MV]
 5	zɔk	zɔk	VERB	V	_	11	mod	_	AlignBegin=130099|AlignEnd=130312|GE=[voir]|nWord=2|RX=[V]
 6	ʔó	ʔó	DET	MN	Polite=Form	7	det	_	AlignBegin=130312|AlignEnd=130738|GE=[POL]|nWord=3|RX=[MN]
 7	kòòkóò	kòòkóò	NOUN	N	_	5	comp:obj	_	AlignBegin=130738|AlignEnd=131164|GE=[grand-père]|nWord=4|RX=[N]
@@ -1163,7 +1166,7 @@
 36	kà	kà	SCONJ	SUB	_	52	mod	_	AlignBegin=137688|AlignEnd=137838|GE=[quand]|nWord=22|RX=[SUB]
 37	=m	ʔám	PRON	PERS	Number=Sing|Person=1	39	subj	_	AlignBegin=137838|AlignEnd=137987|GE=[1SG]|nWord=22|RX=[PERS]
 38-39	mɔ́-ɗòŋ	mɔ́-ɗòŋ	_	_	_	_	_	_	_
-38	mɔ́-B	mɔ́-B	AUX	MV	_	39	aux	_	AlignBegin=137987|AlignEnd=138137|GE=[FIN-INAC]|nWord=23|RX=[MV]
+38	mɔ́-B	mɔ́-B	AUX	MV	Aspect=Imp	39	aux	_	AlignBegin=137987|AlignEnd=138137|GE=[FIN-INAC]|nWord=23|RX=[MV]
 39	ɗoŋ	ɗoŋ	VERB	V	_	36	comp	_	AlignBegin=138137|AlignEnd=138286|GE=[se_déplacer]|nWord=23|RX=[V]
 40	táá	táá	ADP	FCT	_	39	mod	_	AlignBegin=138286|AlignEnd=138585|GE=[vers]|nWord=24|RX=[FCT]
 41	tí	tí	ADV	ADV	_	40	comp	_	AlignBegin=138585|AlignEnd=138884|GE=[avant]|nWord=25|RX=[ADV]
@@ -1171,7 +1174,7 @@
 42	ká	ká	CCONJ	COORD	_	45	cc	_	AlignBegin=138884|AlignEnd=139034|GE=[alors]|nWord=26|RX=[COORD]
 43	=m	ʔám	PRON	PERS	Number=Sing|Person=1	45	subj	_	AlignBegin=139034|AlignEnd=139183|GE=[1SG]|nWord=26|RX=[PERS]
 44-46	nɛ́-kpàà	nɛ́-kpàà	_	_	_	_	_	_	_
-44	nɛ́-BHa	nɛ́-BHa	AUX	MV	Aspect=Pfv	45	aux	_	AlignBegin=139183|AlignEnd=139283|GE=[HYPO-ACC]|nWord=27|RX=[MV]
+44	nɛ́-BHa	nɛ́-BHa	AUX	MV	Aspect=Perf	45	aux	_	AlignBegin=139183|AlignEnd=139283|GE=[HYPO-ACC]|nWord=27|RX=[MV]
 45	kpa	kpa	VERB	V	_	52	comp	_	AlignBegin=139283|AlignEnd=139383|GE=[trouver]|nWord=27|RX=[V]
 46	-H	-H	AUX	MOD	_	45	aff	_	AlignBegin=139383|AlignEnd=139482|GE=[MT]|nWord=27|RX=[MOD]
 47	ngáyá	ngáyá	ADJ	AV	_	48	mod	_	AlignBegin=139482|AlignEnd=139781|GE=[dur]|nWord=28|RX=[AV]
@@ -1180,24 +1183,24 @@
 49	ká	ká	CCONJ	COORD	_	52	cc	_	AlignBegin=140080|AlignEnd=140230|GE=[alors]|nWord=30|RX=[COORD]
 50	=m	ʔám	PRON	PERS	Number=Sing|Person=1	52	subj	_	AlignBegin=140230|AlignEnd=140379|GE=[1SG]|nWord=30|RX=[PERS]
 51-53	ɲɔ̀ŋá	ɲɔ̀ŋá	_	_	_	_	_	_	_
-51	BHa-	BHa-	AUX	MV	Aspect=Pfv	52	aux	_	AlignBegin=140379|AlignEnd=140479|GE=[ACC]|nWord=31|RX=[MV]
+51	BHa-	BHa-	AUX	MV	Aspect=Perf	52	aux	_	AlignBegin=140379|AlignEnd=140479|GE=[ACC]|nWord=31|RX=[MV]
 52	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=140479|AlignEnd=140579|GE=[manger]|nWord=31|RX=[V]
 53	-H	-H	AUX	MOD	_	52	aff	_	AlignBegin=140579|AlignEnd=140678|GE=[MT]|nWord=31|RX=[MOD]
 54	nɛ̀nɛ́	nɛ̀nɛ́	PART	MV	_	52	mod	_	AlignBegin=140678|AlignEnd=140975|GE=[CIRC]|nWord=32|RX=[MV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_075-075
+# text = ʔá̰-ndɔ̀wá hà̰à̰ bé dɔ̀nɔ̀ há̰à̰.
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 140975, 142543
-# text = ʔá̰-ndɔ̀wá hà̰à̰ bé dɔ̀nɔ̀ há̰à̰.
-# phonetic_text = ʔá̰-ndɔ̀wá hà̰à̰ bé dɔ̀nɔ̀ há̰à̰.
-# text_fr =  Voilà qu'il lui donne le petit marteau de forge.
+# phonetic_text = ʔá̰-ndɔ̀wá hà̰à̰ bé dɔ̀nɔ̀ há̰à̰ //
+# text_fr =  Voilà qu'il lui donne le petit marteau de forge.//
 1-3	ʔá̰-ndɔ̀wá	ʔá̰-ndɔ̀wá	_	_	_	_	_	_	_
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=140975|AlignEnd=141080|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=wà	wà	PRON	PERS	Person=3	5	subj	_	AlignBegin=141080|AlignEnd=141185|GE=[3POL]|nWord=1|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=141185|AlignEnd=141289|GE=[MT]|nWord=1|RX=[MOD]
 4-6	hà̰à̰	hà̰à̰	_	_	_	_	_	_	_
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=141289|AlignEnd=141394|GE=[ACC]|nWord=2|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=141289|AlignEnd=141394|GE=[ACC]|nWord=2|RX=[MV]
 5	ha̰	ha̰	VERB	V	_	0	root	_	AlignBegin=141394|AlignEnd=141499|GE=[donner]|nWord=2|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=141499|AlignEnd=141603|GE=[MT]|nWord=2|RX=[MOD]
 7	bé	bé	ADJ	AR	_	8	mod	_	AlignBegin=141603|AlignEnd=141917|GE=[petit]|nWord=3|RX=[AR]
@@ -1207,11 +1210,11 @@
 10	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	9	comp	_	AlignBegin=142387|AlignEnd=142543|GE=[3SG]|nWord=5|RX=[PERS]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_076-076
+# text = ʔèè -H nɛ̀ =à̰ H- ʔe nú -à sɛ̀nɛ́
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = ʔèè -H nɛ̀ =à̰ H- ʔe nú -à sɛ̀nɛ́
-# phonetic_text = ʔèé nàà ʔé núà sɛ̀nɛ́
+# phonetic_text = ʔèé nàà ʔé núà sɛ̀nɛ́ //
 # text_fr =  Et il se met à chanter //
 1	ʔèè	ʔèè	CCONJ	COORD	_	6	cc	_	AlignBegin=142543|AlignEnd=142697|GE=[puis]|nWord=1|RX=[COORD]
 2	-H	-H	X	MOD	_	1	aff	_	AlignBegin=142697|AlignEnd=142850|GE=[MT]|nWord=1|RX=[MOD]
@@ -1224,184 +1227,184 @@
 9	sɛ̀nɛ́	sɛ̀nɛ́	PART	MV	_	6	mod	_	AlignBegin=143771|AlignEnd=144077|GE=[dedans]|nWord=5|RX=[MV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_077-077
+# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
-# phonetic_text = nǎm kpèè síkɔ̀rí
+# phonetic_text = nǎm kpèè síkɔ̀rí //
 # text_fr =  je cherche ainsi une chrysallide //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=144078|AlignEnd=144243|GE=[et_ainsi]|nWord=6|RX=[COORD]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	5	subj	_	AlignBegin=144243|AlignEnd=144408|GE=[1SG]|nWord=6|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=144408|AlignEnd=144574|GE=[MT]|nWord=6|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=144574|AlignEnd=144739|GE=[ACC]|nWord=7|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=144574|AlignEnd=144739|GE=[ACC]|nWord=7|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=144739|AlignEnd=144904|GE=[chercher_attentivement]|nWord=7|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=144904|AlignEnd=145070|GE=[MT]|nWord=7|RX=[MOD]
 7	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	5	comp:obj	_	AlignBegin=145070|AlignEnd=145566|GE=[chrysallide]|nWord=8|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_078-078
+# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
-# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀
+# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ //
 # text_fr =   frappe avec le marteau de forge //
-1	B-	B-	AUX	MV	_	2	aux	_	AlignBegin=145566|AlignEnd=145814|GE=[IMP-ACC]|nWord=9|RX=[MV]
+1	B-	B-	AUX	MV	Aspect=Perf	2	aux	_	AlignBegin=145566|AlignEnd=145814|GE=[IMP-ACC]|nWord=9|RX=[MV]
 2	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=145814|AlignEnd=146062|GE=[marteler,]|nWord=9|RX=[V]
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp:obj	_	AlignBegin=146062|AlignEnd=146558|GE=[chose]|nWord=10|RX=[N]
 4	nɛ̀	nɛ̀	ADP	FCT	_	2	comp:obl	_	AlignBegin=146558|AlignEnd=147054|GE=[avec]|nWord=11|RX=[FCT]
 5	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	4	comp	_	AlignBegin=147054|AlignEnd=147552|GE=[marteau_de_forge]|nWord=12|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_079-079
+# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
-# phonetic_text = nǎm kpèè síkɔ̀rí
-# text_fr =  je cherche ainsi une chrysallide
+# phonetic_text = nǎm kpèè síkɔ̀rí //
+# text_fr =  je cherche ainsi une chrysallide //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=147552|AlignEnd=147700|GE=[et_ainsi]|nWord=13|RX=[COORD]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	5	subj	_	AlignBegin=147700|AlignEnd=147848|GE=[1SG]|nWord=13|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=147848|AlignEnd=147996|GE=[MT]|nWord=13|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=147996|AlignEnd=148144|GE=[ACC]|nWord=14|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=147996|AlignEnd=148144|GE=[ACC]|nWord=14|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=148144|AlignEnd=148292|GE=[chercher_attentivement]|nWord=14|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=148292|AlignEnd=148440|GE=[MT]|nWord=14|RX=[MOD]
 7	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	5	comp:obj	_	AlignBegin=148440|AlignEnd=148884|GE=[chrysallide]|nWord=15|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_080-080
+# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
-# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀
-# text_fr =  frappe avec le marteau de forge
-1	B-	B-	AUX	MV	_	2	aux	_	AlignBegin=148884|AlignEnd=149106|GE=[IMP-ACC]|nWord=16|RX=[MV]
+# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ //
+# text_fr =  frappe avec le marteau de forge //
+1	B-	B-	AUX	MV	Aspect=Perf	2	aux	_	AlignBegin=148884|AlignEnd=149106|GE=[IMP-ACC]|nWord=16|RX=[MV]
 2	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=149106|AlignEnd=149328|GE=[marteler,]|nWord=16|RX=[V]
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp:obj	_	AlignBegin=149328|AlignEnd=149772|GE=[chose]|nWord=17|RX=[N]
 4	nɛ̀	nɛ̀	ADP	FCT	_	2	mod	_	AlignBegin=149772|AlignEnd=150216|GE=[avec]|nWord=18|RX=[FCT]
 5	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	4	comp	_	AlignBegin=150216|AlignEnd=150663|GE=[marteau_de_forge]|nWord=19|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_081-081
+# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
-# phonetic_text = nǎm kpèè síkɔ̀rí
-# text_fr =  je cherche ainsi une chrysallide
+# phonetic_text = nǎm kpèè síkɔ̀rí //
+# text_fr =  je cherche ainsi une chrysallide //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=150663|AlignEnd=150809|GE=[et_ainsi]|nWord=20|RX=[COORD]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	5	subj	_	AlignBegin=150809|AlignEnd=150955|GE=[1SG]|nWord=20|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=150955|AlignEnd=151102|GE=[MT]|nWord=20|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=151102|AlignEnd=151248|GE=[ACC]|nWord=21|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=151102|AlignEnd=151248|GE=[ACC]|nWord=21|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=151248|AlignEnd=151394|GE=[chercher_attentivement]|nWord=21|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=151394|AlignEnd=151541|GE=[MT]|nWord=21|RX=[MOD]
 7	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	5	comp:obj	_	AlignBegin=151541|AlignEnd=151980|GE=[chrysallide]|nWord=22|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_082-082
+# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
-# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀
-# text_fr =  frappe avec le marteau de forge
-1	B-	B-	AUX	MV	_	2	aux	_	AlignBegin=151980|AlignEnd=152200|GE=[IMP-ACC]|nWord=23|RX=[MV]
+# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ //
+# text_fr =  frappe avec le marteau de forge //
+1	B-	B-	AUX	MV	Aspect=Perf	2	aux	_	AlignBegin=151980|AlignEnd=152200|GE=[IMP-ACC]|nWord=23|RX=[MV]
 2	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=152200|AlignEnd=152419|GE=[marteler,]|nWord=23|RX=[V]
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp:obj	_	AlignBegin=152419|AlignEnd=152858|GE=[chose]|nWord=24|RX=[N]
 4	nɛ̀	nɛ̀	ADP	FCT	_	2	mod	_	AlignBegin=152858|AlignEnd=153297|GE=[avec]|nWord=25|RX=[FCT]
 5	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	4	comp	_	AlignBegin=153297|AlignEnd=153737|GE=[marteau_de_forge]|nWord=26|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_083-083
+# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
-# phonetic_text = nǎm kpèè síkɔ̀rí
-# text_fr =  je cherche ainsi une chrysallide
+# phonetic_text = nǎm kpèè síkɔ̀rí //
+# text_fr =  je cherche ainsi une chrysallide //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=153737|AlignEnd=153886|GE=[et_ainsi]|nWord=27|RX=[COORD]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	5	subj	_	AlignBegin=153886|AlignEnd=154035|GE=[1SG]|nWord=27|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=154035|AlignEnd=154184|GE=[MT]|nWord=27|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=154184|AlignEnd=154333|GE=[ACC]|nWord=28|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=154184|AlignEnd=154333|GE=[ACC]|nWord=28|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=154333|AlignEnd=154482|GE=[chercher_attentivement]|nWord=28|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=154482|AlignEnd=154631|GE=[MT]|nWord=28|RX=[MOD]
 7	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	5	comp:obj	_	AlignBegin=154631|AlignEnd=155078|GE=[chrysallide]|nWord=29|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_084-084
+# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
-# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀
-# text_fr =  frappe avec le marteau de forge
-1	B-	B-	AUX	MV	_	2	aux	_	AlignBegin=155078|AlignEnd=155302|GE=[IMP-ACC]|nWord=30|RX=[MV]
+# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ //
+# text_fr =  frappe avec le marteau de forge //
+1	B-	B-	AUX	MV	Aspect=Perf	2	aux	_	AlignBegin=155078|AlignEnd=155302|GE=[IMP-ACC]|nWord=30|RX=[MV]
 2	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=155302|AlignEnd=155525|GE=[marteler,]|nWord=30|RX=[V]
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp:obj	_	AlignBegin=155525|AlignEnd=155972|GE=[chose]|nWord=31|RX=[N]
 4	nɛ̀	nɛ̀	ADP	FCT	_	2	conj	_	AlignBegin=155972|AlignEnd=156419|GE=[avec]|nWord=32|RX=[FCT]
 5	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	4	comp	_	AlignBegin=156419|AlignEnd=156863|GE=[marteau_de_forge]|nWord=33|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_085a-085a
+# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
-# phonetic_text = nǎm kpèè síkɔ̀rí
-# text_fr =  je cherche ainsi une chrysallide
+# phonetic_text = nǎm kpèè síkɔ̀rí //
+# text_fr =  je cherche ainsi une chrysallide //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=156863|AlignEnd=157007|GE=[et_ainsi]|nWord=34|RX=[COORD]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	5	subj	_	AlignBegin=157007|AlignEnd=157151|GE=[1SG]|nWord=34|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=157151|AlignEnd=157295|GE=[MT]|nWord=34|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=157295|AlignEnd=157439|GE=[ACC]|nWord=35|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=157295|AlignEnd=157439|GE=[ACC]|nWord=35|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=157439|AlignEnd=157583|GE=[chercher_attentivement]|nWord=35|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=157583|AlignEnd=157727|GE=[MT]|nWord=35|RX=[MOD]
 7	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	5	comp:obj	_	AlignBegin=157727|AlignEnd=158159|GE=[chrysallide]|nWord=36|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_085b-085b
+# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
-# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀
-# text_fr = frappe avec le marteau de forge
-1	B-	B-	AUX	MV	_	2	aux	_	AlignBegin=158159|AlignEnd=158375|GE=[IMP-ACC]|nWord=37|RX=[MV]
+# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ //
+# text_fr = frappe avec le marteau de forge //
+1	B-	B-	AUX	MV	Aspect=Perf	2	aux	_	AlignBegin=158159|AlignEnd=158375|GE=[IMP-ACC]|nWord=37|RX=[MV]
 2	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=158375|AlignEnd=158591|GE=[marteler,]|nWord=37|RX=[V]
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp:obj	_	AlignBegin=158591|AlignEnd=159023|GE=[chose]|nWord=38|RX=[N]
 4	nɛ̀	nɛ̀	ADP	FCT	_	2	mod	_	AlignBegin=159023|AlignEnd=159455|GE=[avec]|nWord=39|RX=[FCT]
 5	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	4	comp	_	AlignBegin=159455|AlignEnd=159888|GE=[marteau_de_forge]|nWord=40|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_085d-085d
+# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
-# phonetic_text = nǎm kpèè síkɔ̀rí
-# text_fr =  je cherche ainsi une chrysallide
+# phonetic_text = nǎm kpèè síkɔ̀rí //
+# text_fr =  je cherche ainsi une chrysallide //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=159888|AlignEnd=160030|GE=[et_ainsi]|nWord=41|RX=[COORD]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	5	subj	_	AlignBegin=160030|AlignEnd=160172|GE=[1SG]|nWord=41|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=160172|AlignEnd=160315|GE=[MT]|nWord=41|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=160315|AlignEnd=160457|GE=[ACC]|nWord=42|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=160315|AlignEnd=160457|GE=[ACC]|nWord=42|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=160457|AlignEnd=160599|GE=[chercher_attentivement]|nWord=42|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=160599|AlignEnd=160742|GE=[MT]|nWord=42|RX=[MOD]
 7	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	5	comp:obj	_	AlignBegin=160742|AlignEnd=161169|GE=[chrysallide]|nWord=43|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_085e-085e
+# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
-# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀
-# text_fr =  frappe avec le marteau de forge
-1	B-	B-	AUX	MV	_	2	aux	_	AlignBegin=161169|AlignEnd=161383|GE=[IMP-ACC]|nWord=44|RX=[MV]
+# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ //
+# text_fr =  frappe avec le marteau de forge //
+1	B-	B-	AUX	MV	Aspect=Perf	2	aux	_	AlignBegin=161169|AlignEnd=161383|GE=[IMP-ACC]|nWord=44|RX=[MV]
 2	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=161383|AlignEnd=161596|GE=[marteler,]|nWord=44|RX=[V]
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp:obj	_	AlignBegin=161596|AlignEnd=162023|GE=[chose]|nWord=45|RX=[N]
 4	nɛ̀	nɛ̀	ADP	FCT	_	2	mod	_	AlignBegin=162023|AlignEnd=162450|GE=[avec]|nWord=46|RX=[FCT]
 5	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	4	comp	_	AlignBegin=162450|AlignEnd=162879|GE=[marteau_de_forge]|nWord=47|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_085f-085f
+# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
-# phonetic_text = nǎm kpèè síkɔ̀rí
-# text_fr =  je cherche ainsi une chrysallide
+# phonetic_text = nǎm kpèè síkɔ̀rí //
+# text_fr =  je cherche ainsi une chrysallide //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=162879|AlignEnd=163028|GE=[et_ainsi]|nWord=48|RX=[COORD]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	5	subj	_	AlignBegin=163028|AlignEnd=163177|GE=[1SG]|nWord=48|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=163177|AlignEnd=163327|GE=[MT]|nWord=48|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=163327|AlignEnd=163476|GE=[ACC]|nWord=49|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=163327|AlignEnd=163476|GE=[ACC]|nWord=49|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=163476|AlignEnd=163625|GE=[chercher_attentivement]|nWord=49|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=163625|AlignEnd=163775|GE=[MT]|nWord=49|RX=[MOD]
 7	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	5	comp:obj	_	AlignBegin=163775|AlignEnd=164223|GE=[chrysallide]|nWord=50|RX=[N]
@@ -1413,7 +1416,7 @@
 # text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
 # phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀
 # text_fr = frappe avec le marteau de forge
-1	B-	B-	AUX	MV	_	2	aux	_	AlignBegin=164223|AlignEnd=164447|GE=[IMP-ACC]|nWord=51|RX=[MV]
+1	B-	B-	AUX	MV	Aspect=Perf	2	aux	_	AlignBegin=164223|AlignEnd=164447|GE=[IMP-ACC]|nWord=51|RX=[MV]
 2	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=164447|AlignEnd=164671|GE=[marteler,]|nWord=51|RX=[V]
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp:obj	_	AlignBegin=164671|AlignEnd=165119|GE=[chose]|nWord=52|RX=[N]
 4	nɛ̀	nɛ̀	ADP	FCT	_	2	mod	_	AlignBegin=165119|AlignEnd=165567|GE=[avec]|nWord=53|RX=[FCT]
@@ -1429,65 +1432,65 @@
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=166014|AlignEnd=166156|GE=[et_ainsi]|nWord=55|RX=[COORD]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	5	subj	_	AlignBegin=166156|AlignEnd=166298|GE=[1SG]|nWord=55|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=166298|AlignEnd=166441|GE=[MT]|nWord=55|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=166441|AlignEnd=166583|GE=[ACC]|nWord=56|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=166441|AlignEnd=166583|GE=[ACC]|nWord=56|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=166583|AlignEnd=166725|GE=[chercher_attentivement]|nWord=56|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=166725|AlignEnd=166868|GE=[MT]|nWord=56|RX=[MOD]
 7	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	5	comp:obj	_	AlignBegin=166868|AlignEnd=167295|GE=[chrysallide]|nWord=57|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_085i-085i
+# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
-# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀
-# text_fr =  frappe avec le marteau de forge
-1	B-	B-	AUX	MV	_	2	aux	_	AlignBegin=167295|AlignEnd=167509|GE=[IMP-ACC]|nWord=58|RX=[MV]
+# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ //
+# text_fr =  frappe avec le marteau de forge //
+1	B-	B-	AUX	MV	Aspect=Perf	2	aux	_	AlignBegin=167295|AlignEnd=167509|GE=[IMP-ACC]|nWord=58|RX=[MV]
 2	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=167509|AlignEnd=167722|GE=[marteler,]|nWord=58|RX=[V]
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp:obj	_	AlignBegin=167722|AlignEnd=168149|GE=[chose]|nWord=59|RX=[N]
 4	nɛ̀	nɛ̀	ADP	FCT	_	2	mod	_	AlignBegin=168149|AlignEnd=168576|GE=[avec]|nWord=60|RX=[FCT]
 5	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	4	comp	_	AlignBegin=168576|AlignEnd=169004|GE=[marteau_de_forge]|nWord=61|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_085j-085j
+# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí
-# phonetic_text = nǎm kpèè síkɔ̀rí
-# text_fr =  je cherche ainsi une chrysallide
+# phonetic_text = nǎm kpèè síkɔ̀rí //
+# text_fr =  je cherche ainsi une chrysallide //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=169004|AlignEnd=169145|GE=[et_ainsi]|nWord=62|RX=[COORD]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	5	subj	_	AlignBegin=169145|AlignEnd=169286|GE=[1SG]|nWord=62|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=169286|AlignEnd=169428|GE=[MT]|nWord=62|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=169428|AlignEnd=169569|GE=[ACC]|nWord=63|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=169428|AlignEnd=169569|GE=[ACC]|nWord=63|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=169569|AlignEnd=169710|GE=[chercher_attentivement]|nWord=63|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=169710|AlignEnd=169852|GE=[MT]|nWord=63|RX=[MOD]
 7	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	5	comp:obj	_	AlignBegin=169852|AlignEnd=170276|GE=[chrysallide]|nWord=64|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_085k-085k
+# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 142543, 171974
-# text = B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
-# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀
-# text_fr = frappe avec le marteau de forge
-1	B-	B-	AUX	MV	_	2	aux	_	AlignBegin=170276|AlignEnd=170488|GE=[IMP-ACC]|nWord=65|RX=[MV]
+# phonetic_text = ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ //
+# text_fr = frappe avec le marteau de forge //
+1	B-	B-	AUX	MV	Aspect=Perf	2	aux	_	AlignBegin=170276|AlignEnd=170488|GE=[IMP-ACC]|nWord=65|RX=[MV]
 2	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=170488|AlignEnd=170700|GE=[marteler,]|nWord=65|RX=[V]
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp:obj	_	AlignBegin=170700|AlignEnd=171124|GE=[chose]|nWord=66|RX=[N]
 4	nɛ̀	nɛ̀	ADP	FCT	_	2	mod	_	AlignBegin=171124|AlignEnd=171548|GE=[avec]|nWord=67|RX=[FCT]
 5	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	4	comp	_	AlignBegin=171548|AlignEnd=171974|GE=[marteau_de_forge]|nWord=68|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_086-086
+# text = ʔá̰-nàá kùrá hɛ̌n hḭ̀ḭ́
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 171974, 173130
-# text = ʔá̰-nàá kùrá hɛ̌n hḭ̀ḭ́
-# phonetic_text = ʔá̰-nàá kùrá hɛ̌n hḭ̀ḭ́
-# text_fr =  Voilà qu'il part de là.
+# phonetic_text = ʔá̰-nàá kùrá hɛ̌n hḭ̀ḭ́ //
+# text_fr =  Voilà qu'il part de là //
 1-3	ʔá̰-nàá	ʔá̰-nàá	_	_	_	_	_	_	_
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	SCONJ	SUB	_	5	cc	_	AlignBegin=171974|AlignEnd=172070|GE=[voilà_que]|nWord=1|RX=[SUB]
-2	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=172070|AlignEnd=172166|GE=[3S]|nWord=1|RX=[PR]
+2	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=172070|AlignEnd=172166|GE=[3SG]|nWord=1|RX=[PR]
 3	-H	-H	X	FCT	_	2	aff	_	AlignBegin=172166|AlignEnd=172263|GE=[D]|nWord=1|RX=[FCT]
 4-6	kùrá	kùrá	_	_	_	_	_	_	_
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=172263|AlignEnd=172359|GE=[ACC]|nWord=2|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=172263|AlignEnd=172359|GE=[ACC]|nWord=2|RX=[MV]
 5	kur	kur	VERB	V	_	0	root	_	AlignBegin=172359|AlignEnd=172455|GE=[se_lever]|nWord=2|RX=[V]
 6	-H	-H	X	FCT	_	5	aff	_	AlignBegin=172455|AlignEnd=172552|GE=[D]|nWord=2|RX=[FCT]
 7-8	hɛ̌n	hɛ̌n	_	_	_	_	_	_	_
@@ -1496,35 +1499,35 @@
 9	hḭ̀ḭ́	hḭ̀ḭ́	ADV	ADV	_	7	comp	_	AlignBegin=172841|AlignEnd=173130|GE=[là-ANAPH]|nWord=4
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_087-087
+# text = ʔá̰-nàá yàká.
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 173130, 173834
-# text = ʔá̰-nàá yàká.
-# phonetic_text = ʔá̰-nàá yàká.
-# text_fr =  Voilà qu'il s'en va.
+# phonetic_text = ʔá̰-nàá yàká //
+# text_fr =  Voilà qu'il s'en va //
 1-3	ʔá̰-nàá	ʔá̰-nàá	_	_	_	_	_	_	_
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=173130|AlignEnd=173247|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=173247|AlignEnd=173364|GE=[3SG]|nWord=1|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=173364|AlignEnd=173482|GE=[voilà_que]|nWord=1|RX=[MOD]
 4-5	yàká.	yàká.	_	_	_	_	_	_	_
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=173482|AlignEnd=173658|GE=[ACC]|nWord=2|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=173482|AlignEnd=173658|GE=[ACC]|nWord=2|RX=[MV]
 5	yak	yak	VERB	V	_	0	root	_	AlignBegin=173658|AlignEnd=173834|GE=[partir]|nWord=2|RX=[V]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_088-088
+# text = ʔà̰ kpá nàà kɔ̰́à̰ sɛ̌n hḭ̀ḭ́ ná
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 173834, 174994
-# text = ʔà̰ kpá nàà kɔ̰́à̰ sɛ̌n hḭ̀ḭ́ ná
-# phonetic_text = ʔà̰ kpá nàà kɔ̰́à̰ sɛ̌n hḭ̀ḭ́ ná
-# text_fr =  Il n'a pas trouvé là sa mère.
-1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=173834|AlignEnd=174000|GE=[3S]|nWord=1|RX=[PERS]
+# phonetic_text = ʔà̰ kpá nàà kɔ̰́à̰ sɛ̌n hḭ̀ḭ́ ná //
+# text_fr =  Il n'a pas trouvé là sa mère //
+1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=173834|AlignEnd=174000|GE=[3SG]|nWord=1|RX=[PERS]
 2-3	kpá	kpá	_	_	_	_	_	_	_
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=174000|AlignEnd=174083|GE=[INAC]|nWord=2|RX=[MV]
 3	kpa	kpa	VERB	V	_	0	root	_	AlignBegin=174083|AlignEnd=174166|GE=[trouver]|nWord=2|RX=[V]
 4	nàà	nàà	NOUN	N	_	3	comp:obj	_	AlignBegin=174166|AlignEnd=174332|GE=[mère]|nWord=3|RX=[N]
 5-6	kɔ̰́à̰	kɔ̰́à̰	_	_	_	_	_	_	_
 5	kɔ́	kɔ́	ADP	FCT	_	4	udep	_	AlignBegin=174332|AlignEnd=174415|GE=[de]|nWord=4|RX=[FCT]
-6	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	comp	_	AlignBegin=174415|AlignEnd=174498|GE=[3S]|nWord=4|RX=[PERS]
+6	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	comp	_	AlignBegin=174415|AlignEnd=174498|GE=[3SG]|nWord=4|RX=[PERS]
 7-8	sɛ̌n	sɛ̌n	_	_	_	_	_	_	_
 7	sɛ̀n	sɛ̀n	ADP	FCT	_	3	comp:obl	_	AlignBegin=174498|AlignEnd=174581|GE=[dans]|nWord=5|RX=[FCT]
 8	-H	-H	X	FCT	_	7	aff	_	AlignBegin=174581|AlignEnd=174664|GE=[D]|nWord=5|RX=[FCT]
@@ -1532,22 +1535,22 @@
 10	ná	ná	PART	MV	Polarity=Neg	3	mod	_	AlignBegin=174830|AlignEnd=174994|GE=[NEG]|nWord=7|RX=[MV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_089-090
+# text = ʔá̰-nàá pèà gbó sɛ̌n gàlò ká̰à̰ kpa nàà =à̰
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 174994, 178653
-# text = ʔá̰-nàá pèà gbó sɛ̌n gàlò ká̰à̰ kpa nàà =à̰
-# phonetic_text = ʔá̰-nàá pèà gbó sɛ̌n gàlò ká̰à̰ kpa nàà =à̰
-# text_fr =  Voilà qu'il revient et arrive à Galo // alors il trouve sa mère [erreur].
+# phonetic_text = ʔá̰-nàá pèà gbó sɛ̌n gàlò // ká̰à̰ kpa nàà kɔ̰́à //
+# text_fr =  Voilà qu'il revient et arrive à Galo // alors il trouve sa mère [erreur du locuteur] //
 1-3	ʔá̰-nàá	ʔá̰-nàá	_	_	_	_	_	_	_
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=174994|AlignEnd=175158|GE=[voilà_que]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	AlignBegin=175158|AlignEnd=175322|GE=[3SG]|nWord=1|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=175322|AlignEnd=175486|GE=[MT]|nWord=1|RX=[MOD]
 4-6	pèà	pèà	_	_	_	_	_	_	_
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=175486|AlignEnd=175650|GE=[ACC]|nWord=2|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=175486|AlignEnd=175650|GE=[ACC]|nWord=2|RX=[MV]
 5	pei	pei	VERB	V	_	0	root	_	AlignBegin=175650|AlignEnd=175814|GE=[revenir]|nWord=2|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=175814|AlignEnd=175978|GE=[MT]|nWord=2|RX=[MOD]
 7-8	gbó	gbó	_	_	_	_	_	_	_
-7	H-	H-	AUX	MV	Aspect=Pfv	8	aux	_	AlignBegin=175978|AlignEnd=176224|GE=[INF].[ACC]|nWord=3|RX=[MV]
+7	H-	H-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=175978|AlignEnd=176224|GE=[INF].[ACC]|nWord=3|RX=[MV]
 8	gbo	gbo	VERB	V	_	5	comp:svc	_	AlignBegin=176224|AlignEnd=176470|GE=[arriver]|nWord=3|RX=[V]
 9-10	sɛ̌n	sɛ̌n	_	_	_	_	_	_	_
 9	sɛ̀n	sɛ̀n	ADP	FCT	_	8	comp:obl	_	AlignBegin=176470|AlignEnd=176716|GE=[dans]|nWord=4|RX=[FCT]
@@ -1563,21 +1566,21 @@
 17	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	16	comp	_	AlignBegin=178352|AlignEnd=178653|GE=[3SG]|nWord=9|RX=[PERS]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_091-091
+# text = ká̰à̰ sìà gbó nɛ̀ ɗòŋ ká sá wàn-dòè-mɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 178653, 181080
-# text = ká̰à̰ sìà gbó nɛ̀ ɗòŋ ká sá wàn-dòè-mɔ̀
-# phonetic_text = ká̰à̰ sìà gbó nɛ̀ ɗòŋ ká sá wàn-dòè-mɔ̀
-# text_fr =  Alors il s'en va et retourne en arrière et appelle le forgeron.
+# phonetic_text = ká̰à̰ sìà gbó nɛ̀ ɗòŋ ká sá wàn-dòè-mɔ̀ //
+# text_fr =  Alors il s'en va retourner en arrière et appelle le forgeron //
 1-2	ká̰à̰	ká̰à̰	_	_	_	_	_	_	_
 1	ká	ká	CCONJ	COORD	_	4	cc	_	AlignBegin=178653|AlignEnd=178805|GE=[alors]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	4	subj	_	AlignBegin=178805|AlignEnd=178956|GE=[3SG]|nWord=1|RX=[PERS]
 3-5	sìà	sìà	_	_	_	_	_	_	_
-3	BHa-	BHa-	AUX	MV	Aspect=Pfv	4	aux	_	AlignBegin=178956|AlignEnd=179057|GE=[ACC]|nWord=2|RX=[MV]
+3	BHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=178956|AlignEnd=179057|GE=[ACC]|nWord=2|RX=[MV]
 4	si	si	VERB	V	_	0	root	_	AlignBegin=179057|AlignEnd=179158|GE=[s'en_aller]|nWord=2|RX=[V]
 5	-H	-H	X	MOD	_	4	aff	_	AlignBegin=179158|AlignEnd=179259|GE=[MT]|nWord=2|RX=[MOD]
 6-7	gbó	gbó	_	_	_	_	_	_	_
-6	H-	H-	AUX	MV	Aspect=Pfv	7	aux	_	AlignBegin=179259|AlignEnd=179411|GE=[INF-ACC]|nWord=3|RX=[MV]
+6	H-	H-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=179259|AlignEnd=179411|GE=[INF-ACC]|nWord=3|RX=[MV]
 7	gbo	gbo	VERB	V	_	4	comp:svc	_	AlignBegin=179411|AlignEnd=179562|GE=[arriver]|nWord=3|RX=[V]
 8	nɛ̀	nɛ̀	ADP	FCT	_	7	comp:obl	_	AlignBegin=179562|AlignEnd=179865|GE=[par]|nWord=4|RX=[FCT]
 9	ɗòŋ	ɗòŋ	ADV	ADV	_	8	comp	_	AlignBegin=179865|AlignEnd=180168|GE=[en_arrière]|nWord=5|RX=[ADV]
@@ -1588,12 +1591,12 @@
 13	wàn-dòè-mɔ̀	wàn-dòè-mɔ̀	NOUN	N	_	12	comp:obj	_	AlignBegin=180774|AlignEnd=181080|GE=[forgeron]|nWord=8|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_092-094
+# text = sá ʔà̰ sá sàrà dáà ʔɛ̀nɛ̀ há̰ bé dɔ̀nɔ̀ hám, ʔám dɛ́ nɛ̀ nú pàyà kɔ́mmɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 181080, 185180
-# text = sá ʔà̰ sá sàrà dáà ʔɛ̀nɛ̀ há̰ bé dɔ̀nɔ̀ hám, ʔám dɛ́ nɛ̀ nú pàyà kɔ́mmɛ̀
-# phonetic_text = sá ʔà̰ sá sàrà dáà ʔɛ̀nɛ̀ há̰ bé dɔ̀nɔ̀ hám, ʔám dɛ́ nɛ̀ nú pàyà kɔ́ =ám -ɛ̰̀
-# text_fr =  Voilà qu'il appelle // Père! donnez moi le petit marteau de forge // que j'affute avec la lame de mon couteau ici.
+# phonetic_text = sá ʔà̰ sá sàrà // dáà ʔɛ̀nɛ̀ há̰ bé dɔ̀nɔ̀ hám // ʔám dɛ́ nɛ̀ nú pàyà kɔ́mmɛ̀ //
+# text_fr =  Voilà qu'il appelle // Père! donnez moi le petit marteau de forge // que j'affute avec la lame de mon couteau ici //
 1	sá	sá	CCONJ	COORD	_	4	cc	_	AlignBegin=181080|AlignEnd=181197|GE=[mais]|nWord=1|RX=[COORD]
 2	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	4	subj	_	AlignBegin=181197|AlignEnd=181314|GE=[3SG]|nWord=2|RX=[PERS]
 3-4	sá	sá	_	_	_	_	_	_	_
@@ -1625,12 +1628,12 @@
 23	-ɛ̰̀	-ɛ̰̀	DET	MOD	Case=Loc	22	det	_	AlignBegin=185113|AlignEnd=185180|GE=[LOC]|nWord=22|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_095-095
+# text = kàm -H ɗoŋ táá tí ká ʔó mà béí nɛ̀ BHa- kɔ̰̀ám kɔ́wà BHa- há̰ gèɗà hám H- ɲɔŋ nɛ̀nɛ́ɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 185180, 188743
-# text = kàm ɗóŋ táá tí ká ʔó mà béí nɛ̀ BHa- kɔ̰̀ám kɔ́wà hà̰á̰ gèɗà hám ɲɔ́ŋ nɛ̀nɛ́ɛ̀
-# phonetic_text = kàm ɗóŋ táá tí ká ʔó mà béí nɛ̀ BHa- kɔ̰̀ám kɔ́wà hà̰á̰ gèɗà hám ɲɔ́ŋ nɛ̀nɛ́ɛ̀
-# text_fr =  Lorsque j'avance, quand des gens qui m'aiment me donneront du manioc je m'en servirai pour le manger.
+# phonetic_text = kàm ɗóŋ táá tí ká ʔó mà béí nɛ̀ kɔ̰̀ám kɔ́wà hà̰á̰ gèɗà hám ɲɔ́ŋ nɛ̀nɛ́ɛ̀ //
+# text_fr =  Lorsque j'avance, quand des gens qui m'aiment me donneront du manioc pour que je le mange //
 1-2	kàm	kàm	_	_	_	_	_	_	_
 1	kà	kà	SCONJ	SUB	_	19	mod	_	AlignBegin=185180|AlignEnd=185292|GE=[quand]|nWord=1|RX=[SUB]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	4	subj	_	AlignBegin=185292|AlignEnd=185403|GE=[1SG]|nWord=1|RX=[PERS]
@@ -1668,25 +1671,25 @@
 27	-T.inverse	-T.inverse	DET	MOD	_	26	det	_	AlignBegin=188634|AlignEnd=188743|GE=[INS]|nWord=16|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_096-096
+# text = ʔèè ʔá̰-nɛ̀ =à̰ -H ʔá̰-nɛ̀ =wà -H BHa- ha̰ -H bé dɔ̀nɔ̀ há =à̰ ʔèè -H nɛ̀ =à̰ H- ʔe nú =à sɛ̀nɛ́̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 188743, 220670
-# text = ʔèè ʔá̰-nɛ̀ =à̰ -H ʔá̰-nɛ̀ =wà -H BHa- ha̰ -H bé dɔ̀nɔ̀ há =à̰ ʔèè -H nɛ̀ =à̰ H- ʔe nú =à sɛ̀nɛ́̀
-# phonetic_text = ʔèè / ʔá̰-nàà ʔá̰-ndɔ̀wá hà̰à̰ bé dɔ̀nɔ̀ há̰à̰ ʔèé nàà ʔé núà sɛ̀nɛ́
+# phonetic_text = ʔèè ʔá̰-nàà ʔá̰-ndɔ̀wá hà̰à̰ bé dɔ̀nɔ̀ há̰à̰ // ʔèé nàà ʔé núà sɛ̀nɛ́ //
 1	ʔèè	ʔèè	CCONJ	COORD	_	9	cc	_	AlignBegin=192733|AlignEnd=192851|GE=[puis]|nWord=1|RX=[COORD]
 2	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	9	cc	_	AlignBegin=192733|AlignEnd=192851|GE=[voilà_que]|nWord=1|RX=[COORD]
-3	=à̰	ʔà̰	PRON	COORD	_	9	subj	_	AlignBegin=192733|AlignEnd=192851|GE=[3SG]|nWord=1|RX=[PERS]
+3	=à̰	ʔà̰	PRON	COORD	Number=Sing|Person=3	9	subj	_	AlignBegin=192733|AlignEnd=192851|GE=[3SG]|nWord=1|RX=[PERS]
 4	-H	-H	X	COORD	_	3	aff	_	AlignBegin=192733|AlignEnd=192851|GE=[MT]|nWord=1|RX=[MOD]
 5	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	2	conj:dicto	_	AlignBegin=192733|AlignEnd=192851|GE=[voilà_que]|nWord=1|RX=[COORD]
-6	=wà	wà	PRON	COORD	_	3	conj:dicto	_	AlignBegin=192733|AlignEnd=192851|GE=[3POL]|nWord=1|RX=[PERS]
+6	=wà	wà	PRON	COORD	Person=3	3	conj:dicto	_	AlignBegin=192733|AlignEnd=192851|GE=[3POL]|nWord=1|RX=[PERS]
 7	-H	-H	X	COORD	_	6	aff	_	AlignBegin=192733|AlignEnd=192851|GE=[MT]|nWord=1|RX=[MOD]
-8	BHa-	BHa-	AUX	COORD	_	9	aux	_	AlignBegin=192733|AlignEnd=192851|GE=[ACC]|nWord=1|RX=[MV]
+8	BHa-	BHa-	AUX	COORD	Aspect=Perf	9	aux	_	AlignBegin=192733|AlignEnd=192851|GE=[ACC]|nWord=1|RX=[MV]
 9	ha̰	ha̰	VERB	COORD	_	0	root	_	AlignBegin=192733|AlignEnd=192851|GE=[donner]|nWord=1|RX=[V]
 10	-H	-H	X	COORD	_	9	aff	_	AlignBegin=192733|AlignEnd=192851|GE=[MT]|nWord=1|RX=[MOD]
 11	bé	bé	ADJ	COORD	_	12	mod	_	AlignBegin=192733|AlignEnd=192851|GE=[petit]|nWord=1|RX=[ADJ]
 12	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	COORD	_	9	comp:obj	_	AlignBegin=192733|AlignEnd=192851|GE=[marteau_de_forge]|nWord=1|RX=[N]
 13	há	há	ADP	COORD	_	9	comp:obl	_	AlignBegin=192733|AlignEnd=192851|GE=[pour]|nWord=1|RX=[PREP]
-14	=à̰	ʔà̰	PRON	COORD	_	13	comp	_	AlignBegin=192733|AlignEnd=192851|GE=[3SG]|nWord=1|RX=[PERS]
+14	=à̰	ʔà̰	PRON	COORD	Number=Sing|Person=3	13	comp	_	AlignBegin=192733|AlignEnd=192851|GE=[3SG]|nWord=1|RX=[PERS]
 15	ʔèè	ʔèè	CCONJ	COORD	_	20	cc	_	AlignBegin=192733|AlignEnd=192851|GE=[puis]|nWord=1|RX=[COORD]
 16	-H	-H	X	MOD	_	15	aff	_	AlignBegin=192851|AlignEnd=192969|GE=[MT]|nWord=1|RX=[MOD]
 17	nɛ̀	nɛ̀	CCONJ	COORD	_	20	cc	_	AlignBegin=192969|AlignEnd=193087|GE=[et_ainsi]|nWord=2|RX=[COORD]
@@ -1698,20 +1701,20 @@
 23	sɛ̀nɛ́̀	sɛ̀nɛ́̀	PART	MV	_	20	mod	_	AlignBegin=193677|AlignEnd=193914|GE=[dedans]|nWord=5|RX=[MV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_097-106
+# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 188743, 220670
-# text = nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀ nɛ̀ =ám -H BHa- kpe -H síkɔ̀rí B- ngboi mɔ̀ nɛ̀ dɔ̀nɔ̀
-# phonetic_text = nǎm kpèè síkɔ̀rí  ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ nǎm kpèè síkɔ̀rí  ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ nǎm kpèè síkɔ̀rí  ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ nǎm kpèè síkɔ̀rí  ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ nǎm kpèè síkɔ̀rí  ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ nǎm kpèè síkɔ̀rí  ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ nǎm kpèè síkɔ̀rí  ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ nǎm kpèè síkɔ̀rí  ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀
-# text_fr =  je cherche ainsi une chrysallide // frappe avec le marteau de forge// je cherche ainsi une chrysallide // frappe avec le marteau de forge // je cherche ainsi une chrysallide [****] frappe avec le marteau de forg, je cherche ainsi une chrysallide [****] frappe avec le marteau de forg, je cherche ainsi une chrysallide [****] frappe avec le marteau de forg, je cherche ainsi une chrysallide [****] frappe avec le marteau de forg, je cherche ainsi une chrysallide [****] frappe avec le marteau de forg, je cherche ainsi une chrysallide [****] frappe avec le marteau de forg, je cherche ainsi une chrysallide [****] frappe avec le marteau de forge.
+# phonetic_text = nǎm kpèè síkɔ̀rí // ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ //nǎm kpèè síkɔ̀rí // ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ // nǎm kpèè síkɔ̀rí // ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ // nǎm kpèè síkɔ̀rí //  ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ // nǎm kpèè síkɔ̀rí  // ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ // nǎm kpèè síkɔ̀rí // ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ // nǎm kpèè síkɔ̀rí // ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ // nǎm kpèè síkɔ̀rí // ngbòì mɔ̀ nɛ̀ dɔ̀nɔ̀ //
+# text_fr =  je cherche ainsi une chrysallide // frappe avec le marteau de forge// je cherche ainsi une chrysallide // frappe avec le marteau de forge // je cherche ainsi une chrysallide // frappe avec le marteau de forge //  je cherche ainsi une chrysallide // frappe avec le marteau de forge // je cherche ainsi une chrysallide // frappe avec le marteau de forge// je cherche ainsi une chrysallide // frappe avec le marteau de forge// je cherche ainsi une chrysallide // frappe avec le marteau de forge // je cherche ainsi une chrysallide // frappe avec le marteau de forge // je cherche ainsi une chrysallide // frappe avec le marteau de forge //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=193914|AlignEnd=194062|GE=[et_ainsi]|nWord=6|RX=[COORD]
 2	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	5	subj	_	AlignBegin=194062|AlignEnd=194210|GE=[1SG]|nWord=6|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=194210|AlignEnd=194358|GE=[MT]|nWord=6|RX=[MOD]
-4	BHa-	BHa-	AUX	MV	Aspect=Pfv	5	aux	_	AlignBegin=194358|AlignEnd=194506|GE=[ACC]|nWord=7|RX=[MV]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=194358|AlignEnd=194506|GE=[ACC]|nWord=7|RX=[MV]
 5	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=194506|AlignEnd=194654|GE=[chercher_attentivement]|nWord=7|RX=[V]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=194654|AlignEnd=194802|GE=[MT]|nWord=7|RX=[MOD]
 7	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	5	comp:obj	_	AlignBegin=194802|AlignEnd=195246|GE=[chrysallide]|nWord=8|RX=[N]
-8	B-	B-	AUX	MV	_	9	aux	_	AlignBegin=195246|AlignEnd=195468|GE=[IMP-ACC]|nWord=9|RX=[MV]
+8	B-	B-	AUX	MV	Aspect=Perf	9	aux	_	AlignBegin=195246|AlignEnd=195468|GE=[IMP-ACC]|nWord=9|RX=[MV]
 9	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=195468|AlignEnd=195690|GE=[marteler,]|nWord=9|RX=[V]
 10	mɔ̀	mɔ̀	NOUN	N	_	9	comp:obj	_	AlignBegin=195690|AlignEnd=196134|GE=[chose]|nWord=10|RX=[N]
 11	nɛ̀	nɛ̀	ADP	FCT	_	9	comp:obl	_	AlignBegin=196134|AlignEnd=196578|GE=[avec]|nWord=11|RX=[FCT]
@@ -1719,11 +1722,11 @@
 13	nɛ̀	nɛ̀	CCONJ	COORD	_	17	cc	_	AlignBegin=197019|AlignEnd=197166|GE=[et_ainsi]|nWord=13|RX=[COORD]
 14	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	17	subj	_	AlignBegin=197166|AlignEnd=197313|GE=[1SG]|nWord=13|RX=[PERS]
 15	-H	-H	X	MOD	_	14	aff	_	AlignBegin=197313|AlignEnd=197461|GE=[MT]|nWord=13|RX=[MOD]
-16	BHa-	BHa-	AUX	MV	Aspect=Pfv	17	aux	_	AlignBegin=197461|AlignEnd=197608|GE=[ACC]|nWord=14|RX=[MV]
+16	BHa-	BHa-	AUX	MV	Aspect=Perf	17	aux	_	AlignBegin=197461|AlignEnd=197608|GE=[ACC]|nWord=14|RX=[MV]
 17	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=197608|AlignEnd=197755|GE=[chercher_attentivement]|nWord=14|RX=[V]
 18	-H	-H	AUX	MOD	_	17	aff	_	AlignBegin=197755|AlignEnd=197903|GE=[MT]|nWord=14|RX=[MOD]
 19	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	17	comp:obj	_	AlignBegin=197903|AlignEnd=198345|GE=[chrysallide]|nWord=15|RX=[N]
-20	B-	B-	AUX	MV	_	21	aux	_	AlignBegin=198345|AlignEnd=198566|GE=[IMP-ACC]|nWord=16|RX=[MV]
+20	B-	B-	AUX	MV	Aspect=Perf	21	aux	_	AlignBegin=198345|AlignEnd=198566|GE=[IMP-ACC]|nWord=16|RX=[MV]
 21	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=198566|AlignEnd=198787|GE=[marteler,]|nWord=16|RX=[V]
 22	mɔ̀	mɔ̀	NOUN	N	_	21	comp:obj	_	AlignBegin=198787|AlignEnd=199229|GE=[chose]|nWord=17|RX=[N]
 23	nɛ̀	nɛ̀	ADP	FCT	_	21	comp:obl	_	AlignBegin=199229|AlignEnd=199671|GE=[avec]|nWord=18|RX=[FCT]
@@ -1731,11 +1734,11 @@
 25	nɛ̀	nɛ̀	CCONJ	COORD	_	29	cc	_	AlignBegin=200115|AlignEnd=200260|GE=[et_ainsi]|nWord=20|RX=[COORD]
 26	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	29	subj	_	AlignBegin=200260|AlignEnd=200405|GE=[1SG]|nWord=20|RX=[PERS]
 27	-H	-H	X	MOD	_	26	aff	_	AlignBegin=200405|AlignEnd=200551|GE=[MT]|nWord=20|RX=[MOD]
-28	BHa-	BHa-	AUX	MV	Aspect=Pfv	29	aux	_	AlignBegin=200551|AlignEnd=200696|GE=[ACC]|nWord=21|RX=[MV]
+28	BHa-	BHa-	AUX	MV	Aspect=Perf	29	aux	_	AlignBegin=200551|AlignEnd=200696|GE=[ACC]|nWord=21|RX=[MV]
 29	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=200696|AlignEnd=200841|GE=[chercher_attentivement]|nWord=21|RX=[V]
 30	-H	-H	X	MOD	_	29	aff	_	AlignBegin=200841|AlignEnd=200987|GE=[MT]|nWord=21|RX=[MOD]
 31	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	29	comp:obj	_	AlignBegin=200987|AlignEnd=201423|GE=[chrysallide]|nWord=22|RX=[N]
-32	B-	B-	AUX	MV	_	33	aux	_	AlignBegin=201423|AlignEnd=201641|GE=[IMP-ACC]|nWord=23|RX=[MV]
+32	B-	B-	AUX	MV	Aspect=Perf	33	aux	_	AlignBegin=201423|AlignEnd=201641|GE=[IMP-ACC]|nWord=23|RX=[MV]
 33	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=201641|AlignEnd=201859|GE=[marteler,]|nWord=23|RX=[V]
 34	mɔ̀	mɔ̀	NOUN	N	_	33	comp:obj	_	AlignBegin=201859|AlignEnd=202295|GE=[chose]|nWord=24|RX=[N]
 35	nɛ̀	nɛ̀	ADP	FCT	_	33	comp:obl	_	AlignBegin=202295|AlignEnd=202731|GE=[avec]|nWord=25|RX=[FCT]
@@ -1743,11 +1746,11 @@
 37	nɛ̀	nɛ̀	CCONJ	COORD	_	41	cc	_	AlignBegin=203170|AlignEnd=203304|GE=[et_ainsi]|nWord=27|RX=[COORD]
 38	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	41	subj	_	AlignBegin=203304|AlignEnd=203438|GE=[1SG]|nWord=27|RX=[PERS]
 39	-H	-H	X	MOD	_	38	aff	_	AlignBegin=203438|AlignEnd=203573|GE=[MT]|nWord=27|RX=[MOD]
-40	BHa-	BHa-	AUX	MV	Aspect=Pfv	41	aux	_	AlignBegin=203573|AlignEnd=203707|GE=[ACC]|nWord=28|RX=[MV]
+40	BHa-	BHa-	AUX	MV	Aspect=Perf	41	aux	_	AlignBegin=203573|AlignEnd=203707|GE=[ACC]|nWord=28|RX=[MV]
 41	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=203707|AlignEnd=203841|GE=[chercher_attentivement]|nWord=28|RX=[V]
 42	-H	-H	X	MOD	_	41	aff	_	AlignBegin=203841|AlignEnd=203976|GE=[MT]|nWord=28|RX=[MOD]
 43	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	41	comp:obj	_	AlignBegin=203976|AlignEnd=204379|GE=[chrysallide]|nWord=29|RX=[N]
-44	B-	B-	AUX	MV	_	45	aux	_	AlignBegin=204379|AlignEnd=204581|GE=[IMP-ACC]|nWord=30|RX=[MV]
+44	B-	B-	AUX	MV	Aspect=Perf	45	aux	_	AlignBegin=204379|AlignEnd=204581|GE=[IMP-ACC]|nWord=30|RX=[MV]
 45	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=204581|AlignEnd=204782|GE=[marteler,]|nWord=30|RX=[V]
 46	mɔ̀	mɔ̀	NOUN	N	_	45	comp:obj	_	AlignBegin=204782|AlignEnd=205185|GE=[chose]|nWord=31|RX=[N]
 47	nɛ̀	nɛ̀	ADP	FCT	_	45	comp:obl	_	AlignBegin=205185|AlignEnd=205588|GE=[avec]|nWord=32|RX=[FCT]
@@ -1755,11 +1758,11 @@
 49	nɛ̀	nɛ̀	CCONJ	COORD	_	53	cc	_	AlignBegin=205994|AlignEnd=206138|GE=[et_ainsi]|nWord=34|RX=[COORD]
 50	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	53	subj	_	AlignBegin=206138|AlignEnd=206282|GE=[1SG]|nWord=34|RX=[PERS]
 51	-H	-H	X	MOD	_	50	aff	_	AlignBegin=206282|AlignEnd=206426|GE=[MT]|nWord=34|RX=[MOD]
-52	BHa-	BHa-	AUX	MV	Aspect=Pfv	53	aux	_	AlignBegin=206426|AlignEnd=206570|GE=[ACC]|nWord=35|RX=[MV]
+52	BHa-	BHa-	AUX	MV	Aspect=Perf	53	aux	_	AlignBegin=206426|AlignEnd=206570|GE=[ACC]|nWord=35|RX=[MV]
 53	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=206570|AlignEnd=206714|GE=[chercher_attentivement]|nWord=35|RX=[V]
 54	-H	-H	X	MOD	_	53	aff	_	AlignBegin=206714|AlignEnd=206858|GE=[MT]|nWord=35|RX=[MOD]
 55	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	53	comp:obj	_	AlignBegin=206858|AlignEnd=207290|GE=[chrysallide]|nWord=36|RX=[N]
-56	B-	B-	AUX	MV	_	57	aux	_	AlignBegin=207290|AlignEnd=207506|GE=[IMP-ACC]|nWord=37|RX=[MV]
+56	B-	B-	AUX	MV	Aspect=Perf	57	aux	_	AlignBegin=207290|AlignEnd=207506|GE=[IMP-ACC]|nWord=37|RX=[MV]
 57	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=207506|AlignEnd=207722|GE=[marteler,]|nWord=37|RX=[V]
 58	mɔ̀	mɔ̀	NOUN	N	_	57	comp:obj	_	AlignBegin=207722|AlignEnd=208154|GE=[chose]|nWord=38|RX=[N]
 59	nɛ̀	nɛ̀	ADP	FCT	_	57	comp:obl	_	AlignBegin=208154|AlignEnd=208586|GE=[avec]|nWord=39|RX=[FCT]
@@ -1767,11 +1770,11 @@
 61	nɛ̀	nɛ̀	CCONJ	COORD	_	65	cc	_	AlignBegin=209019|AlignEnd=209158|GE=[et_ainsi]|nWord=41|RX=[COORD]
 62	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	65	subj	_	AlignBegin=209158|AlignEnd=209297|GE=[1SG]|nWord=41|RX=[PERS]
 63	-H	-H	X	MOD	_	62	aff	_	AlignBegin=209297|AlignEnd=209435|GE=[MT]|nWord=41|RX=[MOD]
-64	BHa-	BHa-	AUX	MV	Aspect=Pfv	65	aux	_	AlignBegin=209435|AlignEnd=209574|GE=[ACC]|nWord=42|RX=[MV]
+64	BHa-	BHa-	AUX	MV	Aspect=Perf	65	aux	_	AlignBegin=209435|AlignEnd=209574|GE=[ACC]|nWord=42|RX=[MV]
 65	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=209574|AlignEnd=209713|GE=[chercher_attentivement]|nWord=42|RX=[V]
 66	-H	-H	X	MOD	_	65	aff	_	AlignBegin=209713|AlignEnd=209851|GE=[MT]|nWord=42|RX=[MOD]
 67	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	65	comp:obj	_	AlignBegin=209851|AlignEnd=210267|GE=[chrysallide]|nWord=43|RX=[N]
-68	B-	B-	AUX	MV	_	69	aux	_	AlignBegin=210267|AlignEnd=210475|GE=[IMP-ACC]|nWord=44|RX=[MV]
+68	B-	B-	AUX	MV	Aspect=Perf	69	aux	_	AlignBegin=210267|AlignEnd=210475|GE=[IMP-ACC]|nWord=44|RX=[MV]
 69	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=210475|AlignEnd=210683|GE=[marteler,]|nWord=44|RX=[V]
 70	mɔ̀	mɔ̀	NOUN	N	_	69	comp:obj	_	AlignBegin=210683|AlignEnd=211099|GE=[chose]|nWord=45|RX=[N]
 71	nɛ̀	nɛ̀	ADP	FCT	_	69	comp:obl	_	AlignBegin=211099|AlignEnd=211515|GE=[avec]|nWord=46|RX=[FCT]
@@ -1779,11 +1782,11 @@
 73	nɛ̀	nɛ̀	CCONJ	COORD	_	77	cc	_	AlignBegin=211929|AlignEnd=212072|GE=[et_ainsi]|nWord=48|RX=[COORD]
 74	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	77	subj	_	AlignBegin=212072|AlignEnd=212215|GE=[1SG]|nWord=48|RX=[PERS]
 75	-H	-H	X	MOD	_	74	aff	_	AlignBegin=212215|AlignEnd=212357|GE=[MT]|nWord=48|RX=[MOD]
-76	BHa-	BHa-	AUX	MV	Aspect=Pfv	77	aux	_	AlignBegin=212357|AlignEnd=212500|GE=[ACC]|nWord=49|RX=[MV]
+76	BHa-	BHa-	AUX	MV	Aspect=Perf	77	aux	_	AlignBegin=212357|AlignEnd=212500|GE=[ACC]|nWord=49|RX=[MV]
 77	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=212500|AlignEnd=212643|GE=[chercher_attentivement]|nWord=49|RX=[V]
 78	-H	-H	X	MOD	_	77	aff	_	AlignBegin=212643|AlignEnd=212785|GE=[MT]|nWord=49|RX=[MOD]
 79	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	77	comp:obj	_	AlignBegin=212785|AlignEnd=213213|GE=[chrysallide]|nWord=50|RX=[N]
-80	B-	B-	AUX	MV	_	_	_	_	AlignBegin=213213|AlignEnd=213427|GE=[IMP-ACC]|nWord=51|RX=[MV]
+80	B-	B-	AUX	MV	Aspect=Perf	_	_	_	AlignBegin=213213|AlignEnd=213427|GE=[IMP-ACC]|nWord=51|RX=[MV]
 81	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=213427|AlignEnd=213641|GE=[marteler,]|nWord=51|RX=[V]
 82	mɔ̀	mɔ̀	NOUN	N	_	81	comp:obj	_	AlignBegin=213641|AlignEnd=214069|GE=[chose]|nWord=52|RX=[N]
 83	nɛ̀	nɛ̀	ADP	FCT	_	0	root	_	AlignBegin=214069|AlignEnd=214497|GE=[avec]|nWord=53|RX=[FCT]
@@ -1791,11 +1794,11 @@
 85	nɛ̀	nɛ̀	CCONJ	COORD	_	0	root	_	AlignBegin=214923|AlignEnd=215051|GE=[et_ainsi]|nWord=55|RX=[COORD]
 86	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	0	root	_	AlignBegin=215051|AlignEnd=215179|GE=[1SG]|nWord=55|RX=[PERS]
 87	-H	-H	AUX	MOD	_	0	root	_	AlignBegin=215179|AlignEnd=215308|GE=[MT]|nWord=55|RX=[MOD]
-88	BHa-	BHa-	AUX	MV	Aspect=Pfv	89	aux	_	AlignBegin=215308|AlignEnd=215436|GE=[ACC]|nWord=56|RX=[MV]
+88	BHa-	BHa-	AUX	MV	Aspect=Perf	89	aux	_	AlignBegin=215308|AlignEnd=215436|GE=[ACC]|nWord=56|RX=[MV]
 89	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=215436|AlignEnd=215564|GE=[chercher_attentivement]|nWord=56|RX=[V]
 90	-H	-H	AUX	MOD	_	0	root	_	AlignBegin=215564|AlignEnd=215693|GE=[MT]|nWord=56|RX=[MOD]
 91	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	93	subj	_	AlignBegin=215693|AlignEnd=216078|GE=[chrysallide]|nWord=57|RX=[N]
-92	B-	B-	AUX	MV	_	93	aux	_	AlignBegin=216078|AlignEnd=216270|GE=[IMP-ACC]|nWord=58|RX=[MV]
+92	B-	B-	AUX	MV	Aspect=Perf	93	aux	_	AlignBegin=216078|AlignEnd=216270|GE=[IMP-ACC]|nWord=58|RX=[MV]
 93	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=216270|AlignEnd=216463|GE=[marteler,]|nWord=58|RX=[V]
 94	mɔ̀	mɔ̀	NOUN	N	_	93	comp:obj	_	AlignBegin=216463|AlignEnd=216848|GE=[chose]|nWord=59|RX=[N]
 95	nɛ̀	nɛ̀	ADP	FCT	_	0	root	_	AlignBegin=216848|AlignEnd=217233|GE=[avec]|nWord=60|RX=[FCT]
@@ -1803,23 +1806,23 @@
 97	nɛ̀	nɛ̀	CCONJ	COORD	_	0	root	_	AlignBegin=217617|AlignEnd=217762|GE=[et_ainsi]|nWord=62|RX=[COORD]
 98	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	0	root	_	AlignBegin=217762|AlignEnd=217907|GE=[1SG]|nWord=62|RX=[PERS]
 99	-H	-H	AUX	MOD	_	0	root	_	AlignBegin=217907|AlignEnd=218053|GE=[MT]|nWord=62|RX=[MOD]
-100	BHa-	BHa-	AUX	MV	Aspect=Pfv	101	aux	_	AlignBegin=218053|AlignEnd=218198|GE=[ACC]|nWord=63|RX=[MV]
+100	BHa-	BHa-	AUX	MV	Aspect=Perf	101	aux	_	AlignBegin=218053|AlignEnd=218198|GE=[ACC]|nWord=63|RX=[MV]
 101	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=218198|AlignEnd=218343|GE=[chercher_attentivement]|nWord=63|RX=[V]
 102	-H	-H	AUX	MOD	_	0	root	_	AlignBegin=218343|AlignEnd=218489|GE=[MT]|nWord=63|RX=[MOD]
 103	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	105	subj	_	AlignBegin=218489|AlignEnd=218925|GE=[chrysallide]|nWord=64|RX=[N]
-104	B-	B-	AUX	MV	_	105	aux	_	AlignBegin=218925|AlignEnd=219143|GE=[IMP-ACC]|nWord=65|RX=[MV]
+104	B-	B-	AUX	MV	Aspect=Perf	105	aux	_	AlignBegin=218925|AlignEnd=219143|GE=[IMP-ACC]|nWord=65|RX=[MV]
 105	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=219143|AlignEnd=219361|GE=[marteler,]|nWord=65|RX=[V]
 106	mɔ̀	mɔ̀	NOUN	N	_	105	comp:obj	_	AlignBegin=219361|AlignEnd=219797|GE=[chose]|nWord=66|RX=[N]
 107	nɛ̀	nɛ̀	ADP	FCT	_	0	root	_	AlignBegin=219797|AlignEnd=220233|GE=[avec]|nWord=67|RX=[FCT]
 108	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	0	root	_	AlignBegin=220233|AlignEnd=220670|GE=[marteau_de_forge]|nWord=68|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_107-107
+# text = kùɗíà nɛ́ sɛ̀n ndóngé hɛ̰̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 220670, 221949
-# text = kùɗíà nɛ́ sɛ̀n ndóngé hɛ̰̀
-# phonetic_text = kùɗíà nɛ́ sɛ̀n ndóngé hɛ̰̀ ká hɛ̰̀
-# text_fr =  Le dernier village c'est à Ndongué ici .
+# phonetic_text = kùɗíà nɛ́ sɛ̀n ndóngé hɛ̰̀ ká hɛ̰̀ //
+# text_fr =  Le dernier village c'est à Ndongué ici //.
 1-3	kùɗíà	kùɗíà	_	_	_	_	_	_	_
 1	kùɗì	kùɗì	ADJ	AR	_	4	subj	_	AlignBegin=220670|AlignEnd=220755|GE=[fin]|nWord=1|RX=[AR]
 2	-H	-H	X	MOD	_	1	aff	_	AlignBegin=220755|AlignEnd=220840|GE=[MT]|nWord=1|RX=[MOD]
@@ -1830,23 +1833,23 @@
 7	hɛ̰̀	hɛ̰̀	ADV	ADV	_	4	mod	_	AlignBegin=221694|AlignEnd=221736|GE=[ici]|nWord=5|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_108-109
+# text = ká̰à̰ gbòá. ká̰à̰ yàká kpá nàà kɔ̰́à̰ sɛ̌n gàlò ná
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 221949, 225436
-# text = ká̰à̰ gbòá. ká̰à̰ yàká kpá nàà kɔ̰́à̰ sɛ̌n gàlò ná
-# phonetic_text = ká̰à̰ gbòá. ká̰à̰ yàká kpá nàà kɔ̰́à̰ sɛ̌n gàlò ná
-# text_fr =  alors il y arrive // alors il part et ne trouve pas sa mère à Galo.
+# phonetic_text = ká̰à̰ gbòá // ká̰à̰ yàká kpá nàà kɔ̰́à̰ sɛ̌n gàlò ná //
+# text_fr =  alors il y arrive // alors il part et ne trouve pas sa mère à Galo //
 1-2	ká̰à̰	ká̰à̰	_	_	_	_	_	_	_
 1	ká	ká	CCONJ	COORD	_	4	cc	_	AlignBegin=221949|AlignEnd=222149|GE=[alors]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	4	subj	_	AlignBegin=222149|AlignEnd=222349|GE=[3SG]|nWord=1|RX=[PERS]
 3-4	gbòá.	gbòá.	_	_	_	_	_	_	_
-3	BHa-	BHa-	AUX	MV	Aspect=Pfv	4	aux	_	AlignBegin=222349|AlignEnd=222549|GE=[ACC]|nWord=2|RX=[MV]
+3	BHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=222349|AlignEnd=222549|GE=[ACC]|nWord=2|RX=[MV]
 4	gbo	gbo	VERB	V	_	0	root	_	AlignBegin=222549|AlignEnd=222748|GE=[arriver]|nWord=2|RX=[V]
 5-6	ká̰à̰	ká̰à̰	_	_	_	_	_	_	_
 5	ká	ká	CCONJ	COORD	_	8	cc	_	AlignBegin=222748|AlignEnd=222898|GE=[alors]|nWord=3|RX=[COORD]
 6	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	8	subj	_	AlignBegin=222898|AlignEnd=223047|GE=[3SG]|nWord=3|RX=[PERS]
 7-8	yàká	yàká	_	_	_	_	_	_	_
-7	BHa-	BHa-	AUX	MV	Aspect=Pfv	8	aux	_	AlignBegin=223047|AlignEnd=223197|GE=[ACC]|nWord=4|RX=[MV]
+7	BHa-	BHa-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=223047|AlignEnd=223197|GE=[ACC]|nWord=4|RX=[MV]
 8	yak	yak	VERB	V	_	0	root	_	AlignBegin=223197|AlignEnd=223346|GE=[partir]|nWord=4|RX=[V]
 9-10	kpá	kpá	_	_	_	_	_	_	_
 9	H-	H-	AUX	MV	Aspect=Imp	10	aux	_	AlignBegin=223346|AlignEnd=223496|GE=[INAC]|nWord=5|RX=[MV]
@@ -1862,17 +1865,17 @@
 17	ná	ná	PART	MV	Polarity=Neg	10	mod	_	AlignBegin=224841|AlignEnd=225140|GE=[NEG]|nWord=10|RX=[MV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_110-111
+# text = ká̰à̰ ɓɔ̀ná yé nàà tɛ́-kpà nàà kɔ̰́à̰ sɛ̀nɛ́ìí ʔín dáà kɔ̰́à̰, ʔá̰ sɛ̀n ndóngé hɛ̰̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 225436, 229226
-# text = ká̰à̰ ɓɔ̀ná yé nàà tɛ́-kpà nàà kɔ̰́à̰ sɛ̀nɛ́ìí ʔín dáà kɔ̰́à̰, ʔá̰ sɛ̀n ndóngé hɛ̰̀
-# phonetic_text = ká̰à̰ ɓɔ̀ná yé nàà tɛ́-kpà nàà kɔ̰́à̰ sɛ̀nɛ́ìí ʔín dáà kɔ̰́à̰, ʔá̰ sɛ̀n ndóngé hɛ̰̀
-# text_fr =  Il poursuit sa route // Le village où il trouvera sa mère et son père se trouve à Ndongué ici.
+# phonetic_text = ká̰à̰ ɓɔ̀ná // yé nàà tɛ́-kpà nàà kɔ̰́à̰ sɛ̀nɛ́ìí ʔín dáà kɔ̰́à̰, ʔá̰ sɛ̀n ndóngé hɛ̰̀ //
+# text_fr =  Il poursuit sa route // Le village où il trouvera sa mère et son père se trouve à Ndongué ici //
 1-2	ká̰à̰	ká̰à̰	_	_	_	_	_	_	_
 1	ká	ká	CCONJ	COORD	_	4	cc	_	AlignBegin=225436|AlignEnd=225590|GE=[alors]|nWord=1|RX=[COORD]
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	4	subj	_	AlignBegin=225590|AlignEnd=225744|GE=[3SG]|nWord=1|RX=[PERS]
 3-4	ɓɔ̀ná	ɓɔ̀ná	_	_	_	_	_	_	_
-3	BHa-	BHa-	AUX	MV	Aspect=Pfv	4	aux	_	AlignBegin=225744|AlignEnd=225898|GE=[ACC]|nWord=2|RX=[MV]
+3	BHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=225744|AlignEnd=225898|GE=[ACC]|nWord=2|RX=[MV]
 4	ɓɔn	ɓɔn	VERB	V	_	0	root	_	AlignBegin=225898|AlignEnd=226052|GE=[être_encore]|nWord=2|RX=[V]
 5	yé	yé	NOUN	N	_	21	subj	_	AlignBegin=226052|AlignEnd=226296|GE=[village]|nWord=3|RX=[N]
 6-8	nàà	nàà	_	_	_	_	_	_	_
@@ -1914,7 +1917,7 @@
 3	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	6	subj	_	AlignBegin=229533|AlignEnd=229610|GE=[3SG]|nWord=2|RX=[PERS]
 4	-H	-H	X	MOD	_	3	aff	_	AlignBegin=229610|AlignEnd=229686|GE=[voilà_que]|nWord=2|RX=[MOD]
 5-7	yèè	yèè	_	_	_	_	_	_	_
-5	BHa-	BHa-	AUX	MV	Aspect=Pfv	6	aux	_	AlignBegin=229686|AlignEnd=229763|GE=[ACC]|nWord=3|RX=[MV]
+5	BHa-	BHa-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=229686|AlignEnd=229763|GE=[ACC]|nWord=3|RX=[MV]
 6	ye	ye	VERB	V	_	0	root	_	AlignBegin=229763|AlignEnd=229840|GE=[entrer]|nWord=3|RX=[V]
 7	-H	-H	X	MOD	_	6	aff	_	AlignBegin=229840|AlignEnd=229916|GE=[MT]|nWord=3|RX=[MOD]
 8	táá	táá	ADP	FCT	_	6	comp:obl	_	AlignBegin=229916|AlignEnd=230146|GE=[vers]|nWord=4|RX=[FCT]
@@ -1958,32 +1961,33 @@
 13	dɛ	dɛ	VERB	V	_	10	comp	_	AlignBegin=233915|AlignEnd=234064|GE=[faire]|nWord=8|RX=[V]
 14	nɛ̀	nɛ̀	PART	MV	_	13	mod	_	AlignBegin=234064|AlignEnd=234361|GE=[CIRC]|nWord=9|RX=[MV]
 15	nú	nú	NOUN	N	_	13	comp:obj	_	AlignBegin=234361|AlignEnd=234658|GE=[partie_active]|nWord=10|RX=[N]
-16	pàyà	pàyà	NOUN	N	_	15	comp	_	AlignBegin=234658|AlignEnd=234955|GE=[couteau]|nWord=11|RX=[N]
-17-18	kɔ́m	kɔ́m	_	_	_	_	_	_	_
-17	kɔ́	kɔ́	ADP	FCT	_	16	udep	_	AlignBegin=234955|AlignEnd=235103|GE=[de]|nWord=12|RX=[FCT]
-18	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	17	comp	_	AlignBegin=235103|AlignEnd=235251|GE=[1SG]|nWord=12|RX=[PERS]
-19-20	kàm	kàm	_	_	_	_	_	_	_
-19	kà	kà	SCONJ	SUB	_	32	mod	_	AlignBegin=235251|AlignEnd=235375|GE=[quand]|nWord=13|RX=[SUB]
-20	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	22	subj	_	AlignBegin=235375|AlignEnd=235499|GE=[1SG]|nWord=13|RX=[PERS]
-21-22	ɗóŋ	ɗóŋ	_	_	_	_	_	_	_
-21	H-	H-	AUX	MV	Aspect=Imp	22	aux	_	AlignBegin=235499|AlignEnd=235623|GE=[INAC]|nWord=14|RX=[MV]
-22	ɗoŋ	ɗoŋ	VERB	V	_	19	comp	_	AlignBegin=235623|AlignEnd=235747|GE=[avancer]|nWord=14|RX=[V]
-23-24	kàm	kàm	_	_	_	_	_	_	_
-23	kà	kà	SCONJ	SUB	_	32	mod	_	AlignBegin=235747|AlignEnd=235871|GE=[quand]|nWord=15|RX=[SUB]
-24	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	26	subj:redup	_	AlignBegin=235871|AlignEnd=235995|GE=[1SG]|nWord=15|RX=[PERS]
-25-26	kpá	kpá	_	_	_	_	_	_	_
-25	H-	H-	AUX	MV	Aspect=Imp	26	aux	_	AlignBegin=235995|AlignEnd=236119|GE=[INAC]|nWord=16|RX=[MV]
-26	kpa	kpa	VERB	V	_	23	comp	_	AlignBegin=236119|AlignEnd=236243|GE=[trouver]|nWord=16|RX=[V]
-27	bé	bé	ADJ	AR	_	28	mod	_	AlignBegin=236243|AlignEnd=236491|GE=[petit]|nWord=17|RX=[AR]
-28	gèɗà	gèɗà	NOUN	N	_	26	comp:obj	_	AlignBegin=236491|AlignEnd=236739|GE=[manioc]|nWord=18|RX=[N]
-29-30	kám	kám	_	_	_	_	_	_	_
-29	ká	ká	CCONJ	COORD	_	32	cc	_	AlignBegin=236739|AlignEnd=236863|GE=[alors]|nWord=19|RX=[COORD]
-30	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	32	subj	_	AlignBegin=236863|AlignEnd=236987|GE=[1SG]|nWord=19|RX=[PERS]
-31-33	ɲɔ̀ŋá	ɲɔ̀ŋá	_	_	_	_	_	_	_
-31	BHa-	BHa-	AUX	MV	Aspect=Pfv	32	aux	_	AlignBegin=236987|AlignEnd=237070|GE=[ACC]|nWord=20|RX=[MV]
-32	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=237070|AlignEnd=237153|GE=[manger]|nWord=20|RX=[V]
-33	-H	-H	X	MOD	_	32	aff	_	AlignBegin=237153|AlignEnd=237235|GE=[MT]|nWord=20|RX=[MOD]
-34	nɛ̀nɛ́	nɛ̀nɛ́	PART	MV	_	32	mod	_	AlignBegin=237235|AlignEnd=237482|GE=[CIRC]|nWord=21|RX=[MV]
+16	-H	-H	ADP	_	_	15	udep	_	GE=[MT]|nWord=10|RX=[FCT]
+17	pàyà	pàyà	NOUN	N	_	16	comp	_	AlignBegin=234658|AlignEnd=234955|GE=[couteau]|nWord=11|RX=[N]
+18-19	kɔ́m	_	_	_	_	_	_	_	_
+18	kɔ́	kɔ́	ADP	FCT	_	17	udep	_	AlignBegin=234955|AlignEnd=235103|GE=[de]|nWord=12|RX=[FCT]
+19	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	18	comp	_	AlignBegin=235103|AlignEnd=235251|GE=[1SG]|nWord=12|RX=[PERS]
+20-21	kàm	_	_	_	_	_	_	_	_
+20	kà	kà	SCONJ	SUB	_	33	mod	_	AlignBegin=235251|AlignEnd=235375|GE=[quand]|nWord=13|RX=[SUB]
+21	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	23	subj	_	AlignBegin=235375|AlignEnd=235499|GE=[1SG]|nWord=13|RX=[PERS]
+22-23	ɗóŋ	_	_	_	_	_	_	_	_
+22	H-	H-	AUX	MV	Aspect=Imp	23	aux	_	AlignBegin=235499|AlignEnd=235623|GE=[INAC]|nWord=14|RX=[MV]
+23	ɗoŋ	ɗoŋ	VERB	V	_	20	comp	_	AlignBegin=235623|AlignEnd=235747|GE=[avancer]|nWord=14|RX=[V]
+24-25	kàm	_	_	_	_	_	_	_	_
+24	kà	kà	SCONJ	SUB	_	33	mod	_	AlignBegin=235747|AlignEnd=235871|GE=[quand]|nWord=15|RX=[SUB]
+25	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	27	subj:redup	_	AlignBegin=235871|AlignEnd=235995|GE=[1SG]|nWord=15|RX=[PERS]
+26-27	kpá	_	_	_	_	_	_	_	_
+26	H-	H-	AUX	MV	Aspect=Imp	27	aux	_	AlignBegin=235995|AlignEnd=236119|GE=[INAC]|nWord=16|RX=[MV]
+27	kpa	kpa	VERB	V	_	24	comp	_	AlignBegin=236119|AlignEnd=236243|GE=[trouver]|nWord=16|RX=[V]
+28	bé	bé	ADJ	AR	_	29	mod	_	AlignBegin=236243|AlignEnd=236491|GE=[petit]|nWord=17|RX=[AR]
+29	gèɗà	gèɗà	NOUN	N	_	27	comp:obj	_	AlignBegin=236491|AlignEnd=236739|GE=[manioc]|nWord=18|RX=[N]
+30-31	kám	_	_	_	_	_	_	_	_
+30	ká	ká	CCONJ	COORD	_	33	cc	_	AlignBegin=236739|AlignEnd=236863|GE=[alors]|nWord=19|RX=[COORD]
+31	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	33	subj	_	AlignBegin=236863|AlignEnd=236987|GE=[1SG]|nWord=19|RX=[PERS]
+32-34	ɲɔ̀ŋá	_	_	_	_	_	_	_	_
+32	BHa-	BHa-	AUX	MV	Aspect=Perf	33	aux	_	AlignBegin=236987|AlignEnd=237070|GE=[ACC]|nWord=20|RX=[MV]
+33	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=237070|AlignEnd=237153|GE=[manger]|nWord=20|RX=[V]
+34	-H	-H	X	MOD	_	33	aff	_	AlignBegin=237153|AlignEnd=237235|GE=[MT]|nWord=20|RX=[MOD]
+35	nɛ̀nɛ́	nɛ̀nɛ́	PART	MV	_	33	mod	_	AlignBegin=237235|AlignEnd=237482|GE=[CIRC]|nWord=21|RX=[MV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_116-124
 # speaker_id = SP
@@ -1994,122 +1998,123 @@
 # text_fr = Il se remet à chanter // je cherche ainsi une chrysallide // frappe avec le marteau de forge,
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=239135|AlignEnd=239384|GE=[3SG]|nWord=1|RX=[PERS]
 2-4	ʔèè	ʔèè	_	_	_	_	_	_	_
-2	BHa-	BHa-	AUX	MV	Aspect=Pfv	3	aux	_	AlignBegin=239384|AlignEnd=239467|GE=[ACC]|nWord=2|RX=[MV]
+2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=239384|AlignEnd=239467|GE=[ACC]|nWord=2|RX=[MV]
 3	ʔe	ʔe	VERB	V	_	0	root	_	AlignBegin=239467|AlignEnd=239550|GE=[poser]|nWord=2|RX=[V]
 4	-H	-H	X	MOD	_	3	aff	_	AlignBegin=239550|AlignEnd=239633|GE=[MT]|nWord=2|RX=[MOD]
-5-6	núà	núà	_	_	_	_	_	_	_
+5-7	núà	_	_	_	_	_	_	_	_
 5	nú	nú	NOUN	N	_	3	comp:obj	_	AlignBegin=239633|AlignEnd=239757|GE=[partie_active]|nWord=3|RX=[N]
-6	=à	ʔà	PRON	MN	Number=Sing|Person=3	5	comp	_	AlignBegin=239757|AlignEnd=239882|GE=[3SG]|nWord=3|RX=[MN]
-7-8	tɛ́	tɛ́	_	_	_	_	_	_	_
-7	tɛ̀	tɛ̀	ADP	FCT	_	3	mod	_	AlignBegin=239882|AlignEnd=240006|GE=[à]|nWord=4|RX=[FCT]
-8	-H	-H	X	MOD	_	7	aff	_	AlignBegin=240006|AlignEnd=240131|GE=[MT]|nWord=4|RX=[MOD]
-9	gìmà	gìmà	NOUN	N	_	7	comp	_	AlignBegin=240131|AlignEnd=240380|GE=[chant]|nWord=5|RX=[N]
-10	sí-ɗòŋ	sí-ɗòŋ	ADV	ADV	_	3	mod	_	AlignBegin=240380|AlignEnd=240629|GE=[à_nouveau]|nWord=6|RX=[ADV]
-11-13	nǎm	nǎm	_	_	_	_	_	_	_
-11	nɛ̀	nɛ̀	CCONJ	COORD	_	15	cc	_	AlignBegin=240629|AlignEnd=240774|GE=[et_ainsi]|nWord=7|RX=[COORD]
-12	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	15	subj	_	AlignBegin=240774|AlignEnd=240919|GE=[1SG]|nWord=7|RX=[PERS]
-13	-H	-H	X	MOD	_	12	aff	_	AlignBegin=240919|AlignEnd=241064|GE=[MT]|nWord=7|RX=[MOD]
-14-16	kpèè	kpèè	_	_	_	_	_	_	_
-14	BHa-	BHa-	AUX	MV	Aspect=Pfv	15	aux	_	AlignBegin=241064|AlignEnd=241209|GE=[ACC]|nWord=8|RX=[MV]
-15	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=241209|AlignEnd=241354|GE=[chercher_attentivement]|nWord=8|RX=[V]
-16	-H	-H	X	MOD	_	15	aff	_	AlignBegin=241354|AlignEnd=241499|GE=[MT]|nWord=8|RX=[MOD]
-17	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	15	comp:obj	_	AlignBegin=241499|AlignEnd=241934|GE=[chrysallide]|nWord=9|RX=[N]
-18-19	ngbòì	ngbòì	_	_	_	_	_	_	_
-18	B-	B-	AUX	MV	_	19	aux	_	AlignBegin=241934|AlignEnd=242152|GE=[IMP-ACC]|nWord=10|RX=[MV]
-19	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=242152|AlignEnd=242369|GE=[marteler,]|nWord=10|RX=[V]
-20	mɔ̀	mɔ̀	NOUN	N	_	19	comp:obj	_	AlignBegin=242369|AlignEnd=242804|GE=[chose]|nWord=11|RX=[N]
-21	nɛ̀	nɛ̀	ADP	FCT	_	19	comp:obl	_	AlignBegin=242804|AlignEnd=243239|GE=[avec]|nWord=12|RX=[FCT]
-22	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	21	comp	_	AlignBegin=243239|AlignEnd=243673|GE=[marteau_de_forge]|nWord=13|RX=[N]
-23-25	nǎm	nǎm	_	_	_	_	_	_	_
-23	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=243673|AlignEnd=243814|GE=[et_ainsi]|nWord=14|RX=[COORD]
-24	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=243814|AlignEnd=243955|GE=[1SG]|nWord=14|RX=[PERS]
-25	-H	-H	X	MOD	_	_	_	_	AlignBegin=243955|AlignEnd=244095|GE=[MT]|nWord=14|RX=[MOD]
-26-28	kpèè	kpèè	_	_	_	_	_	_	_
-26	BHa-	BHa-	AUX	MV	Aspect=Pfv	_	_	_	AlignBegin=244095|AlignEnd=244236|GE=[ACC]|nWord=15|RX=[MV]
-27	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=244236|AlignEnd=244377|GE=[chercher_attentivement]|nWord=15|RX=[V]
-28	-H	-H	X	MOD	_	_	_	_	AlignBegin=244377|AlignEnd=244517|GE=[MT]|nWord=15|RX=[MOD]
-29	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	_	_	_	AlignBegin=244517|AlignEnd=244939|GE=[chrysallide]|nWord=16|RX=[N]
-30-31	ngbòì	ngbòì	_	_	_	_	_	_	_
-30	B-	B-	AUX	MV	_	31	_	_	AlignBegin=244939|AlignEnd=245150|GE=[IMP-ACC]|nWord=17|RX=[MV]
-31	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=245150|AlignEnd=245361|GE=[marteler,]|nWord=17|RX=[V]
-32	mɔ̀	mɔ̀	NOUN	N	_	31	_	_	AlignBegin=245361|AlignEnd=245783|GE=[chose]|nWord=18|RX=[N]
-33	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=245783|AlignEnd=246205|GE=[avec]|nWord=19|RX=[FCT]
-34	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=246205|AlignEnd=246627|GE=[marteau_de_forge]|nWord=20|RX=[N]
-35-37	nǎm	nǎm	_	_	_	_	_	_	_
-35	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=246627|AlignEnd=246778|GE=[et_ainsi]|nWord=21|RX=[COORD]
-36	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=246778|AlignEnd=246929|GE=[1SG]|nWord=21|RX=[PERS]
-37	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=246929|AlignEnd=247081|GE=[MT]|nWord=21|RX=[MOD]
-38-40	kpèè	kpèè	_	_	_	_	_	_	_
-38	BHa-	BHa-	AUX	MV	Aspect=Pfv	39	aux	_	AlignBegin=247081|AlignEnd=247232|GE=[ACC]|nWord=22|RX=[MV]
-39	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=247232|AlignEnd=247383|GE=[chercher_attentivement]|nWord=22|RX=[V]
-40	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=247383|AlignEnd=247535|GE=[MT]|nWord=22|RX=[MOD]
-41	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	43	subj	_	AlignBegin=247535|AlignEnd=247989|GE=[chrysallide]|nWord=23|RX=[N]
-42-43	ngbòì	ngbòì	_	_	_	_	_	_	_
-42	B-	B-	AUX	MV	_	43	aux	_	AlignBegin=247989|AlignEnd=248216|GE=[IMP-ACC]|nWord=24|RX=[MV]
-43	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=248216|AlignEnd=248443|GE=[marteler,]|nWord=24|RX=[V]
-44	mɔ̀	mɔ̀	NOUN	N	_	43	comp:obj	_	AlignBegin=248443|AlignEnd=248897|GE=[chose]|nWord=25|RX=[N]
-45	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=248897|AlignEnd=249351|GE=[avec]|nWord=26|RX=[FCT]
-46	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=249351|AlignEnd=249803|GE=[marteau_de_forge]|nWord=27|RX=[N]
-47-49	nǎm	nǎm	_	_	_	_	_	_	_
-47	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=249803|AlignEnd=249933|GE=[et_ainsi]|nWord=28|RX=[COORD]
-48	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=249933|AlignEnd=250063|GE=[1SG]|nWord=28|RX=[PERS]
-49	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=250063|AlignEnd=250194|GE=[MT]|nWord=28|RX=[MOD]
-50-52	kpèè	kpèè	_	_	_	_	_	_	_
-50	BHa-	BHa-	AUX	MV	Aspect=Pfv	51	aux	_	AlignBegin=250194|AlignEnd=250324|GE=[ACC]|nWord=29|RX=[MV]
-51	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=250324|AlignEnd=250454|GE=[chercher_attentivement]|nWord=29|RX=[V]
-52	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=250454|AlignEnd=250585|GE=[MT]|nWord=29|RX=[MOD]
-53	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	55	subj	_	AlignBegin=250585|AlignEnd=250976|GE=[chrysallide]|nWord=30|RX=[N]
-54-55	ngbòì	ngbòì	_	_	_	_	_	_	_
-54	B-	B-	AUX	MV	_	55	aux	_	AlignBegin=250976|AlignEnd=251172|GE=[IMP-ACC]|nWord=31|RX=[MV]
-55	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=251172|AlignEnd=251367|GE=[marteler,]|nWord=31|RX=[V]
-56	mɔ̀	mɔ̀	NOUN	N	_	55	comp:obj	_	AlignBegin=251367|AlignEnd=251758|GE=[chose]|nWord=32|RX=[N]
-57	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=251758|AlignEnd=252149|GE=[avec]|nWord=33|RX=[FCT]
-58	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=252149|AlignEnd=252542|GE=[marteau_de_forge]|nWord=34|RX=[N]
-59-61	nǎm	nǎm	_	_	_	_	_	_	_
-59	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=252542|AlignEnd=252690|GE=[et_ainsi]|nWord=35|RX=[COORD]
-60	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=252690|AlignEnd=252838|GE=[1SG]|nWord=35|RX=[PERS]
-61	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=252838|AlignEnd=252985|GE=[MT]|nWord=35|RX=[MOD]
-62-64	kpèè	kpèè	_	_	_	_	_	_	_
-62	BHa-	BHa-	AUX	MV	Aspect=Pfv	63	aux	_	AlignBegin=252985|AlignEnd=253133|GE=[ACC]|nWord=36|RX=[MV]
-63	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=253133|AlignEnd=253281|GE=[chercher_attentivement]|nWord=36|RX=[V]
-64	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=253281|AlignEnd=253428|GE=[MT]|nWord=36|RX=[MOD]
-65	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	67	subj	_	AlignBegin=253428|AlignEnd=253871|GE=[chrysallide]|nWord=37|RX=[N]
-66-67	ngbòì	ngbòì	_	_	_	_	_	_	_
-66	B-	B-	AUX	MV	_	67	aux	_	AlignBegin=253871|AlignEnd=254093|GE=[IMP-ACC]|nWord=38|RX=[MV]
-67	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=254093|AlignEnd=254314|GE=[marteler,]|nWord=38|RX=[V]
-68	mɔ̀	mɔ̀	NOUN	N	_	67	comp:obj	_	AlignBegin=254314|AlignEnd=254757|GE=[chose]|nWord=39|RX=[N]
-69	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=254757|AlignEnd=255200|GE=[avec]|nWord=40|RX=[FCT]
-70	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=255200|AlignEnd=255642|GE=[marteau_de_forge]|nWord=41|RX=[N]
-71-73	nǎm	nǎm	_	_	_	_	_	_	_
-71	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=255642|AlignEnd=255780|GE=[et_ainsi]|nWord=42|RX=[COORD]
-72	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=255780|AlignEnd=255918|GE=[1SG]|nWord=42|RX=[PERS]
-73	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=255918|AlignEnd=256056|GE=[MT]|nWord=42|RX=[MOD]
-74-76	kpèè	kpèè	_	_	_	_	_	_	_
-74	BHa-	BHa-	AUX	MV	Aspect=Pfv	75	aux	_	AlignBegin=256056|AlignEnd=256194|GE=[ACC]|nWord=43|RX=[MV]
-75	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=256194|AlignEnd=256332|GE=[chercher_attentivement]|nWord=43|RX=[V]
-76	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=256332|AlignEnd=256470|GE=[MT]|nWord=43|RX=[MOD]
-77	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	79	subj	_	AlignBegin=256470|AlignEnd=256884|GE=[chrysallide]|nWord=44|RX=[N]
-78-79	ngbòì	ngbòì	_	_	_	_	_	_	_
-78	B-	B-	AUX	MV	_	79	aux	_	AlignBegin=256884|AlignEnd=257091|GE=[IMP-ACC]|nWord=45|RX=[MV]
-79	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=257091|AlignEnd=257298|GE=[marteler,]|nWord=45|RX=[V]
-80	mɔ̀	mɔ̀	NOUN	N	_	79	comp:obj	_	AlignBegin=257298|AlignEnd=257712|GE=[chose]|nWord=46|RX=[N]
-81	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=257712|AlignEnd=258126|GE=[avec]|nWord=47|RX=[FCT]
-82	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=258126|AlignEnd=258542|GE=[marteau_de_forge]|nWord=48|RX=[N]
-83-85	nǎm	nǎm	_	_	_	_	_	_	_
-83	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=258542|AlignEnd=258721|GE=[et_ainsi]|nWord=49|RX=[COORD]
-84	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=258721|AlignEnd=258900|GE=[1SG]|nWord=49|RX=[PERS]
-85	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=258900|AlignEnd=259078|GE=[MT]|nWord=49|RX=[MOD]
-86-88	kpèè	kpèè	_	_	_	_	_	_	_
-86	BHa-	BHa-	AUX	MV	Aspect=Pfv	87	aux	_	AlignBegin=259078|AlignEnd=259257|GE=[ACC]|nWord=50|RX=[MV]
-87	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=259257|AlignEnd=259436|GE=[chercher_attentivement]|nWord=50|RX=[V]
-88	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=259436|AlignEnd=259614|GE=[MT]|nWord=50|RX=[MOD]
-89	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	91	subj	_	AlignBegin=259614|AlignEnd=260150|GE=[chrysallide]|nWord=51|RX=[N]
-90-91	ngbòì	ngbòì	_	_	_	_	_	_	_
-90	B-	B-	AUX	MV	_	91	aux	_	AlignBegin=260150|AlignEnd=260418|GE=[IMP-ACC]|nWord=52|RX=[MV]
-91	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=260418|AlignEnd=260686|GE=[marteler,]|nWord=52|RX=[V]
-92	mɔ̀	mɔ̀	NOUN	N	_	91	comp:obj	_	AlignBegin=260686|AlignEnd=261222|GE=[chose]|nWord=53|RX=[N]
-93	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=261222|AlignEnd=261758|GE=[avec]|nWord=54|RX=[FCT]
-94	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=261758|AlignEnd=262296|GE=[marteau_de_forge]|nWord=55|RX=[N]
+6	-H	-H	ADP	_	_	5	udep	_	GE=[MT]|nWord=3|RX=[FCT]
+7	=à	ʔà	PRON	MN	Number=Sing|Person=3	6	comp	_	AlignBegin=239757|AlignEnd=239882|GE=[3SG]|nWord=3|RX=[MN]
+8-9	tɛ́	_	_	_	_	_	_	_	_
+8	tɛ̀	tɛ̀	ADP	FCT	_	3	mod	_	AlignBegin=239882|AlignEnd=240006|GE=[à]|nWord=4|RX=[FCT]
+9	-H	-H	X	MOD	_	8	aff	_	AlignBegin=240006|AlignEnd=240131|GE=[MT]|nWord=4|RX=[MOD]
+10	gìmà	gìmà	NOUN	N	_	8	comp	_	AlignBegin=240131|AlignEnd=240380|GE=[chant]|nWord=5|RX=[N]
+11	sí-ɗòŋ	sí-ɗòŋ	ADV	ADV	_	3	mod	_	AlignBegin=240380|AlignEnd=240629|GE=[à_nouveau]|nWord=6|RX=[ADV]
+12-14	nǎm	_	_	_	_	_	_	_	_
+12	nɛ̀	nɛ̀	CCONJ	COORD	_	16	cc	_	AlignBegin=240629|AlignEnd=240774|GE=[et_ainsi]|nWord=7|RX=[COORD]
+13	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	16	subj	_	AlignBegin=240774|AlignEnd=240919|GE=[1SG]|nWord=7|RX=[PERS]
+14	-H	-H	X	MOD	_	13	aff	_	AlignBegin=240919|AlignEnd=241064|GE=[MT]|nWord=7|RX=[MOD]
+15-17	kpèè	_	_	_	_	_	_	_	_
+15	BHa-	BHa-	AUX	MV	Aspect=Perf	16	aux	_	AlignBegin=241064|AlignEnd=241209|GE=[ACC]|nWord=8|RX=[MV]
+16	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=241209|AlignEnd=241354|GE=[chercher_attentivement]|nWord=8|RX=[V]
+17	-H	-H	X	MOD	_	16	aff	_	AlignBegin=241354|AlignEnd=241499|GE=[MT]|nWord=8|RX=[MOD]
+18	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	16	comp:obj	_	AlignBegin=241499|AlignEnd=241934|GE=[chrysallide]|nWord=9|RX=[N]
+19-20	ngbòì	_	_	_	_	_	_	_	_
+19	B-	B-	AUX	MV	Aspect=Perf	20	aux	_	AlignBegin=241934|AlignEnd=242152|GE=[IMP-ACC]|nWord=10|RX=[MV]
+20	ngboi	ngboi	VERB	V	_	0	root	_	AlignBegin=242152|AlignEnd=242369|GE=[marteler,]|nWord=10|RX=[V]
+21	mɔ̀	mɔ̀	NOUN	N	_	20	comp:obj	_	AlignBegin=242369|AlignEnd=242804|GE=[chose]|nWord=11|RX=[N]
+22	nɛ̀	nɛ̀	ADP	FCT	_	20	comp:obl	_	AlignBegin=242804|AlignEnd=243239|GE=[avec]|nWord=12|RX=[FCT]
+23	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	22	comp	_	AlignBegin=243239|AlignEnd=243673|GE=[marteau_de_forge]|nWord=13|RX=[N]
+24-26	nǎm	_	_	_	_	_	_	_	_
+24	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=243673|AlignEnd=243814|GE=[et_ainsi]|nWord=14|RX=[COORD]
+25	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=243814|AlignEnd=243955|GE=[1SG]|nWord=14|RX=[PERS]
+26	-H	-H	X	MOD	_	_	_	_	AlignBegin=243955|AlignEnd=244095|GE=[MT]|nWord=14|RX=[MOD]
+27-29	kpèè	_	_	_	_	_	_	_	_
+27	BHa-	BHa-	AUX	MV	Aspect=Perf	_	_	_	AlignBegin=244095|AlignEnd=244236|GE=[ACC]|nWord=15|RX=[MV]
+28	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=244236|AlignEnd=244377|GE=[chercher_attentivement]|nWord=15|RX=[V]
+29	-H	-H	X	MOD	_	_	_	_	AlignBegin=244377|AlignEnd=244517|GE=[MT]|nWord=15|RX=[MOD]
+30	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	_	_	_	AlignBegin=244517|AlignEnd=244939|GE=[chrysallide]|nWord=16|RX=[N]
+31-32	ngbòì	_	_	_	_	_	_	_	_
+31	B-	B-	AUX	MV	Aspect=Perf	32	_	_	AlignBegin=244939|AlignEnd=245150|GE=[IMP-ACC]|nWord=17|RX=[MV]
+32	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=245150|AlignEnd=245361|GE=[marteler,]|nWord=17|RX=[V]
+33	mɔ̀	mɔ̀	NOUN	N	_	32	_	_	AlignBegin=245361|AlignEnd=245783|GE=[chose]|nWord=18|RX=[N]
+34	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=245783|AlignEnd=246205|GE=[avec]|nWord=19|RX=[FCT]
+35	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=246205|AlignEnd=246627|GE=[marteau_de_forge]|nWord=20|RX=[N]
+36-38	nǎm	_	_	_	_	_	_	_	_
+36	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=246627|AlignEnd=246778|GE=[et_ainsi]|nWord=21|RX=[COORD]
+37	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=246778|AlignEnd=246929|GE=[1SG]|nWord=21|RX=[PERS]
+38	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=246929|AlignEnd=247081|GE=[MT]|nWord=21|RX=[MOD]
+39-41	kpèè	_	_	_	_	_	_	_	_
+39	BHa-	BHa-	AUX	MV	Aspect=Perf	40	aux	_	AlignBegin=247081|AlignEnd=247232|GE=[ACC]|nWord=22|RX=[MV]
+40	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=247232|AlignEnd=247383|GE=[chercher_attentivement]|nWord=22|RX=[V]
+41	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=247383|AlignEnd=247535|GE=[MT]|nWord=22|RX=[MOD]
+42	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	44	subj	_	AlignBegin=247535|AlignEnd=247989|GE=[chrysallide]|nWord=23|RX=[N]
+43-44	ngbòì	_	_	_	_	_	_	_	_
+43	B-	B-	AUX	MV	Aspect=Perf	44	aux	_	AlignBegin=247989|AlignEnd=248216|GE=[IMP-ACC]|nWord=24|RX=[MV]
+44	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=248216|AlignEnd=248443|GE=[marteler,]|nWord=24|RX=[V]
+45	mɔ̀	mɔ̀	NOUN	N	_	44	comp:obj	_	AlignBegin=248443|AlignEnd=248897|GE=[chose]|nWord=25|RX=[N]
+46	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=248897|AlignEnd=249351|GE=[avec]|nWord=26|RX=[FCT]
+47	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=249351|AlignEnd=249803|GE=[marteau_de_forge]|nWord=27|RX=[N]
+48-50	nǎm	_	_	_	_	_	_	_	_
+48	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=249803|AlignEnd=249933|GE=[et_ainsi]|nWord=28|RX=[COORD]
+49	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=249933|AlignEnd=250063|GE=[1SG]|nWord=28|RX=[PERS]
+50	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=250063|AlignEnd=250194|GE=[MT]|nWord=28|RX=[MOD]
+51-53	kpèè	_	_	_	_	_	_	_	_
+51	BHa-	BHa-	AUX	MV	Aspect=Perf	52	aux	_	AlignBegin=250194|AlignEnd=250324|GE=[ACC]|nWord=29|RX=[MV]
+52	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=250324|AlignEnd=250454|GE=[chercher_attentivement]|nWord=29|RX=[V]
+53	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=250454|AlignEnd=250585|GE=[MT]|nWord=29|RX=[MOD]
+54	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	56	subj	_	AlignBegin=250585|AlignEnd=250976|GE=[chrysallide]|nWord=30|RX=[N]
+55-56	ngbòì	_	_	_	_	_	_	_	_
+55	B-	B-	AUX	MV	Aspect=Perf	56	aux	_	AlignBegin=250976|AlignEnd=251172|GE=[IMP-ACC]|nWord=31|RX=[MV]
+56	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=251172|AlignEnd=251367|GE=[marteler,]|nWord=31|RX=[V]
+57	mɔ̀	mɔ̀	NOUN	N	_	56	comp:obj	_	AlignBegin=251367|AlignEnd=251758|GE=[chose]|nWord=32|RX=[N]
+58	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=251758|AlignEnd=252149|GE=[avec]|nWord=33|RX=[FCT]
+59	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=252149|AlignEnd=252542|GE=[marteau_de_forge]|nWord=34|RX=[N]
+60-62	nǎm	_	_	_	_	_	_	_	_
+60	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=252542|AlignEnd=252690|GE=[et_ainsi]|nWord=35|RX=[COORD]
+61	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=252690|AlignEnd=252838|GE=[1SG]|nWord=35|RX=[PERS]
+62	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=252838|AlignEnd=252985|GE=[MT]|nWord=35|RX=[MOD]
+63-65	kpèè	_	_	_	_	_	_	_	_
+63	BHa-	BHa-	AUX	MV	Aspect=Perf	64	aux	_	AlignBegin=252985|AlignEnd=253133|GE=[ACC]|nWord=36|RX=[MV]
+64	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=253133|AlignEnd=253281|GE=[chercher_attentivement]|nWord=36|RX=[V]
+65	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=253281|AlignEnd=253428|GE=[MT]|nWord=36|RX=[MOD]
+66	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	68	subj	_	AlignBegin=253428|AlignEnd=253871|GE=[chrysallide]|nWord=37|RX=[N]
+67-68	ngbòì	_	_	_	_	_	_	_	_
+67	B-	B-	AUX	MV	Aspect=Perf	68	aux	_	AlignBegin=253871|AlignEnd=254093|GE=[IMP-ACC]|nWord=38|RX=[MV]
+68	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=254093|AlignEnd=254314|GE=[marteler,]|nWord=38|RX=[V]
+69	mɔ̀	mɔ̀	NOUN	N	_	68	comp:obj	_	AlignBegin=254314|AlignEnd=254757|GE=[chose]|nWord=39|RX=[N]
+70	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=254757|AlignEnd=255200|GE=[avec]|nWord=40|RX=[FCT]
+71	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=255200|AlignEnd=255642|GE=[marteau_de_forge]|nWord=41|RX=[N]
+72-74	nǎm	_	_	_	_	_	_	_	_
+72	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=255642|AlignEnd=255780|GE=[et_ainsi]|nWord=42|RX=[COORD]
+73	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=255780|AlignEnd=255918|GE=[1SG]|nWord=42|RX=[PERS]
+74	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=255918|AlignEnd=256056|GE=[MT]|nWord=42|RX=[MOD]
+75-77	kpèè	_	_	_	_	_	_	_	_
+75	BHa-	BHa-	AUX	MV	Aspect=Perf	76	aux	_	AlignBegin=256056|AlignEnd=256194|GE=[ACC]|nWord=43|RX=[MV]
+76	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=256194|AlignEnd=256332|GE=[chercher_attentivement]|nWord=43|RX=[V]
+77	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=256332|AlignEnd=256470|GE=[MT]|nWord=43|RX=[MOD]
+78	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	80	subj	_	AlignBegin=256470|AlignEnd=256884|GE=[chrysallide]|nWord=44|RX=[N]
+79-80	ngbòì	_	_	_	_	_	_	_	_
+79	B-	B-	AUX	MV	Aspect=Perf	80	aux	_	AlignBegin=256884|AlignEnd=257091|GE=[IMP-ACC]|nWord=45|RX=[MV]
+80	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=257091|AlignEnd=257298|GE=[marteler,]|nWord=45|RX=[V]
+81	mɔ̀	mɔ̀	NOUN	N	_	80	comp:obj	_	AlignBegin=257298|AlignEnd=257712|GE=[chose]|nWord=46|RX=[N]
+82	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=257712|AlignEnd=258126|GE=[avec]|nWord=47|RX=[FCT]
+83	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=258126|AlignEnd=258542|GE=[marteau_de_forge]|nWord=48|RX=[N]
+84-86	nǎm	_	_	_	_	_	_	_	_
+84	nɛ̀	nɛ̀	CCONJ	COORD	_	_	_	_	AlignBegin=258542|AlignEnd=258721|GE=[et_ainsi]|nWord=49|RX=[COORD]
+85	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	_	_	_	AlignBegin=258721|AlignEnd=258900|GE=[1SG]|nWord=49|RX=[PERS]
+86	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=258900|AlignEnd=259078|GE=[MT]|nWord=49|RX=[MOD]
+87-89	kpèè	_	_	_	_	_	_	_	_
+87	BHa-	BHa-	AUX	MV	Aspect=Perf	88	aux	_	AlignBegin=259078|AlignEnd=259257|GE=[ACC]|nWord=50|RX=[MV]
+88	kpe	kpe	VERB	V	_	_	_	_	AlignBegin=259257|AlignEnd=259436|GE=[chercher_attentivement]|nWord=50|RX=[V]
+89	-H	-H	AUX	MOD	_	_	_	_	AlignBegin=259436|AlignEnd=259614|GE=[MT]|nWord=50|RX=[MOD]
+90	síkɔ̀rí	síkɔ̀rí	NOUN	N	_	92	subj	_	AlignBegin=259614|AlignEnd=260150|GE=[chrysallide]|nWord=51|RX=[N]
+91-92	ngbòì	_	_	_	_	_	_	_	_
+91	B-	B-	AUX	MV	Aspect=Perf	92	aux	_	AlignBegin=260150|AlignEnd=260418|GE=[IMP-ACC]|nWord=52|RX=[MV]
+92	ngboi	ngboi	VERB	V	_	_	_	_	AlignBegin=260418|AlignEnd=260686|GE=[marteler,]|nWord=52|RX=[V]
+93	mɔ̀	mɔ̀	NOUN	N	_	92	comp:obj	_	AlignBegin=260686|AlignEnd=261222|GE=[chose]|nWord=53|RX=[N]
+94	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	AlignBegin=261222|AlignEnd=261758|GE=[avec]|nWord=54|RX=[FCT]
+95	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	_	_	_	AlignBegin=261758|AlignEnd=262296|GE=[marteau_de_forge]|nWord=55|RX=[N]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_125-129
 # speaker_id = SP
@@ -2122,7 +2127,7 @@
 1	wà	wà	PRON	PERS	Number=Plur|Person=3	4	subj	_	AlignBegin=262296|AlignEnd=262551|GE=[3PL]|nWord=1|RX=[PERS]
 2	-v́	-v́	_	MV	Mood=Cnd	1	det	_	AlignBegin=262551|AlignEnd=262806|GE=[TOP]|nWord=1|RX=[MOD]
 3-4	tɛ̀ɛ́-dàk	tɛ̀ɛ́-dàk	_	_	_	_	_	_	_
-3	tɛ̀ɛ́-B	tɛ̀ɛ́-B	AUX	MV	_	4	aux	_	AlignBegin=262806|AlignEnd=263061|GE=[VIRT-ACC]|nWord=2|RX=[MV]
+3	tɛ̀ɛ́-B	tɛ̀ɛ́-B	AUX	MV	Aspect=Perf|Mood=Irr	4	aux	_	AlignBegin=262806|AlignEnd=263061|GE=[VIRT-ACC]|nWord=2|RX=[MV]
 4	dak	dak	VERB	V	_	0	root	_	AlignBegin=263061|AlignEnd=263316|GE=[retirer]|nWord=2|RX=[V]
 5-7	núwà	núwà	_	_	_	_	_	_	_
 5	nú	nú	NOUN	N	_	4	comp:obj	_	AlignBegin=263316|AlignEnd=263486|GE=[partie_active]|nWord=3|RX=[N]
@@ -2133,7 +2138,7 @@
 10	ʔóí	ʔóí	NOUN	N	_	19	subj:appos	_	AlignBegin=264644|AlignEnd=264952|GE=[les_personnes]|nWord=6|RX=[N]
 11	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	10	mod:relcl	_	AlignBegin=264952|AlignEnd=265260|GE=[REL]|nWord=7|RX=[SUB]
 12-14	yàà	yàà	_	_	_	_	_	_	_
-12	BHa-	BHa-	AUX	MV	Aspect=Pfv	13	aux	_	AlignBegin=265260|AlignEnd=265363|GE=[ACC]|nWord=8|RX=[MV]
+12	BHa-	BHa-	AUX	MV	Aspect=Perf	13	aux	_	AlignBegin=265260|AlignEnd=265363|GE=[ACC]|nWord=8|RX=[MV]
 13	ya	ya	VERB	V	_	11	comp	_	AlignBegin=265363|AlignEnd=265466|GE=[demeurer]|nWord=8|RX=[V]
 14	-H	-H	X	MOD	_	13	aff	_	AlignBegin=265466|AlignEnd=265568|GE=[MT]|nWord=8|RX=[MOD]
 15	tí	tí	ADP	FCT	_	13	comp:obl	_	AlignBegin=265568|AlignEnd=265876|GE=[à_l'ombre]|nWord=9|RX=[FCT]
@@ -2161,7 +2166,7 @@
 31	=nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2	30	comp	_	AlignBegin=268924|AlignEnd=269078|GE=[2PL]|nWord=18|RX=[PERS]
 32	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	29	mod:relcl	_	AlignBegin=269078|AlignEnd=269386|GE=[REL]|nWord=19|RX=[SUB]
 33-35	yɔ̀ɔ̀	yɔ̀ɔ̀	_	_	_	_	_	_	_
-33	BHa-	BHa-	AUX	MV	Aspect=Pfv	34	aux	_	AlignBegin=269386|AlignEnd=269489|GE=[ACC]|nWord=20|RX=[MV]
+33	BHa-	BHa-	AUX	MV	Aspect=Perf	34	aux	_	AlignBegin=269386|AlignEnd=269489|GE=[ACC]|nWord=20|RX=[MV]
 34	yɔ	yɔ	VERB	V	_	32	comp	_	AlignBegin=269489|AlignEnd=269592|GE=[être_perdu]|nWord=20|RX=[V]
 35	-H	-H	AUX	MOD	_	34	aff	_	AlignBegin=269592|AlignEnd=269694|GE=[MT]|nWord=20|RX=[MOD]
 36	sɔ̰́	sɔ̰́	PART	MOD	VerbForm=Fin	34	mod	_	AlignBegin=269694|AlignEnd=270002|GE=[REV]|nWord=21|RX=[MOD]
@@ -2176,7 +2181,7 @@
 43	ʔé	ʔé	ADV	ADV	_	41	mod	_	AlignBegin=270618|AlignEnd=270926|GE=[déjà]|nWord=24|RX=[ADV]
 44	hɛ̰̀	hɛ̰̀	ADV	ADV	_	41	mod	_	AlignBegin=270926|AlignEnd=271236|GE=[ici]|nWord=25|RX=[ADV]
 45-46	zɔ́k	zɔ́k	_	_	_	_	_	_	_
-45	H-	H-	AUX	MV	_	46	aux	_	AlignBegin=271252|AlignEnd=271382|GE=[IMP-INAC]|nWord=26|RX=[MV]
+45	H-	H-	AUX	MV	Aspect=Imp	46	aux	_	AlignBegin=271252|AlignEnd=271382|GE=[IMP-INAC]|nWord=26|RX=[MV]
 46	zɔk	zɔk	VERB	V	_	0	root	_	AlignBegin=271382|AlignEnd=271512|GE=[voir]|nWord=26|RX=[V]
 47-48	ʔɛ̀nɛ̀	ʔɛ̀nɛ̀	_	_	_	_	_	_	_
 47	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2	50	subj	_	AlignBegin=271512|AlignEnd=271642|GE=[2PL]|nWord=27|RX=[PERS]
@@ -2199,17 +2204,18 @@
 59	H-	H-	AUX	MV	Aspect=Imp	60	aux	_	AlignBegin=273072|AlignEnd=273202|GE=[INAC]|nWord=33|RX=[MV]
 60	dɛ	dɛ	VERB	V	_	56	comp	_	AlignBegin=273202|AlignEnd=273332|GE=[faire]|nWord=33|RX=[V]
 61	kɔ̀	kɔ̀	ADP	FCT	_	60	comp:obl	_	AlignBegin=273332|AlignEnd=273592|GE=[à_l'intérieur]|nWord=34|RX=[FCT]
-62-63	núà	núà	_	_	_	_	_	_	_
+62-64	núà	_	_	_	_	_	_	_	_
 62	nú	nú	NOUN	N	_	61	comp	_	AlignBegin=273592|AlignEnd=273724|GE=[partie_active]|nWord=35|RX=[N]
-63	=à	ʔà	PRON	MN	Number=Sing|Person=3	62	comp	_	AlignBegin=273724|AlignEnd=273856|GE=[3SG]|nWord=35|RX=[MN]
+63	-H	-H	ADP	_	_	62	udep	_	GE=[MT]|nWord=35|RX=[FCT]
+64	=à	ʔà	PRON	MN	Number=Sing|Person=3	63	comp	_	AlignBegin=273724|AlignEnd=273856|GE=[3SG]|nWord=35|RX=[MN]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_130-131
+# text = ʔèè nàà tɛ́ nàà ʔèè núà tɛ́ gìmàíííí sí-ɗòŋ húʋúʋúʋúʋú nàà kɔ̰́à̰ ʔín dáà kɔ̰́à̰ ʔòé ʔá̰-nɛ̀ wà BHa- kpòáà ʔé BHa- kpòáà ʔé ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 273856, 281261
-# text = ʔèè nàà tɛ́ nàà ʔèè núà tɛ́ gìmàíííí sí-ɗòŋ húʋúʋúʋúʋú nàà kɔ̰́à̰ ʔín dáà kɔ̰́à̰ ʔòé ʔá̰-nɛ̀ wà BHa- kpòáà ʔé BHa- kpòáà ʔé ʔèá
 # phonetic_text = ʔèè nàà tɛ́ nàà ʔèè núà tɛ́ gìmàíííí sí-ɗòŋ húʋúʋúʋúʋú nàà kɔ̰́à̰ ʔín dáà kɔ̰́à̰ ʔòé ʔá̰-nɛ̀ wà BHa- kpòáà ʔé BHa- kpòáà ʔé ʔèá
-# text_fr =  Puis il vient ainsi // et il se remet ainsi à chanter longtemps // Fonçant sur elle, sa mère et son père aussi, ils viennent déjà l'étreindre, l'étreindre seulement.
+# text_fr =  Puis il vient ainsi // et il se remet ainsi à chanter longtemps // Fonçant sur elle, sa mère et son père aussi, ils viennent déjà l'étreindre, l'étreindre seulement.//
 1	ʔèè	ʔèè	CCONJ	COORD	_	6	cc	_	AlignBegin=273856|AlignEnd=274225|GE=[puis]|nWord=1|RX=[COORD]
 2-4	nàà	nàà	_	_	_	_	_	_	_
 2	nɛ̀	nɛ̀	CCONJ	COORD	_	6	cc	_	AlignBegin=274225|AlignEnd=274348|GE=[et_ainsi]|nWord=2|RX=[COORD]
@@ -2312,13 +2318,13 @@
 3	dui	dui	VERB	V	_	0	root	_	AlignBegin=283418|AlignEnd=283596|GE=[aspirer_par_succion]|nWord=2|RX=[V]
 4-5	núà	núà	_	_	_	_	_	_	_
 4	nú	nú	ADP	FCT	_	3	comp:obl	_	AlignBegin=283596|AlignEnd=283774|GE=[partie_active]|nWord=3|RX=[FCT]
-5	=à̰	-à̰	_	_	Person=3	4	comp	_	AlignBegin=283774|AlignEnd=283952|GE=[3S]|nWord=3|RX=[PR]
+5	=à̰	-à̰	_	_	Number=Sing|Person=3	4	comp	_	AlignBegin=283774|AlignEnd=283952|GE=[3SG]|nWord=3|RX=[PR]
 6-7	dúí	dúí	_	_	_	_	_	_	_
 6	H-	H-	AUX	MV	Aspect=Imp	7	aux	_	AlignBegin=283952|AlignEnd=284130|GE=[INAC]|nWord=4|RX=[MV]
 7	dui	dui	VERB	V	_	3	conj:coord	_	AlignBegin=284130|AlignEnd=284308|GE=[aspirer_par_succion]|nWord=4|RX=[V]
 8-9	núà	núà	_	_	_	_	_	_	_
 8	nú	nú	NOUN	N	_	7	comp:obj	_	AlignBegin=284308|AlignEnd=284486|GE=[partie_active]|nWord=5|RX=[N]
-9	=à	-à	DET	MN	Person=3	8	det	_	AlignBegin=284486|AlignEnd=284664|GE=[3S]|nWord=5|RX=[MN]
+9	=à	-à	DET	MN	Number=Sing|Person=3	8	det	_	AlignBegin=284486|AlignEnd=284664|GE=[3SG]|nWord=5|RX=[MN]
 10	sí-ɗòŋ	sí-ɗòŋ	ADV	ADV	_	7	mod	_	AlignBegin=284664|AlignEnd=285020|GE=[à_nouveau]|nWord=6|RX=[ADV]
 11	ʔèá	ʔèá	ADV	ADV	_	7	mod	_	AlignBegin=285020|AlignEnd=285376|GE=[seulement]|nWord=7|RX=[ADV]
 12-13	gbɛ́	gbɛ́	_	_	_	_	_	_	_
@@ -2369,9 +2375,9 @@
 # text = ʔèè ʔá̰ mɔ̀-nɛ̀ ndèì tɔ̰́ kà mbɔ́zɔ̀-bêm nɛ́-bèè sór-mɔ̀-ná mbálámbúlú hé mɔ̀ sɛ̌n kɔ̀ ʔér wíìí hɛ̰̀ gá kóó wà bá gbó sɛ̌n bàngí ʔà̰ tɛ́-gàsì kɔ̀ ʔér nàà kɔ́ =à̰ -ìí
 # phonetic_text = ʔèè ʔá̰ mɔ̀ ndèì tɔ̰́ kà mbɔ́zɔ̀-bêm nɛ́-bèè sór-mɔ̀-ná mbálámbúlú hé mɔ̀ sɛ̌n kɔ̀ ʔér wíìí hɛ̰̀ gá kóó wà bá gbó sɛ̌n bàngí ʔà̰ tɛ́-gàsì kɔ̀ ʔér
 # text_fr =  Et voilà ce qui fait qu'on dit que quand un nouveau-né serait-il tout petit, minuscule, comme dans le creux de la main, même s'ils l'ont emmené jusqu'à Bangui, il grandira.dans la main de sa mère
-1	ʔèè	ʔèè	CCONJ	COORD	_	37	cc	_	AlignBegin=291725|AlignEnd=291996|GE=[puis]|nWord=1|RX=[COORD]
-2	ʔá̰	ʔá̰	CCONJ	COORD	_	37	cc	_	AlignBegin=291996|AlignEnd=292267|GE=[voilà_que]|nWord=2|RX=[COORD]
-3	mɔ̀-nɛ̀	mɔ̀-nɛ̀	SCONJ	N	_	37	mod	_	AlignBegin=292267|AlignEnd=292538|GE=[du fait que]|nWord=3|RX=[SUB]
+1	ʔèè	ʔèè	CCONJ	COORD	_	38	cc	_	AlignBegin=291725|AlignEnd=291996|GE=[puis]|nWord=1|RX=[COORD]
+2	ʔá̰	ʔá̰	CCONJ	COORD	_	38	cc	_	AlignBegin=291996|AlignEnd=292267|GE=[voilà_que]|nWord=2|RX=[COORD]
+3	mɔ̀-nɛ̀	mɔ̀-nɛ̀	SCONJ	N	_	38	mod	_	AlignBegin=292267|AlignEnd=292538|GE=[du fait que]|nWord=3|RX=[SUB]
 4-6	ndèì	ndèì	_	_	_	_	_	_	_
 4	nɛ̀	nɛ̀	CCONJ	SUB.REL	PronType=Rel	_	_	_	AlignBegin=292538|AlignEnd=292628|GE=[REL]|nWord=4|RX=[SUB]
 5	=éí	ʔéí	PRON	PRO	PronType=Ind	8	subj	_	AlignBegin=292628|AlignEnd=292718|GE=[IMPS]|nWord=4|RX=[PRO]
@@ -2379,10 +2385,10 @@
 7-8	tɔ̰́	tɔ̰́	_	_	_	_	_	_	_
 7	H-	H-	AUX	MV	Aspect=Imp	8	aux	_	AlignBegin=292809|AlignEnd=292945|GE=[INAC]|nWord=5|RX=[MV]
 8	tɔ̰	tɔ̰	VERB	V	_	3	comp	_	AlignBegin=292945|AlignEnd=293080|GE=[dire]|nWord=5|RX=[V]
-9	kà	kà	CCONJ	SUB	_	37	mod	_	AlignBegin=293080|AlignEnd=293380|GE=[quand]|nWord=6|RX=[SUB]
+9	kà	kà	CCONJ	SUB	_	38	mod	_	AlignBegin=293080|AlignEnd=293380|GE=[quand]|nWord=6|RX=[SUB]
 10	mbɔ́zɔ̀-bêm	mbɔ́zɔ̀-bêm	NOUN	N	_	12	subj	_	AlignBegin=293380|AlignEnd=293680|GE=[nouveau-né]|nWord=7|RX=[N]
 11-13	nɛ́-bèè	nɛ́-bèè	_	_	_	_	_	_	_
-11	nɛ́-BHa	nɛ́-BHa	AUX	MV	Aspect=Pfv	12	aux	_	AlignBegin=293680|AlignEnd=293780|GE=[HYPO-ACC]|nWord=8|RX=[MV]
+11	nɛ́-BHa	nɛ́-BHa	AUX	MV	Aspect=Perf	12	aux	_	AlignBegin=293680|AlignEnd=293780|GE=[HYPO-ACC]|nWord=8|RX=[MV]
 12	be	be	VERB	V	_	9	comp	_	AlignBegin=293780|AlignEnd=293880|GE=[pouvoir_être]|nWord=8|RX=[V]
 13	-H	-H	X	MOD	_	12	aff	_	AlignBegin=293880|AlignEnd=293980|GE=[MT]|nWord=8|RX=[MOD]
 14	sór-mɔ̀-ná	sór-mɔ̀-ná	ADV	ADV	_	12	comp:pred	_	AlignBegin=293980|AlignEnd=294280|GE=[un_tout_petit_peu]|nWord=9|RX=[ADV]
@@ -2394,33 +2400,35 @@
 19	-H	-H	X	MOD	_	18	aff	_	AlignBegin=295330|AlignEnd=295480|GE=[MT]|nWord=13|RX=[MOD]
 20	kɔ̀	kɔ̀	ADP	FCT	_	18	comp:obl	_	AlignBegin=295480|AlignEnd=295780|GE=[intérieur]|nWord=14|RX=[FCT]
 21	ʔér	ʔér	NOUN	N	_	20	comp	_	AlignBegin=295780|AlignEnd=296080|GE=[main]|nWord=15|RX=[N]
-22-23	wíìí	wíìí	_	_	_	_	_	_	_
-22	wí	wí	NOUN	N	_	21	comp	_	AlignBegin=296080|AlignEnd=296230|GE=[homo]|nWord=16|RX=[N]
-23	-ìí	-ìí	DET	MOD	_	22	det	_	AlignBegin=296230|AlignEnd=296380|GE=[ANAPH]|nWord=16|RX=[MOD]
-24	hɛ̰̀	hɛ̰̀	ADV	ADV	_	21	mod	_	AlignBegin=296380|AlignEnd=296680|GE=[ici]|nWord=17|RX=[ADV]
-25	gá	gá	ADP	FCT	_	16	compound	_	AlignBegin=296680|AlignEnd=296980|GE=[SIM]|nWord=18|RX=[FCT]
-26	kóó	kóó	CCONJ	SUB	_	37	mod	_	AlignBegin=296980|AlignEnd=297280|GE=[même_si]|nWord=19|RX=[SUB]
-27	wà	wà	PRON	PERS	Number=Plur|Person=3	29	subj	_	AlignBegin=297280|AlignEnd=297580|GE=[3PL]|nWord=20|RX=[PERS]
-28-29	bá	bá	_	_	_	_	_	_	_
-28	H-	H-	AUX	MV	Aspect=Imp	29	aux	_	AlignBegin=297580|AlignEnd=297730|GE=[INAC]|nWord=21|RX=[MV]
-29	ba	ba	VERB	V	_	26	comp	_	AlignBegin=297730|AlignEnd=297880|GE=[prendre]|nWord=21|RX=[V]
-30-31	gbó	gbó	_	_	_	_	_	_	_
-30	H-	H-	AUX	MV	Aspect=Pfv	31	aux	_	AlignBegin=297880|AlignEnd=298030|GE=[INF-ACC]|nWord=22|RX=[MV]
-31	gbo	gbo	VERB	V	_	29	comp:svc	_	AlignBegin=298030|AlignEnd=298180|GE=[arriver]|nWord=22|RX=[V]
-32-33	sɛ̌n	sɛ̌n	_	_	_	_	_	_	_
-32	sɛ̀n	sɛ̀n	ADP	FCT	_	31	comp:obl	_	AlignBegin=298180|AlignEnd=298330|GE=[dans]|nWord=23|RX=[FCT]
-33	-H	-H	X	MOD	_	32	aff	_	AlignBegin=298330|AlignEnd=298480|GE=[MT]|nWord=23|RX=[MOD]
-34	bàngí	bàngí	PROPN	NPR	_	32	comp	_	AlignBegin=298480|AlignEnd=298780|GE=[village sp]|nWord=24|RX=[NPR]
-35	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	37	subj	_	AlignBegin=298780|AlignEnd=299080|GE=[3SG]|nWord=25|RX=[PERS]
-36-37	tɛ́-gàsì	tɛ́-gàsì	_	_	_	_	_	_	_
-36	tɛ́-B	tɛ́-B	AUX	MV	Aspect=Imp	37	aux	_	AlignBegin=299080|AlignEnd=299230|GE=[VIRT].[INAC]|nWord=26|RX=[MV]
-37	gasi	gasi	VERB	V	_	0	root	_	AlignBegin=299230|AlignEnd=299380|GE=[grandir]|nWord=26|RX=[V]
-38	kɔ̀	kɔ̀	ADP	FCT	_	37	comp:obl	_	AlignBegin=299380|AlignEnd=299680|GE=[intérieur]|nWord=27|RX=[FCT]
-39	ʔér	ʔér	NOUN	N	_	38	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[main]|nWord=28|RX=[N]
-40	nàà	nàà	NOUN	N	_	39	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[mère]|nWord=28|RX=[N]
-41	kɔ́	kɔ́	ADP	N	_	40	udep	_	AlignBegin=299680|AlignEnd=299970|GE=[de]|nWord=28|RX=[FCT]
-42	=à̰	=à̰	NOUN	N	_	41	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[3SG]|nWord=28|RX=[PERS]
-43	-ìí	-ìí	DET	N	_	42	det	_	AlignBegin=299680|AlignEnd=299970|GE=[ANAPH]|nWord=28|RX=[MOD]
+22	-H	-H	ADP	_	_	21	udep	_	GE=[MT]|nWord=15|RX=[FCT]
+23-24	wíìí	_	_	_	_	_	_	_	_
+23	wí	wí	NOUN	N	_	22	comp	_	AlignBegin=296080|AlignEnd=296230|GE=[homo]|nWord=16|RX=[N]
+24	-ìí	-ìí	DET	MOD	_	23	det	_	AlignBegin=296230|AlignEnd=296380|GE=[ANAPH]|nWord=16|RX=[MOD]
+25	hɛ̰̀	hɛ̰̀	ADV	ADV	_	21	mod	_	AlignBegin=296380|AlignEnd=296680|GE=[ici]|nWord=17|RX=[ADV]
+26	gá	gá	ADP	FCT	_	16	compound	_	AlignBegin=296680|AlignEnd=296980|GE=[SIM]|nWord=18|RX=[FCT]
+27	kóó	kóó	CCONJ	SUB	_	38	mod	_	AlignBegin=296980|AlignEnd=297280|GE=[même_si]|nWord=19|RX=[SUB]
+28	wà	wà	PRON	PERS	Number=Plur|Person=3	30	subj	_	AlignBegin=297280|AlignEnd=297580|GE=[3PL]|nWord=20|RX=[PERS]
+29-30	bá	_	_	_	_	_	_	_	_
+29	H-	H-	AUX	MV	Aspect=Imp	30	aux	_	AlignBegin=297580|AlignEnd=297730|GE=[INAC]|nWord=21|RX=[MV]
+30	ba	ba	VERB	V	_	27	comp	_	AlignBegin=297730|AlignEnd=297880|GE=[prendre]|nWord=21|RX=[V]
+31-32	gbó	_	_	_	_	_	_	_	_
+31	H-	H-	AUX	MV	Aspect=Perf	32	aux	_	AlignBegin=297880|AlignEnd=298030|GE=[INF-ACC]|nWord=22|RX=[MV]
+32	gbo	gbo	VERB	V	_	30	comp:svc	_	AlignBegin=298030|AlignEnd=298180|GE=[arriver]|nWord=22|RX=[V]
+33-34	sɛ̌n	_	_	_	_	_	_	_	_
+33	sɛ̀n	sɛ̀n	ADP	FCT	_	32	comp:obl	_	AlignBegin=298180|AlignEnd=298330|GE=[dans]|nWord=23|RX=[FCT]
+34	-H	-H	X	MOD	_	33	aff	_	AlignBegin=298330|AlignEnd=298480|GE=[MT]|nWord=23|RX=[MOD]
+35	bàngí	bàngí	PROPN	NPR	_	33	comp	_	AlignBegin=298480|AlignEnd=298780|GE=[village sp]|nWord=24|RX=[NPR]
+36	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	38	subj	_	AlignBegin=298780|AlignEnd=299080|GE=[3SG]|nWord=25|RX=[PERS]
+37-38	tɛ́-gàsì	_	_	_	_	_	_	_	_
+37	tɛ́-B	tɛ́-B	AUX	MV	Aspect=Imp|Mood=Irr	38	aux	_	AlignBegin=299080|AlignEnd=299230|GE=[VIRT].[INAC]|nWord=26|RX=[MV]
+38	gasi	gasi	VERB	V	_	0	root	_	AlignBegin=299230|AlignEnd=299380|GE=[grandir]|nWord=26|RX=[V]
+39	kɔ̀	kɔ̀	ADP	FCT	_	38	comp:obl	_	AlignBegin=299380|AlignEnd=299680|GE=[intérieur]|nWord=27|RX=[FCT]
+40	ʔér	ʔér	NOUN	N	_	39	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[main]|nWord=28|RX=[N]
+41	-H	-H	ADP	_	_	40	udep	_	GE=[MT]|nWord=28|RX=[FCT]
+42	nàà	nàà	NOUN	N	_	41	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[mère]|nWord=28|RX=[N]
+43	kɔ́	kɔ́	ADP	N	_	42	udep	_	AlignBegin=299680|AlignEnd=299970|GE=[de]|nWord=28|RX=[FCT]
+44	=à̰	=à̰	NOUN	N	Number=Sing|Person=3	43	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[3SG]|nWord=28|RX=[PERS]
+45	-ìí	-ìí	DET	N	_	44	det	_	AlignBegin=299680|AlignEnd=299970|GE=[ANAPH]|nWord=28|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_140-140
 # speaker_id = SP
@@ -2438,19 +2446,19 @@
 5	=wà	wà	PRON	PERS	Number=Plur|Person=3	8	subj	_	AlignBegin=301322|AlignEnd=301426|GE=[3PL]|nWord=5|RX=[PERS]
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=301426|AlignEnd=301530|GE=[MT]|nWord=5|RX=[MOD]
 7-9	bàà	bàà	_	_	_	_	_	_	_
-7	BHa-	BHa-	AUX	MV	Aspect=Pfv	8	aux	_	AlignBegin=301530|AlignEnd=301634|GE=[ACC]|nWord=6|RX=[MV]
+7	BHa-	BHa-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=301530|AlignEnd=301634|GE=[ACC]|nWord=6|RX=[MV]
 8	ba	ba	VERB	V	_	4	comp	_	AlignBegin=301634|AlignEnd=301738|GE=[prendre]|nWord=6|RX=[V]
 9	-H	-H	X	MOD	_	8	aff	_	AlignBegin=301738|AlignEnd=301842|GE=[MT]|nWord=6|RX=[MOD]
 10	sɔ̰́	sɔ̰́	PART	MOD	VerbForm=Fin	8	mod	_	AlignBegin=301842|AlignEnd=302154|GE=[REV]|nWord=7|RX=[MOD]
 11	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	8	comp:obj	_	AlignBegin=302154|AlignEnd=302466|GE=[3SG]|nWord=8|RX=[PERS]
 12	yáknɛ́	yáknɛ́	PART	MV	_	8	mod	_	AlignBegin=302466|AlignEnd=302778|GE=[en_partant]|nWord=9|RX=[MV]
 13-14	gbó	gbó	_	_	_	_	_	_	_
-13	H-	H-	AUX	MV	Aspect=Pfv	14	aux	_	AlignBegin=302778|AlignEnd=302934|GE=[INF-ACC]|nWord=10|RX=[MV]
+13	H-	H-	AUX	MV	Aspect=Perf	14	aux	_	AlignBegin=302778|AlignEnd=302934|GE=[INF-ACC]|nWord=10|RX=[MV]
 14	gbo	gbo	VERB	V	_	8	comp:svc	_	AlignBegin=302934|AlignEnd=303090|GE=[arriver]|nWord=10|RX=[V]
 15	sɛ̀n	sɛ̀n	ADP	FCT	_	14	comp:obl	_	AlignBegin=303090|AlignEnd=303402|GE=[dans]|nWord=11|RX=[FCT]
 16	díí-gè	díí-gè	ADV	_	_	15	comp	_	AlignBegin=303402|AlignEnd=303713|GE=[où]|nWord=12|RX=[INTER]
-17	ʔà̰	ʔà̰	PRON	_	_	19	subj	_	AlignBegin=303402|AlignEnd=303713|GE=[3SG]|nWord=12|RX=[PERS]
-18	tɛ́-B-	tɛ́-B-	AUX	_	_	19	aux	_	AlignBegin=303402|AlignEnd=303713|GE=[VIRT-INAC]|nWord=12|RX=[MV]
+17	ʔà̰	ʔà̰	PRON	_	Number=Sing|Person=3	19	subj	_	AlignBegin=303402|AlignEnd=303713|GE=[3SG]|nWord=12|RX=[PERS]
+18	tɛ́-B-	tɛ́-B-	AUX	_	Aspect=Imp|Mood=Irr	19	aux	_	AlignBegin=303402|AlignEnd=303713|GE=[VIRT-INAC]|nWord=12|RX=[MV]
 19	gasi	gasi	VERB	_	_	_	_	_	AlignBegin=303402|AlignEnd=303713|GE=[grandir]|nWord=12|RX=V]
 20	ʔé	ʔé	ADV	_	_	19	mod	_	AlignBegin=303402|AlignEnd=303713|GE=[déjà]|nWord=12|RX=[ADV]
 
@@ -2462,7 +2470,7 @@
 # phonetic_text = ʔà̰ tɛ́-gàsì ʔé
 # text_fr =  il grandira
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	AlignBegin=303727|AlignEnd=304086|GE=[3SG]|nWord=1|RX=[PERS]
-2	tɛ́-B	tɛ́-B	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=304086|AlignEnd=304266|GE=[VIRT].[INAC]|nWord=2|RX=[MV]
+2	tɛ́-B	tɛ́-B	AUX	MV	Aspect=Imp|Mood=Irr	3	aux	_	AlignBegin=304086|AlignEnd=304266|GE=[VIRT].[INAC]|nWord=2|RX=[MV]
 3	gasi	gasi	VERB	V	_	0	root	_	AlignBegin=304266|AlignEnd=304445|GE=[grandir]|nWord=2|RX=[V]
 4	ʔé	ʔé	ADV	ADV	_	3	mod	_	AlignBegin=304445|AlignEnd=304804|GE=[déjà]|nWord=3|RX=[ADV]
 
@@ -2500,13 +2508,13 @@
 6	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	comp	_	AlignBegin=307832|AlignEnd=307958|GE=[3SG]|nWord=4|RX=[PERS]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_143-143a
+# text = kóó ʔɛ́nɛ́ BHa- ba -H ʔó bêm hɛ̀n -H ngbàrà béí wà tɛ́-B wɛn kàá B- wɔ̀tɔ̀-wɔ̀tɔ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 307958, 312439
-# text = kóó ʔɛ́nɛ́ BHa- ba -H ʔó bêm hɛ̀n -H ngbàrà béí wà tɛ́-B wɛn kàá B- wɔ̀tɔ̀-wɔ̀tɔ̀
 # phonetic_text = kóó ʔɛ́nɛ́ BHa- ba ʔó bêm hɛ̀n -H ngbàrà béí wà tɛ́-B- wɛn kàá wɔ̀tɔ̀-wɔ̀tɔ̀
-# text_fr =  Même si vous prenez des enfants au milieu des gens, ils écarteront tout sur leur passage
-1	kóó	kóó	CCONJ	SUB	_	14	conj	_	AlignBegin=307958|AlignEnd=308238|GE=[même_si]|nWord=1|RX=[SUB]
+# text_fr =  Même si vous prenez des enfants au milieu des gens, ils écarteront tout sur leur passage //
+1	kóó	kóó	CCONJ	SUB	_	15	conj	_	AlignBegin=307958|AlignEnd=308238|GE=[même_si]|nWord=1|RX=[SUB]
 2	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2	4	subj	_	AlignBegin=308238|AlignEnd=308518|GE=[2PL]|nWord=2|RX=[PERS]
 3	BHa-	BHa-	AUX	MV	Aspect=Pfv	4	aux	_	AlignBegin=308518|AlignEnd=308611|GE=[ACC]|nWord=3|RX=[MV]
 4	ba	ba	VERB	V	_	1	comp	_	AlignBegin=308611|AlignEnd=308704|GE=[prendre]|nWord=3|RX=[V]
@@ -2516,13 +2524,14 @@
 8	hɛ̀n	hɛ̀n	ADP	FCT	_	4	comp:obl	_	AlignBegin=309358|AlignEnd=309498|GE=[dans]|nWord=6|RX=[FCT]
 9	-H	-H	X	MOD	_	8	aff	_	AlignBegin=309498|AlignEnd=309638|GE=[MT]|nWord=6|RX=[MOD]
 10	ngbàrà	ngbàrà	NOUN	N	_	8	comp:obl	_	AlignBegin=309638|AlignEnd=309918|GE=[milieu]|nWord=7|RX=[N]
-11	béí	béí	NOUN	N	_	10	comp	_	AlignBegin=309918|AlignEnd=310198|GE=[gens]|nWord=8|RX=[N]
-12	wà	wà	PRON	PERS	Number=Plur|Person=3	14	subj	_	AlignBegin=310198|AlignEnd=310478|GE=[3PL]|nWord=9|RX=[PERS]
-13	tɛ́-B	tɛ́-B	AUX	MV	Aspect=Imp	14	aux	_	AlignBegin=310478|AlignEnd=310618|GE=[VIRT].[INAC]|nWord=10|RX=[MV]
-14	wɛn	wɛn	VERB	V	_	0	root	_	AlignBegin=310618|AlignEnd=310758|GE=[écarter]|nWord=10|RX=[V]
-15	kàá	kàá	PART	MV	Aspect=Iter	14	mod	_	AlignBegin=310758|AlignEnd=311038|GE=[REP-ADD]|nWord=11|RX=[MV]
-16	B-	B-	DET	_	_	17	mod	_	AlignBegin=311038|AlignEnd=311178|GE=[PROX]|nWord=12|RX=[MT]
-17	wɔ̀tɔ̀-wɔ̀tɔ̀	wɔ́tɔ́-wɔ́tɔ́	ADJ	AA	_	14	mod	_	AlignBegin=311178|AlignEnd=311318|GE=[les_mains_de_part_et_d'autre_du_visage]|nWord=12|RX=[AA]
+11	-H	-H	ADP	_	_	10	udep	_	GE=[MT]|nWord=7|RX=[FCT]
+12	béí	béí	NOUN	N	_	11	comp	_	AlignBegin=309918|AlignEnd=310198|GE=[gens]|nWord=8|RX=[N]
+13	wà	wà	PRON	PERS	Number=Plur|Person=3	15	subj	_	AlignBegin=310198|AlignEnd=310478|GE=[3PL]|nWord=9|RX=[PERS]
+14	tɛ́-B	tɛ́-B	AUX	MV	Aspect=Imp	15	aux	_	AlignBegin=310478|AlignEnd=310618|GE=[VIRT].[INAC]|nWord=10|RX=[MV]
+15	wɛn	wɛn	VERB	V	_	0	root	_	AlignBegin=310618|AlignEnd=310758|GE=[écarter]|nWord=10|RX=[V]
+16	kàá	kàá	PART	MV	Aspect=Iter	15	mod	_	AlignBegin=310758|AlignEnd=311038|GE=[REP-ADD]|nWord=11|RX=[MV]
+17	B-	B-	DET	_	_	18	mod	_	AlignBegin=311038|AlignEnd=311178|GE=[PROX]|nWord=12|RX=[MT]
+18	wɔ̀tɔ̀-wɔ̀tɔ̀	wɔ́tɔ́-wɔ́tɔ́	ADJ	AA	_	15	mod	_	AlignBegin=311178|AlignEnd=311318|GE=[les_mains_de_part_et_d'autre_du_visage]|nWord=12|RX=[AA]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_143-143b
 # speaker_id = SP
@@ -2572,12 +2581,12 @@
 20	hı̰̀ı̰́	hı̰̀ı̰́	ADV	ADV	_	19	mod	_	AlignBegin=316118|AlignEnd=316398|GE=[ainsi]|nWord=14|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_145-145a
+# text = ʔéí H- ba bêm kɔ́ màá ná
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 316398, 318789
-# text = ʔéí H- ba bêm kɔ́ màá ná
 # phonetic_text = ʔéí bá bêm kɔ́ màá ná
-# text_fr = On ne prend pas l'enfant d'autrui
+# text_fr = On ne prend pas l'enfant d'autrui //
 1	ʔéí	ʔéí	PRON	PRO	PronType=Ind	3	subj	_	AlignBegin=316398|AlignEnd=316539|GE=[IMPS]|nWord=1|RX=[PRO]
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=316539|AlignEnd=316609|GE=[INAC]|nWord=2|RX=[MV]
 3	ba	ba	VERB	V	_	0	root	_	AlignBegin=316609|AlignEnd=316680|GE=[prendre]|nWord=2|RX=[V]
@@ -2627,7 +2636,7 @@
 4	kɔ́	kɔ́	ADP	FCT	_	3	udep	_	AlignBegin=319506|AlignEnd=319626|GE=[de]|nWord=4|RX=[FCT]
 5	=ám	ʔám	PRON	PERS	Number=Sing|Person=1	4	comp	_	AlignBegin=319626|AlignEnd=319745|GE=[1SG]|nWord=4|RX=[PERS]
 6-8	hɔ̀ɔ́	hɔ̀ɔ́	_	_	_	_	_	_	_
-6	BHa-	BHa-	AUX	MV	Aspect=Pfv	7	aux	_	AlignBegin=319745|AlignEnd=319825|GE=[ACC]|nWord=5|RX=[MV]
+6	BHa-	BHa-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=319745|AlignEnd=319825|GE=[ACC]|nWord=5|RX=[MV]
 7	hɔ	hɔ	VERB	V	_	0	root	_	AlignBegin=319825|AlignEnd=319905|GE=[arriver]|nWord=5|RX=[V]
 8	-H	-H	X	MOD	_	7	aff	_	AlignBegin=319905|AlignEnd=319984|GE=[MT]|nWord=5|RX=[MOD]
 9	zɔ̀lí	zɔ̀lí	NOUN	N	_	7	comp:obl	_	AlignBegin=319984|AlignEnd=320224|GE=[terme_final]|nWord=6|RX=[N]
@@ -2640,6 +2649,6 @@
 # phonetic_text = kàɗá
 # text_fr =  C'est fini.
 1	zero	zero	X	MV	Aspect=Pfv	3	subj	_	AlignBegin=320224|AlignEnd=320572|GE=[ça]|nWord=1|RX=[N]
-2	BHa-	BHa-	AUX	MV	Aspect=Pfv	3	aux	_	AlignBegin=320224|AlignEnd=320572|GE=[ACC]|nWord=1|RX=[MV]
+2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=320224|AlignEnd=320572|GE=[ACC]|nWord=1|RX=[MV]
 3	kaɗi	kaɗi	VERB	V	_	0	root	_	AlignBegin=320572|AlignEnd=320919|GE=[être_fini]|nWord=1|RX=[V]
 

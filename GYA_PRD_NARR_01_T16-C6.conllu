@@ -30,7 +30,7 @@
 6	nàà	nàà	NOUN	N	_	5	comp	_	AlignBegin=5560|AlignEnd=5824|GE=[mère]|nWord=4|RX=[N]
 7	kɔ́	kɔ́	ADP	FCT	_	6	udep	_	AlignBegin=5824|AlignEnd=6088|GE=[de]|nWord=5|RX=[FCT]
 8	bêm	bêm	NOUN	N	_	7	comp	_	AlignBegin=6088|AlignEnd=6352|GE=[enfant]|nWord=6|RX=[N]
-9	nɛ̀	nɛ̀	CCONJ	SUB.REL	PronType=Rel	6	mod@relcl	_	AlignBegin=6352|AlignEnd=6616|GE=[REL]|nWord=7|RX=[SUB]
+9	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	6	mod@relcl	_	AlignBegin=6352|AlignEnd=6616|GE=[REL]|nWord=7|RX=[SUB]
 10-11	gáí	gáí	_	_	_	_	_	_	_
 10	H-	H-	AUX	MV	Aspect=Imp	11	aux	_	AlignBegin=6616|AlignEnd=6748|GE=[INAC]|nWord=8|RX=[MV]
 11	gai	gai	VERB	V	_	9	comp	_	AlignBegin=6748|AlignEnd=6880|GE=[écoper]|nWord=8|RX=[V]
@@ -2368,7 +2368,7 @@
 6-7	tɔ̰́	tɔ̰́	_	_	_	_	_	_	_
 6	H-	H-	AUX	MV	Aspect=Imp	7	aux	_	AlignBegin=292809|AlignEnd=292945|GE=[INAC]|nWord=5|RX=[MV]
 7	tɔ̰	tɔ̰	VERB	V	_	3	comp	_	AlignBegin=292945|AlignEnd=293080|GE=[dire]|nWord=5|RX=[V]
-8	kà	kà	CCONJ	SUB	_	37	mod	_	AlignBegin=293080|AlignEnd=293380|GE=[quand]|nWord=6|RX=[SUB]
+8	kà	kà	SCONJ	SUB	_	37	mod	_	AlignBegin=293080|AlignEnd=293380|GE=[quand]|nWord=6|RX=[SUB]
 9	mbɔ́zɔ̀-bêm	mbɔ́zɔ̀-bêm	NOUN	N	_	11	subj	_	AlignBegin=293380|AlignEnd=293680|GE=[nouveau-né]|nWord=7|RX=[N]
 10-12	nɛ́-bèè	nɛ́-bèè	_	_	_	_	_	_	_
 10	nɛ́-BHa	nɛ́-BHa	AUX	MV	Aspect=Perf	11	aux	_	AlignBegin=293680|AlignEnd=293780|GE=[HYPO-ACC]|nWord=8|RX=[MV]
@@ -2376,12 +2376,12 @@
 12	-H	-H	X	MOD	_	11	aff	_	AlignBegin=293880|AlignEnd=293980|GE=[MT]|nWord=8|RX=[MOD]
 13	sór-mɔ̀-ná	sór-mɔ̀-ná	ADV	ADV	_	11	comp:pred	_	AlignBegin=293980|AlignEnd=294280|GE=[un_tout_petit_peu]|nWord=9|RX=[ADV]
 14	mbálámbúlú	mbálámbúlú	ADJ	AA	_	11	comp:pred	_	AlignBegin=294280|AlignEnd=294580|GE=[tout_petit]|nWord=10|RX=[AA]
-15	hé	hé	ADP	FCT	_	14	comp:obl	_	AlignBegin=294580|AlignEnd=294880|GE=[SIM]|nWord=11|RX=[FCT]
+15	hé	hé	ADP	FCT	_	14	mod	_	AlignBegin=294580|AlignEnd=294880|GE=[SIM]|nWord=11|RX=[FCT]
 16	mɔ̀	mɔ̀	NOUN	N	_	15	comp	_	AlignBegin=294880|AlignEnd=295180|GE=[chose]|nWord=12|RX=[N]
 17-18	sɛ̌n	sɛ̌n	_	_	_	_	_	_	_
-17	sɛ̀n	sɛ̀n	ADP	FCT	_	16	comp:obl	_	AlignBegin=295180|AlignEnd=295330|GE=[dans]|nWord=13|RX=[FCT]
+17	sɛ̀n	sɛ̀n	ADP	FCT	_	16	udep	_	AlignBegin=295180|AlignEnd=295330|GE=[dans]|nWord=13|RX=[FCT]
 18	-H	-H	X	MOD	_	17	aff	_	AlignBegin=295330|AlignEnd=295480|GE=[MT]|nWord=13|RX=[MOD]
-19	kɔ̀	kɔ̀	ADP	FCT	_	17	comp:obl	_	AlignBegin=295480|AlignEnd=295780|GE=[intérieur]|nWord=14|RX=[FCT]
+19	kɔ̀	kɔ̀	ADP	FCT	_	17	comp	_	AlignBegin=295480|AlignEnd=295780|GE=[intérieur]|nWord=14|RX=[FCT]
 20	ʔér	ʔér	NOUN	N	_	19	comp	_	AlignBegin=295780|AlignEnd=296080|GE=[main]|nWord=15|RX=[N]
 21	-H	-H	ADP	_	_	20	udep	_	GE=[MT]|nWord=15|RX=[FCT]
 22-23	wíìí	_	_	_	_	_	_	_	_
@@ -2389,7 +2389,7 @@
 23	-ìí	-ìí	DET	MOD	_	22	det	_	AlignBegin=296230|AlignEnd=296380|GE=[ANAPH]|nWord=16|RX=[MOD]
 24	hɛ̰̀	hɛ̰̀	ADV	ADV	_	20	mod	_	AlignBegin=296380|AlignEnd=296680|GE=[ici]|nWord=17|RX=[ADV]
 25	gá	gá	ADP	FCT	_	15	compound	_	AlignBegin=296680|AlignEnd=296980|GE=[SIM]|nWord=18|RX=[FCT]
-26	kóó	kóó	CCONJ	SUB	_	37	mod	_	AlignBegin=296980|AlignEnd=297280|GE=[même_si]|nWord=19|RX=[SUB]
+26	kóó	kóó	SCONJ	SUB	_	37	mod	_	AlignBegin=296980|AlignEnd=297280|GE=[même_si]|nWord=19|RX=[SUB]
 27	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	29	subj	_	AlignBegin=297280|AlignEnd=297580|GE=[3PL]|nWord=20|RX=[PERS]
 28-29	bá	_	_	_	_	_	_	_	_
 28	H-	H-	AUX	MV	Aspect=Imp	29	aux	_	AlignBegin=297580|AlignEnd=297730|GE=[INAC]|nWord=21|RX=[MV]
@@ -2542,7 +2542,7 @@
 3-4	gùn-náŋáà	gùn-náŋáà	_	_	_	_	_	_	_
 3	gùn-náŋá	gùn-náŋá	NOUN	N	_	2	comp:pred	_	AlignBegin=313005|AlignEnd=313147|GE=[raison]|nWord=3|RX=[N]
 4	-à	-à	DET	MN	Definite=Def	3	aff	_	AlignBegin=313147|AlignEnd=313288|GE=[DEF]|nWord=3|RX=[MN]
-5	nɛ̀	nɛ̀	CCONJ	SUB.REL	PronType=Rel	3	mod@relcl	_	AlignBegin=313288|AlignEnd=313571|GE=[REL]|nWord=4|RX=[SUB]
+5	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	3	mod@relcl	_	AlignBegin=313288|AlignEnd=313571|GE=[REL]|nWord=4|RX=[SUB]
 6-7	dɛ́	dɛ́	_	_	_	_	_	_	_
 6	H-	H-	AUX	MV	Aspect=Imp	7	aux	_	AlignBegin=313571|AlignEnd=313713|GE=[INAC]|nWord=5|RX=[MV]
 7	dɛ	dɛ	VERB	V	_	5	comp	_	AlignBegin=313713|AlignEnd=313854|GE=[faire]|nWord=5|RX=[V]
@@ -2600,8 +2600,8 @@
 # sent_timecode = 316398, 318789
 # phonetic_text = ʔá̰ hɛ̌n hı̰̀ı̰́ //
 # text_fr = c'est comme ça.//
-1	ʔá̰	ʔá̰	CCONJ	SUB	_	0	root	_	AlignBegin=318090|AlignEnd=318231|GE=[voilà_que]|nWord=13|RX=[SUB]
-2	hɛ̀n	hɛ̀n	ADP	FCT	_	1	comp:obl	_	AlignBegin=318231|AlignEnd=318301|GE=[dans]|nWord=14|RX=[FCT]
+1	ʔá̰	ʔá̰	CCONJ	SUB	_	2	cc	_	AlignBegin=318090|AlignEnd=318231|GE=[voilà_que]|nWord=13|RX=[SUB]
+2	hɛ̀n	hɛ̀n	ADP	FCT	_	0	root	_	AlignBegin=318231|AlignEnd=318301|GE=[dans]|nWord=14|RX=[FCT]
 3	-H	-H	X	FCT	_	2	aff	_	AlignBegin=318301|AlignEnd=318372|GE=[D]|nWord=14|RX=[FCT]
 4	hı̰̀ı̰́	hı̰̀ı̰́	ADV	ADV	_	2	comp	_	AlignBegin=318372|AlignEnd=318513|GE=[ainsi]|nWord=15|RX=[ADV]
 

@@ -2387,37 +2387,41 @@
 43	=à̰	=à̰	NOUN	N	Number=Sing|Person=3|PronType=Prs	42	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[3SG]|nWord=28|RX=[PERS]
 44	-ìí	-ìí	DET	N	_	43	det	_	AlignBegin=299680|AlignEnd=299970|GE=[ANAPH]|nWord=28|RX=[MOD]
 
-# sent_id = GYA_PRD_NARR_01_T16-C6_140-140
-# text = ʔà̰ tɛ́-kìì mɔ̀-ndɔ̀wá bàà sɔ̰́ ʔà̰ yáknɛ́ gbó sɛ̀n díí-gè ʔà̰ tɛ́-B- gasi ʔé
+# sent_id = GYA_PRD_NARR_01_T16-C6_140-140a
+# text = ʔà̰ tɛ́-B kii
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 299970, 303713
-# phonetic_text = ʔà̰ tɛ́-kìì // mɔ̀-ndɔ̀wá bàà sɔ̰́ ʔà̰ yáknɛ́ gbó sɛ̀n díí-gè ndé ʔà̰ tɛ́-gàsì ʔé //
-# text_fr = il la cherchera // où qu'ils l'aient pris et emmené il grandira //
+# phonetic_text = ʔà̰ tɛ́-kìì
+# text_fr = il la cherchera
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=300594|AlignEnd=300906|GE=[3SG]|nWord=3|RX=[PERS]
-2-3	tɛ́-kìì	tɛ́-kìì	_	_	_	_	_	_	_
 2	tɛ́-B	tɛ́-B	AUX	MV	Aspect=Imp|Mood=Irr	3	aux	_	AlignBegin=300906|AlignEnd=301062|GE=[VIRT-INAC]|nWord=4|RX=[MV]
 3	kii	kii	VERB	V	_	0	root	_	AlignBegin=301062|AlignEnd=301218|GE=[chercher]|nWord=4|RX=[V]
-4-6	mɔ̀-ndɔ̀wá	mɔ̀-ndɔ̀wá	_	_	_	_	_	_	_
-4	mɔ̀-nɛ̀	mɔ̀-nɛ̀	SCONJ	SUB	_	19	mod	_	AlignBegin=301218|AlignEnd=301322|GE=[du_du_fait_que]|nWord=5|RX=[SUB]
-5	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	8	subj	_	AlignBegin=301322|AlignEnd=301426|GE=[3PL]|nWord=5|RX=[PERS]
-6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=301426|AlignEnd=301530|GE=[MT]|nWord=5|RX=[MOD]
-7-9	bàà	bàà	_	_	_	_	_	_	_
-7	BHa-	BHa-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=301530|AlignEnd=301634|GE=[ACC]|nWord=6|RX=[MV]
-8	ba	ba	VERB	V	_	4	comp	_	AlignBegin=301634|AlignEnd=301738|GE=[prendre]|nWord=6|RX=[V]
-9	-H	-H	X	MOD	_	8	aff	_	AlignBegin=301738|AlignEnd=301842|GE=[MT]|nWord=6|RX=[MOD]
-10	sɔ̰́	sɔ̰́	PART	MOD	VerbForm=Fin	8	mod	_	AlignBegin=301842|AlignEnd=302154|GE=[REV]|nWord=7|RX=[MOD]
-11	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	8	comp:obj	_	AlignBegin=302154|AlignEnd=302466|GE=[3SG]|nWord=8|RX=[PERS]
-12	yáknɛ́	yáknɛ́	PART	MV	_	8	mod	_	AlignBegin=302466|AlignEnd=302778|GE=[en_partant]|nWord=9|RX=[MV]
-13-14	gbó	gbó	_	_	_	_	_	_	_
-13	H-	H-	AUX	MV	Aspect=Perf	14	aux	_	AlignBegin=302778|AlignEnd=302934|GE=[INF-ACC]|nWord=10|RX=[MV]
-14	gbo	gbo	VERB	V	_	8	compound:svc	_	AlignBegin=302934|AlignEnd=303090|GE=[arriver]|nWord=10|RX=[V]
-15	sɛ̀n	sɛ̀n	ADP	FCT	_	14	comp:obl	_	AlignBegin=303090|AlignEnd=303402|GE=[dans]|nWord=11|RX=[FCT]
-16	díí-gè	díí-gè	ADV	_	_	15	comp	_	AlignBegin=303402|AlignEnd=303713|GE=[où]|nWord=12|RX=[INTER]
-17	ʔà̰	ʔà̰	PRON	_	Number=Sing|Person=3|PronType=Prs	19	subj	_	AlignBegin=303402|AlignEnd=303713|GE=[3SG]|nWord=12|RX=[PERS]
-18	tɛ́-B-	tɛ́-B-	AUX	_	Aspect=Imp|Mood=Irr	19	aux	_	AlignBegin=303402|AlignEnd=303713|GE=[VIRT-INAC]|nWord=12|RX=[MV]
-19	gasi	gasi	VERB	_	_	0	root	_	AlignBegin=303402|AlignEnd=303713|GE=[grandir]|nWord=12|RX=V]
-20	ʔé	ʔé	ADV	_	_	19	mod	_	AlignBegin=303402|AlignEnd=303713|GE=[déjà]|nWord=12|RX=[ADV]
+
+# sent_id = GYA_PRD_NARR_01_T16-C6_140-140b
+# text = mɔ̀-nɛ̀ =wà -H BHa- ba -H sɔ̰́ ʔà̰ yáknɛ́ H- gbo sɛ̀n díí-gè ʔà̰ tɛ́-B- gasi ʔé
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
+# sent_timecode = 299970, 303713
+# phonetic_text = mɔ̀-ndɔ̀wá bàà sɔ̰́ ʔà̰ yáknɛ́ gbó sɛ̀n díí-gè ndé ʔà̰ tɛ́-gàsì ʔé
+# text_fr = où qu'ils l'aient pris et emmené il grandira
+1	mɔ̀-nɛ̀	mɔ̀-nɛ̀	SCONJ	SUB	_	16	mod	_	AlignBegin=301218|AlignEnd=301322|GE=[du_du_fait_que]|nWord=5|RX=[SUB]
+2	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	5	subj	_	AlignBegin=301322|AlignEnd=301426|GE=[3PL]|nWord=5|RX=[PERS]
+3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=301426|AlignEnd=301530|GE=[MT]|nWord=5|RX=[MOD]
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=301530|AlignEnd=301634|GE=[ACC]|nWord=6|RX=[MV]
+5	ba	ba	VERB	V	_	1	comp	_	AlignBegin=301634|AlignEnd=301738|GE=[prendre]|nWord=6|RX=[V]
+6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=301738|AlignEnd=301842|GE=[MT]|nWord=6|RX=[MOD]
+7	sɔ̰́	sɔ̰́	PART	MOD	VerbForm=Fin	5	mod	_	AlignBegin=301842|AlignEnd=302154|GE=[REV]|nWord=7|RX=[MOD]
+8	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=302154|AlignEnd=302466|GE=[3SG]|nWord=8|RX=[PERS]
+9	yáknɛ́	yáknɛ́	PART	MV	_	5	mod	_	AlignBegin=302466|AlignEnd=302778|GE=[en_partant]|nWord=9|RX=[MV]
+10	H-	H-	AUX	MV	Aspect=Perf	11	aux	_	AlignBegin=302778|AlignEnd=302934|GE=[INF-ACC]|nWord=10|RX=[MV]
+11	gbo	gbo	VERB	V	_	5	compound:svc	_	AlignBegin=302934|AlignEnd=303090|GE=[arriver]|nWord=10|RX=[V]
+12	sɛ̀n	sɛ̀n	ADP	FCT	_	11	comp:obl	_	AlignBegin=303090|AlignEnd=303402|GE=[dans]|nWord=11|RX=[FCT]
+13	díí-gè	díí-gè	ADV	_	_	12	comp	_	AlignBegin=303402|AlignEnd=303713|GE=[où]|nWord=12|RX=[INTER]
+14	ʔà̰	ʔà̰	PRON	_	Number=Sing|Person=3|PronType=Prs	16	subj	_	AlignBegin=303402|AlignEnd=303713|GE=[3SG]|nWord=12|RX=[PERS]
+15	tɛ́-B-	tɛ́-B-	AUX	_	Aspect=Imp|Mood=Irr	16	aux	_	AlignBegin=303402|AlignEnd=303713|GE=[VIRT-INAC]|nWord=12|RX=[MV]
+16	gasi	gasi	VERB	_	_	0	root	_	AlignBegin=303402|AlignEnd=303713|GE=[grandir]|nWord=12|RX=V]
+17	ʔé	ʔé	ADV	_	_	16	mod	_	AlignBegin=303402|AlignEnd=303713|GE=[déjà]|nWord=12|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_141-141a
 # text = ʔà̰ tɛ́-B gasi ʔé

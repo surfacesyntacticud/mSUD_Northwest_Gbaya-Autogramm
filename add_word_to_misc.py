@@ -87,8 +87,7 @@ for line in lines:
                     tok = tok + '|Word=' + Word
                 except Exception:
                     print(sent_id + '\n' + 'No nWord: ', tok + '\n')
-                    
-                output.append(tok)
+                output.append(re.sub(r'\|nWord2=\d+', '' , tok))  # rm nWord2 before printing
         else:
             print(sent_id + '\n' + '# phonetic_text: ' + ori_text + '\n'\
                   + 'last token nWord: ' + str(word_id) + '\n' \

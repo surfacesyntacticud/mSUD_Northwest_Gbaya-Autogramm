@@ -12,7 +12,7 @@
 4	nɛ́	nɛ́	AUX	PRÉD	_	0	root	_	AlignBegin=1227|AlignEnd=1664|GE=[ETRE-ESS]|Gloss=ETRE-ESS|nWord=2|RX=[PRÉD]
 5	ʔìvɔ̂n	ʔìvɔ̂n	PROPN	NPR	_	4	comp:pred	_	AlignBegin=1664|AlignEnd=2100|GE=[Yvonne]|Gloss=Yvonne|nWord=3|RX=[NPR]
 
-# sent_id = GYA_PRD_NARR_T9-C7 002-002
+# sent_id = GYA_PRD_NARR_T9-C7_002-002
 # text = ʔó mà bókóbêm ʔîn -H bóíbêm ʔá̰-nɛ̀ wà -H BHa- nɛ -H hɛ̀n BHa- nɛ -H gúɗù ʔîn -H bókáɲá =à
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -42,7 +42,7 @@
 21	-H	-H	ADP	_	_	20	udep	_	GE=[MT]|nWord=12|RX=[FCT]
 22	=à	ʔà̰	PRON	MN	Number=Sing|Person=3	21	comp	_	AlignBegin=8321|AlignEnd=8590|GE=[3SG]|Gloss=-3SG|nWord=12|RX=[MN]
 
-# sent_id = GYA_PRD_NARR_T9-C7 003-003
+# sent_id = GYA_PRD_NARR_T9-C7_003-003
 # text = ʔá̰-nɛ̀ bé bóɲá =à̰ BHa- dɛ -H tùà
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -59,7 +59,7 @@
 8	-H	_	X	FCT	_	7	aff	_	AlignBegin=10966|AlignEnd=11182|GE=[MT]|Gloss=-MT|nWord=4|RX=[FCT]
 9	tùà	tùà	NOUN	N	_	7	comp:obj	_	AlignBegin=11182|AlignEnd=11830|GE=maison|Gloss=maison|nWord=5|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 004-004
+# sent_id = GYA_PRD_NARR_T9-C7_004-004
 # text = ʔèè ʔá̰-nɛ̀ =à̰ -H BHa- nɛ -H nɛ́ yàrí yàrí -H ngárì
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -79,7 +79,7 @@
 11	-H	-H	ADP	FCT	_	10	udep	_	AlignBegin=14470|AlignEnd=14710|GE=[MT]|Gloss=-MT|nWord=6|RX=[FCT]
 12	ngárì	ngárì	NOUN	N	_	11	comp	_	AlignBegin=14710|AlignEnd=15190|GE=fusil|Gloss=fusil|nWord=7|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 005-005a
+# sent_id = GYA_PRD_NARR_T9-C7_005-005a
 # text = ʔèè ʔá̰-nɛ̀ =wà -H BHa- dɛ -H tùà
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -95,7 +95,7 @@
 7	-H	-H	X	FCT	_	6	aff	_	AlignBegin=16254|AlignEnd=16387|GE=[MT]|Gloss=-MT|nWord=3|RX=[FCT]
 8	tùà	tùà	NOUN	N	_	6	comp:obj	_	AlignBegin=16387|AlignEnd=16786|GE=maison|Gloss=maison|nWord=4|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 005-005b
+# sent_id = GYA_PRD_NARR_T9-C7_005-005b
 # text = ʔèè ʔá̰-nɛ̀ =à̰ -H BHa- kai -H mɔ̀ táá kútùà mɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -114,7 +114,7 @@
 10	kútùà	kútùà	NOUN	N	_	9	comp	_	AlignBegin=18781|AlignEnd=19180|GE=maison|Gloss=maison|nWord=10|RX=[N]
 11	mɛ̀	mɛ̀	ADV	ADV	_	6	mod	_	AlignBegin=19180|AlignEnd=19577|GE=là-bas|Gloss=là-bas|nWord=11|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 006-006
+# sent_id = GYA_PRD_NARR_T9-C7_006-006
 # text = ʔèè bókáɲá =à H- duk kɔ́ =éí kútùà mɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -132,7 +132,7 @@
 9	kútùà	kútùà	NOUN	N	_	6	comp:obl	_	AlignBegin=20953|AlignEnd=21297|GE=maison|Gloss=maison|nWord=5|RX=[N]
 10	mɛ̀	mɛ̀	ADV	ADV	_	6	mod	_	AlignBegin=21297|AlignEnd=21638|GE=là-bas|Gloss=là-bas|nWord=6|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 007-007
+# sent_id = GYA_PRD_NARR_T9-C7_007-007
 # text = ʔèè -H ʔà̰ H- yak kɔ́ =à̰ yàrí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -148,7 +148,7 @@
 7	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	6	comp	_	AlignBegin=22842|AlignEnd=23014|GE=[3SG]|Gloss=-3SG|nWord=4|RX=[PR]
 8	yàrí	yàrí	NOUN	N	_	5	comp:obl	_	AlignBegin=23014|AlignEnd=23360|GE=excursion|Gloss=excursion|nWord=5|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 008-008a
+# sent_id = GYA_PRD_NARR_T9-C7_008-008a
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- yar -H yar -BHi nɛ́nɛ́ -vv
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -166,7 +166,7 @@
 9	nɛ́nɛ́	nɛ́nɛ́	PART	MV	_	5	mod	_	AlignBegin=24305|AlignEnd=24463|GE=en_allant|Gloss=en_allant|nWord=4|RX=[MV]
 10	-vv	_	DET	MOD	_	9	det	_	AlignBegin=24463|AlignEnd=24620|GE=[DUR]|Gloss=-DUR|nWord=4|RX=[MOD]
 
-# sent_id = GYA_PRD_NARR_T9-C7 008-008b
+# sent_id = GYA_PRD_NARR_T9-C7_008-008b
 # text = ʔèè -H ʔà̰ H- nɛ
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -179,7 +179,7 @@
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=25250|AlignEnd=25408|GE=[INAC]|Gloss=INAC-|nWord=7|RX=[MV]
 5	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=25408|AlignEnd=25565|GE=aller|Gloss=aller|nWord=7|RX=[V]
 
-# sent_id = GYA_PRD_NARR_T9-C7 008-008c
+# sent_id = GYA_PRD_NARR_T9-C7_008-008c
 # text = ʔà̰ H- kpa ʔó yérè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -192,7 +192,7 @@
 4	ʔó	ʔó	DET	MN	_	5	det	_	AlignBegin=26195|AlignEnd=26510|GE=[PL]|Gloss=PL|nWord=10|RX=[MN]
 5	yérè	yérè	NOUN	N	_	3	comp:obj	_	AlignBegin=26510|AlignEnd=26820|GE=buffle|Gloss=buffle|nWord=11|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 009-009
+# sent_id = GYA_PRD_NARR_T9-C7_009-009
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- yo -H yérè H- pḭ nù
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -210,7 +210,7 @@
 9	pḭ	pḭ	VERB	V	_	5	compound:svc	_	AlignBegin=28626|AlignEnd=28884|GE=jeter|Gloss=jeter|nWord=4|RX=[V]
 10	nù	nù	NOUN	N	_	9	comp:obl	_	AlignBegin=28884|AlignEnd=29400|GE=terre|Gloss=terre|nWord=5|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 010-010
+# sent_id = GYA_PRD_NARR_T9-C7_010-010
 # text = ʔèè ʔá̰-nɛ̀ yérè H- ma H- ma hé tɛ́-B to =à gá H- ma hé tɛ́-B to =à gá ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -238,7 +238,7 @@
 19	gá	gá	SCONJ	SUB	_	15	compound	_	AlignBegin=32722|AlignEnd=33024|GE=[SIM]|Gloss=SIM|nWord=12|RX=[SUB]
 20	ʔèá	ʔèá	ADV	ADV	_	17	mod	_	AlignBegin=33024|AlignEnd=33320|GE=seulement|Gloss=seulement|nWord=13|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 011-011
+# sent_id = GYA_PRD_NARR_T9-C7_011-011
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- ye -H gbàwár ʔé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -254,7 +254,7 @@
 7	gbàwár	gbàwár	NOUN	N	_	5	comp:obl	_	AlignBegin=34080|AlignEnd=34460|GE=route|Gloss=route|nWord=3|RX=[N]
 8	ʔé	ʔé	ADV	ADV	_	5	mod	_	AlignBegin=34460|AlignEnd=34840|GE=déjà|Gloss=déjà|nWord=4|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 012-012
+# sent_id = GYA_PRD_NARR_T9-C7_012-012
 # text = ʔèè bókáɲá =à H- ʔɔ kɔ́ =éí nɛ́ yá ɗòŋ-nà H- kpe kɔ́ =éí ndútùà zù ʔè H- ʔɔ kɔ́ =éí yá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -285,7 +285,7 @@
 22	=éí	ʔéí	PRON	PR	PronType=Prs	21	comp	_	AlignBegin=38728|AlignEnd=38872|GE=[LogS]|Gloss=-LogS|nWord=14|RX=[PR]
 23	yá	yá	NOUN	N	_	20	comp:obl	_	AlignBegin=38872|AlignEnd=39160|GE=sommeil|Gloss=sommeil|nWord=15|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 013-013a
+# sent_id = GYA_PRD_NARR_T9-C7_013-013a
 # text = ʔèè ʔá̰-nɛ̀ =à̰ -H H- sar yù péínɛ́ ʔèááá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -302,7 +302,7 @@
 8	péínɛ́	péínɛ́	PART	MV	_	6	mod	_	AlignBegin=41312|AlignEnd=41850|GE=en_revenant|Gloss=en_revenant|nWord=5|RX=[MV]
 9	ʔèááá	ʔèááá	ADV	ADV	_	6	mod	_	AlignBegin=41850|AlignEnd=42388|GE=longtemps|Gloss=longtemps|nWord=6|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 013-013b
+# sent_id = GYA_PRD_NARR_T9-C7_013-013b
 # text = ʔá̰-nɛ̀ =à̰ -H H- bei gìmà
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -316,7 +316,7 @@
 5	bei	bei	VERB	V	_	0	root	_	AlignBegin=43195|AlignEnd=43464|GE=chanter|Gloss=chanter|nWord=8|RX=[V]
 6	gìmà	gìmà	NOUN	N	_	5	comp:obj	_	AlignBegin=43464|AlignEnd=43999|GE=chant|Gloss=chant|nWord=9|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 014-015a
+# sent_id = GYA_PRD_NARR_T9-C7_014-015a
 # text = bókáɲá =m yàá-dòè-mɔ̀ H- hṵḭ ndútùà há̰ =ám bèè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -334,7 +334,7 @@
 9	=ám	ʔám	PRON	PR	Number=Sing|Person=1|PronType=Prs	8	comp	_	AlignBegin=45651|AlignEnd=45834|GE=[1SG]|Gloss=-1SG|nWord=5|RX=[PR]
 10	bèè	bèè	ADV	ADV	_	6	mod	_	AlignBegin=45834|AlignEnd=46201|GE=vite|Gloss=vite|nWord=6|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 014-015b
+# sent_id = GYA_PRD_NARR_T9-C7_014-015b
 # text = tè sɛ́ɛ̀ BHa- ɓɔn -H zù -H bàrà nám dòké
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -353,7 +353,7 @@
 10	nám	nám	NOUN	N	_	7	comp	_	AlignBegin=48036|AlignEnd=48403|GE=buffle|Gloss=buffle|nWord=12|RX=[N]
 11	dòké	dòké	PROPN	NPR	_	5	vocative	_	AlignBegin=48403|AlignEnd=48770|GE=dòké|Gloss=dòké|nWord=13|RX=[NPR]
 
-# sent_id = GYA_PRD_NARR_T9-C7 014-015c
+# sent_id = GYA_PRD_NARR_T9-C7_014-015c
 # text = bókáɲá =m yàá-dòè-mɔ̀ H- hṵḭ ndútùà há̰ =ám bèè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -371,7 +371,7 @@
 9	=ám	ʔám	PRON	PR	Number=Sing|Person=1|PronType=Prs	8	comp	_	AlignBegin=50422|AlignEnd=50605|GE=[1SG]|Gloss=-1SG|nWord=18|RX=[PR]
 10	bèè	bèè	ADV	ADV	_	6	mod	_	AlignBegin=50605|AlignEnd=50972|GE=vite|Gloss=vite|nWord=19|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 014-015d
+# sent_id = GYA_PRD_NARR_T9-C7_014-015d
 # text = tè sɛ́ɛ̀ BHa- ɓɔn -H zù -H bàrà nám dòké
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -390,7 +390,7 @@
 10	nám	nám	NOUN	N	_	7	comp	_	AlignBegin=52807|AlignEnd=53174|GE=buffle|Gloss=buffle|nWord=25|RX=[N]
 11	dòké	dòké	PROPN	NPR	_	5	vocative	_	AlignBegin=53174|AlignEnd=53541|GE=dòké|Gloss=dòké|nWord=26|RX=[NPR]
 
-# sent_id = GYA_PRD_NARR_T9-C7 014-015e
+# sent_id = GYA_PRD_NARR_T9-C7_014-015e
 # text = bókáɲá =m yàá-dòè-mɔ̀ H- hṵḭ ndútùà há̰ =ám bèè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -408,7 +408,7 @@
 9	=ám	ʔám	PRON	PR	Number=Sing|Person=1|PronType=Prs	8	comp	_	AlignBegin=55193|AlignEnd=55376|GE=[1SG]|Gloss=-1SG|nWord=31|RX=[PR]
 10	bèè	bèè	ADV	ADV	_	6	mod	_	AlignBegin=55376|AlignEnd=55743|GE=vite|Gloss=vite|nWord=32|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 014-015f
+# sent_id = GYA_PRD_NARR_T9-C7_014-015f
 # text = tè sɛ́ɛ̀ BHa- ɓɔn -H zù -H bàrà nám dòké
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -427,7 +427,7 @@
 10	nám	nám	NOUN	N	_	7	comp	_	AlignBegin=57578|AlignEnd=57945|GE=buffle|Gloss=buffle|nWord=38|RX=[N]
 11	dòké	dòké	PROPN	NPR	_	5	vocative	_	AlignBegin=57945|AlignEnd=58312|GE=dòké|Gloss=dòké|nWord=39|RX=[NPR]
 
-# sent_id = GYA_PRD_NARR_T9-C7 014-015g
+# sent_id = GYA_PRD_NARR_T9-C7_014-015g
 # text = bókáɲá =m yàá-dòè-mɔ̀ H- hṵḭ ndútùà há̰ =ám bèè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -445,7 +445,7 @@
 9	=ám	ʔám	PRON	PR	Number=Sing|Person=1|PronType=Prs	8	comp	_	AlignBegin=59964|AlignEnd=60147|GE=[1SG]|Gloss=-1SG|nWord=44|RX=[PR]
 10	bèè	bèè	ADV	ADV	_	6	mod	_	AlignBegin=60147|AlignEnd=60514|GE=vite|Gloss=vite|nWord=45|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 014-015h
+# sent_id = GYA_PRD_NARR_T9-C7_014-015h
 # text = tè sɛ́ɛ̀ BHa- ɓɔn -H zù -H bàrà nám dòké
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -464,7 +464,7 @@
 10	nám	nám	NOUN	N	_	7	comp	_	AlignBegin=62349|AlignEnd=62716|GE=buffle|Gloss=buffle|nWord=51|RX=[N]
 11	dòké	dòké	PROPN	NPR	_	5	vocative	_	AlignBegin=62716|AlignEnd=63061|GE=dòké|Gloss=dòké|nWord=52|RX=[NPR]
 
-# sent_id = GYA_PRD_NARR_T9-C7 014-015i
+# sent_id = GYA_PRD_NARR_T9-C7_014-015i
 # text = ʔèè ká bókáɲá =à BHa- zei ʔèè H- hṵḭ ndútùà
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -483,7 +483,7 @@
 10	hṵḭ	hṵḭ	VERB	V	_	7	conj:coord	_	AlignBegin=65635|AlignEnd=65869|GE=ouvrir|Gloss=ouvrir|nWord=58|RX=[V]
 11	ndútùà	ndútùà	NOUN	N	_	10	comp:obj	_	AlignBegin=65869|AlignEnd=66337|GE=porte|Gloss=porte|nWord=59|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 014-015j
+# sent_id = GYA_PRD_NARR_T9-C7_014-015j
 # text = ʔèè ʔá̰-nɛ̀ =à̰ -H BHa- ye ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -498,7 +498,7 @@
 6	ye	ye	VERB	V	_	0	root	_	AlignBegin=67507|AlignEnd=67741|GE=entrer|Gloss=entrer|nWord=62|RX=[V]
 7	ʔèá	ʔèá	ADV	ADV	_	6	mod	_	AlignBegin=67741|AlignEnd=68211|GE=seulement|Gloss=seulement|nWord=63|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 016-016
+# sent_id = GYA_PRD_NARR_T9-C7_016-016
 # text = ʔèè ká yérè H- pei kùr-kùr -RDPP H- kpa fàrà kà =à̰ H- ye kútùà ná H- kpa fàrà kà =à̰ H- ye kútùà ná ʔòé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -532,7 +532,7 @@
 25	ná	ná	PART	MV	_	18	mod	_	AlignBegin=71955|AlignEnd=72189|GE=[NEG]|Gloss=NEG|nWord=17|RX=[MV]
 26	ʔòé	ʔòé	ADV	ADV	_	9	mod	_	AlignBegin=72189|AlignEnd=72430|GE=aussi|Gloss=aussi|nWord=18|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 017-017
+# sent_id = GYA_PRD_NARR_T9-C7_017-017
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- tek -H nù sɔ̀ngbɛ̀ɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -548,7 +548,7 @@
 7	nù	nù	NOUN	N	_	5	comp:obl	_	AlignBegin=73660|AlignEnd=74275|GE=terre|Gloss=terre|nWord=3|RX=[N]
 8	sɔ̀ngbɛ̀ɛ̀	sɔ̀ngbɛ̀ɛ̀	ADJ	AA	_	5	mod	_	AlignBegin=74275|AlignEnd=74890|GE=raide_mort|Gloss=raide_mort|nWord=4|RX=[AA]
 
-# sent_id = GYA_PRD_NARR_T9-C7 018-018
+# sent_id = GYA_PRD_NARR_T9-C7_018-018
 # text = ʔèè bóíbêm -ìí H- gbo
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -561,7 +561,7 @@
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=76240|AlignEnd=76575|GE=[INAC]|Gloss=INAC-|nWord=3|RX=[MV]
 5	gbo	gbo	VERB	V	_	0	root	_	AlignBegin=76575|AlignEnd=76910|GE=sortir|Gloss=sortir|nWord=3|RX=[V]
 
-# sent_id = GYA_PRD_NARR_T9-C7 019-020
+# sent_id = GYA_PRD_NARR_T9-C7_019-020
 # text = ʔèè ká ʔá̰-nɛ̀ =à̰ -H H- ʔɔ nù hɛ̰̀ ʔèè H- ba sàɗì H- ba yérè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -585,7 +585,7 @@
 15	ba	ba	VERB	V	_	12	conj:coord	_	AlignBegin=80161|AlignEnd=80352|GE=prendre|Gloss=prendre|nWord=4|RX=[V]
 16	yérè	yérè	NOUN	N	_	15	comp:obj	_	AlignBegin=80352|AlignEnd=80735|GE=buffle|Gloss=buffle|nWord=5|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 021-021
+# sent_id = GYA_PRD_NARR_T9-C7_021-021
 # text = ʔèè bókáɲá =à H- gbo ʔòé H- dɛ ngàyà -H -à H- dɛ ngàyà -H -à ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -611,7 +611,7 @@
 17	-à	-à	DET	MN	_	15	det	_	AlignBegin=82866|AlignEnd=82954|GE=[DEF]|Gloss=-DEF|nWord=7|RX=[MN]
 18	ʔèá	ʔèá	ADV	ADV	_	9	mod	_	AlignBegin=82954|AlignEnd=83220|GE=seulement|Gloss=seulement|nWord=8|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 022-022
+# sent_id = GYA_PRD_NARR_T9-C7_022-022
 # text = Há- gɔm yérè ʔá̰-hı̰̀ı̰́ ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -624,7 +624,7 @@
 4	ʔá̰-hı̰̀ı̰́	ʔá̰-hı̰̀ı̰́	AUX	PRÉD	_	0	root	_	AlignBegin=83720|AlignEnd=83970|GE=[ETRE-CONS]|Gloss=ETRE-CONS|nWord=3|RX=[PRÉD]
 5	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	AlignBegin=84220|AlignEnd=84470|GE=seulement|Gloss=seulement|nWord=5|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 023-023a
+# sent_id = GYA_PRD_NARR_T9-C7_023-023a
 # text = wà H- ɲɔŋ -vv
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -636,7 +636,7 @@
 3	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=84875|AlignEnd=84976|GE=manger|Gloss=manger|nWord=2|RX=[V]
 4	-vv	-vv	DET	MOD	_	3	det	_	AlignBegin=84976|AlignEnd=85078|GE=[DUR]|Gloss=-DUR|nWord=2|RX=[MOD]
 
-# sent_id = GYA_PRD_NARR_T9-C7 023-023b
+# sent_id = GYA_PRD_NARR_T9-C7_023-023b
 # text = ʔèè -H wà H- ʔa yík wèè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -652,7 +652,7 @@
 7	-H	-H	ADP	_	_	6	udep	_	GE=[MT]|nWord=6|RX=[FCT]
 8	wèè	wèè	NOUN	N	_	7	comp	_	AlignBegin=86294|AlignEnd=86600|GE=feu|Gloss=feu|nWord=7|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 024-024
+# sent_id = GYA_PRD_NARR_T9-C7_024-024
 # text = wà H- dɛ kóré -à H- ʔa yík wèè ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -670,7 +670,7 @@
 9	wèè	wèè	NOUN	N	_	8	comp	_	AlignBegin=87875|AlignEnd=88128|GE=feu|Gloss=feu|nWord=6|RX=[N]
 10	ʔèá	ʔèá	ADV	ADV	_	3	mod	_	AlignBegin=88128|AlignEnd=88380|GE=seulement|Gloss=seulement|nWord=7|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 025-025a
+# sent_id = GYA_PRD_NARR_T9-C7_025-025a
 # text = ʔèè ʔá̰ mbɔ̀ɔ́sà H- dɛ
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -683,7 +683,7 @@
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=89118|AlignEnd=89241|GE=[INAC]|Gloss=INAC-|nWord=4|RX=[MV]
 5	dɛ	dɛ	VERB	V	_	0	root	_	AlignBegin=89241|AlignEnd=89364|GE=faire|Gloss=faire|nWord=4|RX=[V]
 
-# sent_id = GYA_PRD_NARR_T9-C7 025-025b
+# sent_id = GYA_PRD_NARR_T9-C7_025-025b
 # text = ká =à̰ BHa- si -H ɗòŋ
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -697,7 +697,7 @@
 5	-H	-H	X	FCT	_	4	aff	_	AlignBegin=89774|AlignEnd=89856|GE=[MT]|Gloss=-D|nWord=6|RX=[FCT]
 6	ɗòŋ	ɗòŋ	ADV	ADV	_	4	mod	_	AlignBegin=89856|AlignEnd=90100|GE=en_arrière|Gloss=en_arrière|nWord=7|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 026-026
+# sent_id = GYA_PRD_NARR_T9-C7_026-026
 # text = ká nɔ́ -H yérè nɛ̀ BHa- gbɛ -H bókáɲá -H =à H- ɲɛm ɓɔ̀ ná
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -720,7 +720,7 @@
 14	ɓɔ̀	ɓɔ̀	ADV	ADV	_	13	mod	_	AlignBegin=92137|AlignEnd=92428|GE=encore|Gloss=encore|nWord=8|RX=[ADV]
 15	ná	ná	PART	MV	_	13	mod	_	AlignBegin=92428|AlignEnd=92720|GE=[NEG]|Gloss=NEG|nWord=9|RX=[MV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 027-027a
+# sent_id = GYA_PRD_NARR_T9-C7_027-027a
 # text = ʔèè ʔá̰-nɛ̀ =à̰ -H BHa- yak
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -734,7 +734,7 @@
 5	BHa-	BHa-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=93508|AlignEnd=93705|GE=[ACC]|Gloss=ACC-|nWord=3|RX=[MV]
 6	yak	yak	VERB	V	_	0	root	_	AlignBegin=93705|AlignEnd=93902|GE=partir|Gloss=partir|nWord=3|RX=[V]
 
-# sent_id = GYA_PRD_NARR_T9-C7 027-027b
+# sent_id = GYA_PRD_NARR_T9-C7_027-027b
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- yak
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -747,7 +747,7 @@
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=94296|AlignEnd=94493|GE=[ACC]|Gloss=ACC-|nWord=5|RX=[MV]
 5	yak	yak	VERB	V	_	0	root	_	AlignBegin=94493|AlignEnd=94690|GE=partir|Gloss=partir|nWord=5|RX=[V]
 
-# sent_id = GYA_PRD_NARR_T9-C7 027-027c
+# sent_id = GYA_PRD_NARR_T9-C7_027-027c
 # text = ʔà̰ H- kii mbé yérè yáknɛ́
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -761,7 +761,7 @@
 5	yérè	yérè	NOUN	N	_	3	comp:obj	_	AlignBegin=95872|AlignEnd=96266|GE=buffle|Gloss=buffle|nWord=9|RX=[N]
 6	yáknɛ́	yáknɛ́	PART	MV	_	3	mod	_	AlignBegin=96266|AlignEnd=96660|GE=en_partant|Gloss=en_partant|nWord=10|RX=[MV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 028-029
+# sent_id = GYA_PRD_NARR_T9-C7_028-029
 # text = ʔèè bókáɲá =à H- kpe ndútùà zù ʔè ʔèè H- ʔɔ yá sí-ɗòŋ
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -783,7 +783,7 @@
 13	yá	yá	VERB	V	_	12	comp:obl	_	AlignBegin=98750|AlignEnd=98870|GE=sommeil|Gloss=sommeil|nWord=3|RX=[V]
 14	sí-ɗòŋ	sí-ɗòŋ	ADV	ADV	_	12	mod	_	AlignBegin=98870|AlignEnd=99110|GE=à_nouveau|Gloss=à_nouveau|nWord=4|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 030-030
+# sent_id = GYA_PRD_NARR_T9-C7_030-030
 # text = ʔá̰-nɛ̀ =à̰ -H H- yar yar -BHi yáknɛ́ -vv ʔá̰-nɛ̀ BHa- yo -H yérè náár H- ʔa nù ʔòé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -810,7 +810,7 @@
 18	nù	nù	NOUN	N	_	17	comp:obl	_	AlignBegin=102575|AlignEnd=102960|GE=terre|Gloss=terre|nWord=10|RX=[N]
 19	ʔòé	ʔòé	ADV	ADV	_	12	mod	_	AlignBegin=102960|AlignEnd=103345|GE=aussi|Gloss=aussi|nWord=11|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 031-031
+# sent_id = GYA_PRD_NARR_T9-C7_031-031
 # text = ʔèè -H mà kpɔ́kɔ́ɗí ʔèè mà yíítòó H- fe kɔ́ =éí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -829,7 +829,7 @@
 10	kɔ́	kɔ́	ADP	FCT	_	9	mod	_	AlignBegin=105578|AlignEnd=105709|GE=quant_à|Gloss=quant_à|nWord=8|RX=[FCT]
 11	=éí	ʔéí	PRON	PR	PronType=Prs	10	comp	_	AlignBegin=105709|AlignEnd=105840|GE=[LogS]|Gloss=-LogS|nWord=8|RX=[PR]
 
-# sent_id = GYA_PRD_NARR_T9-C7 032-032
+# sent_id = GYA_PRD_NARR_T9-C7_032-032
 # text = ʔèè -H mà kpɔ́kɔ́ɗí H- kur kɔ́ =éí mɛ́-B ndak =à péínɛ́
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -849,7 +849,7 @@
 11	=à	ʔà̰	PRON	MN	Number=Sing|Person=3	10	comp:obj	_	AlignBegin=107324|AlignEnd=107412|GE=[3SG]|Gloss=-3SG|nWord=14|RX=[MN]
 12	péínɛ́	péínɛ́	PART	MV	_	6	mod	_	AlignBegin=107412|AlignEnd=107670|GE=en_revenant|Gloss=en_revenant|nWord=15|RX=[MV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 033-033a
+# sent_id = GYA_PRD_NARR_T9-C7_033-033a
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- ndak -H =à péínɛ́ ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -866,7 +866,7 @@
 8	péínɛ́	péínɛ́	PART	MV	_	5	mod	_	AlignBegin=108170|AlignEnd=108420|GE=en_revenant|Gloss=en_revenant|nWord=3|RX=[MV]
 9	ʔèá	ʔèá	ADV	ADV	_	5	mod	_	AlignBegin=108420|AlignEnd=108670|GE=seulement|Gloss=seulement|nWord=4|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 033-033b
+# sent_id = GYA_PRD_NARR_T9-C7_033-033b
 # text = ká =à̰ H- gbo ɗòŋ -H tùà nà
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -882,7 +882,7 @@
 7	tùà	tùà	NOUN	N	_	5	comp	_	AlignBegin=109420|AlignEnd=109670|GE=maison|Gloss=maison|nWord=8|RX=[N]
 8	nà	nà	ADV	ADV	_	4	mod	_	AlignBegin=109670|AlignEnd=109920|GE=ici|Gloss=ici|nWord=9|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 034-034a
+# sent_id = GYA_PRD_NARR_T9-C7_034-034a
 # text = bókáɲá -H =m yàá-dòè-mɔ̀ H- hṵḭ ndútùà há̰ =ám bèè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -900,7 +900,7 @@
 9	=ám	ʔám	PRON	PR	Number=Sing|Person=1|PronType=Prs	8	comp	_	AlignBegin=111418|AlignEnd=111585|GE=[1SG]|Gloss=-1SG|nWord=5|RX=[PR]
 10	bèè	bèè	ADV	ADV	_	6	mod	_	AlignBegin=111585|AlignEnd=111918|GE=vite|Gloss=vite|nWord=6|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 034-034b
+# sent_id = GYA_PRD_NARR_T9-C7_034-034b
 # text = tè -H sɛ́ɛ̀ BHa- ɓɔn -H zù -H bàrà nám dòké
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -919,7 +919,7 @@
 10	nám	nám	NOUN	N	_	7	comp	_	AlignBegin=113583|AlignEnd=113916|GE=buffle|Gloss=buffle|nWord=12|RX=[N]
 11	dòké	dòké	PROPN	NPR	_	5	vocative	_	AlignBegin=113916|AlignEnd=114249|GE=dòké|Gloss=dòké|nWord=13|RX=[NPR]
 
-# sent_id = GYA_PRD_NARR_T9-C7 034-034c
+# sent_id = GYA_PRD_NARR_T9-C7_034-034c
 # text = bókáɲá -H =m yàá-dòè-mɔ̀ H- hṵḭ ndútùà há̰ =ám bèè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -937,7 +937,7 @@
 9	=ám	ʔám	PRON	PR	Number=Sing|Person=1|PronType=Prs	8	comp	_	AlignBegin=115747|AlignEnd=115914|GE=[1SG]|Gloss=-1SG|nWord=18|RX=[PR]
 10	bèè	bèè	ADV	ADV	_	6	mod	_	AlignBegin=115914|AlignEnd=116247|GE=vite|Gloss=vite|nWord=19|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 034-034d
+# sent_id = GYA_PRD_NARR_T9-C7_034-034d
 # text = tè -H sɛ́ɛ̀ BHa- ɓɔn -H zù -H bàrà nám dòké
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -956,7 +956,7 @@
 10	nám	nám	NOUN	N	_	7	comp	_	AlignBegin=117912|AlignEnd=118245|GE=buffle|Gloss=buffle|nWord=25|RX=[N]
 11	dòké	dòké	PROPN	NPR	_	5	vocative	_	AlignBegin=118245|AlignEnd=118578|GE=dòké|Gloss=dòké|nWord=26|RX=[NPR]
 
-# sent_id = GYA_PRD_NARR_T9-C7 034-034e
+# sent_id = GYA_PRD_NARR_T9-C7_034-034e
 # text = bókáɲá -H =m yàá-dòè-mɔ̀ H- hṵḭ ndútùà há̰ =ám bèè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -974,7 +974,7 @@
 9	=ám	ʔám	PRON	PR	Number=Sing|Person=1|PronType=Prs	8	comp	_	AlignBegin=120076|AlignEnd=120243|GE=[1SG]|Gloss=-1SG|nWord=31|RX=[PR]
 10	bèè	bèè	ADV	ADV	_	6	mod	_	AlignBegin=120243|AlignEnd=120576|GE=vite|Gloss=vite|nWord=32|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 034-034f
+# sent_id = GYA_PRD_NARR_T9-C7_034-034f
 # text = tè -H sɛ́ɛ̀ BHa- ɓɔn -H zù -H bàrà nám dòké
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -993,7 +993,7 @@
 10	nám	nám	NOUN	N	_	7	comp	_	AlignBegin=122241|AlignEnd=122574|GE=buffle|Gloss=buffle|nWord=38|RX=[N]
 11	dòké	dòké	PROPN	NPR	_	5	vocative	_	AlignBegin=122574|AlignEnd=122900|GE=dòké|Gloss=dòké|nWord=39|RX=[NPR]
 
-# sent_id = GYA_PRD_NARR_T9-C7 035-035
+# sent_id = GYA_PRD_NARR_T9-C7_035-035
 # text = bókáɲá =à H- zei ná ʔòé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1008,7 +1008,7 @@
 6	ná	ná	PART	MV	_	5	mod	_	AlignBegin=123616|AlignEnd=123974|GE=[NEG]|Gloss=NEG|nWord=42|RX=[MV]
 7	ʔòé	ʔòé	ADV	ADV	_	5	mod	_	AlignBegin=123974|AlignEnd=124330|GE=aussi|Gloss=aussi|nWord=43|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 036-036
+# sent_id = GYA_PRD_NARR_T9-C7_036-036
 # text = nám -ìí BHa- pei -H kàá ʔèá-ʔèá -vv
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1024,7 +1024,7 @@
 7	ʔèá-ʔèá	ʔèá-ʔèá	ADV	ADV	_	4	mod	_	AlignBegin=126670|AlignEnd=127060|GE=longtemps|Gloss=longtemps|nWord=4|RX=[ADV]
 8	-vv	-vv	DET	MOD	_	7	det	_	AlignBegin=127060|AlignEnd=127450|GE=[DUR]|Gloss=-DUR|nWord=4|RX=[MOD]
 
-# sent_id = GYA_PRD_NARR_T9-C7 037-037
+# sent_id = GYA_PRD_NARR_T9-C7_037-037
 # text = nám -ìí BHa- pei -H kàá ʔèá -vv
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1040,7 +1040,7 @@
 7	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	AlignBegin=129046|AlignEnd=129313|GE=déjà|Gloss=déjà|nWord=4|RX=[ADV]
 8	-vv	-vv	DET	MOD	_	7	det	_	AlignBegin=129313|AlignEnd=129580|GE=[DUR]|Gloss=-DUR|nWord=4|RX=[MOD]
 
-# sent_id = GYA_PRD_NARR_T9-C7 038-038
+# sent_id = GYA_PRD_NARR_T9-C7_038-038
 # text = ʔà̰ H- zei ná ʔòé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1053,7 +1053,7 @@
 4	ná	ná	PART	MV	_	3	mod	_	AlignBegin=130350|AlignEnd=130735|GE=[NEG]|Gloss=NEG|nWord=3|RX=[MV]
 5	ʔòé	ʔòé	ADV	ADV	_	3	mod	_	AlignBegin=130735|AlignEnd=131120|GE=aussi|Gloss=aussi|nWord=4|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 039-039
+# sent_id = GYA_PRD_NARR_T9-C7_039-039
 # text = ʔà̰ H- zei ná ʔòé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1066,7 +1066,7 @@
 4	ná	ná	PART	MV	_	3	mod	_	AlignBegin=132264|AlignEnd=132836|GE=[NEG]|Gloss=NEG|nWord=3|RX=[MV]
 5	ʔòé	ʔòé	ADV	ADV	_	3	mod	_	AlignBegin=132836|AlignEnd=133410|GE=aussi|Gloss=aussi|nWord=4|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 040-040
+# sent_id = GYA_PRD_NARR_T9-C7_040-040
 # text = ká yérè ʔèá-ʔèá -vv kà BHa- zṵ -H ʔɔ́m -H =à̰
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1075,17 +1075,17 @@
 # text_fr = alors le buffle s'acharne et lui défonce le poitrail //
 1	ká	ká	CCONJ	SUB	_	3	cc	_	AlignBegin=135340|AlignEnd=135765|GE=[alors]|Gloss=alors|nWord=1|RX=[SUB]
 2	yérè	yérè	NOUN	MV	_	3	subj	_	AlignBegin=135765|AlignEnd=135907|GE=[buffle]|Gloss=buffle|nWord=2|RX=[N]
-3	ʔèá-ʔèá	ʔèá-ʔèá	VERB	V	_	0	root	_	AlignBegin=135907|AlignEnd=136049|GE=[longtemps]|Gloss=longtemps|nWord=2|RX=[ADV]
-4	-vv	-vv	DET	FCT	_	3	det	_	AlignBegin=136049|AlignEnd=136190|GE=[DUR]|Gloss=DUR|nWord=2|RX=[MOD]
-5	kà	kà	CCONJ	N	_	7	cc	_	AlignBegin=136190|AlignEnd=136332|GE=alors|Gloss=alors|nWord=3|RX=[SUB]
-6	BHa-	BHa-	ADP	FCT	_	7	aux	_	AlignBegin=136332|AlignEnd=136474|GE=[ACC]|Gloss=ACC|nWord=3|RX=[MV]
-7	zṵ	zṵ	VERB	MN	_	3	conj:coord	_	AlignBegin=136474|AlignEnd=136615|GE=[enfoncer]|Gloss=enfoncer|nWord=3|RX=[V]
-8	-H	-H	X	SUB	_	7	aff	_	AlignBegin=136615|AlignEnd=137040|GE=[MT]|Gloss=[D]|nWord=4|RX=[FCT]
-9	ʔɔ́m	ʔɔ́m	NOUN	N	_	7	comp:obj	_	AlignBegin=137040|AlignEnd=137465|GE=poitrail|Gloss=poitrail|nWord=5|RX=[N]
+3	ʔèá-ʔèá	ʔèá-ʔèá	VERB	V	_	0	root	_	AlignBegin=135907|AlignEnd=136049|GE=[longtemps]|Gloss=longtemps|nWord=3|RX=[ADV]
+4	-vv	-vv	DET	FCT	_	3	det	_	AlignBegin=136049|AlignEnd=136190|GE=[DUR]|Gloss=DUR|nWord=3|RX=[MOD]
+5	kà	kà	CCONJ	N	_	7	cc	_	AlignBegin=136190|AlignEnd=136332|GE=alors|Gloss=alors|nWord=4|RX=[SUB]
+6	BHa-	BHa-	ADP	FCT	_	7	aux	_	AlignBegin=136332|AlignEnd=136474|GE=[ACC]|Gloss=ACC|nWord=5|RX=[MV]
+7	zṵ	zṵ	VERB	MN	_	3	conj:coord	_	AlignBegin=136474|AlignEnd=136615|GE=[enfoncer]|Gloss=enfoncer|nWord=5|RX=[V]
+8	-H	-H	X	SUB	_	7	aff	_	AlignBegin=136615|AlignEnd=137040|GE=[MT]|Gloss=[D]|nWord=5|RX=[FCT]
+9	ʔɔ́m	ʔɔ́m	NOUN	N	_	7	comp:obj	_	AlignBegin=137040|AlignEnd=137465|GE=poitrail|Gloss=poitrail|nWord=6|RX=[N]
 10	-H	-H	ADP	V	_	9	udep	_	AlignBegin=137465|AlignEnd=137677|GE=[MT]|Gloss=[D]|nWord=6|RX=[FCT]
 11	=à̰	ʔà̰	PRON	MN	Number=Sing|Person=3	10	comp	_	AlignBegin=137677|AlignEnd=137890|GE=[3SG]|Gloss=-3SG|nWord=6|RX=[MN]
 
-# sent_id = GYA_PRD_NARR_T9-C7 041-041a
+# sent_id = GYA_PRD_NARR_T9-C7_041-041a
 # text = ká yérè gɔ̀má =à̰ ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1098,7 +1098,7 @@
 4	=à̰	ʔà̰	PRON	MN	Number=Sing|Person=3	3	comp:obj	_	AlignBegin=137677|AlignEnd=137890|GE=[3SG]|Gloss=-3SG|nWord=6|RX=[MN]
 5	ʔèá	ʔèá	ADV	ADV	_	3	mod	_	AlignBegin=137890|AlignEnd=138315|GE=seulement|Gloss=seulement|nWord=7|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 041-041b
+# sent_id = GYA_PRD_NARR_T9-C7_041-041b
 # text = ká sɔ̀ngbɛ̀ɛ̀ ká bóɲá -H =à̰ BHa- fe ʔè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1115,7 +1115,7 @@
 8	fe	fe	VERB	V	_	0	root	_	AlignBegin=140227|AlignEnd=140440|GE=mourir|Gloss=mourir|nWord=12|RX=[V]
 9	ʔè	ʔè	INTJ	ME	_	8	discourse	_	AlignBegin=140440|AlignEnd=140860|GE=désormais|Gloss=désormais|nWord=13|RX=[ME]
 
-# sent_id = GYA_PRD_NARR_T9-C7 042-042
+# sent_id = GYA_PRD_NARR_T9-C7_042-042
 # text = ʔà̰ -Hv tɛ̀ɛ́-B kur wó ʔà̰ -Hv tɛ̀ɛ́-B kur wó ʔèè ká ʔá̰-nɛ̀ =à̰ -H BHa- fe -H kɔ́ =à̰ ʔè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1144,7 +1144,7 @@
 20	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	19	comp	_	AlignBegin=145196|AlignEnd=145403|GE=[3SG]|Gloss=-3SG|nWord=11|RX=[PR]
 21	ʔè	ʔè	INTJ	ME	_	17	discourse	_	AlignBegin=145403|AlignEnd=145820|GE=désormais|Gloss=désormais|nWord=12|RX=[ME]
 
-# sent_id = GYA_PRD_NARR_T9-C7 043-043a
+# sent_id = GYA_PRD_NARR_T9-C7_043-043a
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- gbo -H kàá -H kútùà mɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1162,7 +1162,7 @@
 9	kútùà	kútùà	NOUN	N	_	5	comp:obl	_	AlignBegin=146978|AlignEnd=147364|GE=maison|Gloss=maison|nWord=4|RX=[N]
 10	mɛ̀	mɛ̀	ADV	ADV	_	5	mod	_	AlignBegin=147364|AlignEnd=147750|GE=là-bas|Gloss=là-bas|nWord=5|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 043-043b
+# sent_id = GYA_PRD_NARR_T9-C7_043-043b
 # text = ʔà̰ H- gɔn kàá zàlàgbàk
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1175,7 +1175,7 @@
 4	kàá	kàá	PART	MV	_	3	mod	_	AlignBegin=148522|AlignEnd=148908|GE=[REP-ADD]|Gloss=REP-ADD|nWord=8|RX=[MV]
 5	zàlàgbàk	zàlàgbàk	ADJ	AA	_	3	mod	_	AlignBegin=148908|AlignEnd=149294|GE=d'un_coup_à_terre|Gloss=d'un_coup_à_terre|nWord=9|RX=[AA]
 
-# sent_id = GYA_PRD_NARR_T9-C7 043-043c
+# sent_id = GYA_PRD_NARR_T9-C7_043-043c
 # text = bókáɲá =à H- gɔn
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1188,7 +1188,7 @@
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=149680|AlignEnd=149873|GE=[INAC]|Gloss=INAC-|nWord=11|RX=[MV]
 5	gɔn	gɔn	VERB	V	_	0	root	_	AlignBegin=149873|AlignEnd=150066|GE=s'écrouler|Gloss=s'écrouler|nWord=11|RX=[V]
 
-# sent_id = GYA_PRD_NARR_T9-C7 043-043d
+# sent_id = GYA_PRD_NARR_T9-C7_043-043d
 # text = bókáɲá =à̰ H- gɔn H- hei kɔ̰̀á̰ ʔèá-ʔèá -RDPP ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1207,7 +1207,7 @@
 10	-RDPP	_	DET	MOD	_	9	det	_	AlignBegin=151803|AlignEnd=151996|GE=[RPDD]|Gloss=RDPP|nWord=16|RX=[MOD]
 11	ʔèá	ʔèá	ADV	ADV	_	7	mod	_	AlignBegin=151996|AlignEnd=152381|GE=seulement|Gloss=seulement|nWord=17|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 044-044
+# sent_id = GYA_PRD_NARR_T9-C7_044-044
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- kɔk -H kàá -H túí ʔé H- ʔe sàɗì há̰ H- ya kɔ̀ gúɗù mɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1234,7 +1234,7 @@
 18	gúɗù	gúɗù	NOUN	N	_	17	comp	_	AlignBegin=154786|AlignEnd=155026|GE=campement|Gloss=campement|nWord=11|RX=[N]
 19	mɛ̀	mɛ̀	ADV	ADV	_	16	mod	_	AlignBegin=155026|AlignEnd=155270|GE=là-bas|Gloss=là-bas|nWord=12|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 045-045a
+# sent_id = GYA_PRD_NARR_T9-C7_045-045a
 # text = ʔà̰ H- kɔk kàá -H túí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1248,7 +1248,7 @@
 5	-H	-H	X	FCT	_	4	aff	_	AlignBegin=156032|AlignEnd=156185|GE=[MT]|Gloss=-D|nWord=3|RX=[FCT]
 6	túí	túí	NOUN	N	_	3	comp:obj	_	AlignBegin=156185|AlignEnd=156490|GE=pagne|Gloss=pagne|nWord=4|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 045-045b
+# sent_id = GYA_PRD_NARR_T9-C7_045-045b
 # text = ʔà̰ H- hei nɛ̀ kɔ̰̀á̰ péínɛ́ péínɛ́ H- gbo táá sààyé nà
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1268,7 +1268,7 @@
 11	sààyé	sààyé	NOUN	N	_	10	comp	_	AlignBegin=158930|AlignEnd=159235|GE=village|Gloss=village|nWord=13|RX=[N]
 12	nà	nà	ADV	ADV	_	9	mod	_	AlignBegin=159235|AlignEnd=159535|GE=ici|Gloss=ici|nWord=14|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 046-046
+# sent_id = GYA_PRD_NARR_T9-C7_046-046
 # text = ʔèè ká =à̰ BHa- gɔm -H bóɲá =à̰ ʔé yè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1287,7 +1287,7 @@
 10	ʔé	ʔé	ADV	ADV	_	5	mod	_	AlignBegin=161031|AlignEnd=161405|GE=déjà|Gloss=déjà|nWord=5|RX=[ADV]
 11	yè	yè	INTJ	MOD	_	5	discourse	_	AlignBegin=161405|AlignEnd=161778|GE=finalement|Gloss=finalement|nWord=6|RX=[MOD]
 
-# sent_id = GYA_PRD_NARR_T9-C7 047-049
+# sent_id = GYA_PRD_NARR_T9-C7_047-049
 # text = ʔèè bókáɲá =à ʔà̰ H- hɔ kpɔ́k tí ʔèè H- yak H- yak H- si nɛ̀ sààyé H- hei nɛ̀ kɔ̰̀á̰ ʔèááá ʔèè H- sa kàá -H H- nɛ H- sa béí hɛ̀n -H sààyé mɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1332,7 +1332,7 @@
 36	sààyé	sààyé	NOUN	N	_	34	comp	_	AlignBegin=167020|AlignEnd=167200|GE=village|Gloss=village|nWord=24|RX=[N]
 37	mɛ̀	mɛ̀	ADV	ADV	_	30	mod	_	AlignBegin=167200|AlignEnd=167380|GE=là-bas|Gloss=là-bas|nWord=25|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 050-050
+# sent_id = GYA_PRD_NARR_T9-C7_050-050
 # text = ʔéí -B H- tɛ H- gɔ nɛ̀ bóɲá -H =à̰ sínɛ́
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1351,7 +1351,7 @@
 10	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	9	comp	_	AlignBegin=168664|AlignEnd=168755|GE=[3SG]|Gloss=-3SG|nWord=5|RX=[PR]
 11	sínɛ́	sínɛ́	PART	MV	_	4	mod	_	AlignBegin=168755|AlignEnd=169030|GE=en_s'en_allant|Gloss=en_s'en_allant|nWord=6|RX=[MV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 051-051a
+# sent_id = GYA_PRD_NARR_T9-C7_051-051a
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 169030, 176331
@@ -1370,7 +1370,7 @@
 10	nɔ̀	nɔ̀	NOUN	N	_	9	comp:obj	_	AlignBegin=170245|AlignEnd=170488|GE=marche|Gloss=marche|nWord=6|RX=[N]
 11	ʔé	ʔé	ADV	ADV	_	9	mod	_	AlignBegin=170488|AlignEnd=170731|GE=déjà|Gloss=déjà|nWord=7|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 051-051b
+# sent_id = GYA_PRD_NARR_T9-C7_051-051b
 # text = ʔèè ká =éí BHa- ngbɔ -H béí kpɔ́kɔ́ɗí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1386,7 +1386,7 @@
 7	béí	béí	NOUN	N	_	5	comp:obj	_	AlignBegin=171460|AlignEnd=171703|GE=personne|Gloss=personne|nWord=11|RX=[N]
 8	kpɔ́kɔ́ɗí	kpɔ́kɔ́ɗí	ADV	NUM	_	7	mod	_	AlignBegin=171703|AlignEnd=171946|GE=un_seul|Gloss=un_seul|nWord=12|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 051-051c
+# sent_id = GYA_PRD_NARR_T9-C7_051-051c
 # text = ʔéí -B H- nɛ nɛ́nɛ́ ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1400,7 +1400,7 @@
 5	nɛ́nɛ́	nɛ́nɛ́	PART	MV	_	4	mod	_	AlignBegin=172432|AlignEnd=172675|GE=en_allant|Gloss=en_allant|nWord=15|RX=[MV]
 6	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	AlignBegin=172675|AlignEnd=172918|GE=seulement|Gloss=seulement|nWord=16|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 051-051d
+# sent_id = GYA_PRD_NARR_T9-C7_051-051d
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- yak -H nɛ̀ bóɲá -H =à̰ tɛ̀ Há- ʔɔ nù
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1422,7 +1422,7 @@
 13	ʔɔ	ʔɔ	VERB	V	_	11	comp	_	AlignBegin=174255|AlignEnd=174376|GE=s'étendre|Gloss=s'étendre|nWord=22|RX=[V]
 14	nù	nù	NOUN	N	_	13	comp:obl	_	AlignBegin=174376|AlignEnd=174619|GE=terre|Gloss=terre|nWord=23|RX=[N]
 
-# sent_id = GYA_PRD_NARR_T9-C7 051-051e
+# sent_id = GYA_PRD_NARR_T9-C7_051-051e
 # text = ʔà̰ H- pei nɛ̀nɛ́ sààyé nà
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
@@ -1436,7 +1436,7 @@
 5	sààyé	sààyé	NOUN	N	_	3	comp:obl	_	AlignBegin=175348|AlignEnd=175591|GE=village|Gloss=village|nWord=27|RX=[N]
 6	nà	nà	ADV	ADV	_	3	mod	_	AlignBegin=175591|AlignEnd=175834|GE=ici|Gloss=ici|nWord=28|RX=[ADV]
 
-# sent_id = GYA_PRD_NARR_T9-C7 052-052
+# sent_id = GYA_PRD_NARR_T9-C7_052-052
 # text = ʔèè ká ndàyà -H mɔ̀ H- sa̰
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV

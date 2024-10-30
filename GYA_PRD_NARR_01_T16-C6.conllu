@@ -1596,7 +1596,7 @@
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=177602|AlignEnd=177752|GE=[3SG]|nWord=6|RX=[PERS]
 3	kpa	kpa	VERB	V	_	0	root	_	AlignBegin=177752|AlignEnd=178052|GE=[trouver]|nWord=7|RX=[V]
 4	nàà	nàà	NOUN	N	_	3	comp:obj	_	AlignBegin=178052|AlignEnd=178202|GE=[mère]|nWord=8|RX=[N]
-5	kɔ́	kɔ́	ADP	FCT	_	4	udep	_	AlignBegin=178202|AlignEnd=178352|GE=[de]|nWord=8|RX=[FCT]
+5	kɔ́	kɔ́	ADP	FCT	_	4	udep	_	AlignBegin=178202|AlignEnd=178352|GE=[de]|nWord=9|RX=[FCT]
 6	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	comp	_	AlignBegin=178352|AlignEnd=178653|GE=[3SG]|nWord=9|RX=[PERS]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_091-091
@@ -2332,7 +2332,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 291725, 299970
-# phonetic_text = ʔèè ʔá̰ mɔ̀ ndèì tɔ̰́ kà mbɔ́zɔ̀-bêm nɛ́-bèè sór-mɔ̀-ná mbálámbúlú hé mɔ̀ sɛ̌n kɔ̀ ʔér wíìí hɛ̰̀ gá kóó wà bá gbó sɛ̌n bàngí ʔà̰ tɛ́-gàsì kɔ̀ ʔér //
+# phonetic_text = ʔèè ʔá̰ mɔ̀ ndèì tɔ̰́ kà mbɔ́zɔ̀-bêm nɛ́-bèè sór-mɔ̀-ná mbálámbúlú hé mɔ̀ sɛ̌n kɔ̀ ʔér wíìí hɛ̰̀ gá kóó wà bá gbó sɛ̌n bàngí ʔà̰ tɛ́-gàsì kɔ̀ ʔér nàà kɔ́àìí//
 # text_fr = Et voilà ce qui fait qu'on dit que quand un nouveau-né serait-il tout petit, minuscule, comme dans le creux de la main, même s'ils l'ont emmené jusqu'à Bangui, il grandira.dans la main de sa mère //
 1	ʔèè	ʔèè	CCONJ	COORD	_	37	cc	_	AlignBegin=291725|AlignEnd=291996|GE=[puis]|nWord=1|RX=[COORD]
 2	ʔá̰	ʔá̰	CCONJ	COORD	_	37	cc	_	AlignBegin=291996|AlignEnd=292267|GE=[voilà_que]|nWord=2|RX=[COORD]
@@ -2382,10 +2382,10 @@
 38	kɔ̀	kɔ̀	ADP	FCT	_	37	comp:obl	_	AlignBegin=299380|AlignEnd=299680|GE=[intérieur]|nWord=27|RX=[FCT]
 39	ʔér	ʔér	NOUN	N	_	38	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[main]|nWord=28|RX=[N]
 40	-H	-H	ADP	_	_	39	udep	_	GE=[MT]|nWord=28|RX=[FCT]
-41	nàà	nàà	NOUN	N	_	40	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[mère]|nWord=28|RX=[N]
-42	kɔ́	kɔ́	ADP	N	_	41	udep	_	AlignBegin=299680|AlignEnd=299970|GE=[de]|nWord=28|RX=[FCT]
-43	=à̰	=à̰	NOUN	N	Number=Sing|Person=3|PronType=Prs	42	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[3SG]|nWord=28|RX=[PERS]
-44	-ìí	-ìí	DET	N	_	43	det	_	AlignBegin=299680|AlignEnd=299970|GE=[ANAPH]|nWord=28|RX=[MOD]
+41	nàà	nàà	NOUN	N	_	40	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[mère]|nWord=29|RX=[N]
+42	kɔ́	kɔ́	ADP	N	_	41	udep	_	AlignBegin=299680|AlignEnd=299970|GE=[de]|nWord=30|RX=[FCT]
+43	=à̰	=à̰	NOUN	N	Number=Sing|Person=3|PronType=Prs	42	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[3SG]|nWord=30|RX=[PERS]
+44	-ìí	-ìí	DET	N	_	43	det	_	AlignBegin=299680|AlignEnd=299970|GE=[ANAPH]|nWord=30|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_140-140a
 # text = ʔà̰ tɛ́-B kii

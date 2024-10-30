@@ -571,7 +571,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 69880, 74363
-# phonetic_text = kɔ́mɛ́ mɛ̀ ʔé hám zɔ́k zɛ́mɛ́ dòè nɛ̀ dɛ́-mɛ́-ɲɔ̀ŋ ɲɔ̀ŋ gùn gótónɛ́ ʔòé //
+# phonetic_text = kɔ́mɛ́ mɛ̀ ʔé hám zɔ́k zɛ́mɛ́ dòè nɛ̀ dɛ́-mɛ́-ɲɔ̀ŋ ɲɔ̀ŋ gùn gótónɛ́ìí //
 # text_fr = alors tu dis : laisse moi voir les soldats de termites qui sont sur le point de te mordre [mordre] le bas de vos dos //
 1	ká	ká	CCONJ	COORD	_	2	cc	_	AlignBegin=69880|AlignEnd=70019|GE=[alors]|nWord=1|RX=[COORD]
 2	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	0	root	_	AlignBegin=70019|AlignEnd=70158|GE=[2SG]|nWord=1|RX=[PERS]
@@ -595,7 +595,7 @@
 20	gótó	gótó	NOUN	N	_	19	comp	_	AlignBegin=73550|AlignEnd=73753|GE=[partie_arrière]|nWord=12|RX=[N]
 21	-H	-H	ADP	_	_	20	udep	_	GE=[MT]|nWord=12|RX=[FCT]
 22	=nɛ́	ʔɛ́nɛ́	PRON	P	Number=Plur|Person=2	21	comp	_	AlignBegin=73753|AlignEnd=73956|GE=[2PL]|nWord=12|RX=[P]
-23	-ìí	-ìí	DET	ADV	_	22	det	_	AlignBegin=73956|AlignEnd=74363|GE=[ANAPH]|nWord=13|RX=[MOD]
+23	-ìí	-ìí	DET	ADV	_	22	det	_	AlignBegin=73956|AlignEnd=74363|GE=[ANAPH]|nWord=12|RX=[MOD]
 
 # sent_id = GYA_PRD_NARR_T24-C59_032-032
 # text = ʔèè -H mɛ́ -B H- ɓam sɛ̀nɛ́ yè
@@ -1662,9 +1662,9 @@
 # sent_timecode = 196104, 198782
 # phonetic_text = wà Wàntò sɔ̰́ bɔ̀ɔ̀ nɛ́ gè-ndé //
 # text_fr = Dis-donc Wanto qu'y a-t-il donc? //
-1	wà	wà	INTJ	INTERJ	Person=3|PronType=Prs	0	root	_	AlignBegin=196104|AlignEnd=196788|GE=[3POL]|nWord=1|RX=[PERS]
+1	wà	wà	INTJ	INTERJ	_	0	root	_	AlignBegin=196104|AlignEnd=196788|GE=[3POL]|nWord=1|RX=[PERS]
 2	wàntò	wàntò	PROPN	NPR	_	5	vocative	_	AlignBegin=196788|AlignEnd=197473|GE=[Wanto]|nWord=2|RX=[NPR]
-3	sɔ̰́	sɔ̰́	AUX	MOD	VerbForm=Fin	5	mod	_	AlignBegin=197473|AlignEnd=197800|GE=[REV]|nWord=3|RX=[MOD]
+3	sɔ̰́	sɔ̰́	AUX	MOD	_	5	mod	_	AlignBegin=197473|AlignEnd=197800|GE=[REV]|nWord=3|RX=[MOD]
 4	bɔ̀ɔ̀	bɔ̀ɔ̀	ADJ	AA	_	5	mod	_	AlignBegin=197800|AlignEnd=198127|GE=[donc]|nWord=4|RX=[AA]
 5	nɛ́	nɛ́	AUX	PRÉD	_	1	comp	_	AlignBegin=198127|AlignEnd=198454|GE=[ETRE-ESS]|nWord=5|RX=[PRÉD]
 6	gè-ndé	gè-ndé	NOUN	N	_	5	comp:pred	_	AlignBegin=198454|AlignEnd=198782|GE=[quoi]|nWord=6|RX=[N]
@@ -1951,7 +1951,7 @@
 12	ndàyà	ndàyà	NOUN	N	_	11	comp:obj	_	AlignBegin=232036|AlignEnd=232119|GE=[fesses]|nWord=9|RX=[N]
 13	-H	-H	ADP	FCT	_	12	udep	_	AlignBegin=232119|AlignEnd=232202|GE=[MT]|nWord=9|RX=[FCT]
 14	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	13	comp	_	AlignBegin=232202|AlignEnd=232284|GE=[1SG]|nWord=9|RX=[PERS]
-15	há̰	há̰	AUX	MV	Aspect=Imp|Number=Sing|Person=1|PronType=Prs	2	conj:obl	_	AlignBegin=232532|AlignEnd=232656|GE=[pour_que]|nWord=10|RX=[SUB]
+15	há̰	há̰	AUX	MV	Aspect=Imp	2	conj:obl	_	AlignBegin=232532|AlignEnd=232656|GE=[pour_que]|nWord=10|RX=[SUB]
 16	H-	H-	AUX	MV	Aspect=Imp	17	aux	_	AlignBegin=232532|AlignEnd=232656|GE=[INAC]|nWord=11|RX=[MV]
 17	gɔm	gɔm	VERB	V	_	15	comp	_	AlignBegin=232656|AlignEnd=232780|GE=[frapper]|nWord=11|RX=[V]
 18	ndàyà	ndàyà	NOUN	N	_	17	comp:obj	_	AlignBegin=232780|AlignEnd=232863|GE=[fesses]|nWord=12|RX=[N]
@@ -2341,7 +2341,7 @@
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=278771|AlignEnd=278898|GE=[ACC]|nWord=3|RX=[MV]
 3	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=278898|AlignEnd=279025|GE=[manger]|nWord=3|RX=[V]
 4	-H	-H	X	FCT	_	3	aff	_	AlignBegin=279025|AlignEnd=279153|GE=[MT]|nWord=3|RX=[FCT]
-5	dùá	dùà -H	NOUN	N	_	3	comp:obj	_	AlignBegin=279153|AlignEnd=279535|GE=[cabri]|nWord=4|RX=[N]
+5	dùá	dùà-H	NOUN	N	_	3	comp:obj	_	AlignBegin=279153|AlignEnd=279535|GE=[cabri]|nWord=4|RX=[N]
 6	-H	-H	ADP	_	_	5	udep	_	GE=[MT]|nWord=4|RX=[FCT]
 7	yàà	yàà	NOUN	N	_	6	comp	_	AlignBegin=279535|AlignEnd=279917|GE=[grand-mère]|nWord=5|RX=[N]
 8	kɔ́	kɔ́	ADP	FCT	_	7	udep	_	AlignBegin=279917|AlignEnd=280107|GE=[de]|nWord=6|RX=[FCT]
@@ -2468,7 +2468,7 @@
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=293579|AlignEnd=293703|GE=[ACC]|nWord=3|RX=[MV]
 3	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=293703|AlignEnd=293827|GE=[manger]|nWord=3|RX=[V]
 4	-H	-H	X	FCT	_	3	aff	_	AlignBegin=293827|AlignEnd=293951|GE=[MT]|nWord=3|RX=[FCT]
-5	dùá	dùà -H	NOUN	N	_	3	comp:obj	_	AlignBegin=293951|AlignEnd=294323|GE=[cabri]|nWord=4|RX=[N]
+5	dùá	dùà-H	NOUN	N	_	3	comp:obj	_	AlignBegin=293951|AlignEnd=294323|GE=[cabri]|nWord=4|RX=[N]
 6	-H	-H	ADP	_	_	5	udep	_	GE=[MT]|nWord=4|RX=[FCT]
 7	yàà	yàà	NOUN	N	_	6	comp	_	AlignBegin=294323|AlignEnd=294695|GE=[grand-mère]|nWord=5|RX=[N]
 8	kɔ́	kɔ́	ADP	FCT	_	7	udep	_	AlignBegin=294695|AlignEnd=294881|GE=[de]|nWord=6|RX=[FCT]

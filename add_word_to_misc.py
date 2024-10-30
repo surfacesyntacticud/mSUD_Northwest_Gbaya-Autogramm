@@ -11,7 +11,12 @@ import sys, re
 
 
 infile = sys.argv[1]
-#infile = "../Gbaya/GYA_PRD_NARR_01_T16-C6.conllu"
+if len(sys.argv) > 2:
+    outfile = sys.argv[2]
+else:
+    outfile = re.sub('.conllu', '_WordAdded.conllu', infile)
+# infile = "../Gbaya/GYA_PRD_NARR_01_T16-C6.conllu"
+
 with open(infile, "r") as f:
     lines = [line.rstrip() for line in f.readlines()]
 
@@ -108,7 +113,6 @@ for line in lines:
 print('Total sentences:', total_sent)
 print('Processed sentences:', processed_sent)
 
-outfile = re.sub('.conllu', '_WordAdded.conllu', infile)
 with open(outfile, 'w') as f:
     for o in output:
         f.write(o + '\n')

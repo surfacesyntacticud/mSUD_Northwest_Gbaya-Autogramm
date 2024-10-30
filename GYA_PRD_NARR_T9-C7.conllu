@@ -616,7 +616,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 83220, 84470
-# phonetic_text = gɔ́má yérè ʔá̰ hı̰̀ı̰́ ʔèá //
+# phonetic_text = gɔ́má yérè ʔá̰-hı̰̀ı̰́ ʔèá //
 # text_fr = Couper le buffle c'est ainsi simplement. //
 1	Há-	Há-	AUX	MN	_	2	aux	_	AlignBegin=83220|AlignEnd=83345|GE=[NV]|Gloss=NV-|nWord=1|RX=[MN]
 2	gɔm	gɔm	VERB	V	VerbForm=Vnoun	4	subj	_	AlignBegin=83345|AlignEnd=83470|GE=couper|Gloss=couper|nWord=1|RX=[V]

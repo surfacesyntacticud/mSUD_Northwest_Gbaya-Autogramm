@@ -954,10 +954,10 @@
 # sent_timecode = 102264, 107942
 # phonetic_text = ʔá̰-ndɔ̀wà dɛ́ ʔó dáà kɔ́ bêm dɛ́ ngàyà bêm dɛ́ ngàyà bêm
 # text_fr = Le père de l'enfant se réjouit de l'enfant, se réjouit de l'enfant,
-1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	MN	_	4	cc	_	AlignBegin=102968|AlignEnd=103320|GE=[voilà_que]|nWord=3|RX=[coord]
-2	=wà	wà	PRON	MN	Person=3|PronType=Prs	4	subj	_	AlignBegin=102968|AlignEnd=103320|GE=[3POL]|nWord=3|RX=[PERS]
-3	H-	H-	X	MN	_	4	aux	_	AlignBegin=102968|AlignEnd=103320|GE=[INAC]|nWord=3|RX=[MV]
-4	dɛ	dɛ	VERB	MN	_	0	root	_	AlignBegin=102968|AlignEnd=103320|GE=[faire]|nWord=3|RX=[V]
+1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	MN	_	4	cc	_	AlignBegin=102968|AlignEnd=103320|GE=[voilà_que]|nWord=1|RX=[coord]
+2	=wà	wà	PRON	MN	Person=3|PronType=Prs	4	subj	_	AlignBegin=102968|AlignEnd=103320|GE=[3POL]|nWord=1|RX=[PERS]
+3	H-	H-	X	MN	_	4	aux	_	AlignBegin=102968|AlignEnd=103320|GE=[INAC]|nWord=2|RX=[MV]
+4	dɛ	dɛ	VERB	MN	_	0	root	_	AlignBegin=102968|AlignEnd=103320|GE=[faire]|nWord=2|RX=[V]
 5	ʔó	ʔó	DET	MN	_	6	det	_	AlignBegin=102968|AlignEnd=103320|GE=[POL]|nWord=3|RX=[MN]
 6	dáà	dáà	NOUN	N	_	10	subj	_	AlignBegin=103320|AlignEnd=103672|GE=[père]|nWord=4|RX=[N]
 7	kɔ́	kɔ́	ADP	FCT	_	6	udep	_	AlignBegin=103672|AlignEnd=104024|GE=[de]|nWord=5|RX=[FCT]
@@ -2404,7 +2404,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 299970, 303713
 # phonetic_text = mɔ̀-ndɔ̀wá bàà sɔ̰́ ʔà̰ yáknɛ́ gbó sɛ̀n díí-gè-ndé ʔà̰ tɛ́-gàsì ʔé
-# text_fr = où qu'ils l'aient pris et emmené il grandira
+# text_fr = où qu'ils l'aient pris et emmené il grandira dejà //
 1	mɔ̀-nɛ̀	mɔ̀-nɛ̀	SCONJ	SUB	_	16	mod	_	AlignBegin=301218|AlignEnd=301322|GE=[du_du_fait_que]|nWord=5|RX=[SUB]
 2	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	5	subj	_	AlignBegin=301322|AlignEnd=301426|GE=[3PL]|nWord=5|RX=[PERS]
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=301426|AlignEnd=301530|GE=[MT]|nWord=5|RX=[MOD]
@@ -2418,10 +2418,10 @@
 11	gbo	gbo	VERB	V	_	5	compound:svc	_	AlignBegin=302934|AlignEnd=303090|GE=[arriver]|nWord=10|RX=[V]
 12	sɛ̀n	sɛ̀n	ADP	FCT	_	11	comp:obl	_	AlignBegin=303090|AlignEnd=303402|GE=[dans]|nWord=11|RX=[FCT]
 13	díí-gè-ndé	díí-gè-ndé	ADV	_	_	12	comp	_	AlignBegin=303402|AlignEnd=303713|GE=[où]|nWord=12|RX=[INTER]
-14	ʔà̰	ʔà̰	PRON	_	Number=Sing|Person=3|PronType=Prs	16	subj	_	AlignBegin=303402|AlignEnd=303713|GE=[3SG]|nWord=12|RX=[PERS]
-15	tɛ́-B-	tɛ́-B-	AUX	_	Aspect=Imp|Mood=Irr	16	aux	_	AlignBegin=303402|AlignEnd=303713|GE=[VIRT-INAC]|nWord=12|RX=[MV]
-16	gasi	gasi	VERB	_	_	0	root	_	AlignBegin=303402|AlignEnd=303713|GE=[grandir]|nWord=12|RX=V]
-17	ʔé	ʔé	ADV	_	_	16	mod	_	AlignBegin=303402|AlignEnd=303713|GE=[déjà]|nWord=12|RX=[ADV]
+14	ʔà̰	ʔà̰	PRON	_	Number=Sing|Person=3|PronType=Prs	16	subj	_	AlignBegin=303402|AlignEnd=303713|GE=[3SG]|nWord=13|RX=[PERS]
+15	tɛ́-B-	tɛ́-B-	AUX	_	Aspect=Imp|Mood=Irr	16	aux	_	AlignBegin=303402|AlignEnd=303713|GE=[VIRT-INAC]|nWord=14|RX=[MV]
+16	gasi	gasi	VERB	_	_	0	root	_	AlignBegin=303402|AlignEnd=303713|GE=[grandir]|nWord=14|RX=V]
+17	ʔé	ʔé	ADV	_	_	16	mod	_	AlignBegin=303402|AlignEnd=303713|GE=[déjà]|nWord=15|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_141-141a
 # text = ʔà̰ tɛ́-B gasi ʔé

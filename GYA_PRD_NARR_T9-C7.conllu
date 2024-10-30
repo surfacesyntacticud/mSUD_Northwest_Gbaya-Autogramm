@@ -617,7 +617,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 83220, 84470
 # phonetic_text = gɔ́má yérè ʔá̰ hı̰̀ı̰́ ʔèá //
-# text_fr = Couper le buffle c'est ainsi tout simplement. //
+# text_fr = Couper le buffle c'est ainsi simplement. //
 1	Há-	Há-	AUX	MN	_	2	aux	_	AlignBegin=83220|AlignEnd=83345|GE=[NV]|Gloss=NV-|nWord=1|RX=[MN]
 2	gɔm	gɔm	VERB	V	VerbForm=Vnoun	4	subj	_	AlignBegin=83345|AlignEnd=83470|GE=couper|Gloss=couper|nWord=1|RX=[V]
 3	yérè	yérè	NOUN	N	_	2	comp:obj	_	AlignBegin=83470|AlignEnd=83720|GE=buffle|Gloss=buffle|nWord=2|RX=[N]
@@ -1071,7 +1071,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 135340, 140860
-# phonetic_text = ká yérè ʔèá ʔèá ʔèá ká zṵ̀ṵ̀ ʔɔ́máà //
+# phonetic_text = ká yérè ʔèá_ʔèá_ʔèá ká zṵ̀ṵ̀ ʔɔ́máà //
 # text_fr = alors le buffle s'acharne et lui défonce le poitrail //
 1	ká	ká	CCONJ	SUB	_	3	cc	_	AlignBegin=135340|AlignEnd=135765|GE=[alors]|Gloss=alors|nWord=1|RX=[SUB]
 2	yérè	yérè	NOUN	MV	_	3	subj	_	AlignBegin=135765|AlignEnd=135907|GE=[buffle]|Gloss=buffle|nWord=2|RX=[N]

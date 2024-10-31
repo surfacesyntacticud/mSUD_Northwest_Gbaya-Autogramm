@@ -932,7 +932,7 @@
 7	H-	H-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=108598|AlignEnd=108746|GE=[INF].[ACC]|nWord=5|RX=[MV]|Word=yɔ́
 8	yɔ	yɔ	VERB	V	_	5	compound:svc	_	AlignBegin=108746|AlignEnd=108893|GE=[être_perdu]|nWord=5|RX=[V]|Word=yɔ́
 9	H-	H-	AUX	MV	Aspect=Perf	10	aux	_	AlignBegin=108893|AlignEnd=109041|GE=[INF].[ACC]|nWord=6|RX=[MV]|Word=yɔ́
-10	yɔ	yɔ	VERB	V	_	8	comp:dicto	_	AlignBegin=109041|AlignEnd=109188|GE=[perdre]|nWord=6|RX=[V]|Word=yɔ́
+10	yɔ	yɔ	VERB	V	_	8	conj:dicto	_	AlignBegin=109041|AlignEnd=109188|GE=[perdre]|nWord=6|RX=[V]|Word=yɔ́
 11	kàyá	kàyá	NOUN	N	_	10	comp:obj	_	AlignBegin=109188|AlignEnd=109483|GE=[orientation]|nWord=7|RX=[N]|Word=kàyá
 12	kɔ́	kɔ́	ADP	FCT	_	11	udep	_	AlignBegin=109483|AlignEnd=109778|GE=[de]|nWord=8|RX=[FCT]|Word=kɔ́
 13	Wàntò	Wàntò	PROPN	NPR	_	12	comp	_	AlignBegin=109778|AlignEnd=110075|GE=[Wanto]|nWord=9|RX=[NPR]|Word=Wàntò

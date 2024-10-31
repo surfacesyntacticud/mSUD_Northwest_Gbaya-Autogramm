@@ -441,7 +441,7 @@
 16	ba	ba	VERB	V	_	0	root	_	AlignBegin=53957|AlignEnd=54092|GE=[prendre]|nWord=12|RX=[V]|Word=bàà
 17	-H	-H	X	MOD	_	16	aff	_	AlignBegin=54092|AlignEnd=54226|GE=[MT]|nWord=12|RX=[MOD]|Word=bàà
 18	bêm	bêm	NOUN	N	_	16	comp:obj	_	AlignBegin=54226|AlignEnd=54630|GE=[enfant]|nWord=13|RX=[N]|Word=bêm
-19	yáknɛ́	yáknɛ́	PART	MV	_	16	aux	_	AlignBegin=54630|AlignEnd=55035|GE=[en_partant]|nWord=14|RX=[MV]|Word=yáknɛ́
+19	yáknɛ́	yáknɛ́	PART	MV	_	16	mod	_	AlignBegin=54630|AlignEnd=55035|GE=[en_partant]|nWord=14|RX=[MV]|Word=yáknɛ́
 20	H-	H-	AUX	MV	Aspect=Imp	21	aux	_	AlignBegin=55035|AlignEnd=55116|GE=[INAC]|nWord=1|RX=[MV]|Word=kíí
 21	kii	kii	VERB	V	_	16	conj:coord	_	AlignBegin=55116|AlignEnd=55197|GE=[chercher]|nWord=1|RX=[V]|Word=kíí
 22	mɔ̀	mɔ̀	NOUN	N	_	21	comp:obj	_	AlignBegin=55197|AlignEnd=55359|GE=[chose]|nWord=2|RX=[N]|Word=mɔ̀

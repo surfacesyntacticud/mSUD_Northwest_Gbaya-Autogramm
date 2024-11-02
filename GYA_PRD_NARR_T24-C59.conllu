@@ -34,8 +34,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 6438, 12707
-# phonetic_text = Wàntò dɛ̀ɛ̀ gíà nɛ́nɛ́ɛ́ɛ́ ʔín ʔó ngàì-wí kɔ́í //
-# text_fr = Wanto participe à une chasse avec ses compagnons //
+# phonetic_text = Wàntò dɛ̀ɛ̀ gíà nɛ́nɛ́ɛ́ɛ́ ʔín ʔó ngàì-wí kɔ́í
+# text_fr = Wanto participe à une chasse avec ses compagnons
 1	Wàntò	Wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=6438|AlignEnd=7222|GE=[Wàntò]|nWord=1|RX=[NPR]|Word=Wàntò
 2	BHa	BHa	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=7222|AlignEnd=7483|GE=[ACC]|nWord=2|RX=[MV]|Word=dɛ̀ɛ̀
 3	dɛ	dɛ	VERB	V	_	0	root	_	AlignBegin=7483|AlignEnd=7744|GE=[faire]|nWord=2|RX=[V]|Word=dɛ̀ɛ̀
@@ -144,8 +144,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 23321, 26519
-# phonetic_text = ʔó dáà bóíbêmmɛ̀ mɛ̀ ndák bé sàɗì kɛ́ɛ́ //
-# text_fr = Petit père, toi le garçon qui est ici, poursuis notre petit animal //
+# phonetic_text = ʔó dáà bóíbêmmɛ̀ mɛ̀ ndák bé sàɗì kɛ́ɛ́
+# text_fr = Petit père, toi le garçon qui est ici, poursuis notre petit animal
 1	ʔó	ʔó	DET	MN	Polite=Form	2	det	_	AlignBegin=23321|AlignEnd=23721|GE=[POL]|nWord=1|RX=[MN]|Word=ʔó
 2	dáà	dáà	NOUN	N	_	8	vocative	_	AlignBegin=23721|AlignEnd=24121|GE=[petit_père]|nWord=2|RX=[N]|Word=dáà
 3	bóíbêm	bóíbêm	NOUN	N	_	2	conj:appos	_	AlignBegin=24121|AlignEnd=24321|GE=[garçon]|nWord=3|RX=[N]|Word=bóíbêmmɛ̀
@@ -164,8 +164,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 26521, 28283
-# phonetic_text = ʔá̰-nɛ̀ Wàntò kùrá //
-# text_fr = Et Wanto se lève //
+# phonetic_text = ʔá̰-nɛ̀ Wàntò kùrá
+# text_fr = Et Wanto se lève
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=26521|AlignEnd=27108|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀
 2	Wàntò	Wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=27108|AlignEnd=27695|GE=[Wanto]|nWord=2|RX=[NPR]|Word=Wàntò
 3	BHa	BHa	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=27695|AlignEnd=27989|GE=[ACC]|nWord=3|RX=[MV]|Word=kùrá
@@ -377,7 +377,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 49108, 51626
-# phonetic_text = ʔó Wàntò yàká ɗòŋ ʔó dàn kéí //
+# phonetic_text = ʔó Wàntò yàká ɗòŋ ʔó dàn kéí
 # text_fr = Wanto s'en va rejoint ses amis.//
 1	ʔó	ʔó	DET	MN	Polite=Form	2	det	_	AlignBegin=49108|AlignEnd=49519|GE=[POL]|nWord=1|RX=[MN]|Word=ʔó
 2	wàntò	wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=49519|AlignEnd=49930|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
@@ -555,8 +555,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 68063, 69880
-# phonetic_text = mɛ́ dɔ̀r dòè ʔínwà ʔé //
-# text_fr = Tu récoltes comme tu l'as prévu des termites avec elles //
+# phonetic_text = mɛ́ dɔ̀r dòè ʔínwà ʔé
+# text_fr = Tu récoltes comme tu l'as prévu des termites avec elles
 1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	3	subj	_	AlignBegin=68063|AlignEnd=68426|GE=[2SG]|nWord=1|RX=[PERS]|Word=mɛ́
 2	B-	B-	AUX	MV	_	3	aux	_	AlignBegin=68426|AlignEnd=68608|GE=[CONNU]|nWord=2|RX=[MV]|Word=dɔ̀r
 3	dɔr	dɔr	VERB	V	_	0	root	_	AlignBegin=68608|AlignEnd=68789|GE=[ramasser_un_à_un]|nWord=2|RX=[V]|Word=dɔ̀r
@@ -571,8 +571,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 69880, 74363
-# phonetic_text = kɔ́mɛ́ mɛ̀ ʔé hám zɔ́k zɛ́mɛ́ dòè nɛ̀ dɛ́-mɛ́-ɲɔ̀ŋ ɲɔ̀ŋ gùn gótónɛ́ìí //
-# text_fr = alors tu dis : laisse moi voir les soldats de termites qui sont sur le point de te mordre [mordre] le bas de vos dos //
+# phonetic_text = kɔ́mɛ́ mɛ̀ ʔé hám zɔ́k zɛ́mɛ́ dòè nɛ̀ dɛ́-mɛ́-ɲɔ̀ŋ ɲɔ̀ŋ gùn gótónɛ́ìí
+# text_fr = alors tu dis : laisse moi voir les soldats de termites qui sont sur le point de te mordre [mordre] le bas de vos dos
 1	ká	ká	CCONJ	COORD	_	2	cc	_	AlignBegin=69880|AlignEnd=70019|GE=[alors]|nWord=1|RX=[COORD]|Word=kɔ́mɛ́
 2	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	0	root	_	AlignBegin=70019|AlignEnd=70158|GE=[2SG]|nWord=1|RX=[PERS]|Word=kɔ́mɛ́
 3	mɛ́	mɛ́	PRON	PP	Number=Sing|Person=2	6	subj	_	AlignBegin=70158|AlignEnd=70297|GE=[2SG]|nWord=2|RX=[PP]|Word=mɛ̀
@@ -602,8 +602,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 74363, 75745
-# phonetic_text = ʔèé mɛ̀ ɓám sɛ̀nɛ́ yè //
-# text_fr = puis pour finir coince [le petit paquet] dedans //
+# phonetic_text = ʔèé mɛ̀ ɓám sɛ̀nɛ́ yè
+# text_fr = puis pour finir coince [le petit paquet] dedans
 1	ʔèè	ʔèè	CCONJ	COORD	_	6	cc	_	AlignBegin=74363|AlignEnd=74501|GE=[puis]|nWord=1|RX=[COORD]|Word=ʔèé
 2	-H	-H	X	FCT	_	1	aff	_	AlignBegin=74501|AlignEnd=74639|GE=[MT]|nWord=1|RX=[FCT]|Word=ʔèé
 3	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	6	subj	_	AlignBegin=74639|AlignEnd=74777|GE=[2SG]|nWord=2|RX=[PERS]|Word=mɛ̀
@@ -700,8 +700,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 83172, 86306
-# phonetic_text = ʔá̰-nɛ̀ Wàntò dɔ́r dòè ʔáá tɛ̀ kɔ́ ʔɛ̰̀ dɔ́r dòè ʔáá tɛ̀ kɔ́ ʔɛ̰̀ //
-# text_fr = voilà que Wanto récolte des termites, les verse dans le plat de celle-ci, et les verse dans le plat de celle-là //
+# phonetic_text = ʔá̰-nɛ̀ Wàntò dɔ́r dòè ʔáá tɛ̀ kɔ́ ʔɛ̰̀ dɔ́r dòè ʔáá tɛ̀ kɔ́ ʔɛ̰̀
+# text_fr = voilà que Wanto récolte des termites, les verse dans le plat de celle-ci, et les verse dans le plat de celle-là
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=83172|AlignEnd=83396|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀
 2	Wàntò	Wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=83396|AlignEnd=83620|GE=[Wanto]|nWord=2|RX=[NPR]|Word=Wàntò
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=83620|AlignEnd=83732|GE=[INAC]|nWord=3|RX=[MV]|Word=dɔ́r
@@ -728,8 +728,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 86306, 87932
-# phonetic_text = ká bé pɛ̀ɲá hɔ̀á //
-# text_fr = alors un petit cobe surgit //
+# phonetic_text = ká bé pɛ̀ɲá hɔ̀á
+# text_fr = alors un petit cobe surgit
 1	ká	ká	CCONJ	COORD	_	5	cc	_	AlignBegin=86306|AlignEnd=86712|GE=[alors]|nWord=1|RX=[COORD]|Word=ká
 2	bé	bé	ADJ	N	_	3	mod	_	AlignBegin=86712|AlignEnd=87118|GE=[petit]|nWord=2|RX=[N]|Word=bé
 3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	5	subj	_	AlignBegin=87118|AlignEnd=87524|GE=[cobe_de_ɓuffon]|nWord=3|RX=[N]|Word=pɛ̀ɲá
@@ -779,8 +779,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 92670, 94540
-# phonetic_text = ʔá̰-nɛ̀ Wàntò ʔé tɛ̀ sɛ̀nɛ́ //
-# text_fr = Voilà que Wanto se lance à sa poursuite //
+# phonetic_text = ʔá̰-nɛ̀ Wàntò ʔé tɛ̀ sɛ̀nɛ́
+# text_fr = Voilà que Wanto se lance à sa poursuite
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=92670|AlignEnd=93044|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀
 2	wàntò	wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=93044|AlignEnd=93418|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=93418|AlignEnd=93605|GE=[INAC]|nWord=3|RX=[MV]|Word=ʔé
@@ -921,8 +921,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 107418, 110075
-# phonetic_text = wàá bé pɛ̀ɲá sìì yɔ́ yɔ́ kàyá kɔ́ Wàntò //
-# text_fr = Bah le petit animal part et égare Wanto //
+# phonetic_text = wàá bé pɛ̀ɲá sìì yɔ́ yɔ́ kàyá kɔ́ Wàntò
+# text_fr = Bah le petit animal part et égare Wanto
 1	wàá	wàá	INTJ	INTERJ	_	5	vocative	_	AlignBegin=107418|AlignEnd=107713|GE=[bah]|nWord=1|RX=[INTERJ]|Word=wàá
 2	bé	bé	ADJ	N	_	3	mod	_	AlignBegin=107713|AlignEnd=108008|GE=[petit]|nWord=2|RX=[N]|Word=bé
 3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	5	subj	_	AlignBegin=108008|AlignEnd=108303|GE=[cobe_de_ɓuffon]|nWord=3|RX=[N]|Word=pɛ̀ɲá
@@ -942,8 +942,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 110075, 111902
-# phonetic_text = ʔá̰-nɛ̀ Wàntò péí ɗòŋ wó //
-# text_fr = voilà que Wanto revient sur ses pas //
+# phonetic_text = ʔá̰-nɛ̀ Wàntò péí ɗòŋ wó
+# text_fr = voilà que Wanto revient sur ses pas
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=110075|AlignEnd=110440|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀
 2	wàntò	wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=110440|AlignEnd=110805|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=110805|AlignEnd=110987|GE=[INAC]|nWord=3|RX=[MV]|Word=péí
@@ -956,8 +956,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 111902, 113294
-# phonetic_text = péém wà bé ná //
-# text_fr = plus rien, il n'y a personne //
+# phonetic_text = péém wà bé ná
+# text_fr = plus rien, il n'y a personne
 1	péém	péém	ADJ	AA	_	4	mod	_	AlignBegin=111902|AlignEnd=112250|GE=[plus_rien]|nWord=1|RX=[AA]|Word=péém
 2	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	4	subj	_	AlignBegin=112250|AlignEnd=112598|GE=[3PL]|nWord=2|RX=[PERS]|Word=wà
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=112598|AlignEnd=112772|GE=[INAC]|nWord=3|RX=[MV]|Word=bé
@@ -1131,8 +1131,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 133534, 137019
-# phonetic_text = wà hó gɛ̀nɛ̀ hɔ̀ɔ̀ yé kɛ́ɛ́ gɛ̀nɛ̀ hɔ̀ɔ̀ yé kɛ́ɛ́ //
-# text_fr = Elles s"exclament oh! un visiteur est arrivé dans notre village  //
+# phonetic_text = wà hó gɛ̀nɛ̀ hɔ̀ɔ̀ yé kɛ́ɛ́ gɛ̀nɛ̀ hɔ̀ɔ̀ yé kɛ́ɛ́
+# text_fr = Elles s"exclament oh! un visiteur est arrivé dans notre village
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	0	root	_	AlignBegin=133534|AlignEnd=133851|GE=[3PL]|nWord=1|RX=[PERS]|Word=wà
 2	hó	hó	INTJ	INTERJ	_	5	vocative	_	AlignBegin=133851|AlignEnd=134168|GE=[oh]|nWord=2|RX=[INTERJ]|Word=hó
 3	gɛ̀nɛ̀	gɛ̀nɛ̀	NOUN	N	_	5	subj	_	AlignBegin=134168|AlignEnd=134485|GE=[étranger]|nWord=3|RX=[N]|Word=gɛ̀nɛ̀
@@ -1155,8 +1155,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 137019, 139060
-# phonetic_text = Wàntò mɛ̀-nɛ́ ʔò ʔùsà yíwár hámɛ́ ʔò-ndé //
-# text_fr = Wanto c'est qui qui t'a montré le chemin ? //
+# phonetic_text = Wàntò mɛ̀-nɛ́ ʔò ʔùsà yíwár hámɛ́ ʔò-ndé
+# text_fr = Wanto c'est qui qui t'a montré le chemin ?
 1	Wàntò	wàntò	NOUN	PRED	_	2	vocative	_	AlignBegin=137019|AlignEnd=137359|GE=[Wanto]|nWord=1|RX=[NPR]|Word=Wàntò
 2	mɛ̀-nɛ́	mɛ̀-nɛ́	AUX	PRED	_	0	root	_	AlignBegin=137019|AlignEnd=137359|GE=[C'EST]|nWord=2|RX=[PRED]|Word=mɛ̀-nɛ́
 3	ʔò	ʔò	PRON	INTERR	_	2	comp:pred	_	AlignBegin=137359|AlignEnd=137699|GE=[qui]|nWord=3|RX=[INTERR]|Word=ʔò
@@ -1232,8 +1232,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 143970, 146656
-# phonetic_text = Wàntò kàyà sɔ̰́ gbàɲá sùnù ʔá kɔ́ dàɗà //
-# text_fr = Wanto avait mis des graines de sésame dans sa sacoche //
+# phonetic_text = Wàntò kàyà sɔ̰́ gbàɲá sùnù ʔá kɔ́ dàɗà
+# text_fr = Wanto avait mis des graines de sésame dans sa sacoche
 1	wàntò	wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=143970|AlignEnd=144306|GE=[Wàntò]|nWord=1|RX=[NPR]|Word=Wàntò
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=144306|AlignEnd=144418|GE=[ACC]|nWord=2|RX=[MV]|Word=kàyà
 3	kai	kai	VERB	V	_	0	root	_	AlignBegin=144418|AlignEnd=144530|GE=[ramasser]|nWord=2|RX=[V]|Word=kàyà
@@ -1284,8 +1284,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 150620, 153170
-# phonetic_text = Wàntò zɔ̀kà sɔ̰́ wàn zúà ká dìí tɛ̀í //
-# text_fr = Wanto avait vu l'aînée et elle lui plaisait //
+# phonetic_text = Wàntò zɔ̀kà sɔ̰́ wàn zúà ká dìí tɛ̀í
+# text_fr = Wanto avait vu l'aînée et elle lui plaisait
 1	wàntò	wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=150620|AlignEnd=150939|GE=[Wàntò]|nWord=1|RX=[NPR]|Word=Wàntò
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=150939|AlignEnd=151045|GE=[ACC]|nWord=2|RX=[MV]|Word=zɔ̀kà
 3	zɔk	zɔk	VERB	V	_	0	root	_	AlignBegin=151045|AlignEnd=151151|GE=[voir]|nWord=2|RX=[V]|Word=zɔ̀kà
@@ -1310,7 +1310,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 153180, 155911
 # phonetic_text = ʔá̰-nɛ̀ wà wàntò mɛ́ tɛ́-ʔɔ̀ díì
-# text_fr = voilà qu'elles [demandent] : Wanto où comptes-tu dormir ? //
+# text_fr = voilà qu'elles [demandent] : Wanto où comptes-tu dormir ?
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	2	cc	_	AlignBegin=153180|AlignEnd=153362|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀
 2	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	0	root	_	AlignBegin=153362|AlignEnd=153544|GE=[3PL]|nWord=2|RX=[PERS]|Word=wà
 3	wàntò	wàntò	PROPN	NPR	_	6	vocative	_	AlignBegin=153726|AlignEnd=154272|GE=[Wàntò]|nWord=3|RX=[NPR]|Word=wàntò
@@ -1324,8 +1324,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 155911, 158003
-# phonetic_text = Wàntò ʔòóyèé ʔéí tɛ́-ʔɔ̀ kɔ́í hḭ̀ḭ́ ná //
-# text_fr = Wanto répond 'non, je ne vais pas dormir là' //
+# phonetic_text = Wàntò ʔòóyèé ʔéí tɛ́-ʔɔ̀ kɔ́í hḭ̀ḭ́ ná
+# text_fr = Wanto répond 'non, je ne vais pas dormir là'
 1	wàntò	wàntò	PROPN	NPR	_	0	root	_	AlignBegin=155911|AlignEnd=156210|GE=[Wàntò]|nWord=1|RX=[NPR]|Word=Wàntò
 2	ʔòóyèé	ʔòóyèé	ADV	ADV	_	5	vocative	_	AlignBegin=156210|AlignEnd=156509|GE=[non]|nWord=2|RX=[ADV]|Word=ʔòóyèé
 3	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	5	subj	_	AlignBegin=156509|AlignEnd=156808|GE=[LOGSG]|nWord=3|RX=[PERS]|Word=ʔéí
@@ -1341,8 +1341,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 158003, 160142
-# phonetic_text = ʔá̰-nɛ̀wà bá Wàntò sínɛ́ mɔ́-sì kútùà kɔ́ ʔɛ̰̀ //
-# text_fr = Voilà qu'elles conduisent Wanto jusque devant la maison de celle-ci. //
+# phonetic_text = ʔá̰-nɛ̀wà bá Wàntò sínɛ́ mɔ́-sì kútùà kɔ́ ʔɛ̰̀
+# text_fr = Voilà qu'elles conduisent Wanto jusque devant la maison de celle-ci.
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=158003|AlignEnd=158092|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀wà
 2	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	5	subj	_	AlignBegin=158092|AlignEnd=158181|GE=[3PL]|nWord=1|RX=[PERS]|Word=ʔá̰-nɛ̀wà
 3	-H	-H	X	FCT	_	2	aff	_	AlignBegin=158181|AlignEnd=158270|GE=[MT]|nWord=1|RX=[FCT]|Word=ʔá̰-nɛ̀wà
@@ -1391,8 +1391,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 163146, 164464
-# phonetic_text = wà bàáà péí-ɗòŋ //
-# text_fr = Elles font demi-tour avec lui. //
+# phonetic_text = wà bàáà péí-ɗòŋ
+# text_fr = Elles font demi-tour avec lui.
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	AlignBegin=163146|AlignEnd=163585|GE=[3PL]|nWord=1|RX=[PERS]|Word=wà
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=163585|AlignEnd=163695|GE=[ACC]|nWord=2|RX=[MV]|Word=bàáà
 3	ba	ba	VERB	V	_	0	root	_	AlignBegin=163695|AlignEnd=163805|GE=[prendre]|nWord=2|RX=[V]|Word=bàáà
@@ -1405,8 +1405,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 164464, 166291
-# phonetic_text = wàá bà sínɛ́ kútùà kɔ́ ʔɛ̰̀ ʔéì //
-# text_fr = Comme elles l'emmènent jusqu'à la maison de celle-ci; [il dit] Merde //
+# phonetic_text = wàá bà sínɛ́ kútùà kɔ́ ʔɛ̰̀ ʔéì
+# text_fr = Comme elles l'emmènent jusqu'à la maison de celle-ci; [il dit] Merde
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	4	subj	_	AlignBegin=164464|AlignEnd=164594|GE=[3PL]|nWord=1|RX=[PERS]|Word=wàá
 2	-Hv	-Hv	AUX	MV	_	4	aux	_	AlignBegin=164594|AlignEnd=164725|GE=[cond]|nWord=1|RX=[MV]|Word=wàá
 3	B-	B-	AUX	MV	Aspect=Imp|Mood=Cnd	4	aux	_	AlignBegin=164725|AlignEnd=164855|GE=[COND-INAC]|nWord=2|RX=[MV]|Word=bà
@@ -1467,8 +1467,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 169510, 171040
-# phonetic_text = wà bàáà péí-ɗòŋ tɛ̀ wàn zúàí //
-# text_fr = Elles le ramènent chez l'aínée //
+# phonetic_text = wà bàáà péí-ɗòŋ tɛ̀ wàn zúàí
+# text_fr = Elles le ramènent chez l'aínée
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	AlignBegin=169510|AlignEnd=170020|GE=[3PL]|nWord=1|RX=[PERS]|Word=wà
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=170020|AlignEnd=170148|GE=[ACC]|nWord=2|RX=[MV]|Word=bàáà
 3	ba	ba	VERB	V	_	0	root	_	AlignBegin=170148|AlignEnd=170276|GE=[prendre]|nWord=2|RX=[V]|Word=bàáà
@@ -1489,8 +1489,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 174175, 177334
-# phonetic_text = Wàntò mí kpásí mí kpásí mí kpásí mí kpásí //
-# text_fr = Wanto s'écrie : je suis sauvé, je suis sauvé, je suis sauvé, je suis sauvé //
+# phonetic_text = Wàntò mí kpásí mí kpásí mí kpásí mí kpásí
+# text_fr = Wanto s'écrie : je suis sauvé, je suis sauvé, je suis sauvé, je suis sauvé
 1	wàntò	wàntò	PROPN	NPR	_	0	root	_	AlignBegin=174175|AlignEnd=174526|GE=[Wàntò]|nWord=1|RX=[NPR]|Word=Wàntò
 2	mí	mí	PRON	PERS	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=174526|AlignEnd=174877|GE=[1SG]|nWord=2|RX=[PERS]|Word=mí
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=174877|AlignEnd=175053|GE=[INAC]|nWord=3|RX=[MV]|Word=kpásí
@@ -1510,8 +1510,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 177334, 178403
-# phonetic_text = ʔèá //
-# text_fr = c'est comme ça //
+# phonetic_text = ʔèá
+# text_fr = c'est comme ça
 1	ʔèá	ʔèá	ADV	ADV	_	0	root	_	AlignBegin=177334|AlignEnd=178403|GE=[seulement]|nWord=1|RX=[ADV]|Word=ʔèá
 
 # sent_id = GYA_PRD_NARR_T24-C59_075-075
@@ -1519,8 +1519,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 178403, 180790
-# phonetic_text = wà dák dèrè pḭ́ ká wèè há̰ Wàntò //
-# text_fr = Elles mettent une natte auprès du feu pour Wanto //
+# phonetic_text = wà dák dèrè pḭ́ ká wèè há̰ Wàntò
+# text_fr = Elles mettent une natte auprès du feu pour Wanto
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	AlignBegin=178403|AlignEnd=178701|GE=[3PL]|nWord=1|RX=[PERS]|Word=wà
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=178701|AlignEnd=178850|GE=[INAC]|nWord=2|RX=[MV]|Word=dák
 3	dak	dak	VERB	V	_	0	root	_	AlignBegin=178850|AlignEnd=178999|GE=[tirer]|nWord=2|RX=[V]|Word=dák
@@ -1604,8 +1604,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 189029, 191929
-# phonetic_text = hó dáà ʔɛ̰̀ bé nɛ́ dɔ̀k ná wá //
-# text_fr = oh! petit père! holà, ce ne sont pas des vers //
+# phonetic_text = hó dáà ʔɛ̰̀ bé nɛ́ dɔ̀k ná wá
+# text_fr = oh! petit père! holà, ce ne sont pas des vers
 1	hó	hó	INTJ	INTERJ	_	5	vocative	_	AlignBegin=189029|AlignEnd=190230|GE=[oh]|nWord=1|RX=[INTERJ]|Word=hó
 2	dáà	dáà	NOUN	N	_	5	vocative	_	AlignBegin=190230|AlignEnd=190473|GE=[petit_père]|nWord=2|RX=[N]|Word=dáà
 3	ʔɛ̰̀	ʔɛ̰̀	PRON	PRO	_	5	subj	_	AlignBegin=190473|AlignEnd=190716|GE=[ceci]|nWord=3|RX=[PRO]|Word=ʔɛ̰̀
@@ -1660,8 +1660,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 196104, 198782
-# phonetic_text = wà Wàntò sɔ̰́ bɔ̀ɔ̀ nɛ́ gè-ndé //
-# text_fr = Dis-donc Wanto qu'y a-t-il donc? //
+# phonetic_text = wà Wàntò sɔ̰́ bɔ̀ɔ̀ nɛ́ gè-ndé
+# text_fr = Dis-donc Wanto qu'y a-t-il donc?
 1	wà	wà	INTJ	INTERJ	_	0	root	_	AlignBegin=196104|AlignEnd=196788|GE=[3POL]|nWord=1|RX=[PERS]|Word=wà
 2	wàntò	wàntò	PROPN	NPR	_	5	vocative	_	AlignBegin=196788|AlignEnd=197473|GE=[Wanto]|nWord=2|RX=[NPR]|Word=Wàntò
 3	sɔ̰́	sɔ̰́	AUX	MOD	_	5	mod	_	AlignBegin=197473|AlignEnd=197800|GE=[REV]|nWord=3|RX=[MOD]|Word=sɔ̰́
@@ -1674,8 +1674,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 198782, 200929
-# phonetic_text = hó náà dɔ̀k ɲɛ́m ká wèè nà wá //
-# text_fr = oh chérie, hélas il y a trop de vers à côté du feu //
+# phonetic_text = hó náà dɔ̀k ɲɛ́m ká wèè nà wá
+# text_fr = oh chérie, hélas il y a trop de vers à côté du feu
 1	hó	hó	INTJ	INTERJ	_	5	vocative	_	AlignBegin=198782|AlignEnd=199050|GE=[oh]|nWord=1|RX=[INTERJ]|Word=hó
 2	nàà	nàà	NOUN	N	_	5	vocative	_	AlignBegin=199050|AlignEnd=199318|GE=[chérie]|nWord=2|RX=[N]|Word=náà
 3	dɔ̀k	dɔ̀k	NOUN	N	_	5	subj	_	AlignBegin=199318|AlignEnd=199586|GE=[ver]|nWord=3|RX=[N]|Word=dɔ̀k
@@ -1691,8 +1691,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 200929, 202799
-# phonetic_text = ʔá̰ Wàntò ʔɔ́ nù sí-ɗòŋ //
-# text_fr = voilà que Wanto se recouche //
+# phonetic_text = ʔá̰ Wàntò ʔɔ́ nù sí-ɗòŋ
+# text_fr = voilà que Wanto se recouche
 1	ʔá̰	ʔá̰	CCONJ	COORD	_	4	cc	_	AlignBegin=200929|AlignEnd=201303|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰
 2	wàntò	wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=201303|AlignEnd=201677|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=201677|AlignEnd=201864|GE=[INAC]|nWord=3|RX=[MV]|Word=ʔɔ́
@@ -1705,8 +1705,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 202799, 203819
-# phonetic_text = Wàntò kúr //
-# text_fr = Wanto se lève //
+# phonetic_text = Wàntò kúr
+# text_fr = Wanto se lève
 1	wàntò	wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=202799|AlignEnd=203309|GE=[Wàntò]|nWord=1|RX=[NPR]|Word=Wàntò
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=203309|AlignEnd=203564|GE=[INAC]|nWord=2|RX=[MV]|Word=kúr
 3	kur	kur	VERB	V	_	0	root	_	AlignBegin=203564|AlignEnd=203819|GE=[se_lever]|nWord=2|RX=[V]|Word=kúr
@@ -1849,8 +1849,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 216420, 221665
-# phonetic_text = Wàntò hó dáà ʔɛ́nɛ́ tɛ́-tɔ̰̀ kàá ʔám bá náŋám ʔàm pḭ́ gɔ́nyó nàà gɔ́n wí géè //
-# text_fr = Wanto fait oh! oh vous me diriez aussi de prendre ma jambe, de la poser sur vous, chérie sur vous tout simplement. //
+# phonetic_text = Wàntò hó dáà ʔɛ́nɛ́ tɛ́-tɔ̰̀ kàá ʔám bá náŋám ʔàm pḭ́ gɔ́nyó nàà gɔ́n wí géè
+# text_fr = Wanto fait oh! oh vous me diriez aussi de prendre ma jambe, de la poser sur vous, chérie sur vous tout simplement.
 1	wàntò	wàntò	PROPN	NPR	_	0	root	_	AlignBegin=216420|AlignEnd=217312|GE=[Wàntò]|nWord=1|RX=[NPR]|Word=Wàntò
 2	hó	hó	INTJ	INTERJ	_	6	vocative	_	AlignBegin=217312|AlignEnd=218205|GE=[oh]|nWord=2|RX=[INTERJ]|Word=hó
 3	dáà	dáà	NOUN	N	_	6	vocative	_	AlignBegin=218205|AlignEnd=218452|GE=[petit_père]|nWord=3|RX=[N]|Word=dáà
@@ -1880,8 +1880,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 221665, 223804
-# phonetic_text = ʔèè ʔám tɛ́-ʔɔ̀ kpáká nù hɔ̰́gɔ̰́ ʔèá ndé //
-# text_fr = est-ce que je vais seulement dormir comme ça à même le sol ? //
+# phonetic_text = ʔèè ʔám tɛ́-ʔɔ̀ kpáká nù hɔ̰́gɔ̰́ ʔèá ndé
+# text_fr = est-ce que je vais seulement dormir comme ça à même le sol ?
 1	ʔèè	ʔèè	CCONJ	COORD	_	4	cc	_	AlignBegin=221665|AlignEnd=221932|GE=[puis]|nWord=1|RX=[COORD]|Word=ʔèè
 2	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=221932|AlignEnd=222199|GE=[1SG]|nWord=2|RX=[PERS]|Word=ʔám
 3	tɛ́-B	-B	AUX	MV	Aspect=Imp|Mood=Irr	4	aux	_	AlignBegin=222199|AlignEnd=222333|GE=[VIRT-INAC]|nWord=3|RX=[MV]|Word=tɛ́-ʔɔ̀
@@ -1897,8 +1897,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 223804, 227434
-# phonetic_text = nɛ̀ kóò yɛ̀ Wàntò ʔówà mɛ̀ pḭ́ náŋmɛ́ gɔ́nám ʔèá ná-ndé //
-# text_fr = en effet la fille dit : Wanto dis-donc mets ta jambe simplement sur moi, dit-elle. //
+# phonetic_text = nɛ̀ kóò yɛ̀ Wàntò ʔówà mɛ̀ pḭ́ náŋmɛ́ gɔ́nám ʔèá ná-ndé
+# text_fr = en effet la fille dit : Wanto dis-donc mets ta jambe simplement sur moi, dit-elle.
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	2	cc	_	AlignBegin=223804|AlignEnd=224189|GE=[et_ainsi]|nWord=1|RX=[COORD]|Word=nɛ̀
 2	kóò	kóò	NOUN	N	_	0	root	_	AlignBegin=224189|AlignEnd=224574|GE=[épouse]|nWord=2|RX=[N]|Word=kóò
 3	yɛ̀	yɛ̀	INTJ	MOD	_	2	discourse	_	AlignBegin=224574|AlignEnd=224959|GE=[en_effet]|nWord=3|RX=[MOD]|Word=yɛ̀
@@ -1921,8 +1921,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 227434, 230052
-# phonetic_text = ʔá̰-nɛ̀ Wàntò ʔɔ́ nùùù //
-# text_fr = et Wanto s'allonge un temps //
+# phonetic_text = ʔá̰-nɛ̀ Wàntò ʔɔ́ nùùù
+# text_fr = et Wanto s'allonge un temps
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=227434|AlignEnd=228088|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀
 2	wàntò	wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=228088|AlignEnd=228742|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=228742|AlignEnd=229069|GE=[INAC]|nWord=3|RX=[MV]|Word=ʔɔ́
@@ -1936,7 +1936,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 230052, 233530
 # phonetic_text = sá hèè ʔó dáà ʔɛ́nɛ́ tɛ̀ɛ́-tɔ̰̀ ʔàm gɔ́m ndàyám hám gɔ́m ndàyám géè wá
-# text_fr = mais dit-il vous me diriez de donner des coups de reins, pour que je donne des coups de reins tout simplement //
+# text_fr = mais dit-il vous me diriez de donner des coups de reins, pour que je donne des coups de reins tout simplement
 1	sá	sá	CCONJ	COORD	_	2	cc	_	AlignBegin=230052|AlignEnd=230300|GE=[mais]|nWord=1|RX=[COORD]|Word=sá
 2	hèè	hèè	PART	INTERJ	_	0	root	_	AlignBegin=230300|AlignEnd=230548|GE=[DISC]|nWord=2|RX=[DISC]|Word=hèè
 3	ʔó	ʔó	DET	MN	Polite=Form	4	det	_	AlignBegin=230548|AlignEnd=230796|GE=[POL]|nWord=3|RX=[MN]|Word=ʔó
@@ -1965,8 +1965,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 233534, 236395
-# phonetic_text = ʔà Wàntò ʔàà Wàntò ká ʔɛ̀nɛ̀ gɔ́m ndàyànɛ́ ʔèá ná-ndé //
-# text_fr = Ah Wanto Non, Wanto donnez simplement des coups de reins, dit-elle //
+# phonetic_text = ʔà Wàntò ʔàà Wàntò ká ʔɛ̀nɛ̀ gɔ́m ndàyànɛ́ ʔèá ná-ndé
+# text_fr = Ah Wanto Non, Wanto donnez simplement des coups de reins, dit-elle
 1	ʔà	ʔà	INTJ	INTERJ	_	9	vocative	_	AlignBegin=233534|AlignEnd=234008|GE=[pour_sûr]|nWord=1|RX=[INTERJ]|Word=ʔà
 2	wàntò	wàntò	PROPN	INTERJ	_	9	vocative	_	AlignBegin=233534|AlignEnd=234008|GE=[wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
 3	ʔàà	ʔàà	INTJ	NPR	_	9	vocative	_	AlignBegin=234008|AlignEnd=234482|GE=[non]|nWord=3|RX=[INTERJ]|Word=ʔàà
@@ -2280,8 +2280,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 270839, 275037
-# phonetic_text = ʔá̰-nɛ̀ Wàntò dùkà zú dùà hɛ̰̀ ɲɔ́ŋ kúà yíítòó ʔá zú màá ʔòé //
-# text_fr = voilà que Wanto ne s'arrête plus avec ce cabri en mange les deux gigots l'un après l'autre aussi //
+# phonetic_text = ʔá̰-nɛ̀ Wàntò dùkà zú dùà hɛ̰̀ ɲɔ́ŋ kúà yíítòó ʔá zú màá ʔòé
+# text_fr = voilà que Wanto ne s'arrête plus avec ce cabri en mange les deux gigots l'un après l'autre aussi
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=270839|AlignEnd=271195|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀
 2	wàntò	wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=271195|AlignEnd=271551|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
 3	BHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=271551|AlignEnd=271670|GE=[ACC]|nWord=3|RX=[MV]|Word=dùkà
@@ -2309,8 +2309,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 275037, 278007
-# phonetic_text = ká kòtó dùà kùrà mbɔ́ɗɔ́-nù //
-# text_fr = alors la peau du cabri se soulève sur le sol [chantant] //
+# phonetic_text = ká kòtó dùà kùrà mbɔ́ɗɔ́-nù
+# text_fr = alors la peau du cabri se soulève sur le sol [chantant]
 1	ká	ká	CCONJ	COORD	_	6	cc	_	AlignBegin=275037|AlignEnd=275631|GE=[alors]|nWord=1|RX=[COORD]|Word=ká
 2	kòtó	kòtó	NOUN	N	_	6	subj	_	AlignBegin=275631|AlignEnd=276225|GE=[peau]|nWord=2|RX=[N]|Word=kòtó
 3	-H	-H	ADP	_	_	2	udep	_	GE=[MT]|nWord=2|RX=[FCT]|Word=kòtó
@@ -2407,7 +2407,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 284335, 292835
 # phonetic_text = Wàntò nɛ̀ɛ̀ ɓásí ʔó zɔ̌m tè ʔó nú gúá ʔàà zúà tàkáɗì zɔ̀m ʔó dítá mɔ̀ ʔá zù ʔó tà ʔá zú kòtó dùà t//àkáɗì
-# text_fr = Wanto va prendre une grande quantité de bois des bois de feu les entasse dessus en vain que de lourdes choses dessus des pierres sont entassées sur la peau en vain //
+# text_fr = Wanto va prendre une grande quantité de bois des bois de feu les entasse dessus en vain que de lourdes choses dessus des pierres sont entassées sur la peau en vain
 1	wàntò	wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=284335|AlignEnd=284643|GE=[Wàntò]|nWord=1|RX=[NPR]|Word=Wàntò
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=284643|AlignEnd=284746|GE=[ACC]|nWord=2|RX=[MV]|Word=nɛ̀ɛ̀
 3	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=284746|AlignEnd=284849|GE=[aller]|nWord=2|RX=[V]|Word=nɛ̀ɛ̀
@@ -2560,8 +2560,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 301048, 302300
-# phonetic_text = yááá //
-# text_fr = le temps passe //
+# phonetic_text = yááá
+# text_fr = le temps passe
 1	zero	zero	X	MV	Aspect=Imp	3	subj	_	AlignBegin=301048|AlignEnd=301465|GE=[ça]|nWord=1|RX=[MV]|Word=yááá
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=301048|AlignEnd=301465|GE=[INAC]|nWord=1|RX=[MV]|Word=yááá
 3	ya	ya	VERB	V	_	0	root	_	AlignBegin=301465|AlignEnd=301882|GE=[demeurer]|nWord=1|RX=[V]|Word=yááá
@@ -2572,8 +2572,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 302300, 306180
-# phonetic_text = Wàntòó zɔ̀k mɔ̀ ná ʔó kóò gbòò ʔé nɛ̀ ʔó kóré gèɗà sɛ̀kɛ̀ɛ̀ //
-# text_fr = Quand Wanto s'aperçoit que les filles arrivent brusquement avec les cossettes de manioc //
+# phonetic_text = Wàntòó zɔ̀k mɔ̀ ná ʔó kóò gbòò ʔé nɛ̀ ʔó kóré gèɗà sɛ̀kɛ̀ɛ̀
+# text_fr = Quand Wanto s'aperçoit que les filles arrivent brusquement avec les cossettes de manioc
 1	wàntò	wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=302300|AlignEnd=302462|GE=[Wàntò]|nWord=1|RX=[NPR]|Word=Wàntòó
 2	-Hv	-Hv	AUX	MV	_	4	aux	_	AlignBegin=302462|AlignEnd=302624|GE=[cond]|nWord=1|RX=[MV]|Word=Wàntòó
 3	B-	B-	AUX	MV	Aspect=Imp|Mood=Cnd	4	aux	_	AlignBegin=302624|AlignEnd=302786|GE=[COND-INAC]|nWord=2|RX=[MV]|Word=zɔ̀k
@@ -2599,8 +2599,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 306180, 308581
-# phonetic_text = wàá Wàntò ʔéí tɔ̰̀ɔ̰̀ hámɛ́ hégè //
-# text_fr = bigre Wanto qu'est-ce qu'on t'avait dit? //
+# phonetic_text = wàá Wàntò ʔéí tɔ̰̀ɔ̰̀ hámɛ́ hégè
+# text_fr = bigre Wanto qu'est-ce qu'on t'avait dit?
 1	wàá	wàá	PRON	PERS	Number=Plur|Person=3|PronType=Prs	5	vocative	_	AlignBegin=306180|AlignEnd=306432|GE=[bah]|nWord=1|RX=[INTJ]|Word=wàá
 2	wàntò	wàntò	PROPN	NPR	_	5	vocative	_	AlignBegin=306685|AlignEnd=307190|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
 3	ʔéí	ʔéí	PRON	PRO	PronType=Ind	5	subj	_	AlignBegin=307190|AlignEnd=307538|GE=[IMPS]|nWord=3|RX=[PRO]|Word=ʔéí
@@ -2769,8 +2769,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 323084, 329672
-# phonetic_text = wà Wàntò dùà hɛ̰̀ ʔéí tɔ̰̀áà ndé ʔéí gbɛ̀ɛ́ dùà héí mɔ́-dɛ̀ nɛ̀ mɔ̀ ʔá tɛ̀mɛ́ wèn ʔóyó nɛ̀ yá hɛ̰̀ wéwéì bé ngbàràyó ná //
-# text_fr = elles disent : Wanto ce cabri on t'a bien dit qu'on l'avait tué pour te faire un rituel parce que nous qui demeurons ici, il n'y a pas d'hommes parmi nous. //
+# phonetic_text = wà Wàntò dùà hɛ̰̀ ʔéí tɔ̰̀áà ndé ʔéí gbɛ̀ɛ́ dùà héí mɔ́-dɛ̀ nɛ̀ mɔ̀ ʔá tɛ̀mɛ́ wèn ʔóyó nɛ̀ yá hɛ̰̀ wéwéì bé ngbàràyó ná
+# text_fr = elles disent : Wanto ce cabri on t'a bien dit qu'on l'avait tué pour te faire un rituel parce que nous qui demeurons ici, il n'y a pas d'hommes parmi nous.
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	0	root	_	AlignBegin=323084|AlignEnd=323658|GE=[3PL]|nWord=1|RX=[PERS]|Word=wà
 2	wàntò	wàntò	PROPN	NPR	_	7	vocative	_	AlignBegin=323658|AlignEnd=324232|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
 3	dùà	dùà	NOUN	N	_	7	comp:obl	_	AlignBegin=324232|AlignEnd=324438|GE=[cabri]|nWord=3|RX=[N]|Word=dùà
@@ -2960,8 +2960,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 345418, 346600
-# phonetic_text = wà yàká mbé fàrà //
-# text_fr = elles sont parties dans un nouvel endroit //
+# phonetic_text = wà yàká mbé fàrà
+# text_fr = elles sont parties dans un nouvel endroit
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	AlignBegin=345418|AlignEnd=345714|GE=[3PL]|nWord=1|RX=[PERS]|Word=wà
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=345714|AlignEnd=345813|GE=[ACC]|nWord=2|RX=[MV]|Word=yàká
 3	yak	yak	VERB	V	_	0	root	_	AlignBegin=345813|AlignEnd=345912|GE=[partir]|nWord=2|RX=[V]|Word=yàká
@@ -2974,14 +2974,14 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 346600, 356278
-# phonetic_text = mɔ́ ndàyá mɔ̀ nɛ̀=mɛ́ nɛ́ hárá kóò ká hèè mɛ́ nɛ́-nɛ̀á nɛ̀ mɛ̀ yák-tɛ́-ɲɔ̀ŋ ɓélá kútùà kó fòrmɛ́ sítí-há̰wà ná
+# phonetic_text = mɔ́ ndàyá mɔ̀ nɛ̀mɛ́ nɛ́ hárá kóò ká hèè mɛ́ nɛ́-nɛ̀á nɛ̀ mɛ̀ yák-tɛ́-ɲɔ̀ŋ ɓélá kútùà kó fòrmɛ́ sítí-há̰wà ná
 # text_fr = la conclusion c'est que quand tu vas épouser une fille on dit que si tu y vas tu ne dois pas manger de la viande dans la maison de tes beaux-parents avant eux [=qu'ils ne t'y autorisent]
 1	mɔ́	mɔ́	ADP	FCT	_	13	mod	_	AlignBegin=346600|AlignEnd=346912|GE=[à_savoir]|nWord=1|RX=[FCT]|Word=mɔ́
 2	ndàyà	ndàyà	NOUN	N	_	1	comp	_	AlignBegin=346912|AlignEnd=347068|GE=[fond]|nWord=2|RX=[N]|Word=ndàyá
 3	-H	-H	ADP	FCT	_	2	udep	_	AlignBegin=347068|AlignEnd=347224|GE=[MT]|nWord=2|RX=[FCT]|Word=ndàyá
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp	_	AlignBegin=347224|AlignEnd=347536|GE=[chose]|nWord=3|RX=[N]|Word=mɔ̀
-5	nɛ̀	nɛ̀	SCONJ	PERS	_	2	mod@relcl	_	AlignBegin=347536|AlignEnd=347848|GE=[REL]|nWord=4|RX=[SUB]|Word=nɛ̀=mɛ́
-6	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	8	subj	_	AlignBegin=347536|AlignEnd=347848|GE=[2SG]|nWord=4|RX=[PERS]|Word=nɛ̀=mɛ́
+5	nɛ̀	nɛ̀	SCONJ	PERS	_	2	mod@relcl	_	AlignBegin=347536|AlignEnd=347848|GE=[REL]|nWord=4|RX=[SUB]|Word=nɛ̀mɛ́
+6	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	8	subj	_	AlignBegin=347536|AlignEnd=347848|GE=[2SG]|nWord=4|RX=[PERS]|Word=nɛ̀mɛ́
 7	H-	H-	AUX	MV	Aspect=Imp	8	aux	_	AlignBegin=347848|AlignEnd=348004|GE=[INAC]|nWord=5|RX=[MV]|Word=nɛ́
 8	nɛ	nɛ	VERB	V	_	5	comp	_	AlignBegin=348004|AlignEnd=348160|GE=[aller]|nWord=5|RX=[V]|Word=nɛ́
 9	Há-	Há-	DET	MN	Aspect=Imp	10	aux	_	AlignBegin=348160|AlignEnd=348316|GE=[INF].[INAC]|nWord=6|RX=[MN]|Word=hárá

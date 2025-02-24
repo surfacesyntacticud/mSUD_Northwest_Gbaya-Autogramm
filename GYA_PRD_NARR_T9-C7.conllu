@@ -7,7 +7,7 @@
 # phonetic_text = ɲínám nɛ́ ʔìvɔ̂n
 # text_fr = Je m'appelle Yvonne
 1	ɲîn	ɲîn	NOUN	N	_	4	subj	_	AlignBegin=790|AlignEnd=936|GE=nom_propre|Gloss=nom_propre|nWord=1|RX=[N]|Word=ɲínám
-2	-H		ADP	_	_	1	udep	_	AlignBegin=936|AlignEnd=1082|GE=[MT]|Gloss=-MT|nWord=1|RX=[FCT]|Word=ɲínám
+2	-H	_	ADP	_	_	1	udep	_	AlignBegin=936|AlignEnd=1082|GE=[MT]|Gloss=-MT|nWord=1|RX=[FCT]|Word=ɲínám
 3	=ám	ʔám	PRON	PR	Number=Sing|Person=1|PronType=Prs	2	comp	_	AlignBegin=1082|AlignEnd=1227|GE=[1SG]|Gloss=-1SG|nWord=1|RX=[PR]|Word=ɲínám
 4	nɛ́	nɛ́	AUX	PRÉD	_	0	root	_	AlignBegin=1227|AlignEnd=1664|GE=[ETRE-ESS]|Gloss=ETRE-ESS|nWord=2|RX=[PRÉD]|Word=nɛ́
 5	ʔìvɔ̂n	ʔìvɔ̂n	PROPN	NPR	_	4	comp:pred	_	AlignBegin=1664|AlignEnd=2100|GE=[Yvonne]|Gloss=Yvonne|nWord=3|RX=[NPR]|Word=ʔìvɔ̂n
@@ -603,7 +603,7 @@
 9	dɛ	dɛ	VERB	V	_	6	conj:coord	_	AlignBegin=82037|AlignEnd=82168|GE=faire|Gloss=faire|nWord=4|RX=[V]|Word=dɛ́
 10	ngàyà	ngàyà	NOUN	N	_	9	comp:obj	_	AlignBegin=82168|AlignEnd=82255|GE=joie|Gloss=joie|nWord=5|RX=[N]|Word=ngàyáà
 11	-H	-H	X	FCT	_	10	aff	_	AlignBegin=82255|AlignEnd=82342|GE=[D]|Gloss=-D|nWord=5|RX=[FCT]|Word=ngàyáà
-12	-à		DET	MN	_	10	det	_	AlignBegin=82342|AlignEnd=82430|GE=[DEF]|Gloss=-DEF|nWord=5|RX=[MN]|Word=ngàyáà
+12	-à	_	DET	MN	_	10	det	_	AlignBegin=82342|AlignEnd=82430|GE=[DEF]|Gloss=-DEF|nWord=5|RX=[MN]|Word=ngàyáà
 13	H-	H-	AUX	MV	Aspect=Imp	14	aux	_	AlignBegin=82430|AlignEnd=82561|GE=[INAC]|Gloss=INAC-|nWord=6|RX=[MV]|Word=dɛ́
 14	dɛ	dɛ	VERB	V	_	9	conj:redup	_	AlignBegin=82561|AlignEnd=82692|GE=faire|Gloss=faire|nWord=6|RX=[V]|Word=dɛ́
 15	ngàyà	ngàyà	NOUN	N	_	14	comp:obj	_	AlignBegin=82692|AlignEnd=82779|GE=joie|Gloss=joie|nWord=7|RX=[N]|Word=ngàyáà
@@ -818,7 +818,7 @@
 # phonetic_text = ʔèé [mà kpɔ́kɔ́ɗí] ʔèè mà yíítòó fé kéí
 # text_fr = [et un seul] Deux d'entre eux, quant à eux, meurent
 1	ʔèè	ʔèè	CCONJ	COORD	_	9	cc	_	AlignBegin=103345|AlignEnd=103541|GE=puis|Gloss=puis|nWord=1|RX=[COORD]|Word=ʔèé
-2	-H		X	FCT	_	1	aff	_	AlignBegin=103541|AlignEnd=103737|GE=[MT]|Gloss=-MT|nWord=1|RX=[FCT]|Word=ʔèé
+2	-H	_	X	FCT	_	1	aff	_	AlignBegin=103541|AlignEnd=103737|GE=[MT]|Gloss=-MT|nWord=1|RX=[FCT]|Word=ʔèé
 3	mà	mà	PRON	PRO	_	9	subj	_	AlignBegin=103737|AlignEnd=104129|GE=[PRO-INDF]|Gloss=PRO-INDF|nWord=2|RX=[PRO]|Word=[mà
 4	kpɔ́kɔ́ɗí	kpɔ́kɔ́ɗí	ADV	NUM	_	3	mod	_	AlignBegin=104129|AlignEnd=104520|GE=un_seul|Gloss=un_seul|nWord=3|RX=[NUM]|Word=kpɔ́kɔ́ɗí]
 5	ʔèè	ʔèè	CCONJ	COORD	_	1	conj:dicto	_	AlignBegin=104530|AlignEnd=104792|GE=puis|Gloss=puis|nWord=4|RX=[COORD]|Word=ʔèè
@@ -1242,7 +1242,7 @@
 # phonetic_text = ʔà̰ kɔ́k kàà túí
 # text_fr = Elle noue donc son pagne.
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=155270|AlignEnd=155575|GE=[3SG]|Gloss=3SG|nWord=1|RX=[PR]|Word=ʔà̰
-2	H-		AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=155575|AlignEnd=155727|GE=[INAC]|Gloss=INAC-|nWord=2|RX=[MV]|Word=kɔ́k
+2	H-	_	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=155575|AlignEnd=155727|GE=[INAC]|Gloss=INAC-|nWord=2|RX=[MV]|Word=kɔ́k
 3	kɔk	kɔk	VERB	V	_	0	root	_	AlignBegin=155727|AlignEnd=155880|GE=ligoter|Gloss=ligoter|nWord=2|RX=[V]|Word=kɔ́k
 4	kàá	kàá	PART	MV	_	3	mod	_	AlignBegin=155880|AlignEnd=156032|GE=[REP-ADD]|Gloss=REP-ADD|nWord=3|RX=[MV]|Word=kàà
 5	-H	-H	X	FCT	_	4	aff	_	AlignBegin=156032|AlignEnd=156185|GE=[MT]|Gloss=-D|nWord=3|RX=[FCT]|Word=kàà

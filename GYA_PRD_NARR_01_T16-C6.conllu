@@ -1566,7 +1566,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 181080, 185180
 # phonetic_text = dáà ʔɛ̀nɛ̀ há̰ bé dɔ̀nɔ̀ hám
-# text_fr = Père! donnez moi le petit marteau de forge // que j'affute avec la lame de mon couteau ici
+# text_fr = Père! donnez moi le petit marteau de forge
 1	dáà	dáà	NOUN	N	_	5	vocative	_	AlignBegin=181548|AlignEnd=181665|GE=[petit_père]|nWord=5|RX=[N]|Word=dáà
 2	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2|Polite=Form|PronType=Prs	5	subj	_	AlignBegin=181665|AlignEnd=181723|GE=[2POL]|nWord=6|RX=[PERS]|Word=ʔɛ̀nɛ̀
 3	-B	-B	AUX	MV	Mood=Jus	5	aux	_	AlignBegin=181723|AlignEnd=181782|GE=[INJ]|nWord=6|RX=[MV]|Word=ʔɛ̀nɛ̀
@@ -1583,7 +1583,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 181080, 185180
 # phonetic_text = ʔám dɛ́ nɛ̀ nú pàyà kɔ́mmɛ̀
-# text_fr = Père! donnez moi le petit marteau de forge // que j'affute avec la lame de mon couteau ici
+# text_fr = que j'affute avec la lame de mon couteau ici
 1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=183959|AlignEnd=184163|GE=[1SG]|nWord=17|RX=[PERS]|Word=ʔám
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=184163|AlignEnd=184265|GE=[INAC]|nWord=18|RX=[MV]|Word=dɛ́
 3	dɛ	dɛ	VERB	V	_	0	root	_	AlignBegin=184265|AlignEnd=184367|GE=[faire]|nWord=18|RX=[V]|Word=dɛ́

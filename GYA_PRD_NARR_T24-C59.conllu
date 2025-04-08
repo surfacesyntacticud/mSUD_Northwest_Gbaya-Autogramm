@@ -455,7 +455,7 @@
 # phonetic_text = ʔàm kpáwà
 # text_fr = et donc je les ai rencontrées
 1	ʔàm	ʔàm	PRON	PERS	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=54796|AlignEnd=54917|GE=[1SG]|nWord=6|RX=[PERS]|Word=ʔàm
-2	-B	-B	X	FCT	_	4	cc	_	AlignBegin=54917|AlignEnd=55037|GE=[et_donc]|nWord=6|RX=[COORD]|Word=ʔàm
+2	-B	-B	CCONJ	FCT	_	4	cc	_	AlignBegin=54917|AlignEnd=55037|GE=[et_donc]|nWord=6|RX=[COORD]|Word=ʔàm
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=55761|AlignEnd=55851|GE=[INAC]|nWord=9|RX=[MV]|Word=kpáwà
 4	kpa	kpa	VERB	V	_	0	root	_	AlignBegin=55851|AlignEnd=55941|GE=[trouver]|nWord=9|RX=[V]|Word=kpáwà
 5	=wà	wà	PART	PERS	Number=Plur|Person=3|PronType=Prs	4	comp	_	AlignBegin=56031|AlignEnd=56120|GE=[3PL]|nWord=9|RX=[PERS]|Word=kpáwà
@@ -994,7 +994,7 @@
 8	-RDPP	-RDPP	DET	MOD	_	7	det	_	AlignBegin=117279|AlignEnd=117512|GE=[RDPP]|nWord=9|RX=[MOD]|Word=sɛ́l_sɛ́l_sɛ́l_sɛ́l_sɛ́l
 
 # sent_id = GYA_PRD_NARR_T24-C59_049-049
-# text = ʔá̰-nɛ̀ Wàntò BBHa- ɓa -H fùù sínɛ́ -VV
+# text = ʔá̰-nɛ̀ Wàntò BHa- ɓa -H fùù sínɛ́ -VV
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 117512, 122729
@@ -1002,7 +1002,7 @@
 # text_fr = voilà que Wanto la suit la trace de la farine
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=117512|AlignEnd=117851|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀
 2	Wàntò	Wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=117851|AlignEnd=118190|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
-3	BBHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=118190|AlignEnd=118303|GE=[ACC]|nWord=3|RX=[MV]|Word=ɓàá
+3	BHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=118190|AlignEnd=118303|GE=[ACC]|nWord=3|RX=[MV]|Word=ɓàá
 4	ɓa	ɓa	VERB	V	_	0	root	_	AlignBegin=118303|AlignEnd=118416|GE=[suivre]|nWord=3|RX=[V]|Word=ɓàá
 5	-H	-H	X	FCT	_	4	aff	_	AlignBegin=118416|AlignEnd=118529|GE=[MT]|nWord=3|RX=[FCT]|Word=ɓàá
 6	fùù	fùù	NOUN	N	_	4	comp:obj	_	AlignBegin=118529|AlignEnd=118868|GE=[farine]|nWord=4|RX=[N]|Word=fùù

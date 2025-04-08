@@ -513,7 +513,7 @@
 6	pei	pei	VERB	V	_	3	conj:coord	_	AlignBegin=60846|AlignEnd=60979|GE=[revenir]|nWord=7|RX=[V]|Word=péí
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_035-035
-# text = dáà kɔ́ bêm ná ʔéí BHa- nɛ -H Háà- kpe -H yì
+# text = dáà kɔ́ bêm ná ʔéí BHa- nɛ -H Háá- kpe yì
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 59184, 66907
@@ -527,10 +527,9 @@
 6	BHa-	BHa-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=62238|AlignEnd=62304|GE=[ACC]|nWord=13|RX=[MV]|Word=nɛ̀ɛ̀
 7	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=62304|AlignEnd=62370|GE=[aller]|nWord=13|RX=[V]|Word=nɛ̀ɛ̀
 8	-H	-H	X	MOD	_	7	aff	_	AlignBegin=62370|AlignEnd=62437|GE=[MT]|nWord=13|RX=[MOD]|Word=nɛ̀ɛ̀
-9	Háà-	Háà-	AUX	MV	Aspect=Imp	10	aux	_	AlignBegin=62437|AlignEnd=62503|GE=[INF].[INAC]|nWord=14|RX=[MV]|Word=kpéé
+9	Háá-	Háá-	AUX	MV	Aspect=Imp	10	aux	_	AlignBegin=62437|AlignEnd=62503|GE=[INF].[INAC]|nWord=14|RX=[MV]|Word=kpéé
 10	kpe	kpe	VERB	V	_	7	compound:svc	_	AlignBegin=62503|AlignEnd=62569|GE=[fermer]|nWord=14|RX=[V]|Word=kpéé
-11	-H	-H	X	MOD	_	10	aff	_	AlignBegin=62569|AlignEnd=62636|GE=[MT]|nWord=14|RX=[MOD]|Word=kpéé
-12	yì	yì	NOUN	N	_	10	comp:obj	_	AlignBegin=62636|AlignEnd=62834|GE=[rivière]|nWord=15|RX=[N]|Word=yì
+11	yì	yì	NOUN	N	_	10	comp:obj	_	AlignBegin=62636|AlignEnd=62834|GE=[rivière]|nWord=15|RX=[N]|Word=yì
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_036-036
 # text = ʔá̰-nɛ̀ gbàzù BHa- gbin -H nɛ̀ ʔò bêm

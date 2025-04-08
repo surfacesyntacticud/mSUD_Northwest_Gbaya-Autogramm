@@ -444,7 +444,7 @@
 1	nɛ̀	nɛ̀	CCONJ	SUB.REL	PronType=Rel	5	cc	_	AlignBegin=54675|AlignEnd=54796|GE=[et_ainsi]|nWord=6|RX=[COORD]|Word=nɛ̀m
 2	=m	=m	PRON	PERS	Number=Sing|Person=1|PronType=Prs	5	subj	_	AlignBegin=54796|AlignEnd=54917|GE=[1SG]|nWord=6|RX=[PERS]|Word=nɛ̀m
 3	-H	-H	PRON	PERS	Number=Sing|Person=1|PronType=Prs	2	aff	_	AlignBegin=54796|AlignEnd=54917|GE=[MT]|nWord=6|RX=[MOD]|Word=nɛ̀m
-4	H-	H-	AUX	PERS	Aspect=Imp|Number=Sing|Person=1|PronType=Prs	5	aux	_	AlignBegin=54796|AlignEnd=54917|GE=[INAC|nWord=7|RX=[MV]|Word=tɛ́
+4	H-	H-	AUX	PERS	Aspect=Imp|Number=Sing|Person=1|PronType=Prs	5	aux	_	AlignBegin=54796|AlignEnd=54917|GE=[INAC]|nWord=7|RX=[MV]|Word=tɛ́
 5	tɛ	tɛ	VERB	PERS	_	0	root	_	AlignBegin=54796|AlignEnd=54917|GE=[venir]|nWord=7|RX=[V]|Word=tɛ́
 
 # sent_id = GYA_PRD_NARR_T24-C59_021-021d

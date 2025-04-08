@@ -373,7 +373,7 @@
 5	ʔɛ́r	ʔɛ́r	NOUN	N	_	4	comp:obj	_	AlignBegin=43935|AlignEnd=43996|GE=[main]|nWord=3|RX=[N]|Word=ʔɛ́ráà
 6	-H	-H	ADP	FCT	_	5	udep	_	AlignBegin=43996|AlignEnd=44057|GE=[MT]|nWord=3|RX=[FCT]|Word=ʔɛ́ráà
 7	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	6	comp	_	AlignBegin=44057|AlignEnd=44119|GE=[3SG]|nWord=3|RX=[PERS]|Word=ʔɛ́ráà
-8	kɔ̀	kɔ̀	ADP	_	_	4	comp:obl	_	AlignBegin=44119|AlignEnd=44303|GE=[à_l'intérieur|nWord=4|RX=FCT|Word=kɔ̀
+8	kɔ̀	kɔ̀	ADP	_	_	4	comp:obl	_	AlignBegin=44119|AlignEnd=44303|GE=[à_l'intérieur]|nWord=4|RX=FCT|Word=kɔ̀
 9	gúé	gúé	NOUN	N	_	8	comp	_	AlignBegin=44303|AlignEnd=44487|GE=[trou_à_poissons]|nWord=5|RX=[N]|Word=gúé
 10	ká	ká	CCONJ	COORD	_	14	cc	_	AlignBegin=44487|AlignEnd=44671|GE=[alors]|nWord=6|RX=[COORD]|Word=ká
 11	gúé	gúé	NOUN	N	_	14	subj	_	AlignBegin=44671|AlignEnd=44854|GE=[trou_à_poissons]|nWord=7|RX=[N]|Word=gúé
@@ -2227,7 +2227,7 @@
 6	kɔ́	kɔ́	ADP	FCT	_	5	udep	_	AlignBegin=289151|AlignEnd=289266|GE=[de]|nWord=5|RX=[FCT]|Word=kɔ̰́à̰
 7	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	6	comp	_	AlignBegin=289266|AlignEnd=289381|GE=[3SG]|nWord=5|RX=[PERS]|Word=kɔ̰́à̰
 8	ʔèá	ʔèá	ADV	ADV	_	3	mod	_	AlignBegin=289381|AlignEnd=289613|GE=[seulement]|nWord=6|RX=[ADV]|Word=ʔèá
-9	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	ADV	_	_	3	conj:coord	_	AlignBegin=289613|AlignEnd=290617|GE=[longtemps|nWord=7|Word=hɔ̰́gɔ̰́ɔ̰́ɔ̰́
+9	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	ADV	_	_	3	conj:coord	_	AlignBegin=289613|AlignEnd=290617|GE=[longtemps]|nWord=7|Word=hɔ̰́gɔ̰́ɔ̰́ɔ̰́
 10	H-	H-	AUX	MV	Aspect=Imp	11	aux	_	AlignBegin=290617|AlignEnd=290755|GE=[INAC]|nWord=8|RX=[MV]|Word=yɔ́
 11	yɔ	yɔ	VERB	V	_	3	conj:coord	_	AlignBegin=290755|AlignEnd=290894|GE=[danser]|nWord=8|RX=[V]|Word=yɔ́
 12	nɛ̀	nɛ̀	PART	MV	_	11	mod	_	AlignBegin=290894|AlignEnd=291171|GE=[CIRC]|nWord=9|RX=[MV]|Word=nɛ̀

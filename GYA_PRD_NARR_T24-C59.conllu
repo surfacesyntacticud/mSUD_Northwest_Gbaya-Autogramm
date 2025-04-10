@@ -172,7 +172,7 @@
 4	kùrá	kur	VERB	V	_	0	root	_	AlignBegin=27989|AlignEnd=28283|GE=[se_lever]|nWord=3|RX=[V]|Word=kùrá
 
 # sent_id = GYA_PRD_NARR_T24-C59_010-010a
-# text = kpɔ́lɔ́k bé pɛ̀ɲá Wàntò H- ndak H- ndak mɔ́-B ba ba -Ha ndé
+# text = kpɔ́lɔ́k bé pɛ̀ɲá Wàntò H- ndak H- ndak mɔ́-B ba Háà- ba ndé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 28283, 31726
@@ -188,9 +188,9 @@
 8	ndak	ndak	VERB	V	_	6	conj:redup	_	AlignBegin=30004|AlignEnd=30161|GE=[pourchasser]|nWord=6|RX=[V]|Word=ndák
 9	mɔ́-B	mɔ́-B	AUX	MV	Mood=Irr|VerbForm=Inf	10	aux	_	AlignBegin=30161|AlignEnd=30317|GE=[INF-VIRTUEL]|nWord=7|RX=[MV]|Word=mɔ́-bà
 10	ba	ba	VERB	V	_	8	compound:svc	_	AlignBegin=30317|AlignEnd=30474|GE=[prendre]|nWord=7|RX=[V]|Word=mɔ́-bà
-11	ba	ba	VERB	V	_	10	mod	_	AlignBegin=30630|AlignEnd=30787|GE=[prendre]|nWord=8|RX=[V]|Word=báà
-12	-Ha	-Ha	AUX	MN	_	11	aux	_	AlignBegin=30474|AlignEnd=30630|GE=[MIR]|nWord=8|RX=[MN]|Word=báà
-13	ndé	ndé	INTJ	INTERJ	_	8	discourse	_	AlignBegin=30787|AlignEnd=31100|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
+11	Háà-	Háà-	AUX	MN	_	12	aux	_	AlignBegin=30474|AlignEnd=30630|GE=[MIR]|nWord=8|RX=[MV]|Word=báà
+12	ba	ba	VERB	V	_	10	mod	_	AlignBegin=30630|AlignEnd=30787|GE=[prendre]|nWord=8|RX=[V]|Word=báà
+13	ndé	ndé	PART	INTERJ	_	8	discourse	_	AlignBegin=30787|AlignEnd=31100|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_010-010b
 # text = Wàntò H- ndak
@@ -222,7 +222,7 @@
 10	ba	ba	VERB	V	_	8	compound:svc	_	AlignBegin=33637|AlignEnd=33784|GE=[prendre]|nWord=7|RX=[V]|Word=mɔ́-bà
 11	ba	ba	VERB	V	_	10	mod	_	AlignBegin=33931|AlignEnd=34078|GE=[prendre]|nWord=8|RX=[V]|Word=báà
 12	-Ha	-Ha	AUX	MN	_	11	aux	_	AlignBegin=33784|AlignEnd=33931|GE=[MIR]|nWord=8|RX=[MN]|Word=báà
-13	ndé	ndé	INTJ	INTERJ	_	8	discourse	_	AlignBegin=34078|AlignEnd=34372|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
+13	ndé	ndé	PART	INTERJ	_	8	discourse	_	AlignBegin=34078|AlignEnd=34372|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_011-011b
 # text = Wàntò H- ndak
@@ -254,7 +254,7 @@
 10	ba	ba	VERB	V	_	8	compound:svc	_	AlignBegin=36833|AlignEnd=36978|GE=[prendre]|nWord=7|RX=[V]|Word=mɔ́-bà
 11	ba	ba	VERB	V	_	10	mod	_	AlignBegin=37122|AlignEnd=37267|GE=[prendre]|nWord=8|RX=[V]|Word=báà
 12	-Ha	-Ha	AUX	MN	_	11	aux	_	AlignBegin=36978|AlignEnd=37122|GE=[MIR]|nWord=8|RX=[MN]|Word=báà
-13	ndé	ndé	INTJ	INTERJ	_	8	discourse	_	AlignBegin=37267|AlignEnd=37556|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
+13	ndé	ndé	PART	INTERJ	_	8	discourse	_	AlignBegin=37267|AlignEnd=37556|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_012-012b
 # text = Wàntò H- ndak
@@ -286,7 +286,7 @@
 10	ba	ba	VERB	V	_	8	compound:svc	_	AlignBegin=40030|AlignEnd=40176|GE=[prendre]|nWord=7|RX=[V]|Word=mɔ́-bà
 11	ba	ba	VERB	V	_	10	mod	_	AlignBegin=40322|AlignEnd=40468|GE=[prendre]|nWord=8|RX=[V]|Word=báà
 12	-Ha	-Ha	AUX	MN	_	11	aux	_	AlignBegin=40176|AlignEnd=40322|GE=[MIR]|nWord=8|RX=[MN]|Word=báà
-13	ndé	ndé	INTJ	INTERJ	_	8	discourse	_	AlignBegin=40468|AlignEnd=40760|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
+13	ndé	ndé	PART	INTERJ	_	8	discourse	_	AlignBegin=40468|AlignEnd=40760|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_013-013b
 # text = Wàntò H- ndak
@@ -354,7 +354,7 @@
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=46109|AlignEnd=46299|GE=[INAC]|nWord=2|RX=[MV]|Word=péí
 3	pei	pei	VERB	V	_	0	root	_	AlignBegin=46299|AlignEnd=46489|GE=[revenir]|nWord=2|RX=[V]|Word=péí
 4	ɗòŋ	ɗòŋ	ADV	ADV	_	3	mod	_	AlignBegin=46489|AlignEnd=46869|GE=[en_arrière]|nWord=3|RX=[ADV]|Word=ɗòŋ
-5	wó	wó	INTJ	MOD	_	3	discourse	_	AlignBegin=46869|AlignEnd=47249|GE=[vraiment]|nWord=4|RX=[MOD]|Word=wó
+5	wó	wó	PART	MOD	_	3	discourse	_	AlignBegin=46869|AlignEnd=47249|GE=[vraiment]|nWord=4|RX=[MOD]|Word=wó
 
 # sent_id = GYA_PRD_NARR_T24-C59_017-017
 # text = ká ʔó bókóbêm ʔá̰-nɛ̀ H- be ná -T.inverse
@@ -469,7 +469,7 @@
 # text_fr = Et ses amis lui répondent : Wanto quand tu t'en retourneras prends un peu de farine
 1	sá	sá	CCONJ	COORD	_	3	cc	_	AlignBegin=56120|AlignEnd=56542|GE=[mais]|nWord=1|RX=[COORD]|Word=sá
 2	ʔó	ʔó	DET	MN	Number=Plur	3	det	_	AlignBegin=56542|AlignEnd=56964|GE=[PL]|nWord=2|RX=[MN]|Word=ʔó
-3	dàn	dàn	NOUN	N	_	0	root	_	AlignBegin=56964|AlignEnd=57386|GE=[ami]|nWord=3|RX=[N]|Word=dàn
+3	dàn	dàn	NOUN	N	_	13	parataxis:quoter	_	AlignBegin=56964|AlignEnd=57386|GE=[ami]|nWord=3|RX=[N]|Word=dàn
 4	kɔ́	kɔ́	ADP	FCT	_	3	udep	_	AlignBegin=57386|AlignEnd=57597|GE=[de]|nWord=4|RX=[FCT]|Word=kɔ̰́à̰
 5	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	4	comp	_	AlignBegin=57597|AlignEnd=57808|GE=[3SG]|nWord=4|RX=[PERS]|Word=kɔ̰́à̰
 6	Wàntò	Wàntò	PROPN	NPR	_	9	vocative	_	AlignBegin=57808|AlignEnd=58230|GE=[Wanto]|nWord=5|RX=[NPR]|Word=Wàntò
@@ -479,7 +479,7 @@
 10	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	13	subj	_	AlignBegin=59914|AlignEnd=60117|GE=[2SG]|nWord=8|RX=[PERS]|Word=mɛ̀
 11	-B	-B	AUX	MV	Mood=Jus	13	aux	_	AlignBegin=60117|AlignEnd=60320|GE=[INJ]|nWord=8|RX=[MV]|Word=mɛ̀
 12	H-	H-	AUX	MV	Aspect=Imp|Mood=Jus	13	aux	_	AlignBegin=60320|AlignEnd=60523|GE=[INJ].[INAC]|nWord=9|RX=[MV]|Word=káí
-13	kai	kai	VERB	V	_	3	parataxis:quoter	_	AlignBegin=60523|AlignEnd=60726|GE=[ramasser]|nWord=9|Reported=Yes|RX=[V]|Word=káí
+13	kai	kai	VERB	V	_	0	root	_	AlignBegin=60523|AlignEnd=60726|GE=[ramasser]|nWord=9|Reported=Yes|RX=[V]|Word=káí
 14	bé	bé	ADJ	N	_	15	mod	_	AlignBegin=60726|AlignEnd=61132|GE=[petit]|nWord=10|RX=[N]|Word=bé
 15	fùù	fùù	NOUN	N	_	13	comp:obj	_	AlignBegin=61132|AlignEnd=61538|GE=[farine]|nWord=11|RX=[N]|Word=fùù
 
@@ -574,11 +574,11 @@
 # phonetic_text = kɔ́mɛ́ mɛ̀ ʔé hám zɔ́k zɛ́mɛ́ dòè nɛ̀ dɛ́-mɛ́-ɲɔ̀ŋ ɲɔ̀ŋ gùn gótónɛ́ìí
 # text_fr = alors tu dis : laisse moi voir les soldats de termites qui sont sur le point de te mordre [mordre] le bas de vos dos
 1	ká	ká	CCONJ	COORD	_	2	cc	_	AlignBegin=69880|AlignEnd=70019|GE=[alors]|nWord=1|RX=[COORD]|Word=kɔ́mɛ́
-2	=mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	0	root	_	AlignBegin=70019|AlignEnd=70158|GE=[2SG]|nWord=1|RX=[PERS]|Word=kɔ́mɛ́
+2	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	6	parataxis:quoter	_	AlignBegin=70019|AlignEnd=70158|GE=[2SG]|nWord=1|RX=[PERS]|Word=kɔ́mɛ́
 3	mɛ́	mɛ́	PRON	PP	Number=Sing|Person=2	6	subj	_	AlignBegin=70158|AlignEnd=70297|GE=[2SG]|nWord=2|RX=[PP]|Word=mɛ̀
 4	-B	-B	AUX	MV	Mood=Jus	6	aux	_	AlignBegin=70297|AlignEnd=70436|GE=[INJ]|nWord=2|RX=[MV]|Word=mɛ̀
 5	H-	H-	AUX	MV	Aspect=Imp|Mood=Jus	6	aux	_	AlignBegin=70436|AlignEnd=70575|GE=[INJ].[INAC]|nWord=3|RX=[MV]|Word=ʔé
-6	ʔe	ʔe	VERB	V	_	2	parataxis:quoter	_	AlignBegin=70575|AlignEnd=70714|GE=[laisser]|nWord=3|Reported=Yes|RX=[V]|Word=ʔé
+6	ʔe	ʔe	VERB	V	_	0	root	_	AlignBegin=70575|AlignEnd=70714|GE=[laisser]|nWord=3|Reported=Yes|RX=[V]|Word=ʔé
 7	há̰	há̰	SCONJ	SUB	_	6	mod	_	AlignBegin=70714|AlignEnd=70853|GE=[pour_que]|nWord=4|RX=[SUB]|Word=hám
 8	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	10	subj	_	AlignBegin=70853|AlignEnd=70992|GE=[1SG]|nWord=4|RX=[PERS]|Word=hám
 9	H-	H-	AUX	MV	Aspect=Imp	10	aux	_	AlignBegin=70992|AlignEnd=71132|GE=[INAC]|nWord=5|RX=[MV]|Word=zɔ́k
@@ -611,7 +611,7 @@
 5	H-	H-	AUX	MV	Aspect=Imp|Mood=Jus	6	aux	_	AlignBegin=74915|AlignEnd=75053|GE=[INJ-INAC]|nWord=3|RX=[MV]|Word=ɓám
 6	ɓam	ɓam	VERB	V	_	0	root	_	AlignBegin=75053|AlignEnd=75191|GE=[coincer]|nWord=3|RX=[V]|Word=ɓám
 7	sɛ̀nɛ́	sɛ̀nɛ́	PART	MV	_	6	mod	_	AlignBegin=75191|AlignEnd=75467|GE=[dedans]|nWord=4|RX=[MV]|Word=sɛ̀nɛ́
-8	yè	yè	INTJ	MOD	_	6	discourse	_	AlignBegin=75467|AlignEnd=75745|GE=[finalement]|nWord=5|RX=[MOD]|Word=yè
+8	yè	yè	PART	MOD	_	6	discourse	_	AlignBegin=75467|AlignEnd=75745|GE=[finalement]|nWord=5|RX=[MOD]|Word=yè
 
 # sent_id = GYA_PRD_NARR_T24-C59_033-033
 # text = ʔá̰-nɛ̀ mɔ̀ BHa- ɓar
@@ -772,7 +772,7 @@
 5	=à̰	ʔà̰	PRON	PP	Number=Sing|Person=3	4	comp:obj	_	AlignBegin=91876|AlignEnd=91988|GE=[3SG]|nWord=12|RX=[PP]|Word=báà
 6	há̰	há̰	ADP	FCT	_	4	comp:obl	_	AlignBegin=91988|AlignEnd=92157|GE=[pour]|nWord=13|RX=[FCT]|Word=hɛ́ɛ́
 7	=ɛ́ɛ́	ʔɛ́ɛ́	PRON	PERS	Number=Plur|Person=1|PronType=Prs	6	comp	_	AlignBegin=92157|AlignEnd=92326|GE=[1PL]|nWord=13|RX=[PERS]|Word=hɛ́ɛ́
-8	wá	wá	INTJ	MOD	_	4	discourse	_	AlignBegin=92326|AlignEnd=92670|GE=[hélas]|nWord=14|RX=[MOD]|Word=wá
+8	wá	wá	PART	MOD	_	4	discourse	_	AlignBegin=92326|AlignEnd=92670|GE=[hélas]|nWord=14|RX=[MOD]|Word=wá
 
 # sent_id = GYA_PRD_NARR_T24-C59_040-040
 # text = ʔá̰-nɛ̀ wàntò H- ʔe tɛ̀ sɛ̀nɛ́
@@ -807,7 +807,7 @@
 10	ba	ba	VERB	V	_	8	compound:svc	_	AlignBegin=96562|AlignEnd=96717|GE=[prendre]|nWord=7|RX=[V]|Word=mɔ́-bà
 11	ba	ba	VERB	V	_	10	mod	_	AlignBegin=96873|AlignEnd=97028|GE=[prendre]|nWord=8|RX=[V]|Word=báà
 12	-Ha	-Ha	AUX	MN	_	11	aux	_	AlignBegin=96717|AlignEnd=96873|GE=[MIR]|nWord=8|RX=[MN]|Word=báà
-13	ndé	ndé	INTJ	INTERJ	_	8	discourse	_	AlignBegin=97028|AlignEnd=97339|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
+13	ndé	ndé	PART	INTERJ	_	8	discourse	_	AlignBegin=97028|AlignEnd=97339|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_041-041b
 # text = Wàntò H- ndak
@@ -839,7 +839,7 @@
 10	ba	ba	VERB	V	_	8	compound:svc	_	AlignBegin=99821|AlignEnd=99964|GE=[prendre]|nWord=7|RX=[V]|Word=mɔ́-bà
 11	ba	ba	VERB	V	_	10	mod	_	AlignBegin=100107|AlignEnd=100250|GE=[prendre]|nWord=8|RX=[V]|Word=báà
 12	-Ha	-Ha	AUX	MN	_	11	aux	_	AlignBegin=99964|AlignEnd=100107|GE=[MIR]|nWord=8|RX=[MN]|Word=báà
-13	ndé	ndé	INTJ	INTERJ	_	8	discourse	_	AlignBegin=100250|AlignEnd=100536|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
+13	ndé	ndé	PART	INTERJ	_	8	discourse	_	AlignBegin=100250|AlignEnd=100536|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_042-042b
 # text = Wàntò H- ndak
@@ -871,7 +871,7 @@
 10	ba	ba	VERB	V	_	8	compound:svc	_	AlignBegin=102966|AlignEnd=103109|GE=[prendre]|nWord=7|RX=[V]|Word=mɔ́-bà
 11	ba	ba	VERB	V	_	10	mod	_	AlignBegin=103252|AlignEnd=103395|GE=[prendre]|nWord=8|RX=[V]|Word=báà
 12	-Ha	-Ha	AUX	MN	_	11	aux	_	AlignBegin=103109|AlignEnd=103252|GE=[MIR]|nWord=8|RX=[MN]|Word=báà
-13	ndé	ndé	INTJ	INTERJ	_	8	discourse	_	AlignBegin=103395|AlignEnd=103681|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
+13	ndé	ndé	PART	INTERJ	_	8	discourse	_	AlignBegin=103395|AlignEnd=103681|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_043-043b
 # text = Wàntò H- ndak
@@ -903,7 +903,7 @@
 10	ba	ba	VERB	V	_	8	compound:svc	_	AlignBegin=106124|AlignEnd=106268|GE=[prendre]|nWord=7|RX=[V]|Word=mɔ́-bà
 11	ba	ba	VERB	V	_	10	mod	_	AlignBegin=106412|AlignEnd=106556|GE=[prendre]|nWord=8|RX=[V]|Word=báà
 12	-Ha	-Ha	AUX	MN	_	11	aux	_	AlignBegin=106268|AlignEnd=106412|GE=[MIR]|nWord=8|RX=[MN]|Word=báà
-13	ndé	ndé	INTJ	INTERJ	_	8	discourse	_	AlignBegin=106556|AlignEnd=106844|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
+13	ndé	ndé	PART	INTERJ	_	8	discourse	_	AlignBegin=106556|AlignEnd=106844|GE=[DISC]|nWord=9|RX=[DISC]|Word=ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_044-044b
 # speaker_id = SP
@@ -923,7 +923,7 @@
 # sent_timecode = 107418, 110075
 # phonetic_text = wàá bé pɛ̀ɲá sìì yɔ́ yɔ́ kàyá kɔ́ Wàntò
 # text_fr = Bah le petit animal part et égare Wanto
-1	wàá	wàá	INTJ	INTERJ	_	5	vocative	_	AlignBegin=107418|AlignEnd=107713|GE=[bah]|nWord=1|RX=[INTERJ]|Word=wàá
+1	wàá	wàá	INTJ	INTERJ	_	5	discourse	_	AlignBegin=107418|AlignEnd=107713|GE=[bah]|nWord=1|RX=[INTERJ]|Word=wàá
 2	bé	bé	ADJ	N	_	3	mod	_	AlignBegin=107713|AlignEnd=108008|GE=[petit]|nWord=2|RX=[N]|Word=bé
 3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	5	subj	_	AlignBegin=108008|AlignEnd=108303|GE=[cobe_de_ɓuffon]|nWord=3|RX=[N]|Word=pɛ̀ɲá
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=108303|AlignEnd=108401|GE=[ACC]|nWord=4|RX=[MV]|Word=sìì
@@ -949,7 +949,7 @@
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=110805|AlignEnd=110987|GE=[INAC]|nWord=3|RX=[MV]|Word=péí
 4	pei	pei	VERB	V	_	0	root	_	AlignBegin=110987|AlignEnd=111170|GE=[revenir]|nWord=3|RX=[V]|Word=péí
 5	ɗòŋ	ɗòŋ	ADV	ADV	_	4	mod	_	AlignBegin=111170|AlignEnd=111535|GE=[en_arrière]|nWord=4|RX=[ADV]|Word=ɗòŋ
-6	wó	wó	INTJ	MOD	_	4	discourse	_	AlignBegin=111535|AlignEnd=111902|GE=[vraiment]|nWord=5|RX=[MOD]|Word=wó
+6	wó	wó	PART	MOD	_	4	discourse	_	AlignBegin=111535|AlignEnd=111902|GE=[vraiment]|nWord=5|RX=[MOD]|Word=wó
 
 # sent_id = GYA_PRD_NARR_T24-C59_047-047
 # text = péém wà H- be ná
@@ -1133,11 +1133,11 @@
 # sent_timecode = 133534, 137019
 # phonetic_text = wà hó gɛ̀nɛ̀ hɔ̀ɔ̀ yé kɛ́ɛ́ gɛ̀nɛ̀ hɔ̀ɔ̀ yé kɛ́ɛ́
 # text_fr = Elles s"exclament oh! un visiteur est arrivé dans notre village
-1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	0	root	_	AlignBegin=133534|AlignEnd=133851|GE=[3PL]|nWord=1|RX=[PERS]|Word=wà
-2	hó	hó	INTJ	INTERJ	_	5	vocative	_	AlignBegin=133851|AlignEnd=134168|GE=[oh]|nWord=2|RX=[INTERJ]|Word=hó
+1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	5	parataxis:quoter	_	AlignBegin=133534|AlignEnd=133851|GE=[3PL]|nWord=1|RX=[PERS]|Word=wà
+2	hó	hó	INTJ	INTERJ	_	5	discourse	_	AlignBegin=133851|AlignEnd=134168|GE=[oh]|nWord=2|RX=[INTERJ]|Word=hó
 3	gɛ̀nɛ̀	gɛ̀nɛ̀	NOUN	N	_	5	subj	_	AlignBegin=134168|AlignEnd=134485|GE=[étranger]|nWord=3|RX=[N]|Word=gɛ̀nɛ̀
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=134485|AlignEnd=134591|GE=[ACC]|nWord=4|RX=[MV]|Word=hɔ̀ɔ̀
-5	hɔ	hɔ	VERB	V	_	1	parataxis:quoter	_	AlignBegin=134591|AlignEnd=134697|GE=[arriver]|nWord=4|Reported=Yes|RX=[V]|Word=hɔ̀ɔ̀
+5	hɔ	hɔ	VERB	V	_	0	root	_	AlignBegin=134591|AlignEnd=134697|GE=[arriver]|nWord=4|Reported=Yes|RX=[V]|Word=hɔ̀ɔ̀
 6	-H	-H	X	FCT	_	5	aff	_	AlignBegin=134697|AlignEnd=134802|GE=[MT]|nWord=4|RX=[FCT]|Word=hɔ̀ɔ̀
 7	yé	yé	NOUN	N	_	5	comp:obl	_	AlignBegin=134802|AlignEnd=135119|GE=[village]|nWord=5|RX=[N]|Word=yé
 8	kɔ́	kɔ́	ADP	FCT	_	7	udep	_	AlignBegin=135119|AlignEnd=135277|GE=[de]|nWord=6|RX=[FCT]|Word=kɛ́ɛ́
@@ -1175,7 +1175,7 @@
 # sent_timecode = 139060, 143970
 # phonetic_text = ʔòóyèé ʔám tɛ́ kɔ́m ʔèá
 # text_fr = Personne, je suis venu par moi-même simplement
-1	ʔòóyèé	ʔòóyèé	INTJ	ADV	_	4	vocative	_	AlignBegin=139060|AlignEnd=139350|GE=[non]|nWord=1|RX=[INTJ]|Word=ʔòóyèé
+1	ʔòóyèé	ʔòóyèé	INTJ	ADV	_	4	discourse	_	AlignBegin=139060|AlignEnd=139350|GE=[non]|nWord=1|RX=[INTJ]|Word=ʔòóyèé
 2	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=139350|AlignEnd=139640|GE=[1SG]|nWord=2|RX=[PERS]|Word=ʔám
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=139640|AlignEnd=139785|GE=[INAC]|nWord=3|RX=[MV]|Word=tɛ́
 4	tɛ	tɛ	VERB	V	_	0	root	_	AlignBegin=139785|AlignEnd=139930|GE=[venir]|nWord=3|RX=[V]|Word=tɛ́
@@ -1225,7 +1225,7 @@
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=143030|AlignEnd=143188|GE=[INAC]|nWord=14|RX=[MV]|Word=tɛ́
 5	tɛ	tɛ	VERB	V	_	0	root	_	AlignBegin=143188|AlignEnd=143345|GE=[venir]|nWord=14|RX=[V]|Word=tɛ́
 6	ʔèá	ʔèá	ADV	ADV	_	5	comp	_	AlignBegin=143345|AlignEnd=143660|GE=[seulement]|nWord=15|RX=[ADV]|Word=ʔèá
-7	ʔè	ʔè	INTJ	ME	_	5	discourse	_	AlignBegin=143660|AlignEnd=143970|GE=[désormais]|nWord=16|RX=[ME]|Word=ʔè
+7	ʔè	ʔè	PART	ME	_	5	discourse	_	AlignBegin=143660|AlignEnd=143970|GE=[désormais]|nWord=16|RX=[ME]|Word=ʔè
 
 # sent_id = GYA_PRD_NARR_T24-C59_059-059
 # text = wàntò BHa- kai -H sɔ̰́ gbàɲà -H sùnù H- ʔa kɔ̀ -H dàɗà
@@ -1317,7 +1317,7 @@
 4	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	6	subj	_	AlignBegin=154272|AlignEnd=154818|GE=[2SG]|nWord=4|RX=[PERS]|Word=mɛ́
 5	tɛ́-B	-B	AUX	MV	Aspect=Imp|Mood=Irr	6	aux	_	AlignBegin=154818|AlignEnd=155091|GE=[VIRT-INAC]|nWord=5|RX=[MV]|Word=tɛ́-ʔɔ̀
 6	ʔɔ	ʔɔ	VERB	V	_	2	parataxis:quoter	_	AlignBegin=155091|AlignEnd=155364|GE=[s'étendre]|nWord=5|Reported=Yes|RX=[V]|Word=tɛ́-ʔɔ̀
-7	díì	díì	INTJ	INTERJ	_	6	comp:obl	_	AlignBegin=155364|AlignEnd=155911|GE=[où]|nWord=6|RX=[INTER]|Word=díì
+7	díì	díì	ADV	INTERJ	PronType=Int	6	comp:obl	_	AlignBegin=155364|AlignEnd=155911|GE=[où]|nWord=6|RX=[INTER]|Word=díì
 
 # sent_id = GYA_PRD_NARR_T24-C59_064-064
 # text = wàntò ʔòóyèé ʔéí tɛ́-B ʔɔ kɔ́ wí hḭ̀ḭ́ ná
@@ -1606,7 +1606,7 @@
 # sent_timecode = 189029, 191929
 # phonetic_text = hó dáà ʔɛ̰̀ bé nɛ́ dɔ̀k ná wá
 # text_fr = oh! petit père! holà, ce ne sont pas des vers
-1	hó	hó	INTJ	INTERJ	_	5	vocative	_	AlignBegin=189029|AlignEnd=190230|GE=[oh]|nWord=1|RX=[INTERJ]|Word=hó
+1	hó	hó	INTJ	INTERJ	_	5	discourse	_	AlignBegin=189029|AlignEnd=190230|GE=[oh]|nWord=1|RX=[INTERJ]|Word=hó
 2	dáà	dáà	NOUN	N	_	5	vocative	_	AlignBegin=190230|AlignEnd=190473|GE=[petit_père]|nWord=2|RX=[N]|Word=dáà
 3	ʔɛ̰̀	ʔɛ̰̀	PRON	PRO	_	5	subj	_	AlignBegin=190473|AlignEnd=190716|GE=[ceci]|nWord=3|RX=[PRO]|Word=ʔɛ̰̀
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=190716|AlignEnd=190838|GE=[INAC]|nWord=4|RX=[MV]|Word=bé
@@ -1614,7 +1614,7 @@
 6	nɛ́	nɛ́	AUX	PRÉD	_	5	comp:obj	_	AlignBegin=190959|AlignEnd=191202|GE=[ETRE-ESS]|nWord=5|RX=[PRÉD]|Word=nɛ́
 7	dɔ̀k	dɔ̀k	NOUN	N	_	6	comp:pred	_	AlignBegin=191202|AlignEnd=191445|GE=[ver]|nWord=6|RX=[N]|Word=dɔ̀k
 8	ná	ná	PART	MV	Polarity=Neg	5	mod	_	AlignBegin=191445|AlignEnd=191688|GE=[NEG]|nWord=7|RX=[MV]|Word=ná
-9	wá	wá	INTJ	MOD	_	5	discourse	_	AlignBegin=191688|AlignEnd=191929|GE=[hélas]|nWord=8|RX=[MOD]|Word=wá
+9	wá	wá	PART	MOD	_	5	discourse	_	AlignBegin=191688|AlignEnd=191929|GE=[hélas]|nWord=8|RX=[MOD]|Word=wá
 
 # sent_id = GYA_PRD_NARR_T24-C59_083-083
 # text = dɔ̀k nɛ̀ H- ɲɔŋ =ám hɛ̰̀ H- ɲɛm séé nú -à ɓɔ̀ ná
@@ -1653,7 +1653,7 @@
 7	mɔ́	mɔ́	ADP	FCT	_	3	comp:obl	_	AlignBegin=195171|AlignEnd=195405|GE=[pendant]|nWord=14|RX=[FCT]|Word=mɔ́
 8	zɛ̀	zɛ̀	NOUN	N	_	7	comp	_	AlignBegin=195405|AlignEnd=195639|GE=[nuit]|nWord=15|RX=[N]|Word=zɛ̀
 9	ʔèá	ʔèá	ADV	ADV	_	3	mod	_	AlignBegin=195639|AlignEnd=195873|GE=[seulement]|nWord=16|RX=[ADV]|Word=ʔèá
-10	wá	wá	INTJ	MOD	_	3	discourse	_	AlignBegin=195873|AlignEnd=196104|GE=[hélas]|nWord=17|RX=[MOD]|Word=wá
+10	wá	wá	PART	MOD	_	3	discourse	_	AlignBegin=195873|AlignEnd=196104|GE=[hélas]|nWord=17|RX=[MOD]|Word=wá
 
 # sent_id = GYA_PRD_NARR_T24-C59_085-086
 # text = wà wàntò sɔ̰́ bɔ̀ɔ̀ nɛ́ gè-ndé
@@ -1662,11 +1662,11 @@
 # sent_timecode = 196104, 198782
 # phonetic_text = wà Wàntò sɔ̰́ bɔ̀ɔ̀ nɛ́ gè-ndé
 # text_fr = Dis-donc Wanto qu'y a-t-il donc?
-1	wà	wà	INTJ	INTERJ	_	0	root	_	AlignBegin=196104|AlignEnd=196788|GE=[3POL]|nWord=1|RX=[PERS]|Word=wà
+1	wà	wà	PRON	INTERJ	Number=Plur|Person=3|PronType=Prs	0	root	_	AlignBegin=196104|AlignEnd=196788|GE=[3POL]|nWord=1|RX=[PERS]|Word=wà
 2	wàntò	wàntò	PROPN	NPR	_	5	vocative	_	AlignBegin=196788|AlignEnd=197473|GE=[Wanto]|nWord=2|RX=[NPR]|Word=Wàntò
 3	sɔ̰́	sɔ̰́	AUX	MOD	_	5	mod	_	AlignBegin=197473|AlignEnd=197800|GE=[REV]|nWord=3|RX=[MOD]|Word=sɔ̰́
 4	bɔ̀ɔ̀	bɔ̀ɔ̀	ADJ	AA	_	5	mod	_	AlignBegin=197800|AlignEnd=198127|GE=[donc]|nWord=4|RX=[AA]|Word=bɔ̀ɔ̀
-5	nɛ́	nɛ́	AUX	PRÉD	_	1	comp	_	AlignBegin=198127|AlignEnd=198454|GE=[ETRE-ESS]|nWord=5|RX=[PRÉD]|Word=nɛ́
+5	nɛ́	nɛ́	AUX	PRÉD	_	1	parataxis:quoter	_	AlignBegin=198127|AlignEnd=198454|GE=[ETRE-ESS]|nWord=5|RX=[PRÉD]|Word=nɛ́
 6	gè-ndé	gè-ndé	NOUN	N	_	5	comp:pred	_	AlignBegin=198454|AlignEnd=198782|GE=[quoi]|nWord=6|RX=[N]|Word=gè-ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_087-087
@@ -1676,7 +1676,7 @@
 # sent_timecode = 198782, 200929
 # phonetic_text = hó náà dɔ̀k ɲɛ́m ká wèè nà wá
 # text_fr = oh chérie, hélas il y a trop de vers à côté du feu
-1	hó	hó	INTJ	INTERJ	_	5	vocative	_	AlignBegin=198782|AlignEnd=199050|GE=[oh]|nWord=1|RX=[INTERJ]|Word=hó
+1	hó	hó	INTJ	INTERJ	_	5	discourse	_	AlignBegin=198782|AlignEnd=199050|GE=[oh]|nWord=1|RX=[INTERJ]|Word=hó
 2	nàà	nàà	NOUN	N	_	5	vocative	_	AlignBegin=199050|AlignEnd=199318|GE=[chérie]|nWord=2|RX=[N]|Word=náà
 3	dɔ̀k	dɔ̀k	NOUN	N	_	5	subj	_	AlignBegin=199318|AlignEnd=199586|GE=[ver]|nWord=3|RX=[N]|Word=dɔ̀k
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=199586|AlignEnd=199720|GE=[INAC]|nWord=4|RX=[MV]|Word=ɲɛ́m
@@ -1684,7 +1684,7 @@
 6	ká	ká	ADP	FCT	_	5	comp:obl	_	AlignBegin=199854|AlignEnd=200122|GE=[à_côté_de]|nWord=5|RX=[FCT]|Word=ká
 7	wèè	wèè	NOUN	N	_	6	comp	_	AlignBegin=200122|AlignEnd=200390|GE=[feu]|nWord=6|RX=[N]|Word=wèè
 8	ná	ná	PART	ADV	Polarity=Neg	5	mod	_	AlignBegin=200390|AlignEnd=200658|GE=[NEG]|nWord=7|RX=[MV]|Word=nà
-9	wá	wá	INTJ	MOD	_	5	discourse	_	AlignBegin=200658|AlignEnd=200929|GE=[hélas]|nWord=8|RX=[MOD]|Word=wá
+9	wá	wá	PART	MOD	_	5	discourse	_	AlignBegin=200658|AlignEnd=200929|GE=[hélas]|nWord=8|RX=[MOD]|Word=wá
 
 # sent_id = GYA_PRD_NARR_T24-C59_088-088
 # text = ʔá̰ wàntò H- ʔɔ nù sí-ɗòŋ
@@ -1810,7 +1810,7 @@
 6	nù	nù	NOUN	N	_	4	comp:obl	_	AlignBegin=210847|AlignEnd=211046|GE=[terre]|nWord=16|RX=[N]|Word=nù
 7	sɛ̀nɛ́	sɛ̀nɛ́	PART	MV	_	4	mod	_	AlignBegin=211046|AlignEnd=211245|GE=[dedans]|nWord=17|RX=[MV]|Word=sɛ̀nɛ́
 8	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	AlignBegin=211245|AlignEnd=211444|GE=[seulement]|nWord=18|RX=[ADV]|Word=ʔèá
-9	ná-ndé	ná-ndé	INTJ	INTERJ	_	4	discourse	_	AlignBegin=211444|AlignEnd=211649|GE=[DISC]|nWord=19|RX=[DISC]|Word=ná-ndé
+9	ná-ndé	ná-ndé	PART	INTERJ	_	4	discourse	_	AlignBegin=211444|AlignEnd=211649|GE=[DISC]|nWord=19|RX=[DISC]|Word=ná-ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_093-093
 # text = ʔèè -H wàntò BHa- daŋ ʔá̰-nɛ̀ H- ʔɔ nù -VV
@@ -1852,7 +1852,7 @@
 # phonetic_text = Wàntò hó dáà ʔɛ́nɛ́ tɛ́-tɔ̰̀ kàá ʔám bá náŋám ʔàm pḭ́ gɔ́nyó nàà gɔ́n wí géè
 # text_fr = Wanto fait oh! oh vous me diriez aussi de prendre ma jambe, de la poser sur vous, chérie sur vous tout simplement.
 1	wàntò	wàntò	PROPN	NPR	_	0	root	_	AlignBegin=216420|AlignEnd=217312|GE=[Wàntò]|nWord=1|RX=[NPR]|Word=Wàntò
-2	hó	hó	INTJ	INTERJ	_	6	vocative	_	AlignBegin=217312|AlignEnd=218205|GE=[oh]|nWord=2|RX=[INTERJ]|Word=hó
+2	hó	hó	INTJ	INTERJ	_	6	discourse	_	AlignBegin=217312|AlignEnd=218205|GE=[oh]|nWord=2|RX=[INTERJ]|Word=hó
 3	dáà	dáà	NOUN	N	_	6	vocative	_	AlignBegin=218205|AlignEnd=218452|GE=[petit_père]|nWord=3|RX=[N]|Word=dáà
 4	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2|Polite=Form|PronType=Prs	6	subj	_	AlignBegin=218452|AlignEnd=218699|GE=[2POL]|nWord=4|RX=[PERS]|Word=ʔɛ́nɛ́
 5	tɛ́-B	-B	AUX	MV	Aspect=Imp|Mood=Irr	6	aux	_	AlignBegin=218699|AlignEnd=218823|GE=[VIRT-INAC]|nWord=5|RX=[MV]|Word=tɛ́-tɔ̰̀
@@ -1901,9 +1901,9 @@
 # text_fr = en effet la fille dit : Wanto dis-donc mets ta jambe simplement sur moi, dit-elle.
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	2	cc	_	AlignBegin=223804|AlignEnd=224189|GE=[et_ainsi]|nWord=1|RX=[COORD]|Word=nɛ̀
 2	kóò	kóò	NOUN	N	_	0	root	_	AlignBegin=224189|AlignEnd=224574|GE=[épouse]|nWord=2|RX=[N]|Word=kóò
-3	yɛ̀	yɛ̀	INTJ	MOD	_	2	discourse	_	AlignBegin=224574|AlignEnd=224959|GE=[en_effet]|nWord=3|RX=[MOD]|Word=yɛ̀
+3	yɛ̀	yɛ̀	PART	MOD	_	2	discourse	_	AlignBegin=224574|AlignEnd=224959|GE=[en_effet]|nWord=3|RX=[MOD]|Word=yɛ̀
 4	wàntò	wàntò	PROPN	NPR	_	9	vocative	_	AlignBegin=224959|AlignEnd=225345|GE=[Wàntò]|nWord=4|RX=[NPR]|Word=Wàntò
-5	ʔówà	ʔówà	INTJ	INTERJ	_	9	vocative	_	AlignBegin=225345|AlignEnd=225643|GE=[dis_donc]|nWord=5|RX=[INTERJ]|Word=ʔówà
+5	ʔówà	ʔówà	INTJ	INTERJ	_	9	discourse	_	AlignBegin=225345|AlignEnd=225643|GE=[dis_donc]|nWord=5|RX=[INTERJ]|Word=ʔówà
 6	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	9	subj	_	AlignBegin=225643|AlignEnd=225792|GE=[2SG]|nWord=6|RX=[PERS]|Word=mɛ̀
 7	-B	-B	AUX	MV	Mood=Jus	9	aux	_	AlignBegin=225792|AlignEnd=225941|GE=[INJ]|nWord=6|RX=[MV]|Word=mɛ̀
 8	H-	H-	AUX	MV	Aspect=Imp|Mood=Jus	9	aux	_	AlignBegin=225941|AlignEnd=226090|GE=[INJ-INAC]|nWord=7|RX=[MV]|Word=pḭ́
@@ -1914,7 +1914,7 @@
 13	gɔ́n	gɔ́n	ADP	FCT	_	9	comp:obl	_	AlignBegin=226537|AlignEnd=226686|GE=[sur]|nWord=9|RX=[FCT]|Word=gɔ́nám
 14	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	13	comp	_	AlignBegin=226686|AlignEnd=226835|GE=[1SG]|nWord=9|RX=[PERS]|Word=gɔ́nám
 15	ʔèá	ʔèá	ADV	ADV	_	9	mod	_	AlignBegin=226835|AlignEnd=227133|GE=[seulement]|nWord=10|RX=[ADV]|Word=ʔèá
-16	ná-ndé	ná-ndé	INTJ	INTERJ	_	9	discourse	_	AlignBegin=227133|AlignEnd=227434|GE=[DISC]|nWord=11|RX=[DISC]|Word=ná-ndé
+16	ná-ndé	ná-ndé	PART	INTERJ	_	9	discourse	_	AlignBegin=227133|AlignEnd=227434|GE=[DISC]|nWord=11|RX=[DISC]|Word=ná-ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_100-100
 # text = ʔá̰-nɛ̀ wàntò H- ʔɔ nù -VV
@@ -1937,13 +1937,13 @@
 # sent_timecode = 230052, 233530
 # phonetic_text = sá hèè ʔó dáà ʔɛ́nɛ́ tɛ̀ɛ́-tɔ̰̀ ʔàm gɔ́m ndàyám hám gɔ́m ndàyám géè wá
 # text_fr = mais dit-il vous me diriez de donner des coups de reins, pour que je donne des coups de reins tout simplement
-1	sá	sá	CCONJ	COORD	_	2	cc	_	AlignBegin=230052|AlignEnd=230300|GE=[mais]|nWord=1|RX=[COORD]|Word=sá
-2	hèè	hèè	PART	INTERJ	_	0	root	_	AlignBegin=230300|AlignEnd=230548|GE=[DISC]|nWord=2|RX=[DISC]|Word=hèè
+1	sá	sá	CCONJ	COORD	_	7	cc	_	AlignBegin=230052|AlignEnd=230300|GE=[mais]|nWord=1|RX=[COORD]|Word=sá
+2	hèè	hèè	PART	INTERJ	_	7	parataxis:quoter	_	AlignBegin=230300|AlignEnd=230548|GE=[DISC]|nWord=2|RX=[DISC]|Word=hèè
 3	ʔó	ʔó	DET	MN	Polite=Form	4	det	_	AlignBegin=230548|AlignEnd=230796|GE=[POL]|nWord=3|RX=[MN]|Word=ʔó
 4	dáà	dáà	NOUN	N	_	7	vocative	_	AlignBegin=230796|AlignEnd=231044|GE=[petit_père]|nWord=4|RX=[N]|Word=dáà
 5	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2|Polite=Form|PronType=Prs	7	subj	_	AlignBegin=231044|AlignEnd=231292|GE=[2POL]|nWord=5|RX=[PERS]|Word=ʔɛ́nɛ́
 6	tɛ̀ɛ́-B	-B	AUX	MV	Aspect=Perf|Mood=Irr	7	aux	_	AlignBegin=231292|AlignEnd=231416|GE=[VIRT-ACC]|nWord=6|RX=[MV]|Word=tɛ̀ɛ́-tɔ̰̀
-7	tɔ̰	tɔ̰	VERB	V	_	2	comp	_	AlignBegin=231416|AlignEnd=231540|GE=[dire]|nWord=6|RX=[V]|Word=tɛ̀ɛ́-tɔ̰̀
+7	tɔ̰	tɔ̰	VERB	V	_	0	root	_	AlignBegin=231416|AlignEnd=231540|GE=[dire]|nWord=6|RX=[V]|Word=tɛ̀ɛ́-tɔ̰̀
 8	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	11	subj	_	AlignBegin=231540|AlignEnd=231664|GE=[1SG]|nWord=7|RX=[PERS]|Word=ʔàm
 9	-B	-B	DET	MN	_	11	aux	_	AlignBegin=231664|AlignEnd=231788|GE=[INJ]|nWord=7|RX=[MN]|Word=ʔàm
 10	H-	H-	AUX	MV	Aspect=Imp|Mood=Jus	11	aux	_	AlignBegin=231788|AlignEnd=231912|GE=[INJ-INAC]|nWord=8|RX=[MV]|Word=gɔ́m
@@ -1951,14 +1951,14 @@
 12	ndàyà	ndàyà	NOUN	N	_	11	comp:obj	_	AlignBegin=232036|AlignEnd=232119|GE=[fesses]|nWord=9|RX=[N]|Word=ndàyám
 13	-H	-H	ADP	FCT	_	12	udep	_	AlignBegin=232119|AlignEnd=232202|GE=[MT]|nWord=9|RX=[FCT]|Word=ndàyám
 14	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	13	comp	_	AlignBegin=232202|AlignEnd=232284|GE=[1SG]|nWord=9|RX=[PERS]|Word=ndàyám
-15	há̰	há̰	AUX	MV	Aspect=Imp	2	conj:obl	_	AlignBegin=232532|AlignEnd=232656|GE=[pour_que]|nWord=10|RX=[SUB]|Word=hám
+15	há̰	há̰	SCONJ	MV	Aspect=Imp	7	mod	_	AlignBegin=232532|AlignEnd=232656|GE=[pour_que]|nWord=10|RX=[SUB]|Word=hám
 16	H-	H-	AUX	MV	Aspect=Imp	17	aux	_	AlignBegin=232532|AlignEnd=232656|GE=[INAC]|nWord=11|RX=[MV]|Word=gɔ́m
 17	gɔm	gɔm	VERB	V	_	15	comp	_	AlignBegin=232656|AlignEnd=232780|GE=[frapper]|nWord=11|RX=[V]|Word=gɔ́m
 18	ndàyà	ndàyà	NOUN	N	_	17	comp:obj	_	AlignBegin=232780|AlignEnd=232863|GE=[fesses]|nWord=12|RX=[N]|Word=ndàyám
 19	-H	-H	ADP	FCT	_	18	udep	_	AlignBegin=232863|AlignEnd=232946|GE=[MT]|nWord=12|RX=[FCT]|Word=ndàyám
 20	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	19	comp	_	AlignBegin=232946|AlignEnd=233028|GE=[1SG]|nWord=12|RX=[PERS]|Word=ndàyám
 21	géè	géè	ADV	ADV	_	17	mod	_	AlignBegin=233028|AlignEnd=233276|GE=[sans_raison]|nWord=13|RX=[ADV]|Word=géè
-22	wá	wá	INTJ	MOD	_	17	discourse	_	AlignBegin=233276|AlignEnd=233530|GE=[hélas]|nWord=14|RX=[MOD]|Word=wá
+22	wá	wá	PART	MOD	_	17	discourse	_	AlignBegin=233276|AlignEnd=233530|GE=[hélas]|nWord=14|RX=[MOD]|Word=wá
 
 # sent_id = GYA_PRD_NARR_T24-C59_102-103
 # text = ʔà wàntò ʔàà wàntò ká ʔɛ́nɛ́ -B H- gɔm ndàyà -H =nɛ́ ʔèá ná-ndé
@@ -1967,10 +1967,10 @@
 # sent_timecode = 233534, 236395
 # phonetic_text = ʔà Wàntò ʔàà Wàntò ká ʔɛ̀nɛ̀ gɔ́m ndàyànɛ́ ʔèá ná-ndé
 # text_fr = Ah Wanto Non, Wanto donnez simplement des coups de reins, dit-elle
-1	ʔà	ʔà	INTJ	INTERJ	_	9	vocative	_	AlignBegin=233534|AlignEnd=234008|GE=[pour_sûr]|nWord=1|RX=[INTERJ]|Word=ʔà
+1	ʔà	ʔà	INTJ	INTERJ	_	9	discourse	_	AlignBegin=233534|AlignEnd=234008|GE=[pour_sûr]|nWord=1|RX=[INTERJ]|Word=ʔà
 2	wàntò	wàntò	PROPN	INTERJ	_	9	vocative	_	AlignBegin=233534|AlignEnd=234008|GE=[wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
-3	ʔàà	ʔàà	INTJ	NPR	_	9	vocative	_	AlignBegin=234008|AlignEnd=234482|GE=[non]|nWord=3|RX=[INTERJ]|Word=ʔàà
-4	wàntò	wàntò	INTJ	NPR	_	9	vocative	_	AlignBegin=234008|AlignEnd=234482|GE=[wàntò]|nWord=4|RX=[NPR]|Word=Wàntò
+3	ʔàà	ʔàà	INTJ	NPR	_	9	discourse	_	AlignBegin=234008|AlignEnd=234482|GE=[non]|nWord=3|RX=[INTERJ]|Word=ʔàà
+4	wàntò	wàntò	PROPN	NPR	_	9	vocative	_	AlignBegin=234008|AlignEnd=234482|GE=[wàntò]|nWord=4|RX=[NPR]|Word=Wàntò
 5	ká	ká	CCONJ	INTERJ	_	9	cc	_	AlignBegin=234482|AlignEnd=234755|GE=[alors]|nWord=5|RX=[coord]|Word=ká
 6	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2|Polite=Form|PronType=Prs	9	subj	_	AlignBegin=235028|AlignEnd=235164|GE=[2POL]|nWord=6|RX=[PERS]|Word=ʔɛ̀nɛ̀
 7	-B	-B	AUX	MN	Mood=Jus	9	aux	_	AlignBegin=235164|AlignEnd=235301|GE=[INJ]|nWord=6|RX=[MN]|Word=ʔɛ̀nɛ̀
@@ -1980,7 +1980,7 @@
 11	-H	-H	ADP	_	_	10	udep	_	GE=[MT]|nWord=8|RX=[FCT]|Word=ndàyànɛ́
 12	=nɛ́	ʔɛ́nɛ́	PRON	PERS	Person=2|Polite=Form|PronType=Prs	11	comp	_	AlignBegin=235710|AlignEnd=235847|GE=[2POL]|nWord=8|RX=[PERS]|Word=ndàyànɛ́
 13	ʔèá	ʔèá	ADV	ADV	_	9	mod	_	AlignBegin=235847|AlignEnd=236120|GE=[seulement]|nWord=9|RX=[ADV]|Word=ʔèá
-14	ná-ndé	ná-ndé	INTJ	INTERJ	_	9	discourse	_	AlignBegin=236120|AlignEnd=236395|GE=[DISC]|nWord=10|RX=[DISC]|Word=ná-ndé
+14	ná-ndé	ná-ndé	PART	INTERJ	_	9	discourse	_	AlignBegin=236120|AlignEnd=236395|GE=[DISC]|nWord=10|RX=[DISC]|Word=ná-ndé
 
 # sent_id = GYA_PRD_NARR_T24-C59_104-104
 # text = ʔá̰-nɛ̀ wàntò BHa- ba -H fàrà ʔîn -H kóò kútùà ʔèá
@@ -2180,7 +2180,7 @@
 6	=ɛ́ɛ́	ʔɛ́ɛ́	PRON	PERS	Number=Plur|Person=1|PronType=Prs	5	comp	_	AlignBegin=258497|AlignEnd=258600|GE=[1PL]|nWord=17|RX=[PERS]|Word=kɛ́ɛ́
 7	ɓɔ̀	ɓɔ̀	ADV	ADV	_	3	mod	_	AlignBegin=258600|AlignEnd=258805|GE=[encore]|nWord=18|RX=[ADV]|Word=ɓɔ̀
 8	ná	ná	PART	MV	Polarity=Neg	3	mod	_	AlignBegin=258805|AlignEnd=259010|GE=[NEG]|nWord=19|RX=[MV]|Word=ná
-9	yè	yè	INTJ	MOD	_	3	discourse	_	AlignBegin=259010|AlignEnd=259217|GE=[finalement]|nWord=20|RX=[MOD]|Word=yè
+9	yè	yè	PART	MOD	_	3	discourse	_	AlignBegin=259010|AlignEnd=259217|GE=[finalement]|nWord=20|RX=[MOD]|Word=yè
 
 # sent_id = GYA_PRD_NARR_T24-C59_117-117a
 # speaker_id = SP
@@ -2215,9 +2215,9 @@
 # sent_timecode = 261661, 267556 267556, 270839
 # phonetic_text = ʔá̰-nɛ̀ Wàntò ndɔ̀wà ʔèé dùà té-wèè ɗòŋ nà ʔèá hó
 # text_fr = et wanto puisquelles avaient mis le cabri à cuire avant leur départ [fait] oh!
-1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	2	cc	_	AlignBegin=261661|AlignEnd=262281|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀
-2	wàntò	wàntò	PROPN	NPR	_	0	root	_	AlignBegin=262281|AlignEnd=262900|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
-3	nɛ̀	nɛ̀	SCONJ	SUB	_	2	mod	_	AlignBegin=262900|AlignEnd=263029|GE=[puisque]|nWord=3|RX=[SUB]|Word=ndɔ̀wà
+1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	13	cc	_	AlignBegin=261661|AlignEnd=262281|GE=[voilà_que]|nWord=1|RX=[COORD]|Word=ʔá̰-nɛ̀
+2	wàntò	wàntò	PROPN	NPR	_	13	parataxis:quoter	_	AlignBegin=262281|AlignEnd=262900|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
+3	nɛ̀	nɛ̀	SCONJ	SUB	_	13	mod	_	AlignBegin=262900|AlignEnd=263029|GE=[puisque]|nWord=3|RX=[SUB]|Word=ndɔ̀wà
 4	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	6	subj	_	AlignBegin=263029|AlignEnd=263158|GE=[3PL]|nWord=3|RX=[PERS]|Word=ndɔ̀wà
 5	BHa-	BHa-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=263158|AlignEnd=263244|GE=[ACC]|nWord=4|RX=[MV]|Word=ʔèé
 6	ʔe	ʔe	VERB	V	_	3	comp	_	AlignBegin=263244|AlignEnd=263330|GE=[poser]|nWord=4|RX=[V]|Word=ʔèé
@@ -2227,7 +2227,7 @@
 10	ɗòŋ	ɗòŋ	ADV	ADV	_	6	mod	_	AlignBegin=263932|AlignEnd=264190|GE=[en_arrière]|nWord=7|RX=[ADV]|Word=ɗòŋ
 11	nà	nà	ADV	ADV	_	6	mod	_	AlignBegin=264190|AlignEnd=264448|GE=[ici-SP]|nWord=8|RX=[ADV]|Word=nà
 12	ʔèá	ʔèá	ADV	ADV	_	6	mod	_	AlignBegin=264448|AlignEnd=264706|GE=[seulement]|nWord=9|RX=[ADV]|Word=ʔèá
-13	hó	hó	INTJ	INTERJ	_	2	parataxis:quoter	_	AlignBegin=264706|AlignEnd=264966|GE=[oh]|nWord=10|Reported=Yes|RX=[INTERJ]|Word=hó
+13	hó	hó	INTJ	INTERJ	_	0	root	_	AlignBegin=264706|AlignEnd=264966|GE=[oh]|nWord=10|Reported=Yes|RX=[INTERJ]|Word=hó
 
 # sent_id = GYA_PRD_NARR_T24-C59_119-120
 # text = wàntò H- zɔk nɔ́ -H dùà nɛ̀ H- nɔi H- nɔi ɲɛ́m-ná ʔá̰-nɛ̀ BHa- kur -H H- nɛ H- ŋman gbàá-zàwà H- pḭ kɔ̀ nú
@@ -2270,7 +2270,7 @@
 # phonetic_text = ká wùléé ɲɛ́m ná
 # text_fr = oh là là c'en est trop
 1	ká	ká	CCONJ	COORD	_	4	cc	_	AlignBegin=269748|AlignEnd=270022|GE=[alors]|nWord=9|RX=[COORD]|Word=ká
-2	wùléé	wùléé	INTJ	INTERJ	_	4	vocative	_	AlignBegin=270022|AlignEnd=270296|GE=[hélas]|nWord=10|RX=[INTERJ]|Word=wùléé
+2	wùléé	wùléé	INTJ	INTERJ	_	4	discourse	_	AlignBegin=270022|AlignEnd=270296|GE=[hélas]|nWord=10|RX=[INTERJ]|Word=wùléé
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=270296|AlignEnd=270433|GE=[INAC]|nWord=11|RX=[MV]|Word=ɲɛ́m
 4	ɲɛ́m	ɲɛm	VERB	V	_	0	root	_	AlignBegin=270433|AlignEnd=270570|GE=[convenir_à]|nWord=11|RX=[V]|Word=ɲɛ́m
 5	ná	ná	PART	MV	Polarity=Neg	4	mod	_	AlignBegin=270570|AlignEnd=270839|GE=[NEG]|nWord=12|RX=[MV]|Word=ná
@@ -2601,7 +2601,7 @@
 # sent_timecode = 306180, 308581
 # phonetic_text = wàá Wàntò ʔéí tɔ̰̀ɔ̰̀ hámɛ́ hégè
 # text_fr = bigre Wanto qu'est-ce qu'on t'avait dit?
-1	wàá	wàá	INTJ	PERS	_	5	vocative	_	AlignBegin=306180|AlignEnd=306432|GE=[bah]|nWord=1|RX=[INTJ]|Word=wàá
+1	wàá	wàá	INTJ	PERS	_	5	discourse	_	AlignBegin=306180|AlignEnd=306432|GE=[bah]|nWord=1|RX=[INTJ]|Word=wàá
 2	wàntò	wàntò	PROPN	NPR	_	5	vocative	_	AlignBegin=306685|AlignEnd=307190|GE=[Wàntò]|nWord=2|RX=[NPR]|Word=Wàntò
 3	ʔéí	ʔéí	PRON	PRO	PronType=Ind	5	subj	_	AlignBegin=307190|AlignEnd=307538|GE=[IMPS]|nWord=3|RX=[PRO]|Word=ʔéí
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=307538|AlignEnd=307654|GE=[ACC]|nWord=4|RX=[MV]|Word=tɔ̰̀ɔ̰̀
@@ -2779,7 +2779,7 @@
 6	BHa-	BHa-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=324850|AlignEnd=324919|GE=[ACC]|nWord=6|RX=[MV]|Word=tɔ̰̀áà
 7	tɔ̰	tɔ̰	VERB	V	_	1	parataxis:quoter	_	AlignBegin=324919|AlignEnd=324988|GE=[dire]|nWord=6|Reported=Yes|RX=[V]|Word=tɔ̰̀áà
 8	-T.inverse	-T	DET	MOD	_	7	det	_	AlignBegin=324988|AlignEnd=325056|GE=[INS]|nWord=6|RX=[MOD]|Word=tɔ̰̀áà
-9	ndé	ndé	INTJ	INTERJ	_	7	discourse	_	AlignBegin=325056|AlignEnd=325262|GE=[DISC]|nWord=7|RX=[DISC]|Word=ndé
+9	ndé	ndé	PART	INTERJ	_	7	discourse	_	AlignBegin=325056|AlignEnd=325262|GE=[DISC]|nWord=7|RX=[DISC]|Word=ndé
 10	ʔéí	ʔéí	PRON	PRO	PronType=Ind	12	subj	_	AlignBegin=325262|AlignEnd=325468|GE=[IMPS]|nWord=8|RX=[PRO]|Word=ʔéí
 11	BHa-	BHa-	AUX	MV	Aspect=Perf	12	aux	_	AlignBegin=325468|AlignEnd=325537|GE=[ACC]|nWord=9|RX=[MV]|Word=gbɛ̀ɛ́
 12	gbɛ	gbɛ	VERB	V	_	7	parataxis:comp	_	AlignBegin=325537|AlignEnd=325606|GE=[tuer]|nWord=9|Reported=Yes|RX=[V]|Word=gbɛ̀ɛ́
@@ -2902,7 +2902,7 @@
 8	kɔ́	kɔ́	ADP	FCT	_	7	udep	_	AlignBegin=339469|AlignEnd=339651|GE=[de]|nWord=4|RX=[FCT]|Word=kóyó
 9	=yó	ʔóyó	PRON	PERS	Number=Plur|PronType=Prs	8	comp	_	AlignBegin=339651|AlignEnd=339834|GE=[LOGPL]|nWord=4|RX=[PERS]|Word=kóyó
 10	káɗí	káɗí	ADV	ADV	_	5	mod	_	AlignBegin=339834|AlignEnd=340199|GE=[totalement]|nWord=5|RX=[ADV]|Word=káɗí
-11	ʔòóyɛ̀	ʔòóyɛ̀	INTJ	MOD	_	5	discourse	_	AlignBegin=340199|AlignEnd=340563|GE=[bien_entendu]|nWord=6|RX=[MOD]|Word=ʔòóyɛ̀
+11	ʔòóyɛ̀	ʔòóyɛ̀	PART	MOD	_	5	discourse	_	AlignBegin=340199|AlignEnd=340563|GE=[bien_entendu]|nWord=6|RX=[MOD]|Word=ʔòóyɛ̀
 
 # sent_id = GYA_PRD_NARR_T24-C59_156-156
 # text = ʔá̰ ʔóyó H- be kɔ́ =yó nɛ̀ mɛ́ ná yè
@@ -2920,7 +2920,7 @@
 7	nɛ̀	nɛ̀	ADP	FCT	_	4	comp:obj	_	AlignBegin=341287|AlignEnd=341468|GE=[avec]|nWord=11|RX=[FCT]|Word=nɛ̀
 8	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	7	comp	_	AlignBegin=341468|AlignEnd=341649|GE=[2SG]|nWord=12|RX=[PERS]|Word=mɛ́
 9	ná	ná	PART	MV	Polarity=Neg	4	mod	_	AlignBegin=341649|AlignEnd=341830|GE=[NEG]|nWord=13|RX=[MV]|Word=ná
-10	yè	yè	INTJ	MOD	_	4	discourse	_	AlignBegin=341830|AlignEnd=342012|GE=[finalement]|nWord=14|RX=[MOD]|Word=yè
+10	yè	yè	PART	MOD	_	4	discourse	_	AlignBegin=341830|AlignEnd=342012|GE=[finalement]|nWord=14|RX=[MOD]|Word=yè
 
 # sent_id = GYA_PRD_NARR_T24-C59_157-157
 # text = bɔ̰́ wà H- ʔa kàá gèɗà táá kútùà mɛ̀
@@ -2970,13 +2970,13 @@
 6	fàrà	fàrà	NOUN	N	_	3	comp:obl	_	AlignBegin=346306|AlignEnd=346600|GE=[endroit]|nWord=4|RX=[N]|Word=fàrà
 
 # sent_id = GYA_PRD_NARR_T24-C59_160-162
-# text = mɔ́ ndàyà -H mɔ̀ nɛ̀ mɛ́ H- nɛ Há- har kóò ká hèè mɛ́ nɛ́-BHa nɛ nɛ̀ mɛ́ -B H- yak-ká-B ɲɔŋ ɓélá kútùà kɔ́ ʔó fòr -H =mɛ́ sítí-há̰ wà ná
+# text = mɔ́ ndàyà -H mɔ̀ nɛ̀ =mɛ́ H- nɛ Há- har kóò ká hèè mɛ́ nɛ́-BHa nɛ nɛ̀ mɛ́ -B H- yak-ká-B ɲɔŋ ɓélá kútùà kɔ́ ʔó fòr -H =mɛ́ sítí-há̰ =wà ná
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 346600, 356278
 # phonetic_text = mɔ́ ndàyá mɔ̀ nɛ̀mɛ́ nɛ́ hárá kóò ká hèè mɛ́ nɛ́-nɛ̀á nɛ̀ mɛ̀ yák-tɛ́-ɲɔ̀ŋ ɓélá kútùà kó fòrmɛ́ sítí-há̰wà ná
 # text_fr = la conclusion c'est que quand tu vas épouser une fille on dit que si tu y vas tu ne dois pas manger de la viande dans la maison de tes beaux-parents avant eux [=qu'ils ne t'y autorisent]
-1	mɔ́	mɔ́	ADP	FCT	_	13	mod	_	AlignBegin=346600|AlignEnd=346912|GE=[à_savoir]|nWord=1|RX=[FCT]|Word=mɔ́
+1	mɔ́	mɔ́	ADP	FCT	_	22	mod	_	AlignBegin=346600|AlignEnd=346912|GE=[à_savoir]|nWord=1|RX=[FCT]|Word=mɔ́
 2	ndàyà	ndàyà	NOUN	N	_	1	comp	_	AlignBegin=346912|AlignEnd=347068|GE=[fond]|nWord=2|RX=[N]|Word=ndàyá
 3	-H	-H	ADP	FCT	_	2	udep	_	AlignBegin=347068|AlignEnd=347224|GE=[MT]|nWord=2|RX=[FCT]|Word=ndàyá
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp	_	AlignBegin=347224|AlignEnd=347536|GE=[chose]|nWord=3|RX=[N]|Word=mɔ̀
@@ -2988,7 +2988,7 @@
 10	har	har	VERB	V	_	8	compound:svc	_	AlignBegin=348316|AlignEnd=348472|GE=[s'aligner]|nWord=6|RX=[V]|Word=hárá
 11	kóò	kóò	NOUN	N	_	10	comp:obj	_	AlignBegin=348472|AlignEnd=348786|GE=[épouse]|nWord=7|RX=[N]|Word=kóò
 12	ká	ká	CCONJ	COORD	_	13	cc	_	AlignBegin=348786|AlignEnd=349084|GE=[alors]|nWord=8|RX=[COORD]|Word=ká
-13	hèè	hèè	INTJ	INTERJ	_	0	root	_	AlignBegin=349084|AlignEnd=349382|GE=[DISC]|nWord=9|RX=[DISC]|Word=hèè
+13	hèè	hèè	PART	INTERJ	_	22	discourse:participant	_	AlignBegin=349084|AlignEnd=349382|GE=[DISC]|nWord=9|RX=[DISC]|Word=hèè
 14	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	16	subj	_	AlignBegin=349382|AlignEnd=349680|GE=[2SG]|nWord=10|RX=[PERS]|Word=mɛ́
 15	nɛ́-BHa	nɛ́-BHa	AUX	MV	Aspect=Perf	16	aux	_	AlignBegin=349680|AlignEnd=349828|GE=[HYPO-ACC]|nWord=11|RX=[MV]|Word=nɛ́-nɛ̀á
 16	nɛ	nɛ	VERB	V	_	22	mod	_	AlignBegin=349828|AlignEnd=349976|GE=[aller]|nWord=11|RX=[V]|Word=nɛ́-nɛ̀á
@@ -2997,7 +2997,7 @@
 19	-B	-B	AUX	MV	Mood=Jus	21	aux	_	AlignBegin=350509|AlignEnd=350686|GE=[INJ]|nWord=13|RX=[MV]|Word=mɛ̀
 20	H-	H-	AUX	MV	Aspect=Imp	21	aux	_	AlignBegin=350686|AlignEnd=350804|GE=[INAC]|nWord=14|RX=[MV]|Word=yák-tɛ́-ɲɔ̀ŋ
 21	yak-ká-B	yak-ká-B	AUX	MV	_	22	aux	_	AlignBegin=350804|AlignEnd=350922|GE=[PROH]|nWord=14|RX=[MV]|Word=yák-tɛ́-ɲɔ̀ŋ
-22	ɲɔŋ	ɲɔŋ	VERB	V	_	13	parataxis:quoter	_	AlignBegin=350922|AlignEnd=351041|GE=[manger]|nWord=14|RX=[V]|Word=yák-tɛ́-ɲɔ̀ŋ
+22	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=350922|AlignEnd=351041|GE=[manger]|nWord=14|RX=[V]|Word=yák-tɛ́-ɲɔ̀ŋ
 23	ɓélá	ɓélá	NOUN	N	_	22	comp:obj	_	AlignBegin=351041|AlignEnd=351396|GE=[viande]|nWord=15|RX=[N]|Word=ɓélá
 24	kútùà	kútùà	NOUN	N	_	22	comp:obl	_	AlignBegin=351396|AlignEnd=351751|GE=[maison]|nWord=16|RX=[N]|Word=kútùà
 25	kɔ́	kɔ́	ADP	FCT	_	24	udep	_	AlignBegin=351751|AlignEnd=351929|GE=[de]|nWord=17|RX=[FCT]|Word=kó
@@ -3037,7 +3037,7 @@
 5	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=355555|AlignEnd=355646|GE=[manger]|nWord=27|RX=[V]|Word=ɲɔ̀ŋà
 6	-H	-H	X	FCT	_	5	aff	_	AlignBegin=355646|AlignEnd=355736|GE=[MT]|nWord=27|RX=[FCT]|Word=ɲɔ̀ŋà
 7	ɓélá	ɓélá	NOUN	N	_	5	comp:obj	_	AlignBegin=355736|AlignEnd=356008|GE=[viande]|nWord=28|RX=[N]|Word=ɓélá
-8	wó	wó	INTJ	MOD	_	5	discourse	_	AlignBegin=356008|AlignEnd=356278|GE=[vraiment]|nWord=29|RX=[MOD]|Word=wó
+8	wó	wó	PART	MOD	_	5	discourse	_	AlignBegin=356008|AlignEnd=356278|GE=[vraiment]|nWord=29|RX=[MOD]|Word=wó
 
 # sent_id = GYA_PRD_NARR_T24-C59_165-165a
 # text = ndàyà -H -à ʔá̰-hı̰̀ı̰́

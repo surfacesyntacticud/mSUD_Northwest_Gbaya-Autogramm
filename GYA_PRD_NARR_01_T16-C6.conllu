@@ -21,9 +21,9 @@
 # phonetic_text = tó gàì kɔ́ nàà kɔ́ bêm nɛ̀ gáí nɛ̀ yì ʔá̰-nàm tɛ́-tɔ̰̀
 # text_fr = Le conte de la mère de l'enfant qui écope la rivière, voilà ce que je vais raconter
 1	tò	tò	NOUN	N	_	18	dislocated:obj	_	AlignBegin=4768|AlignEnd=4900|GE=[conte]|nWord=1|RX=[N]|Word=tó
-2	-H	-H	X	FCT	_	1	aff	_	AlignBegin=4900|AlignEnd=5032|GE=[D]|nWord=1|RX=[FCT]|Word=tó
+2	-H	-H	ADP	FCT	_	1	aff	_	AlignBegin=4900|AlignEnd=5032|GE=[D]|nWord=1|RX=[FCT]|Word=tó
 3	B-	B-	DET	MN	_	4	det	_	AlignBegin=5032|AlignEnd=5164|GE=[NMLS]|nWord=2|RX=[MN]|Word=gàì
-4	gai	gai	VERB	V	_	1	parataxis:quoter	_	AlignBegin=5164|AlignEnd=5296|GE=[écoper]|nWord=2|Reported=Yes|RX=[V]|Word=gàì
+4	gai	gai	VERB	V	_	2	comp	_	AlignBegin=5164|AlignEnd=5296|GE=[écoper]|nWord=2|Reported=Yes|RX=[V]|Word=gàì
 5	kɔ́	kɔ́	ADP	FCT	_	4	udep	_	AlignBegin=5296|AlignEnd=5560|GE=[de]|nWord=3|RX=[FCT]|Word=kɔ́
 6	nàà	nàà	NOUN	N	_	5	comp	_	AlignBegin=5560|AlignEnd=5824|GE=[mère]|nWord=4|RX=[N]|Word=nàà
 7	kɔ́	kɔ́	ADP	FCT	_	6	udep	_	AlignBegin=5824|AlignEnd=6088|GE=[de]|nWord=5|RX=[FCT]|Word=kɔ́
@@ -519,10 +519,10 @@
 # sent_timecode = 59184, 66907
 # phonetic_text = dáà kɔ́ bêm ná ʔéí nɛ̀ɛ̀ kpéé yì
 # text_fr = Elle dit au père de l'enfant : je suis allée barrer la rivière
-1	dáà	dáà	NOUN	N	_	7	mod:quoter	_	AlignBegin=60979|AlignEnd=61245|GE=[père]|nWord=8|RX=[N]|Word=dáà
+1	dáà	dáà	NOUN	N	_	7	discourse:participant	_	AlignBegin=60979|AlignEnd=61245|GE=[père]|nWord=8|RX=[N]|Word=dáà
 2	kɔ́	kɔ́	ADP	FCT	_	1	udep	_	AlignBegin=61245|AlignEnd=61511|GE=[de]|nWord=9|RX=[FCT]|Word=kɔ́
 3	bêm	bêm	NOUN	N	_	2	comp	_	AlignBegin=61511|AlignEnd=61777|GE=[enfant]|nWord=10|RX=[N]|Word=bêm
-4	ná	ná	INTJ	_	_	1	discourse	_	AlignBegin=61777|AlignEnd=62039|GE=[DISC]|nWord=11|RX=[DISC]|Word=ná
+4	ná	ná	PART	_	_	1	discourse	_	AlignBegin=61777|AlignEnd=62039|GE=[DISC]|nWord=11|RX=[DISC]|Word=ná
 5	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	7	subj	_	AlignBegin=62039|AlignEnd=62238|GE=[LOGSG]|nWord=12|RX=[PERS]|Word=ʔéí
 6	BHa-	BHa-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=62238|AlignEnd=62304|GE=[ACC]|nWord=13|RX=[MV]|Word=nɛ̀ɛ̀
 7	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=62304|AlignEnd=62370|GE=[aller]|nWord=13|RX=[V]|Word=nɛ̀ɛ̀
@@ -573,7 +573,7 @@
 3	=wí	wí	PRON	PERS	Number=Sing|PronType=Log	2	comp	_	AlignBegin=66327|AlignEnd=66409|GE=[LOGSG]|nWord=25|RX=[PERS]|Word=tɛ̀í
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=66409|AlignEnd=66533|GE=[INAC]|nWord=26|RX=[MV]|Word=káɗí
 5	kaɗi	kaɗi	VERB	V	_	0	root	_	AlignBegin=66533|AlignEnd=66657|GE=[être_fatigué]|nWord=26|RX=[V]|Word=káɗí
-6	yè	yè	INTJ	MOD	_	5	discourse	_	AlignBegin=66657|AlignEnd=66907|GE=[finalement]|nWord=27|RX=[MOD]|Word=yè
+6	yè	yè	PART	MOD	_	5	discourse	_	AlignBegin=66657|AlignEnd=66907|GE=[finalement]|nWord=27|RX=[MOD]|Word=yè
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_038-038
 # text = ʔó báà kɔ́ bêm gbín tɛ̀ mbɛ́rá nàà kɔ́à̰ ʔèááá
@@ -677,7 +677,7 @@
 3	-H	-H	X	MOD	_	2	aff	_	AlignBegin=77970|AlignEnd=78108|GE=[MT]|nWord=1|RX=[MOD]|Word=ʔá̰-nàà
 4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=78108|AlignEnd=78314|GE=[INAC]|nWord=2|RX=[MV]|Word=nɛ́
 5	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=78314|AlignEnd=78520|GE=[aller]|nWord=2|RX=[V]|Word=nɛ́
-6	wó	wó	INTJ	MOD	_	5	discourse	_	AlignBegin=78520|AlignEnd=78932|GE=[vraiment]|nWord=3|RX=[MOD]|Word=wó
+6	wó	wó	PART	MOD	_	5	discourse	_	AlignBegin=78520|AlignEnd=78932|GE=[vraiment]|nWord=3|RX=[MOD]|Word=wó
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_044-044
 # text = ʔà̰á̰ bà ndàlàŋ nɛ̀ ŋɔ́n ká bêm yèé ndàlàŋ
@@ -880,16 +880,16 @@
 # sent_timecode = 96500, 102264
 # phonetic_text = wéì kéí ná ʔéí kòò bêm mbè
 # text_fr = Elle dit à son mari aussi étonnant que cela puisse paraître, j'ai accouché d'un enfant
-1	wéì	wéì	NOUN	N	_	7	mod:quoter	_	AlignBegin=99446|AlignEnd=99950|GE=[époux]|nWord=9|RX=[N]|Word=wéì
+1	wéì	wéì	NOUN	N	_	7	discourse:participant	_	AlignBegin=99446|AlignEnd=99950|GE=[époux]|nWord=9|RX=[N]|Word=wéì
 2	kɔ́	kɔ́	ADP	FCT	_	1	udep	_	AlignBegin=99950|AlignEnd=100202|GE=[de]|nWord=10|RX=[FCT]|Word=kéí
 3	=éí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	2	comp	_	AlignBegin=100202|AlignEnd=100454|GE=[LogS]|nWord=10|RX=[PR]|Word=kéí
-4	ná	ná	INTJ	_	_	1	discourse	_	AlignBegin=100454|AlignEnd=100957|GE=[DISC]|nWord=11|RX=[DISC]|Word=ná
+4	ná	ná	PART	_	_	1	discourse	_	AlignBegin=100454|AlignEnd=100957|GE=[DISC]|nWord=11|RX=[DISC]|Word=ná
 5	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	7	subj	_	AlignBegin=100960|AlignEnd=101286|GE=[LOGSG]|nWord=12|RX=[PERS]|Word=ʔéí
 6	BHa-	BHa-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=101286|AlignEnd=101395|GE=[ACC]|nWord=13|RX=[MV]|Word=kòò
 7	ko	ko	VERB	V	_	0	root	_	AlignBegin=101395|AlignEnd=101504|GE=[accoucher]|nWord=13|RX=[V]|Word=kòò
 8	-H	-H	X	MOD	_	7	aff	_	AlignBegin=101504|AlignEnd=101612|GE=[MT]|nWord=13|RX=[MOD]|Word=kòò
 9	bêm	bêm	NOUN	N	_	7	comp:obj	_	AlignBegin=101612|AlignEnd=101938|GE=[enfant]|nWord=14|RX=[N]|Word=bêm
-10	mbè	mbè	INTJ	MOD	_	7	discourse	_	AlignBegin=101938|AlignEnd=102264|GE=[étonnant]|nWord=15|RX=[MOD]|Word=mbè
+10	mbè	mbè	PART	MOD	_	7	discourse	_	AlignBegin=101938|AlignEnd=102264|GE=[étonnant]|nWord=15|RX=[MOD]|Word=mbè
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_057-057
 # text = ʔá̰-nɛ̀ =wà H- dɛ ʔó dáà kɔ́ bêm H- dɛ ngàyà bêm H- dɛ ngàyà bêm
@@ -961,7 +961,7 @@
 6	ko	ko	VERB	V	_	3	comp	_	AlignBegin=113590|AlignEnd=113723|GE=[accoucher]|nWord=4|RX=[V]|Word=kòò
 7	-H	-H	X	MOD	_	6	aff	_	AlignBegin=113723|AlignEnd=113857|GE=[MT]|nWord=4|RX=[MOD]|Word=kòò
 8	bêm	bêm	NOUN	N	_	6	comp:obj	_	AlignBegin=113857|AlignEnd=114257|GE=[enfant]|nWord=5|RX=[N]|Word=bêm
-9	mbè	mbè	INTJ	MOD	_	6	discourse	_	AlignBegin=114257|AlignEnd=114657|GE=[étonnant]|nWord=6|RX=[MOD]|Word=mbè
+9	mbè	mbè	PART	MOD	_	6	discourse	_	AlignBegin=114257|AlignEnd=114657|GE=[étonnant]|nWord=6|RX=[MOD]|Word=mbè
 10	H-	H-	AUX	MV	Aspect=Imp	11	aux	_	AlignBegin=114657|AlignEnd=114808|GE=[INAC]|nWord=7|RX=[MV]|Word=zɔ́k
 11	zɔk	zɔk	VERB	V	_	0	root	_	AlignBegin=114808|AlignEnd=114959|GE=[regarder]|nWord=7|RX=[V]|Word=zɔ́k
 12	mɔ̀	mɔ̀	NOUN	N	_	11	comp:obj	_	AlignBegin=114959|AlignEnd=115261|GE=[chose]|nWord=8|RX=[N]|Word=mɔ̀
@@ -974,7 +974,7 @@
 19	dɛ	dɛ	VERB	V	_	11	parataxis:comp	_	AlignBegin=116570|AlignEnd=116671|GE=[faire]|nWord=13|RX=[V]|Word=dɛ̀ɛ̀
 20	-H	-H	X	MOD	_	19	aff	_	AlignBegin=116671|AlignEnd=116771|GE=[MT]|nWord=13|RX=[MOD]|Word=dɛ̀ɛ̀
 21	ɗéŋ-kéyéŋ	ɗéŋ-kéyéŋ	ADJ	AA	_	19	comp:pred	_	AlignBegin=116771|AlignEnd=117073|GE=[grandet]|nWord=14|RX=[AA]|Word=ɗéŋ-kéyéŋ
-22	ʔòóyɛ̀	ʔòóyɛ̀	INTJ	MOD	_	19	discourse	_	AlignBegin=117073|AlignEnd=117371|GE=[bien_entendu]|nWord=15|RX=[MOD]|Word=ʔòóyɛ̀
+22	ʔòóyɛ̀	ʔòóyɛ̀	PART	MOD	_	19	discourse	_	AlignBegin=117073|AlignEnd=117371|GE=[bien_entendu]|nWord=15|RX=[MOD]|Word=ʔòóyɛ̀
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_063-063
 # text = ʔá̰-nɛ̀ BHa- ba -H bé pàyà
@@ -2235,7 +2235,7 @@
 14	káɗí	káɗí	ADV	ADV	_	11	mod	_	AlignBegin=291448|AlignEnd=291725|GE=[totalement]|nWord=11|RX=[ADV]|Word=káɗí
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_138-139
-# text = ʔèè ʔá̰ mɔ̀-nɛ̀ =éí -H tɔ̰́ kà mbɔ́zɔ̀-bêm nɛ́-BHa be -H sór-mɔ̀-ná mbálámbúlú hé mɔ̀ sɛ̌n kɔ̀ ʔér -H wíìí hɛ̰̀ gá kóó wà bá gbó sɛ̌n bàngí ʔà̰ tɛ́-gàsì kɔ̀ ʔér -H nàà kɔ́ =à̰ -ìí
+# text = ʔèè ʔá̰ mɔ̀-nɛ̀ =éí -H tɔ̰́ kà mbɔ́zɔ̀-bêm nɛ́-bèè sór-mɔ̀-ná mbálámbúlú hé mɔ̀ sɛ̌n kɔ̀ ʔér -H wíìí hɛ̰̀ gá kóó wà bá gbó sɛ̌n bàngí ʔà̰ tɛ́-gàsì kɔ̀ ʔér -H nàà kɔ́ =à̰ -ìí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 291725, 299970
@@ -2316,7 +2316,7 @@
 10	H-	H-	AUX	MV	Aspect=Perf	11	aux	_	AlignBegin=302778|AlignEnd=302934|GE=[INF-ACC]|nWord=10|RX=[MV]|Word=gbó
 11	gbo	gbo	VERB	V	_	5	compound:svc	_	AlignBegin=302934|AlignEnd=303090|GE=[arriver]|nWord=10|RX=[V]|Word=gbó
 12	sɛ̀n	sɛ̀n	ADP	FCT	_	11	comp:obl	_	AlignBegin=303090|AlignEnd=303402|GE=[dans]|nWord=11|RX=[FCT]|Word=sɛ̀n
-13	díí-gè-ndé	díí-gè-ndé	ADV	_	_	12	comp	_	AlignBegin=303402|AlignEnd=303713|GE=[où]|nWord=12|RX=[INTER]|Word=díí-gè-ndé
+13	díí-gè-ndé	díí-gè-ndé	ADV	_	PronType=Int	12	comp	_	AlignBegin=303402|AlignEnd=303713|GE=[où]|nWord=12|RX=[INTER]|Word=díí-gè-ndé
 14	ʔà̰	ʔà̰	PRON	_	Number=Sing|Person=3|PronType=Prs	16	subj	_	AlignBegin=303402|AlignEnd=303713|GE=[3SG]|nWord=13|RX=[PERS]|Word=ʔà̰
 15	tɛ́-B-	tɛ́-B-	AUX	_	Aspect=Imp|Mood=Irr	16	aux	_	AlignBegin=303402|AlignEnd=303713|GE=[VIRT-INAC]|nWord=14|RX=[MV]|Word=tɛ́-gàsì
 16	gasi	gasi	VERB	_	_	0	root	_	AlignBegin=303402|AlignEnd=303713|GE=[grandir]|nWord=14|RX=V]|Word=tɛ́-gàsì

@@ -278,7 +278,7 @@
 15	=éí	ʔéí	PRON	PR	PronType=Prs	14	comp	_	AlignBegin=37288|AlignEnd=37432|GE=[LogS]|Gloss=-LogS|nWord=9|RX=[PR]|Word=kéí
 16	ndútùà	ndútùà	NOUN	N	_	13	comp:obj	_	AlignBegin=37432|AlignEnd=37720|GE=porte|Gloss=porte|nWord=10|RX=[N]|Word=ndútùà
 17	zù	zù	NOUN	N	_	13	comp:obl	_	AlignBegin=37720|AlignEnd=38008|GE=sommet_externe|Gloss=sommet_externe|nWord=11|RX=[N]|Word=zù
-18	ʔè	ʔè	INTJ	ME	_	13	discourse	_	AlignBegin=38008|AlignEnd=38296|GE=désormais|Gloss=désormais|nWord=12|RX=[ME]|Word=ʔè,
+18	ʔè	ʔè	PART	ME	_	13	discourse	_	AlignBegin=38008|AlignEnd=38296|GE=désormais|Gloss=désormais|nWord=12|RX=[ME]|Word=ʔè,
 19	H-	H-	AUX	MV	Aspect=Imp	20	aux	_	AlignBegin=38296|AlignEnd=38440|GE=[INAC]|Gloss=INAC-|nWord=13|RX=[MV]|Word=ʔɔ́
 20	ʔɔ	ʔɔ	VERB	V	_	13	conj:coord	_	AlignBegin=38440|AlignEnd=38584|GE=s'étendre|Gloss=s'étendre|nWord=13|RX=[V]|Word=ʔɔ́
 21	kɔ́	kɔ́	ADP	FCT	_	20	comp:obl	_	AlignBegin=38584|AlignEnd=38728|GE=quant_à|Gloss=quant_à|nWord=14|RX=[FCT]|Word=kéí
@@ -776,7 +776,7 @@
 6	kpe	kpe	VERB	V	_	0	root	_	AlignBegin=97280|AlignEnd=97404|GE=fermer|Gloss=fermer|nWord=3|RX=[V]|Word=kpé
 7	ndútùà	ndútùà	NOUN	N	_	6	comp:obj	_	AlignBegin=97404|AlignEnd=97652|GE=porte|Gloss=porte|nWord=4|RX=[N]|Word=ndútùà
 8	zù	zù	NOUN	N	_	6	comp:obl	_	AlignBegin=97652|AlignEnd=97900|GE=au-dessus|Gloss=au-dessus|nWord=5|RX=[N]|Word=zù
-9	ʔè	ʔè	INTJ	ME	_	6	discourse	_	AlignBegin=97900|AlignEnd=98150|GE=désormais|Gloss=désormais|nWord=6|RX=[ME]|Word=ʔè
+9	ʔè	ʔè	PART	ME	_	6	discourse	_	AlignBegin=97900|AlignEnd=98150|GE=désormais|Gloss=désormais|nWord=6|RX=[ME]|Word=ʔè
 10	ʔèè	ʔèè	CCONJ	SUB	_	12	cc	_	AlignBegin=98150|AlignEnd=98390|GE=puis|Gloss=puis|nWord=1|RX=[SUB]|Word=ʔèè
 11	H-	H-	AUX	MV	Aspect=Imp	12	aux	_	AlignBegin=98390|AlignEnd=98510|GE=[INAC]|Gloss=INAC-|nWord=2|RX=[MV]|Word=ʔɔ́
 12	ʔɔ	ʔɔ	VERB	V	_	6	conj:coord	_	AlignBegin=98510|AlignEnd=98630|GE=s'étendre|Gloss=s'étendre|nWord=2|RX=[V]|Word=ʔɔ́
@@ -1113,7 +1113,7 @@
 6	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	comp	_	AlignBegin=139802|AlignEnd=140015|GE=[3SG]|Gloss=-3SG|nWord=11|RX=[PERS]|Word=bóɲáà
 7	BHa-	BHa-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=140015|AlignEnd=140227|GE=[ACC]|Gloss=ACC-|nWord=12|RX=[MV]|Word=fèá
 8	fe	fe	VERB	V	_	0	root	_	AlignBegin=140227|AlignEnd=140440|GE=mourir|Gloss=mourir|nWord=12|RX=[V]|Word=fèá
-9	ʔè	ʔè	INTJ	ME	_	8	discourse	_	AlignBegin=140440|AlignEnd=140860|GE=désormais|Gloss=désormais|nWord=13|RX=[ME]|Word=ʔè
+9	ʔè	ʔè	PART	ME	_	8	discourse	_	AlignBegin=140440|AlignEnd=140860|GE=désormais|Gloss=désormais|nWord=13|RX=[ME]|Word=ʔè
 
 # sent_id = GYA_PRD_NARR_T9-C7_042-042
 # text = ʔà̰ -Hv tɛ̀ɛ́-B kur wó ʔà̰ -Hv tɛ̀ɛ́-B kur wó ʔèè ká ʔá̰-nɛ̀ =à̰ -H BHa- fe -H kɔ́ =à̰ ʔè
@@ -1126,12 +1126,12 @@
 2	-Hv	-Hv	AUX	MV	_	4	aux	_	AlignBegin=141066|AlignEnd=141273|GE=cond|Gloss=-cond|nWord=1|RX=[MV]|Word=ʔà̰á̰
 3	tɛ̀ɛ́-B	tɛ̀ɛ́-B	AUX	MV	Aspect=Perf|Mood=Cnd	4	aux	_	AlignBegin=141273|AlignEnd=141479|GE=[COND].[ACC]|Gloss=COND.ACC-|nWord=2|RX=[MV]|Word=tɛ̀ɛ́-kùr
 4	kur	kur	VERB	V	_	17	mod	_	AlignBegin=141479|AlignEnd=141686|GE=se_lever|Gloss=se_lever|nWord=2|RX=[V]|Word=tɛ̀ɛ́-kùr
-5	wó	wó	INTJ	MOD	_	4	discourse	_	AlignBegin=141686|AlignEnd=142099|GE=vraiment|Gloss=vraiment|nWord=3|RX=[MOD]|Word=wó
+5	wó	wó	PART	MOD	_	4	discourse	_	AlignBegin=141686|AlignEnd=142099|GE=vraiment|Gloss=vraiment|nWord=3|RX=[MOD]|Word=wó
 6	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=142099|AlignEnd=142305|GE=[3SG]|Gloss=3SG|nWord=4|RX=[PR]|Word=ʔà̰á̰
 7	-Hv	-Hv	AUX	MV	_	9	aux	_	AlignBegin=142305|AlignEnd=142512|GE=cond|Gloss=-cond|nWord=4|RX=[MV]|Word=ʔà̰á̰
 8	tɛ̀ɛ́-B	tɛ̀ɛ́-B	AUX	MV	Aspect=Perf|Mood=Cnd	9	aux	_	AlignBegin=142512|AlignEnd=142718|GE=[COND].[ACC]|Gloss=COND.ACC-|nWord=5|RX=[MV]|Word=tɛ̀ɛ́-kùr
 9	kur	kur	VERB	V	_	4	conj:redup	_	AlignBegin=142718|AlignEnd=142925|GE=se_lever|Gloss=se_lever|nWord=5|RX=[V]|Word=tɛ̀ɛ́-kùr
-10	wó	wó	INTJ	MOD	_	9	discourse	_	AlignBegin=142925|AlignEnd=143338|GE=vraiment|Gloss=vraiment|nWord=6|RX=[MOD]|Word=wó
+10	wó	wó	PART	MOD	_	9	discourse	_	AlignBegin=142925|AlignEnd=143338|GE=vraiment|Gloss=vraiment|nWord=6|RX=[MOD]|Word=wó
 11	ʔèè	ʔèè	CCONJ	SUB	_	17	cc	_	AlignBegin=143338|AlignEnd=143751|GE=puis|Gloss=puis|nWord=7|RX=[SUB]|Word=ʔèè
 12	ká	ká	CCONJ	SUB	_	17	cc	_	AlignBegin=143751|AlignEnd=144164|GE=alors|Gloss=alors|nWord=8|RX=[SUB]|Word=ká
 13	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	SUB	_	17	cc	_	AlignBegin=144164|AlignEnd=144302|GE=voilà_que|Gloss=voilà_que|nWord=9|RX=[SUB]|Word=ʔá̰-nàá
@@ -1142,7 +1142,7 @@
 18	-H	-H	X	FCT	_	17	aff	_	AlignBegin=144853|AlignEnd=144990|GE=[MT]|Gloss=-D|nWord=10|RX=[FCT]|Word=fèè
 19	kɔ́	kɔ́	ADP	FCT	_	17	comp:obl	_	AlignBegin=144990|AlignEnd=145196|GE=quant_à|Gloss=quant_à|nWord=11|RX=[FCT]|Word=kɔ̰́à̰
 20	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	19	comp	_	AlignBegin=145196|AlignEnd=145403|GE=[3SG]|Gloss=-3SG|nWord=11|RX=[PR]|Word=kɔ̰́à̰
-21	ʔè	ʔè	INTJ	ME	_	17	discourse	_	AlignBegin=145403|AlignEnd=145820|GE=désormais|Gloss=désormais|nWord=12|RX=[ME]|Word=ʔè
+21	ʔè	ʔè	PART	ME	_	17	discourse	_	AlignBegin=145403|AlignEnd=145820|GE=désormais|Gloss=désormais|nWord=12|RX=[ME]|Word=ʔè
 
 # sent_id = GYA_PRD_NARR_T9-C7_043-043a
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- gbo -H kàá -H kútùà mɛ̀
@@ -1285,7 +1285,7 @@
 8	-H	-H	ADP	_	_	7	udep	_	GE=[MT]|nWord=4|RX=[FCT]|Word=bóɲáà
 9	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	8	comp	_	AlignBegin=160844|AlignEnd=161031|GE=[3SG]|Gloss=-3SG|nWord=4|RX=[PERS]|Word=bóɲáà
 10	ʔé	ʔé	ADV	ADV	_	5	mod	_	AlignBegin=161031|AlignEnd=161405|GE=déjà|Gloss=déjà|nWord=5|RX=[ADV]|Word=ʔé
-11	yè	yè	INTJ	MOD	_	5	discourse	_	AlignBegin=161405|AlignEnd=161778|GE=finalement|Gloss=finalement|nWord=6|RX=[MOD]|Word=yè
+11	yè	yè	PART	MOD	_	5	discourse	_	AlignBegin=161405|AlignEnd=161778|GE=finalement|Gloss=finalement|nWord=6|RX=[MOD]|Word=yè
 
 # sent_id = GYA_PRD_NARR_T9-C7_047-049
 # text = ʔèè bókáɲá =à ʔà̰ H- hɔ kpɔ́k tí ʔèè H- yak H- yak H- si nɛ̀ sààyé H- hei nɛ̀ kɔ̰̀á̰ ʔèááá ʔèè H- sa kàá -H H- nɛ H- sa béí hɛ̀n -H sààyé mɛ̀

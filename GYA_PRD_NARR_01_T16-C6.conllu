@@ -2283,7 +2283,7 @@
 40	-H	-H	ADP	_	_	39	udep	_	GE=[MT]|nWord=28|RX=[FCT]|Word=ʔér
 41	nàà	nàà	NOUN	N	_	40	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[mère]|nWord=29|RX=[N]|Word=nàà
 42	kɔ́	kɔ́	ADP	N	_	41	udep	_	AlignBegin=299680|AlignEnd=299970|GE=[de]|nWord=30|RX=[FCT]|Word=kɔ́àìí
-43	=à̰	=à̰	PRON	N	Number=Sing|Person=3|PronType=Prs	42	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[3SG]|nWord=30|RX=[PERS]|Word=kɔ́àìí
+43	=à̰	ʔà̰	PRON	N	Number=Sing|Person=3|PronType=Prs	42	comp	_	AlignBegin=299680|AlignEnd=299970|GE=[3SG]|nWord=30|RX=[PERS]|Word=kɔ́àìí
 44	-ìí	-ìí	DET	N	_	43	det	_	AlignBegin=299680|AlignEnd=299970|GE=[ANAPH]|nWord=30|RX=[MOD]|Word=kɔ́àìí
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_140-140a

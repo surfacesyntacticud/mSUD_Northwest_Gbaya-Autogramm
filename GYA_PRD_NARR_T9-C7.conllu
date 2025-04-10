@@ -13,7 +13,7 @@
 5	ʔìvɔ̂n	ʔìvɔ̂n	PROPN	NPR	_	4	comp:pred	_	AlignBegin=1664|AlignEnd=2100|GE=[Yvonne]|Gloss=Yvonne|nWord=3|RX=[NPR]|Word=ʔìvɔ̂n
 
 # sent_id = GYA_PRD_NARR_T9-C7_002-002
-# text = ʔó mà bókóbêm ʔîn -H bóíbêm ʔá̰-nɛ̀ wà -H BHa- nɛ -H hɛ̀n BHa- nɛ -H gúɗù ʔîn -H bókáɲá =à
+# text = ʔó mà bókóbêm ʔîn -H bóíbêm ʔá̰-nɛ̀ =wà -H BHa- nɛ -H hɛ̀n BHa- nɛ -H gúɗù ʔîn -H bókáɲá -H =à
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 2100, 8590
@@ -26,7 +26,7 @@
 5	-H	_	X	X	_	4	aff	_	AlignBegin=3993|AlignEnd=4264|GE=[MT]|Gloss=-MT|nWord=4|RX=[FCT]|Word=ʔín
 6	bóíbêm	bóíbêm	NOUN	N	_	4	comp	_	AlignBegin=4264|AlignEnd=4805|GE=garçon|Gloss=garçon|nWord=5|RX=[N]|Word=bóíbêm
 7	ʔá̰-nɛ̀	_	DET	TOP	_	3	det	_	AlignBegin=4805|AlignEnd=4985|GE=[TOP]|Gloss=TOP|nWord=6|RX=[TOP]|Word=ʔá̰-ndɔ̀wá
-8	wà	wà	PRON	PP	Number=Plur|Person=3	11	subj	_	AlignBegin=4985|AlignEnd=5165|GE=[3PL]|Gloss=3PL|nWord=6|RX=[PP]|Word=ʔá̰-ndɔ̀wá
+8	=wà	wà	PRON	PP	Number=Plur|Person=3	11	subj	_	AlignBegin=4985|AlignEnd=5165|GE=[3PL]|Gloss=3PL|nWord=6|RX=[PP]|Word=ʔá̰-ndɔ̀wá
 9	-H	_	X	X	_	8	aff	_	AlignBegin=5165|AlignEnd=5346|GE=[MT]|Gloss=-MT|nWord=6|RX=[FCT]|Word=ʔá̰-ndɔ̀wá
 10	BHa-	_	AUX	MV	Aspect=Perf	11	aux	_	AlignBegin=5346|AlignEnd=5526|GE=[ACC]|Gloss=ACC-|nWord=7|RX=[MV]|Word=nɛ̀ɛ́
 11	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=5526|AlignEnd=5706|GE=aller|Gloss=aller|nWord=7|RX=[V]|Word=nɛ̀ɛ́
@@ -1355,7 +1355,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 169030, 176331
-# text = mɔ́ ndàyà -H mɔ̀ nɛ̀ ʔéí -H H- nɛ nɔ̀ ʔé
+# text = mɔ́ ndàyà -H mɔ̀ nɛ̀ =éí -H H- nɛ nɔ̀ ʔé
 # phonetic_text = mɔ́ ndàyá mɔ̀ ndèì nɛ́ nɔ̀ ʔé
 # text_fr = La raison de ceci est que quand on va se promener,
 1	mɔ́	mɔ́	ADP	FCT	_	0	root	_	AlignBegin=169030|AlignEnd=169273|GE=[APPOS]|Gloss=APPOS|nWord=1|RX=[FCT]|Word=mɔ́
@@ -1363,7 +1363,7 @@
 3	-H	-H	X	FCT	_	2	udep	_	AlignBegin=169395|AlignEnd=169516|GE=[MT]|Gloss=-D|nWord=2|RX=[FCT]|Word=ndàyá
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp	_	AlignBegin=169516|AlignEnd=169759|GE=chose|Gloss=chose|nWord=3|RX=[N]|Word=mɔ̀
 5	nɛ̀	nɛ̀	SCONJ	SUB	_	2	mod@relcl	_	AlignBegin=169759|AlignEnd=169840|GE=[REL]|Gloss=REL|nWord=4|RX=[SUB]|Word=ndèì
-6	ʔéí	ʔéí	PRON	PR	Number=Sing|PronType=Prs	9	subj	_	AlignBegin=169840|AlignEnd=169921|GE=[P].[IMP]|Gloss=P.IMP|nWord=4|RX=[PR]|Word=ndèì
+6	=éí	ʔéí	PRON	PR	Number=Sing|PronType=Prs	9	subj	_	AlignBegin=169840|AlignEnd=169921|GE=[P].[IMP]|Gloss=P.IMP|nWord=4|RX=[PR]|Word=ndèì
 7	-H	-H	X	FCT	_	6	aff	_	AlignBegin=169921|AlignEnd=170002|GE=[MT]|Gloss=-D|nWord=4|RX=[FCT]|Word=ndèì
 8	H-	H-	AUX	MV	Aspect=Imp	9	aux	_	AlignBegin=170002|AlignEnd=170124|GE=[INAC]|Gloss=INAC-|nWord=5|RX=[MV]|Word=nɛ́
 9	nɛ	nɛ	VERB	V	_	5	comp	_	AlignBegin=170124|AlignEnd=170245|GE=aller|Gloss=aller|nWord=5|RX=[V]|Word=nɛ́
@@ -1387,14 +1387,14 @@
 8	kpɔ́kɔ́ɗí	kpɔ́kɔ́ɗí	ADV	NUM	_	7	mod	_	AlignBegin=171703|AlignEnd=171946|GE=un_seul|Gloss=un_seul|nWord=12|RX=[ADV]|Word=kpɔ́kɔ́ɗí
 
 # sent_id = GYA_PRD_NARR_T9-C7_051-051c
-# text = ʔéí -B H- nɛ nɛ́nɛ́ ʔèá
+# text = B- ʔéí H- nɛ nɛ́nɛ́ ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 169030, 176331
 # phonetic_text = ʔèì nɛ́ nɛ́nɛ́ ʔèá
 # text_fr = et qu'on est parti seulement
-1	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	4	subj	_	AlignBegin=171946|AlignEnd=172068|GE=[IMPS]|Gloss=IMPS|nWord=13|RX=[PR]|Word=ʔèì
-2	-B	-B	CCONJ	COORD	_	4	cc	_	AlignBegin=172068|AlignEnd=172189|GE=et_donc|Gloss=-et_donc|nWord=13|RX=[COORD]|Word=ʔèì
+1	B-	B-	CCONJ	COORD	_	4	cc	_	AlignBegin=172068|AlignEnd=172189|GE=et_donc|Gloss=-et_donc|nWord=13|RX=[COORD]|Word=ʔèì
+2	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	4	subj	_	AlignBegin=171946|AlignEnd=172068|GE=[IMPS]|Gloss=IMPS|nWord=13|RX=[PR]|Word=ʔèì
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=172189|AlignEnd=172311|GE=[INAC]|Gloss=INAC-|nWord=14|RX=[MV]|Word=nɛ́
 4	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=172311|AlignEnd=172432|GE=aller|Gloss=aller|nWord=14|RX=[V]|Word=nɛ́
 5	nɛ́nɛ́	nɛ́nɛ́	PART	MV	_	4	mod	_	AlignBegin=172432|AlignEnd=172675|GE=en_allant|Gloss=en_allant|nWord=15|RX=[MV]|Word=nɛ́nɛ́

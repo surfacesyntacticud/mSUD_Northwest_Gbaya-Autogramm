@@ -30,7 +30,7 @@
 6	tò	tò	NOUN	N	_	5	comp:obj	_	AlignBegin=5297|AlignEnd=6438|GE=conte|nWord=9|RX=N|Word=tò
 
 # sent_id = GYA_PRD_NARR_T24-C59_003-003
-# text = Wàntò BHa dɛ -H gíà nɛ́nɛ́ -VV ʔîn -H ʔó ngàì-wí kɔ́ =éí
+# text = Wàntò Bha- dɛ -H gíà nɛ́nɛ́ -VV ʔîn -H ʔó ngàì-wí kɔ́ =éí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 6438, 12707
@@ -48,7 +48,7 @@
 10	ʔó	ʔó	DET	MN	Number=Plur	11	det	_	AlignBegin=10358|AlignEnd=11142|GE=PL|nWord=6|RX=MN|Word=ʔó
 11	ngàì-wí	ngàì-wí	NOUN	N	_	8	comp	_	AlignBegin=11142|AlignEnd=11926|GE=jeune_homme|nWord=7|RX=N|Word=ngàì-wí
 12	kɔ́	kɔ́	ADP	FCT	_	11	udep	_	AlignBegin=11926|AlignEnd=12316|GE=de|nWord=8|RX=FCT|Word=kɔ́í
-13	=éí	ʔéí	PRON	PP	Number=Sing	12	comp	_	AlignBegin=12316|AlignEnd=12707|GE=LOG].[SG|nWord=8|RX=PP|Word=kɔ́í
+13	=éí	ʔéí	PRON	PP	Number=Sing	12	comp	_	AlignBegin=12316|AlignEnd=12707|GE=LOG.SG|nWord=8|RX=PP|Word=kɔ́í
 
 # sent_id = GYA_PRD_NARR_T24-C59_004-004a
 # text = ʔá̰-nɛ̀ wàntò H- daŋ
@@ -929,9 +929,9 @@
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=108303|AlignEnd=108401|GE=ACC|nWord=4|RX=MV|Word=sìì
 5	si	si	VERB	V	_	0	root	_	AlignBegin=108401|AlignEnd=108499|GE=s'en_aller|nWord=4|RX=V|Word=sìì
 6	-H	-H	X	FCT	_	5	aff	_	AlignBegin=108499|AlignEnd=108598|GE=MT|nWord=4|RX=FCT|Word=sìì
-7	H-	H-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=108598|AlignEnd=108746|GE=INF].[ACC|nWord=5|RX=MV|Word=yɔ́
+7	H-	H-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=108598|AlignEnd=108746|GE=INF.ACC|nWord=5|RX=MV|Word=yɔ́
 8	yɔ	yɔ	VERB	V	_	5	compound:svc	_	AlignBegin=108746|AlignEnd=108893|GE=être_perdu|nWord=5|RX=V|Word=yɔ́
-9	H-	H-	AUX	MV	Aspect=Perf	10	aux	_	AlignBegin=108893|AlignEnd=109041|GE=INF].[ACC|nWord=6|RX=MV|Word=yɔ́
+9	H-	H-	AUX	MV	Aspect=Perf	10	aux	_	AlignBegin=108893|AlignEnd=109041|GE=INF.ACC|nWord=6|RX=MV|Word=yɔ́
 10	yɔ	yɔ	VERB	V	_	8	conj:dicto	_	AlignBegin=109041|AlignEnd=109188|GE=perdre|nWord=6|RX=V|Word=yɔ́
 11	kàyá	kàyá	NOUN	N	_	10	comp:obj	_	AlignBegin=109188|AlignEnd=109483|GE=orientation|nWord=7|RX=N|Word=kàyá
 12	kɔ́	kɔ́	ADP	FCT	_	11	udep	_	AlignBegin=109483|AlignEnd=109778|GE=de|nWord=8|RX=FCT|Word=kɔ́
@@ -1085,7 +1085,7 @@
 9	BHa-	BHa-	AUX	MV	Aspect=Perf	10	aux	_	AlignBegin=128413|AlignEnd=128548|GE=ACC|nWord=2|RX=MV|Word=sìì
 10	si	si	VERB	V	_	4	conj:coord	_	AlignBegin=128548|AlignEnd=128683|GE=s'en_aller|nWord=2|RX=V|Word=sìì
 11	-H	-H	X	FCT	_	10	aff	_	AlignBegin=128683|AlignEnd=128817|GE=MT|nWord=2|RX=FCT|Word=sìì
-12	H-	H-	AUX	MV	Aspect=Perf	13	aux	_	AlignBegin=128817|AlignEnd=129019|GE=INF].[ACC|nWord=3|RX=MV|Word=gbó
+12	H-	H-	AUX	MV	Aspect=Perf	13	aux	_	AlignBegin=128817|AlignEnd=129019|GE=INF.ACC|nWord=3|RX=MV|Word=gbó
 13	gbo	gbo	VERB	V	_	10	compound:svc	_	AlignBegin=129019|AlignEnd=129221|GE=arriver|nWord=3|RX=V|Word=gbó
 14	yé	yé	NOUN	N	_	13	comp:obl	_	AlignBegin=129221|AlignEnd=129625|GE=village|nWord=4|RX=N|Word=yé
 15	kɔ́	kɔ́	ADP	FCT	_	14	udep	_	AlignBegin=129625|AlignEnd=129827|GE=de|nWord=5|RX=FCT|Word=kɔ́wà

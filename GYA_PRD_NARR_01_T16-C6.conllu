@@ -59,7 +59,7 @@
 11	tòè	tòè	NOUN	N	_	10	comp:obj	_	AlignBegin=11265|AlignEnd=11740|GE=récipient|nWord=8|RX=N|Word=tòè
 12	H-	H-	AUX	MV	Aspect=Imp	13	aux	_	AlignBegin=11740|AlignEnd=11978|GE=INAC|nWord=9|RX=MV|Word=yák
 13	yak	yak	VERB	V	_	10	conj:coord	_	AlignBegin=11978|AlignEnd=12215|GE=partir|nWord=9|RX=V|Word=yák
-14	H-	H-	AUX	MV	Aspect=Perf	15	aux	_	AlignBegin=12215|AlignEnd=12453|GE=INF].[ACC|nWord=10|RX=MV|Word=sí
+14	H-	H-	AUX	MV	Aspect=Perf	15	aux	_	AlignBegin=12215|AlignEnd=12453|GE=INF.ACC|nWord=10|RX=MV|Word=sí
 15	si	si	VERB	V	_	13	compound:svc	_	AlignBegin=12453|AlignEnd=12690|GE=s'en_aller|nWord=10|RX=V|Word=sí
 16	kɔ̀zér	kɔ̀zér	NOUN	N	_	15	comp:obl	_	AlignBegin=12690|AlignEnd=13160|GE=marigot|nWord=11|RX=N|Word=kɔ̀zér
 
@@ -76,7 +76,7 @@
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=14081|AlignEnd=14194|GE=ACC|nWord=2|RX=MV|Word=nɛ̀ɛ̀
 5	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=14194|AlignEnd=14307|GE=aller|nWord=2|RX=V|Word=nɛ̀ɛ̀
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=14307|AlignEnd=14419|GE=MT|nWord=2|RX=MOD|Word=nɛ̀ɛ̀
-7	H-	H-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=14419|AlignEnd=14588|GE=INF].[ACC|nWord=3|RX=MV|Word=gbó
+7	H-	H-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=14419|AlignEnd=14588|GE=INF.ACC|nWord=3|RX=MV|Word=gbó
 8	gbo	gbo	VERB	V	_	5	compound:svc	_	AlignBegin=14588|AlignEnd=14757|GE=arriver|nWord=3|RX=V|Word=gbó
 9	táá	táá	ADP	FCT	_	8	comp:obl	_	AlignBegin=14757|AlignEnd=15095|GE=vers|nWord=4|RX=FCT|Word=táá
 10	kɔ̀zér	kɔ̀zér	NOUN	N	_	9	comp	_	AlignBegin=15095|AlignEnd=15433|GE=marigot|nWord=5|RX=N|Word=kɔ̀zér
@@ -161,7 +161,7 @@
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=24373|AlignEnd=24617|GE=3SG|nWord=7|RX=PERS|Word=ʔà̰
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=24617|AlignEnd=24739|GE=INAC|nWord=8|RX=MV|Word=yák
 3	yak	yak	VERB	V	_	0	root	_	AlignBegin=24739|AlignEnd=24861|GE=partir|nWord=8|RX=V|Word=yák
-4	H-	H-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=24861|AlignEnd=24983|GE=INF].[ACC|nWord=9|RX=MV|Word=yé
+4	H-	H-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=24861|AlignEnd=24983|GE=INF.ACC|nWord=9|RX=MV|Word=yé
 5	ye	ye	VERB	V	_	3	compound:svc	_	AlignBegin=24983|AlignEnd=25105|GE=entrer|nWord=9|RX=V|Word=yé
 6	kɔ̀zér	kɔ̀zér	NOUN	N	_	5	comp:obj	_	AlignBegin=25105|AlignEnd=25347|GE=marigot|nWord=10|RX=N|Word=kɔ̀zér
 
@@ -425,7 +425,7 @@
 # text_fr = Comme elle est ainsi sortie du trou à poissons là-bas, alors le barrage le barrage a emporté l'enfant.  et elle cherche en suivant le courant elle cherche en suivant le courant
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=51201|AlignEnd=51277|GE=et_ainsi|nWord=2|RX=COORD|Word=nàá
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	subj	_	AlignBegin=51277|AlignEnd=51353|GE=3SG|nWord=2|RX=PERS|Word=nàá
-3	-HV	-HV	AUX	MV	Aspect=Perf|Mood=Cnd	5	aux	_	AlignBegin=51353|AlignEnd=51428|GE=cond].[COND-ACC|nWord=2|RX=MV|Word=nàá
+3	-HV	-HV	AUX	MV	Aspect=Perf|Mood=Cnd	5	aux	_	AlignBegin=51353|AlignEnd=51428|GE=cond.COND-ACC|nWord=2|RX=MV|Word=nàá
 4	tɛ̀ɛ́-B-	tɛ̀ɛ́-B-	AUX	_	_	5	aux	_	AlignBegin=51428|AlignEnd=51542|nWord=3|RX=MV|Word=tɛ̀ɛ́-gbò
 5	gbo	gbo	VERB	V	_	16	mod	_	AlignBegin=51542|AlignEnd=51655|GE=arriver|nWord=3|RX=V|Word=tɛ̀ɛ́-gbò
 6	sɛ̀n	sɛ̀n	ADP	FCT	_	5	comp:obl	_	AlignBegin=51655|AlignEnd=51769|GE=dans|nWord=4|RX=FCT|Word=sɛ̌n
@@ -727,7 +727,7 @@
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=82548|AlignEnd=82625|GE=INAC|nWord=6|RX=MV|Word=sɛ̰́
 3	sɛ̰	sɛ̰	VERB	V	_	0	root	_	AlignBegin=82625|AlignEnd=82702|GE=déverser|nWord=6|RX=V|Word=sɛ̰́
 4	bêm	bêm	NOUN	N	_	3	comp:obj	_	AlignBegin=82702|AlignEnd=82856|GE=enfant|nWord=7|RX=N|Word=bêm
-5	H-	H-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=82856|AlignEnd=82933|GE=INF].[ACC|nWord=8|RX=MV|Word=pı̰́
+5	H-	H-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=82856|AlignEnd=82933|GE=INF.ACC|nWord=8|RX=MV|Word=pı̰́
 6	pḭ	pḭ	VERB	V	_	3	compound:svc	_	AlignBegin=82933|AlignEnd=83010|GE=lancer|nWord=8|RX=V|Word=pı̰́
 7	nù	nù	NOUN	N	_	6	comp:obl	_	AlignBegin=83010|AlignEnd=83167|GE=terre|nWord=9|RX=N|Word=nù
 
@@ -1505,7 +1505,7 @@
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=175486|AlignEnd=175650|GE=ACC|nWord=2|RX=MV|Word=pèà
 5	pei	pei	VERB	V	_	0	root	_	AlignBegin=175650|AlignEnd=175814|GE=revenir|nWord=2|RX=V|Word=pèà
 6	-H	-H	X	MOD	_	5	aff	_	AlignBegin=175814|AlignEnd=175978|GE=MT|nWord=2|RX=MOD|Word=pèà
-7	H-	H-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=175978|AlignEnd=176224|GE=INF].[ACC|nWord=3|RX=MV|Word=gbó
+7	H-	H-	AUX	MV	Aspect=Perf	8	aux	_	AlignBegin=175978|AlignEnd=176224|GE=INF.ACC|nWord=3|RX=MV|Word=gbó
 8	gbo	gbo	VERB	V	_	5	compound:svc	_	AlignBegin=176224|AlignEnd=176470|GE=arriver|nWord=3|RX=V|Word=gbó
 9	sɛ̀n	sɛ̀n	ADP	FCT	_	8	comp:obl	_	AlignBegin=176470|AlignEnd=176716|GE=dans|nWord=4|RX=FCT|Word=sɛ̌n
 10	-H	-H	X	MOD	_	9	aff	_	AlignBegin=176716|AlignEnd=176962|GE=MT|nWord=4|RX=MOD|Word=sɛ̌n
@@ -2427,7 +2427,7 @@
 13	nɛ̀	nɛ̀	PART	MV	_	12	mod	_	AlignBegin=314986|AlignEnd=315269|GE=CIRC|nWord=10|RX=MV|Word=nɛ̀
 14	bêm	bêm	NOUN	N	_	12	comp:obj	_	AlignBegin=315269|AlignEnd=315552|GE=enfant|nWord=11|RX=N|Word=bêm
 15	nɛ̀	nɛ̀	CCONJ	SUB.REL	_	19	cc	_	AlignBegin=315552|AlignEnd=315646|GE=et_ainsi|nWord=12|RX=COORD|Word=ndèì
-16	=éí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	19	subj	_	AlignBegin=315646|AlignEnd=315740|GE=P].[IMP|nWord=12|RX=PR|Word=ndèì
+16	=éí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	19	subj	_	AlignBegin=315646|AlignEnd=315740|GE=P.IMP|nWord=12|RX=PR|Word=ndèì
 17	-H	-H	X	FCT	_	16	aff	_	AlignBegin=315740|AlignEnd=315835|GE=D|nWord=12|RX=FCT|Word=ndèì
 18	H-	H-	AUX	MV	Aspect=Imp	19	aux	_	AlignBegin=315835|AlignEnd=315977|GE=INAC|nWord=13|RX=MV|Word=tɔ̰́
 19	tɔ̰	tɔ̰	VERB	V	_	2	comp:cleft	_	AlignBegin=315977|AlignEnd=316118|GE=dire|nWord=13|RX=V|Word=tɔ̰́
@@ -2455,7 +2455,7 @@
 # sent_timecode = 316398, 318789
 # phonetic_text = ʔéí zṵ́ bêm kɔ́ màá ná
 # text_fr = on ne vole pas l'enfant d'autrui
-1	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	3	subj	_	AlignBegin=317244|AlignEnd=317385|GE=P].[IMP|nWord=7|RX=PR|Word=ʔéí
+1	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	3	subj	_	AlignBegin=317244|AlignEnd=317385|GE=P.IMP|nWord=7|RX=PR|Word=ʔéí
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=317385|AlignEnd=317455|GE=INAC|nWord=8|RX=MV|Word=zṵ́
 3	zṵ	zṵ	VERB	V	_	0	root	_	AlignBegin=317455|AlignEnd=317526|GE=voler_qqch|nWord=8|RX=V|Word=zṵ́
 4	bêm	bêm	NOUN	N	_	3	comp:obj	_	AlignBegin=317526|AlignEnd=317667|GE=enfant|nWord=9|RX=N|Word=bêm

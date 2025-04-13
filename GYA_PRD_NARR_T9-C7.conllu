@@ -664,7 +664,7 @@
 3	dɛ	dɛ	VERB	V	_	0	root	_	AlignBegin=86989|AlignEnd=87116|GE=faire|Gloss=faire|nWord=2|RX=V|Word=dɛ́
 4	kóré	kóré	NOUN	N	_	3	comp:obj	_	AlignBegin=87116|AlignEnd=87242|GE=aliment_séché|Gloss=aliment_séché|nWord=3|RX=N|Word=kóréà
 5	-à	-à	DET	MN	_	4	det	_	AlignBegin=87242|AlignEnd=87369|GE=NMLS|Gloss=-NMLS|nWord=3|RX=MN|Word=kóréà
-6	H-	H-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=87369|AlignEnd=87495|GE=INF].[ACC|Gloss=INF.ACC-|nWord=4|RX=MV|Word=ʔá
+6	H-	H-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=87369|AlignEnd=87495|GE=INF.ACC|Gloss=INF.ACC-|nWord=4|RX=MV|Word=ʔá
 7	ʔa	ʔa	VERB	V	_	3	compound:svc	_	AlignBegin=87495|AlignEnd=87622|GE=poser|Gloss=poser|nWord=4|RX=V|Word=ʔá
 8	yík	yík	ADP	FCT	_	7	comp:obl	_	AlignBegin=87622|AlignEnd=87875|GE=à_la_surface|Gloss=à_la_surface|nWord=5|RX=FCT|Word=yík
 9	wèè	wèè	NOUN	N	_	8	comp	_	AlignBegin=87875|AlignEnd=88128|GE=feu|Gloss=feu|nWord=6|RX=N|Word=wèè
@@ -805,7 +805,7 @@
 13	-H	-H	X	FCT	_	12	aff	_	AlignBegin=101291|AlignEnd=101420|GE=MT|Gloss=-D|nWord=6|RX=FCT|Word=yòò
 14	yérè	yérè	NOUN	N	_	12	comp:obj	_	AlignBegin=101420|AlignEnd=101805|GE=buffle|Gloss=buffle|nWord=7|RX=N|Word=yérè
 15	náár	náár	NUM	NUM	_	14	mod	_	AlignBegin=101805|AlignEnd=102190|GE=quatre|Gloss=quatre|nWord=8|RX=NUM|Word=náár
-16	H-	H-	AUX	MV	Aspect=Perf	17	aux	_	AlignBegin=102190|AlignEnd=102382|GE=INF].[ACC|Gloss=INF.ACC-|nWord=9|RX=MV|Word=ʔá
+16	H-	H-	AUX	MV	Aspect=Perf	17	aux	_	AlignBegin=102190|AlignEnd=102382|GE=INF.ACC|Gloss=INF.ACC-|nWord=9|RX=MV|Word=ʔá
 17	ʔa	ʔa	VERB	V	_	12	compound:svc	_	AlignBegin=102382|AlignEnd=102575|GE=jeter|Gloss=jeter|nWord=9|RX=V|Word=ʔá
 18	nù	nù	NOUN	N	_	17	comp:obl	_	AlignBegin=102575|AlignEnd=102960|GE=terre|Gloss=terre|nWord=10|RX=N|Word=nù
 19	ʔòé	ʔòé	ADV	ADV	_	12	mod	_	AlignBegin=102960|AlignEnd=103345|GE=aussi|Gloss=aussi|nWord=11|RX=ADV|Word=ʔòé
@@ -844,7 +844,7 @@
 6	kur	kur	VERB	V	_	0	root	_	AlignBegin=106757|AlignEnd=106888|GE=se_lever|Gloss=se_lever|nWord=12|RX=V|Word=kúr
 7	kɔ́	kɔ́	ADP	FCT	_	6	comp:obl	_	AlignBegin=106888|AlignEnd=107019|GE=quant_à|Gloss=quant_à|nWord=13|RX=FCT|Word=kéí
 8	=éí	ʔéí	PRON	PR	PronType=Prs	7	comp	_	AlignBegin=107019|AlignEnd=107150|GE=LogS|Gloss=-LogS|nWord=13|RX=PR|Word=kéí
-9	mɛ́-B-	mɛ́-B-	AUX	MV	_	10	aux	_	AlignBegin=107150|AlignEnd=107237|GE=FIN].[ỊNAC|Gloss=FIN.ỊNAC-|nWord=14|RX=MV|Word=mɛ́-ndàkà
+9	mɛ́-B-	mɛ́-B-	AUX	MV	_	10	aux	_	AlignBegin=107150|AlignEnd=107237|GE=FIN.ỊNAC|Gloss=FIN.ỊNAC-|nWord=14|RX=MV|Word=mɛ́-ndàkà
 10	ndak	ndak	VERB	V	_	6	compound:svc	_	AlignBegin=107237|AlignEnd=107324|GE=poursuivre|Gloss=poursuivre|nWord=14|RX=V|Word=mɛ́-ndàkà
 11	=à	ʔà̰	PRON	MN	Number=Sing|Person=3	10	comp:obj	_	AlignBegin=107324|AlignEnd=107412|GE=3SG|Gloss=-3SG|nWord=14|RX=MN|Word=mɛ́-ndàkà
 12	péínɛ́	péínɛ́	PART	MV	_	6	mod	_	AlignBegin=107412|AlignEnd=107670|GE=en_revenant|Gloss=en_revenant|nWord=15|RX=MV|Word=péínɛ́
@@ -1124,12 +1124,12 @@
 # text_fr = Quand elle s'est levée, quand elle s'est levée, et alors voilà que son frère était, quant à lui, déjà mort
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	4	subj	_	AlignBegin=140860|AlignEnd=141066|GE=3SG|Gloss=3SG|nWord=1|RX=PR|Word=ʔà̰á̰
 2	-HV	-HV	AUX	MV	_	4	aux	_	AlignBegin=141066|AlignEnd=141273|GE=cond|Gloss=-cond|nWord=1|RX=MV|Word=ʔà̰á̰
-3	tɛ̀ɛ́-B-	tɛ̀ɛ́-B-	AUX	MV	Aspect=Perf|Mood=Cnd	4	aux	_	AlignBegin=141273|AlignEnd=141479|GE=COND].[ACC|Gloss=COND.ACC-|nWord=2|RX=MV|Word=tɛ̀ɛ́-kùr
+3	tɛ̀ɛ́-B-	tɛ̀ɛ́-B-	AUX	MV	Aspect=Perf|Mood=Cnd	4	aux	_	AlignBegin=141273|AlignEnd=141479|GE=COND.ACC|Gloss=COND.ACC-|nWord=2|RX=MV|Word=tɛ̀ɛ́-kùr
 4	kur	kur	VERB	V	_	17	mod	_	AlignBegin=141479|AlignEnd=141686|GE=se_lever|Gloss=se_lever|nWord=2|RX=V|Word=tɛ̀ɛ́-kùr
 5	wó	wó	PART	MOD	_	4	discourse:sp	_	AlignBegin=141686|AlignEnd=142099|GE=vraiment|Gloss=vraiment|nWord=3|RX=MOD|Word=wó
 6	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=142099|AlignEnd=142305|GE=3SG|Gloss=3SG|nWord=4|RX=PR|Word=ʔà̰á̰
 7	-HV	-HV	AUX	MV	_	9	aux	_	AlignBegin=142305|AlignEnd=142512|GE=cond|Gloss=-cond|nWord=4|RX=MV|Word=ʔà̰á̰
-8	tɛ̀ɛ́-B-	tɛ̀ɛ́-B-	AUX	MV	Aspect=Perf|Mood=Cnd	9	aux	_	AlignBegin=142512|AlignEnd=142718|GE=COND].[ACC|Gloss=COND.ACC-|nWord=5|RX=MV|Word=tɛ̀ɛ́-kùr
+8	tɛ̀ɛ́-B-	tɛ̀ɛ́-B-	AUX	MV	Aspect=Perf|Mood=Cnd	9	aux	_	AlignBegin=142512|AlignEnd=142718|GE=COND.ACC|Gloss=COND.ACC-|nWord=5|RX=MV|Word=tɛ̀ɛ́-kùr
 9	kur	kur	VERB	V	_	4	conj:redup	_	AlignBegin=142718|AlignEnd=142925|GE=se_lever|Gloss=se_lever|nWord=5|RX=V|Word=tɛ̀ɛ́-kùr
 10	wó	wó	PART	MOD	_	9	discourse:sp	_	AlignBegin=142925|AlignEnd=143338|GE=vraiment|Gloss=vraiment|nWord=6|RX=MOD|Word=wó
 11	ʔèè	ʔèè	CCONJ	SUB	_	17	cc	_	AlignBegin=143338|AlignEnd=143751|GE=puis|Gloss=puis|nWord=7|RX=SUB|Word=ʔèè
@@ -1288,7 +1288,7 @@
 11	yè	yè	PART	MOD	_	5	discourse:sp	_	AlignBegin=161405|AlignEnd=161778|GE=finalement|Gloss=finalement|nWord=6|RX=MOD|Word=yè
 
 # sent_id = GYA_PRD_NARR_T9-C7_047-049
-# text = ʔèè bókáɲá =à ʔà̰ H- hɔ kpɔ́k tí ʔèè H- yak H- yak H- si nɛ̀ sààyé H- hei nɛ̀ kɔ̰̀á̰ ʔèááá ʔèè H- sa kàá -H H- nɛ H- sa béí hɛ̀n -H sààyé mɛ̀
+# text = ʔèè bókáɲá -H =à ʔà̰ H- hɔ kpɔ́k tí ʔèè H- yak H- yak H- si nɛ̀ sààyé H- hei nɛ̀ kɔ̰̀á̰ ʔèááá ʔèè H- sa kàá -H H- nɛ H- sa béí hɛ̀n -H sààyé mɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 161778, 167380
@@ -1324,7 +1324,7 @@
 28	-H	-H	X	FCT	_	27	aff	_	AlignBegin=166210|AlignEnd=166300|GE=MT|Gloss=-D|nWord=19|RX=FCT|Word=kàà,
 29	H-	H-	AUX	MV	Aspect=Imp	30	aux	_	AlignBegin=166300|AlignEnd=166390|GE=INAC|Gloss=INAC-|nWord=20|RX=MV|Word=nɛ́
 30	nɛ	nɛ	VERB	V	_	26	conj:coord	_	AlignBegin=166390|AlignEnd=166480|GE=aller|Gloss=aller|nWord=20|RX=V|Word=nɛ́
-31	H-	H-	AUX	MV	Aspect=Perf	32	aux	_	AlignBegin=166480|AlignEnd=166570|GE=INF].[ACC|Gloss=INF.ACC-|nWord=21|RX=MV|Word=sá
+31	H-	H-	AUX	MV	Aspect=Perf	32	aux	_	AlignBegin=166480|AlignEnd=166570|GE=INF.ACC|Gloss=INF.ACC-|nWord=21|RX=MV|Word=sá
 32	sa	sa	VERB	V	_	30	compound:svc	_	AlignBegin=166570|AlignEnd=166660|GE=appeler|Gloss=appeler|nWord=21|RX=V|Word=sá
 33	béí	béí	NOUN	N	_	32	comp:obj	_	AlignBegin=166660|AlignEnd=166840|GE=gens|Gloss=gens|nWord=22|RX=N|Word=béí
 34	hɛ̀n	hɛ̀n	ADP	FCT	_	30	comp:obl	_	AlignBegin=166840|AlignEnd=166930|GE=dans|Gloss=dans|nWord=23|RX=FCT|Word=hɛ̌n
@@ -1343,7 +1343,7 @@
 2	-B	-B	AUX	MV	Mood=Jus	4	aux	_	AlignBegin=167518|AlignEnd=167655|GE=INJ|Gloss=-INJ|nWord=1|RX=MV|Word=ʔèì
 3	H-	H-	AUX	MV	Aspect=Imp|Mood=Jus	4	aux	_	AlignBegin=167655|AlignEnd=167793|GE=INJ-INAC|Gloss=INJ-INAC-|nWord=2|RX=MV|Word=tɛ́
 4	tɛ	tɛ	VERB	V	_	0	root	_	AlignBegin=167793|AlignEnd=167930|GE=venir|Gloss=venir|nWord=2|RX=V|Word=tɛ́
-5	H-	H-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=167930|AlignEnd=168068|GE=INF].[ACC|Gloss=INF.ACC-|nWord=3|RX=MV|Word=gɔ́
+5	H-	H-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=167930|AlignEnd=168068|GE=INF.ACC|Gloss=INF.ACC-|nWord=3|RX=MV|Word=gɔ́
 6	gɔ	gɔ	VERB	V	_	4	compound:svc	_	AlignBegin=168068|AlignEnd=168205|GE=porter_à_plusieurs|Gloss=porter_à_plusieurs|nWord=3|RX=V|Word=gɔ́
 7	nɛ̀	nɛ̀	PART	MV	_	6	mod	_	AlignBegin=168205|AlignEnd=168480|GE=INSTR|Gloss=INSTR|nWord=4|RX=MV|Word=nɛ̀
 8	bóɲá	bóɲá	NOUN	N	_	6	comp:obj	_	AlignBegin=168480|AlignEnd=168572|GE=frère|Gloss=frère|nWord=5|RX=N|Word=bóɲáà
@@ -1363,7 +1363,7 @@
 3	-H	-H	X	FCT	_	2	udep	_	AlignBegin=169395|AlignEnd=169516|GE=MT|Gloss=-D|nWord=2|RX=FCT|Word=ndàyá
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp	_	AlignBegin=169516|AlignEnd=169759|GE=chose|Gloss=chose|nWord=3|RX=N|Word=mɔ̀
 5	nɛ̀	nɛ̀	SCONJ	SUB	_	2	mod@relcl	_	AlignBegin=169759|AlignEnd=169840|GE=REL|Gloss=REL|nWord=4|RX=SUB|Word=ndèì
-6	=éí	ʔéí	PRON	PR	Number=Sing|PronType=Prs	9	subj	_	AlignBegin=169840|AlignEnd=169921|GE=P].[IMP|Gloss=P.IMP|nWord=4|RX=PR|Word=ndèì
+6	=éí	ʔéí	PRON	PR	Number=Sing|PronType=Prs	9	subj	_	AlignBegin=169840|AlignEnd=169921|GE=P.IMP|Gloss=P.IMP|nWord=4|RX=PR|Word=ndèì
 7	-H	-H	X	FCT	_	6	aff	_	AlignBegin=169921|AlignEnd=170002|GE=MT|Gloss=-D|nWord=4|RX=FCT|Word=ndèì
 8	H-	H-	AUX	MV	Aspect=Imp	9	aux	_	AlignBegin=170002|AlignEnd=170124|GE=INAC|Gloss=INAC-|nWord=5|RX=MV|Word=nɛ́
 9	nɛ	nɛ	VERB	V	_	5	comp	_	AlignBegin=170124|AlignEnd=170245|GE=aller|Gloss=aller|nWord=5|RX=V|Word=nɛ́

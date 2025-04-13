@@ -922,7 +922,7 @@
 # sent_timecode = 102264, 107942
 # phonetic_text = dúk hɛ̌n ɗòŋáà
 # text_fr = peu après
-1	ZERO	_	X	MV	Aspect=Imp	3	subj	_	AlignBegin=106482|AlignEnd=106726|GE=ça|nWord=13|RX=n|Word=dúk
+1	ZERO	ZERO	X	MV	Aspect=Imp	3	subj	_	AlignBegin=106482|AlignEnd=106726|GE=ça|nWord=13|RX=n|Word=dúk
 2	H-	H-	AUX	V	Aspect=Imp	3	aux	_	AlignBegin=106726|AlignEnd=106969|GE=INAC|nWord=13|RX=MV|Word=dúk
 3	duk	duk	VERB	V	_	0	root	_	AlignBegin=106726|AlignEnd=106969|GE=rester|nWord=13|RX=V|Word=dúk
 4	hɛ̀n	hɛ̀n	ADP	FCT	_	3	comp:obl	_	AlignBegin=106969|AlignEnd=107213|GE=dans|nWord=14|RX=FCT|Word=hɛ̌n
@@ -2499,7 +2499,7 @@
 # sent_timecode = 320224, 320919
 # phonetic_text = kàɗá
 # text_fr = C'est fini
-1	ZERO	_	X	MV	Aspect=Pfv	3	subj	_	AlignBegin=320224|AlignEnd=320572|GE=ça|nWord=1|RX=N|Word=kàɗá
+1	ZERO	ZERO	X	MV	Aspect=Pfv	3	subj	_	AlignBegin=320224|AlignEnd=320572|GE=ça|nWord=1|RX=N|Word=kàɗá
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=320224|AlignEnd=320572|GE=ACC|nWord=1|RX=MV|Word=kàɗá
 3	kaɗi	kaɗi	VERB	V	_	0	root	_	AlignBegin=320572|AlignEnd=320919|GE=être_fini|nWord=1|RX=V|Word=kàɗá
 

@@ -312,7 +312,7 @@
 4	ndak	ndak	VERB	V	_	0	root	_	AlignBegin=42008|AlignEnd=42103|GE=pourchasser|nWord=3|RX=V|Word=ndàkà
 5	-H	-H	X	FCT	_	4	aff	_	AlignBegin=42103|AlignEnd=42199|GE=MT|nWord=3|RX=FCT|Word=ndàkà
 6	sínɛ́	sínɛ́	PART	MV	_	4	mod	_	AlignBegin=42199|AlignEnd=42342|GE=en_s'en_allant|nWord=4|RX=MV|Word=sínɛ́ɛ́ɛ́
-7	-vv	-vv	DET	MOD	_	6	det	_	AlignBegin=42342|AlignEnd=42485|GE=DUR|nWord=4|RX=MOD|Word=sínɛ́ɛ́ɛ́
+7	-VV	-VV	DET	MOD	_	6	det	_	AlignBegin=42342|AlignEnd=42485|GE=DUR|nWord=4|RX=MOD|wordform=-vv|Word=sínɛ́ɛ́ɛ́
 
 # sent_id = GYA_PRD_NARR_T24-C59_015-015a
 # text = ká bé pɛ̀ɲá BHa- daŋ -H gɔ́n zìtɔ̰́
@@ -1592,7 +1592,7 @@
 # sent_timecode = 184927, 189029
 # phonetic_text = fṵ́ hàrrr
 # text_fr = ça éclate très fort
-1	ZERO	_	X	MV	Aspect=Imp	3	subj	_	AlignBegin=187881|AlignEnd=188168|GE=ça|nWord=9|RX=MV|Word=fṵ́
+1	ZERO	ZERO	X	MV	Aspect=Imp	3	subj	_	AlignBegin=187881|AlignEnd=188168|GE=ça|nWord=9|RX=MV|Word=fṵ́
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=187881|AlignEnd=188168|GE=INAC|nWord=9|RX=MV|Word=fṵ́
 3	fṵ	fṵ	VERB	V	_	0	root	_	AlignBegin=188168|AlignEnd=188455|GE=éclater|nWord=9|RX=V|Word=fṵ́
 4	hàr-hàr	hàr-hàr	ADJ	AA	_	3	mod	_	AlignBegin=188455|AlignEnd=188646|GE=avec_des_éclats_aigus|nWord=10|RX=AA|Word=hàrrr
@@ -2562,7 +2562,7 @@
 # sent_timecode = 301048, 302300
 # phonetic_text = yááá
 # text_fr = le temps passe
-1	ZERO	_	X	MV	Aspect=Imp	3	subj	_	AlignBegin=301048|AlignEnd=301465|GE=ça|nWord=1|RX=MV|Word=yááá
+1	ZERO	ZERO	X	MV	Aspect=Imp	3	subj	_	AlignBegin=301048|AlignEnd=301465|GE=ça|nWord=1|RX=MV|Word=yááá
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=301048|AlignEnd=301465|GE=INAC|nWord=1|RX=MV|Word=yááá
 3	ya	ya	VERB	V	_	0	root	_	AlignBegin=301465|AlignEnd=301882|GE=demeurer|nWord=1|RX=V|Word=yááá
 4	-VV	-VV	DET	MOD	_	3	det	_	AlignBegin=301882|AlignEnd=302300|GE=DUR|nWord=1|RX=MOD|Word=yááá

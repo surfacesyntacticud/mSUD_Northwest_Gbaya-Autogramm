@@ -7,7 +7,7 @@
 # phonetic_text = ɲínám nɛ́ ʔìvɔ̂n
 # text_fr = Je m'appelle Yvonne
 1	ɲîn	ɲîn	NOUN	N	_	4	subj	_	AlignBegin=790|AlignEnd=936|GE=nom_propre|Gloss=nom_propre|nWord=1|RX=N|Word=ɲínám
-2	-H	_	ADP	_	_	1	udep	_	AlignBegin=936|AlignEnd=1082|GE=MT|Gloss=-MT|nWord=1|RX=FCT|Word=ɲínám
+2	-H	-H	ADP	_	_	1	udep	_	AlignBegin=936|AlignEnd=1082|GE=MT|Gloss=-MT|nWord=1|RX=FCT|Word=ɲínám
 3	=ám	ʔám	PRON	PR	Number=Sing|Person=1|PronType=Prs	2	comp	_	AlignBegin=1082|AlignEnd=1227|GE=1SG|Gloss=-1SG|nWord=1|RX=PR|Word=ɲínám
 4	nɛ́	nɛ́	AUX	PRÉD	_	0	root	_	AlignBegin=1227|AlignEnd=1664|GE=ETRE-ESS|Gloss=ETRE-ESS|nWord=2|RX=PRÉD|Word=nɛ́
 5	ʔìvɔ̂n	ʔìvɔ̂n	PROPN	NPR	_	4	comp:pred	_	AlignBegin=1664|AlignEnd=2100|GE=Yvonne|Gloss=Yvonne|nWord=3|RX=NPR|Word=ʔìvɔ̂n
@@ -23,21 +23,21 @@
 2	mà	mà	DET	MN	_	3	det	_	AlignBegin=2641|AlignEnd=3182|GE=INDF|Gloss=INDF|nWord=2|RX=MN|Word=mà
 3	bókóbêm	bókóbêm	NOUN	N	_	11	dislocated:subj	_	AlignBegin=3182|AlignEnd=3723|GE=fille|Gloss=fille|nWord=3|RX=N|Word=bókóbêm
 4	ʔîn	ʔîn	ADP	FCT	_	3	conj:coord	_	AlignBegin=3723|AlignEnd=3993|GE=et|Gloss=et|nWord=4|RX=FCT|Word=ʔín
-5	-H	_	X	X	_	4	aff	_	AlignBegin=3993|AlignEnd=4264|GE=MT|Gloss=-MT|nWord=4|RX=FCT|Word=ʔín
+5	-H	-H	X	X	_	4	aff	_	AlignBegin=3993|AlignEnd=4264|GE=MT|Gloss=-MT|nWord=4|RX=FCT|Word=ʔín
 6	bóíbêm	bóíbêm	NOUN	N	_	4	comp	_	AlignBegin=4264|AlignEnd=4805|GE=garçon|Gloss=garçon|nWord=5|RX=N|Word=bóíbêm
-7	ʔá̰-nɛ̀	_	DET	TOP	_	3	det	_	AlignBegin=4805|AlignEnd=4985|GE=TOP|Gloss=TOP|nWord=6|RX=TOP|Word=ʔá̰-ndɔ̀wá
+7	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	TOP	_	3	det	_	AlignBegin=4805|AlignEnd=4985|GE=TOP|Gloss=TOP|nWord=6|RX=TOP|Word=ʔá̰-ndɔ̀wá
 8	=wà	wà	PRON	PP	Number=Plur|Person=3	11	subj	_	AlignBegin=4985|AlignEnd=5165|GE=3PL|Gloss=3PL|nWord=6|RX=PP|Word=ʔá̰-ndɔ̀wá
-9	-H	_	X	X	_	8	aff	_	AlignBegin=5165|AlignEnd=5346|GE=MT|Gloss=-MT|nWord=6|RX=FCT|Word=ʔá̰-ndɔ̀wá
-10	BHa-	_	AUX	MV	Aspect=Perf	11	aux	_	AlignBegin=5346|AlignEnd=5526|GE=ACC|Gloss=ACC-|nWord=7|RX=MV|Word=nɛ̀ɛ́
+9	-H	-H	X	X	_	8	aff	_	AlignBegin=5165|AlignEnd=5346|GE=MT|Gloss=-MT|nWord=6|RX=FCT|Word=ʔá̰-ndɔ̀wá
+10	BHa-	BHa-	AUX	MV	Aspect=Perf	11	aux	_	AlignBegin=5346|AlignEnd=5526|GE=ACC|Gloss=ACC-|nWord=7|RX=MV|Word=nɛ̀ɛ́
 11	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=5526|AlignEnd=5706|GE=aller|Gloss=aller|nWord=7|RX=V|Word=nɛ̀ɛ́
-12	-H	_	X	X	_	11	aff	_	AlignBegin=5706|AlignEnd=5887|GE=MT|Gloss=-MT|nWord=7|RX=FCT|Word=nɛ̀ɛ́
+12	-H	-H	X	X	_	11	aff	_	AlignBegin=5706|AlignEnd=5887|GE=MT|Gloss=-MT|nWord=7|RX=FCT|Word=nɛ̀ɛ́
 13	hɛ̀n	hɛ̀n	ADP	FCT	_	11	mod	_	AlignBegin=5887|AlignEnd=6428|GE=dans|Gloss=dans|nWord=8|RX=FCT|Word=hɛ̀n...
-14	BHa-	_	AUX	MV	Aspect=Perf	15	aux	_	AlignBegin=6428|AlignEnd=6608|GE=ACC|Gloss=ACC-|nWord=9|RX=MV|Word=nɛ̀ɛ̀
+14	BHa-	BHa-	AUX	MV	Aspect=Perf	15	aux	_	AlignBegin=6428|AlignEnd=6608|GE=ACC|Gloss=ACC-|nWord=9|RX=MV|Word=nɛ̀ɛ̀
 15	nɛ	nɛ	VERB	V	_	11	conj:dicto	_	AlignBegin=6608|AlignEnd=6788|GE=aller|Gloss=aller|nWord=9|RX=V|Word=nɛ̀ɛ̀
-16	-H	_	X	X	_	15	aff	_	AlignBegin=6788|AlignEnd=6969|GE=MT|Gloss=-MT|nWord=9|RX=FCT|Word=nɛ̀ɛ̀
+16	-H	-H	X	X	_	15	aff	_	AlignBegin=6788|AlignEnd=6969|GE=MT|Gloss=-MT|nWord=9|RX=FCT|Word=nɛ̀ɛ̀
 17	gúɗù	gúɗù	NOUN	N	_	15	comp:obl	_	AlignBegin=6969|AlignEnd=7510|GE=campement|Gloss=campement|nWord=10|RX=N|Word=gúɗù
 18	ʔîn	ʔîn	ADP	FCT	_	15	comp:obl	_	AlignBegin=7510|AlignEnd=7780|GE=COM|Gloss=COM|nWord=11|RX=FCT|Word=ʔín
-19	-H	_	X	FCT	_	18	aff	_	AlignBegin=7780|AlignEnd=8051|GE=MT|Gloss=-MT|nWord=11|RX=FCT|Word=ʔín
+19	-H	-H	X	FCT	_	18	aff	_	AlignBegin=7780|AlignEnd=8051|GE=MT|Gloss=-MT|nWord=11|RX=FCT|Word=ʔín
 20	bókáɲá	bókáɲá	NOUN	N	_	18	comp	_	AlignBegin=8051|AlignEnd=8321|GE=soeur|Gloss=soeur|nWord=12|RX=N|Word=bókáɲáà
 21	-H	-H	ADP	_	_	20	udep	_	GE=MT|nWord=12|RX=FCT|Word=bókáɲáà
 22	=à	ʔà̰	PRON	MN	Number=Sing|Person=3	21	comp	_	AlignBegin=8321|AlignEnd=8590|GE=3SG|Gloss=-3SG|nWord=12|RX=MN|Word=bókáɲáà
@@ -49,14 +49,14 @@
 # sent_timecode = 8590, 11830
 # phonetic_text = ʔá̰-nɛ̀ bé bóɲáà dɛ̀ɛ́ tùà
 # text_fr = Voilà que le frère a construit une maison.
-1	ʔá̰-nɛ̀	_	CCONJ	SUB	_	7	cc	_	AlignBegin=8590|AlignEnd=9238|GE=voilà_que|Gloss=voilà_que|nWord=1|RX=SUB|Word=ʔá̰-nɛ̀
+1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	SUB	_	7	cc	_	AlignBegin=8590|AlignEnd=9238|GE=voilà_que|Gloss=voilà_que|nWord=1|RX=SUB|Word=ʔá̰-nɛ̀
 2	bé	bé	NOUN	N	_	3	mod	_	AlignBegin=9238|AlignEnd=9886|GE=petit|Gloss=petit|nWord=2|RX=N|Word=bé
 3	bóɲá	bóɲá	NOUN	N	_	7	subj	_	AlignBegin=9886|AlignEnd=10210|GE=frère|Gloss=frère|nWord=3|RX=N|Word=bóɲáà
 4	-H	-H	ADP	_	_	3	udep	_	GE=MT|nWord=3|RX=FCT|Word=bóɲáà
 5	=à̰	ʔà̰	PRON	PP	Number=Sing|Person=3	4	comp	_	AlignBegin=10210|AlignEnd=10534|GE=3SG|Gloss=-3SG|nWord=3|RX=PP|Word=bóɲáà
-6	BHa-	_	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=10534|AlignEnd=10750|GE=ACC|Gloss=ACC-|nWord=4|RX=MV|Word=dɛ̀ɛ́
+6	BHa-	BHa-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=10534|AlignEnd=10750|GE=ACC|Gloss=ACC-|nWord=4|RX=MV|Word=dɛ̀ɛ́
 7	dɛ	dɛ	VERB	V	_	0	root	_	AlignBegin=10750|AlignEnd=10966|GE=faire|Gloss=faire|nWord=4|RX=V|Word=dɛ̀ɛ́
-8	-H	_	X	FCT	_	7	aff	_	AlignBegin=10966|AlignEnd=11182|GE=MT|Gloss=-MT|nWord=4|RX=FCT|Word=dɛ̀ɛ́
+8	-H	-H	X	FCT	_	7	aff	_	AlignBegin=10966|AlignEnd=11182|GE=MT|Gloss=-MT|nWord=4|RX=FCT|Word=dɛ̀ɛ́
 9	tùà	tùà	NOUN	N	_	7	comp:obj	_	AlignBegin=11182|AlignEnd=11830|GE=maison|Gloss=maison|nWord=5|RX=N|Word=tùà
 
 # sent_id = GYA_PRD_NARR_T9-C7_004-004
@@ -69,10 +69,10 @@
 1	ʔèè	ʔèè	CCONJ	SUB	_	6	cc	_	AlignBegin=11830|AlignEnd=12310|GE=puis|Gloss=puis|nWord=1|RX=SUB|Word=ʔèè
 2	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	SUCOORD	_	6	cc	_	AlignBegin=12310|AlignEnd=12470|GE=voilà_que|Gloss=voilà_que|nWord=2|RX=SUCOORD|Word=ʔá̰-nàá
 3	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	6	subj	_	AlignBegin=12470|AlignEnd=12630|GE=3SG|Gloss=-3SG|nWord=2|RX=PERS|Word=ʔá̰-nàá
-4	-H	_	X	FCT	_	3	aff	_	AlignBegin=12630|AlignEnd=12790|GE=MT|Gloss=-MT|nWord=2|RX=FCT|Word=ʔá̰-nàá
-5	BHa-	_	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=12790|AlignEnd=12950|GE=ACC|Gloss=ACC-|nWord=3|RX=MV|Word=nɛ̀ɛ̀
+4	-H	-H	X	FCT	_	3	aff	_	AlignBegin=12630|AlignEnd=12790|GE=MT|Gloss=-MT|nWord=2|RX=FCT|Word=ʔá̰-nàá
+5	BHa-	BHa-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=12790|AlignEnd=12950|GE=ACC|Gloss=ACC-|nWord=3|RX=MV|Word=nɛ̀ɛ̀
 6	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=12950|AlignEnd=13110|GE=aller|Gloss=aller|nWord=3|RX=V|Word=nɛ̀ɛ̀
-7	-H	_	X	FCT	_	6	aff	_	AlignBegin=13110|AlignEnd=13270|GE=MT|Gloss=-MT|nWord=3|RX=FCT|Word=nɛ̀ɛ̀
+7	-H	-H	X	FCT	_	6	aff	_	AlignBegin=13110|AlignEnd=13270|GE=MT|Gloss=-MT|nWord=3|RX=FCT|Word=nɛ̀ɛ̀
 8	nɛ́	nɛ́	PART	MOD	_	6	mod	_	AlignBegin=13270|AlignEnd=13750|GE=FOC|Gloss=FOC|nWord=4|RX=MOD|Word=nɛ́
 9	yàrí	yàrí	NOUN	N	_	6	comp:obl	_	AlignBegin=13750|AlignEnd=14230|GE=excursion|Gloss=excursion|nWord=5|RX=N|Word=yàrí
 10	yàrí	yàrí	NOUN	N	_	9	conj:dicto	_	AlignBegin=14230|AlignEnd=14470|GE=excursion|Gloss=excursion|nWord=6|RX=N|Word=yàrì
@@ -140,16 +140,16 @@
 # phonetic_text = ʔèé ʔà̰ yák kɔ̰́à̰ yàrí
 # text_fr = Puis il part quant à lui en excursion
 1	ʔèè	ʔèè	CCONJ	COORD	_	5	cc	_	AlignBegin=21638|AlignEnd=21810|GE=puis|Gloss=puis|nWord=1|RX=COORD|Word=ʔèé
-2	-H	_	X	FCT	_	1	aff	_	AlignBegin=21810|AlignEnd=21982|GE=MT|Gloss=-MT|nWord=1|RX=FCT|Word=ʔèé
+2	-H	-H	X	FCT	_	1	aff	_	AlignBegin=21810|AlignEnd=21982|GE=MT|Gloss=-MT|nWord=1|RX=FCT|Word=ʔèé
 3	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	5	subj	_	AlignBegin=21982|AlignEnd=22326|GE=3SG|Gloss=3SG|nWord=2|RX=PR|Word=ʔà̰
-4	H-	_	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=22326|AlignEnd=22498|GE=INAC|Gloss=INAC-|nWord=3|RX=MV|Word=yák
+4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=22326|AlignEnd=22498|GE=INAC|Gloss=INAC-|nWord=3|RX=MV|Word=yák
 5	yak	yak	VERB	V	_	0	root	_	AlignBegin=22498|AlignEnd=22670|GE=partir|Gloss=partir|nWord=3|RX=V|Word=yák
 6	kɔ́	kɔ́	ADP	FCT	_	5	comp:obl	_	AlignBegin=22670|AlignEnd=22842|GE=quant_à|Gloss=quant_à|nWord=4|RX=FCT|Word=kɔ̰́à̰
 7	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	6	comp	_	AlignBegin=22842|AlignEnd=23014|GE=3SG|Gloss=-3SG|nWord=4|RX=PR|Word=kɔ̰́à̰
 8	yàrí	yàrí	NOUN	N	_	5	comp:obl	_	AlignBegin=23014|AlignEnd=23360|GE=excursion|Gloss=excursion|nWord=5|RX=N|Word=yàrí
 
 # sent_id = GYA_PRD_NARR_T9-C7_008-008a
-# text = ʔá̰-nɛ̀ =à̰ -H BHa- yar -H yar -BHi nɛ́nɛ́ -vv
+# text = ʔá̰-nɛ̀ =à̰ -H BHa- yar -H yar -BHi nɛ́nɛ́ -VV
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 23360, 26820
@@ -164,7 +164,7 @@
 7	yar	yar	VERB	V	_	5	mod	_	AlignBegin=23990|AlignEnd=24148|GE=se_promener|Gloss=se_promener|nWord=3|RX=V|Word=yàrí
 8	-BHi	-BHi	AUX	MV	_	7	aux	_	AlignBegin=24148|AlignEnd=24305|GE=ASS|Gloss=-ASS|nWord=3|RX=MV|Word=yàrí
 9	nɛ́nɛ́	nɛ́nɛ́	PART	MV	_	5	mod	_	AlignBegin=24305|AlignEnd=24463|GE=en_allant|Gloss=en_allant|nWord=4|RX=MV|Word=nɛ́nɛ́ɛ́ɛ́
-10	-vv	_	DET	MOD	_	9	det	_	AlignBegin=24463|AlignEnd=24620|GE=DUR|Gloss=-DUR|nWord=4|RX=MOD|Word=nɛ́nɛ́ɛ́ɛ́
+10	-VV	-VV	DET	MOD	_	9	det	_	AlignBegin=24463|AlignEnd=24620|GE=DUR|Gloss=-DUR|nWord=4|RX=MOD|Word=nɛ́nɛ́ɛ́ɛ́
 
 # sent_id = GYA_PRD_NARR_T9-C7_008-008b
 # text = ʔèè -H ʔà̰ H- nɛ
@@ -199,7 +199,7 @@
 # sent_timecode = 26820, 29400
 # phonetic_text = ʔá̰-nàá yòò yérè pḭ́ nù
 # text_fr = Voilà qu'il a frappé violemment et jeté un buffle à terre.//
-1	ʔá̰-nɛ̀	_	CCONJ	COORD	_	5	cc	_	AlignBegin=26820|AlignEnd=26992|GE=voilà_que|Gloss=voilà_que|nWord=1|RX=COORD|Word=ʔá̰-nàá
+1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	AlignBegin=26820|AlignEnd=26992|GE=voilà_que|Gloss=voilà_que|nWord=1|RX=COORD|Word=ʔá̰-nàá
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	subj	_	AlignBegin=26992|AlignEnd=27164|GE=3SG|Gloss=-3SG|nWord=1|RX=PERS|Word=ʔá̰-nàá
 3	-H	-H	X	FCT	_	2	aff	_	AlignBegin=27164|AlignEnd=27336|GE=MT|Gloss=-MT|nWord=1|RX=FCT|Word=ʔá̰-nàá
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=27336|AlignEnd=27508|GE=ACC|Gloss=ACC-|nWord=2|RX=MV|Word=yòò
@@ -603,7 +603,7 @@
 9	dɛ	dɛ	VERB	V	_	6	conj:coord	_	AlignBegin=82037|AlignEnd=82168|GE=faire|Gloss=faire|nWord=4|RX=V|Word=dɛ́
 10	ngàyà	ngàyà	NOUN	N	_	9	comp:obj	_	AlignBegin=82168|AlignEnd=82255|GE=joie|Gloss=joie|nWord=5|RX=N|Word=ngàyáà
 11	-H	-H	X	FCT	_	10	aff	_	AlignBegin=82255|AlignEnd=82342|GE=D|Gloss=-D|nWord=5|RX=FCT|Word=ngàyáà
-12	-à	_	DET	MN	_	10	det	_	AlignBegin=82342|AlignEnd=82430|GE=DEF|Gloss=-DEF|nWord=5|RX=MN|Word=ngàyáà
+12	-à	-à	DET	MN	_	10	det	_	AlignBegin=82342|AlignEnd=82430|GE=DEF|Gloss=-DEF|nWord=5|RX=MN|Word=ngàyáà
 13	H-	H-	AUX	MV	Aspect=Imp	14	aux	_	AlignBegin=82430|AlignEnd=82561|GE=INAC|Gloss=INAC-|nWord=6|RX=MV|Word=dɛ́
 14	dɛ	dɛ	VERB	V	_	9	conj:redup	_	AlignBegin=82561|AlignEnd=82692|GE=faire|Gloss=faire|nWord=6|RX=V|Word=dɛ́
 15	ngàyà	ngàyà	NOUN	N	_	14	comp:obj	_	AlignBegin=82692|AlignEnd=82779|GE=joie|Gloss=joie|nWord=7|RX=N|Word=ngàyáà
@@ -634,7 +634,7 @@
 1	wà	wà	PRON	PR	PronType=Prs	3	subj	_	AlignBegin=84470|AlignEnd=84774|GE=3P|Gloss=3P|nWord=1|RX=PR|Word=wà
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=84774|AlignEnd=84875|GE=INAC|Gloss=INAC-|nWord=2|RX=MV|Word=ɲɔ́ɔ́ɔ́ŋ
 3	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=84875|AlignEnd=84976|GE=manger|Gloss=manger|nWord=2|RX=V|Word=ɲɔ́ɔ́ɔ́ŋ
-4	-vv	-vv	DET	MOD	_	3	det	_	AlignBegin=84976|AlignEnd=85078|GE=DUR|Gloss=-DUR|nWord=2|RX=MOD|Word=ɲɔ́ɔ́ɔ́ŋ
+4	-VV	-VV	DET	MOD	_	3	det	_	AlignBegin=84976|AlignEnd=85078|GE=DUR|Gloss=-DUR|nWord=2|RX=MOD|wordform=-vv|Word=ɲɔ́ɔ́ɔ́ŋ
 
 # sent_id = GYA_PRD_NARR_T9-C7_023-023b
 # text = ʔèè -H wà H- ʔa yík wèè
@@ -793,12 +793,12 @@
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	SUB	_	5	cc	_	AlignBegin=99110|AlignEnd=99238|GE=voilà_que|Gloss=voilà_que|nWord=1|RX=SUB|Word=ʔá̰-nàà
 2	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	5	subj	_	AlignBegin=99238|AlignEnd=99366|GE=3SG|Gloss=-3SG|nWord=1|RX=PR|Word=ʔá̰-nàà
 3	-H	-H	X	FCT	_	2	aff	_	AlignBegin=99366|AlignEnd=99495|GE=MT|Gloss=-D|nWord=1|RX=FCT|Word=ʔá̰-nàà
-4	H-	_	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=99495|AlignEnd=99687|GE=INAC|Gloss=INAC-|nWord=2|RX=MV|Word=yár
+4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=99495|AlignEnd=99687|GE=INAC|Gloss=INAC-|nWord=2|RX=MV|Word=yár
 5	yar	yar	VERB	V	_	0	root	_	AlignBegin=99687|AlignEnd=99880|GE=se_promener|Gloss=se_promener|nWord=2|RX=V|Word=yár
 6	yar	yar	VERB	V	_	5	mod	_	AlignBegin=99880|AlignEnd=100072|GE=se_promener|Gloss=se_promener|nWord=3|RX=V|Word=yàrí
 7	-BHi	-BHi	AUX	MV	_	6	aux	_	AlignBegin=100072|AlignEnd=100265|GE=ENONCIATIF|Gloss=-ENONCIATIF|nWord=3|RX=MV|Word=yàrí
 8	yáknɛ́	yáknɛ́	PART	MV	_	5	mod	_	AlignBegin=100265|AlignEnd=100457|GE=en_partant|Gloss=en_partant|nWord=4|RX=MV|Word=yáknɛ́ɛ́ɛ́,
-9	-vv	-vv	DET	PR	_	8	det	_	AlignBegin=100457|AlignEnd=100650|GE=DUR|Gloss=-DUR|nWord=4|RX=mod|Word=yáknɛ́ɛ́ɛ́,
+9	-VV	-VV	DET	PR	_	8	det	_	AlignBegin=100457|AlignEnd=100650|GE=DUR|Gloss=-DUR|nWord=4|RX=mod|wordform=-vv|Word=yáknɛ́ɛ́ɛ́,
 10	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	SUB	_	12	cc	_	AlignBegin=100650|AlignEnd=101035|GE=voilà_que|Gloss=voilà_que|nWord=5|RX=SUB|Word=ʔá̰-nɛ̀
 11	BHa-	BHa-	AUX	MV	Aspect=Perf	12	aux	_	AlignBegin=101035|AlignEnd=101163|GE=ACC|Gloss=ACC-|nWord=6|RX=MV|Word=yòò
 12	yo	yo	VERB	V	_	5	conj:coord	_	AlignBegin=101163|AlignEnd=101291|GE=frapper_violemment|Gloss=frapper_violemment|nWord=6|RX=V|Word=yòò
@@ -818,7 +818,7 @@
 # phonetic_text = ʔèé [mà kpɔ́kɔ́ɗí] ʔèè mà yíítòó fé kéí
 # text_fr = [et un seul] Deux d'entre eux, quant à eux, meurent
 1	ʔèè	ʔèè	CCONJ	COORD	_	9	cc	_	AlignBegin=103345|AlignEnd=103541|GE=puis|Gloss=puis|nWord=1|RX=COORD|Word=ʔèé
-2	-H	_	X	FCT	_	1	aff	_	AlignBegin=103541|AlignEnd=103737|GE=MT|Gloss=-MT|nWord=1|RX=FCT|Word=ʔèé
+2	-H	-H	X	FCT	_	1	aff	_	AlignBegin=103541|AlignEnd=103737|GE=MT|Gloss=-MT|nWord=1|RX=FCT|Word=ʔèé
 3	mà	mà	PRON	PRO	_	9	subj	_	AlignBegin=103737|AlignEnd=104129|GE=PRO-INDF|Gloss=PRO-INDF|nWord=2|RX=PRO|Word=[mà
 4	kpɔ́kɔ́ɗí	kpɔ́kɔ́ɗí	ADV	NUM	_	3	mod	_	AlignBegin=104129|AlignEnd=104520|GE=un_seul|Gloss=un_seul|nWord=3|RX=NUM|Word=kpɔ́kɔ́ɗí]
 5	ʔèè	ʔèè	CCONJ	COORD	_	1	conj:dicto	_	AlignBegin=104530|AlignEnd=104792|GE=puis|Gloss=puis|nWord=4|RX=COORD|Word=ʔèè
@@ -1022,7 +1022,7 @@
 5	-H	-H	X	FCT	_	4	aff	_	AlignBegin=125630|AlignEnd=125890|GE=MT|Gloss=-D|nWord=2|RX=FCT|Word=pèá
 6	kàá	kàá	PART	MV	_	4	mod	_	AlignBegin=125890|AlignEnd=126670|GE=REP-ADD|Gloss=REP-ADD|nWord=3|RX=MV|Word=kàá
 7	ʔèá-ʔèá	ʔèá-ʔèá	ADV	ADV	_	4	mod	_	AlignBegin=126670|AlignEnd=127060|GE=longtemps|Gloss=longtemps|nWord=4|RX=ADV|Word=ʔèá_ʔèá_ʔèá
-8	-vv	-vv	DET	MOD	_	7	det	_	AlignBegin=127060|AlignEnd=127450|GE=DUR|Gloss=-DUR|nWord=4|RX=MOD|Word=ʔèá_ʔèá_ʔèá
+8	-VV	-VV	DET	MOD	_	7	det	_	AlignBegin=127060|AlignEnd=127450|GE=DUR|Gloss=-DUR|nWord=4|RX=MOD|wordform=-vv|Word=ʔèá_ʔèá_ʔèá
 
 # sent_id = GYA_PRD_NARR_T9-C7_037-037
 # text = nám -ìí BHa- pei -H kàá ʔèá -vv
@@ -1038,7 +1038,7 @@
 5	-H	-H	X	FCT	_	4	aff	_	AlignBegin=128336|AlignEnd=128514|GE=MT|Gloss=-D|nWord=2|RX=FCT|Word=pèá
 6	kàá	kàá	PART	MV	_	4	mod	_	AlignBegin=128514|AlignEnd=129046|GE=REP-ADD|Gloss=REP-ADD|nWord=3|RX=MV|Word=kàá
 7	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	AlignBegin=129046|AlignEnd=129313|GE=déjà|Gloss=déjà|nWord=4|RX=ADV|Word=ʔèá_ʔèá_ʔèá
-8	-vv	-vv	DET	MOD	_	7	det	_	AlignBegin=129313|AlignEnd=129580|GE=DUR|Gloss=-DUR|nWord=4|RX=MOD|Word=ʔèá_ʔèá_ʔèá
+8	-VV	-VV	DET	MOD	_	7	det	_	AlignBegin=129313|AlignEnd=129580|GE=DUR|Gloss=-DUR|nWord=4|RX=MOD|wordform=-vv|Word=ʔèá_ʔèá_ʔèá
 
 # sent_id = GYA_PRD_NARR_T9-C7_038-038
 # text = ʔà̰ H- zei ná ʔòé
@@ -1076,7 +1076,7 @@
 1	ká	ká	CCONJ	SUB	_	3	cc	_	AlignBegin=135340|AlignEnd=135765|GE=alors|Gloss=alors|nWord=1|RX=SUB|Word=ká
 2	yérè	yérè	NOUN	MV	_	3	subj	_	AlignBegin=135765|AlignEnd=135907|GE=buffle|Gloss=buffle|nWord=2|RX=N|Word=yérè
 3	ʔèá-ʔèá	ʔèá-ʔèá	VERB	V	_	0	root	_	AlignBegin=135907|AlignEnd=136049|GE=longtemps|Gloss=longtemps|nWord=3|RX=ADV|Word=ʔèá_ʔèá_ʔèá
-4	-vv	-vv	DET	FCT	_	3	det	_	AlignBegin=136049|AlignEnd=136190|GE=DUR|Gloss=DUR|nWord=3|RX=MOD|Word=ʔèá_ʔèá_ʔèá
+4	-VV	-VV	DET	FCT	_	3	det	_	AlignBegin=136049|AlignEnd=136190|GE=DUR|Gloss=DUR|nWord=3|RX=MOD|wordform=-vv|Word=ʔèá_ʔèá_ʔèá
 5	kà	kà	CCONJ	N	_	7	cc	_	AlignBegin=136190|AlignEnd=136332|GE=alors|Gloss=alors|nWord=4|RX=SUB|Word=ká
 6	BHa-	BHa-	AUX	FCT	_	7	aux	_	AlignBegin=136332|AlignEnd=136474|GE=ACC|Gloss=ACC|nWord=5|RX=MV|Word=zṵ̀ṵ̀
 7	zṵ	zṵ	VERB	MN	_	3	conj:coord	_	AlignBegin=136474|AlignEnd=136615|GE=enfoncer|Gloss=enfoncer|nWord=5|RX=V|Word=zṵ̀ṵ̀
@@ -1217,7 +1217,7 @@
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	SUB	_	5	cc	_	AlignBegin=152386|AlignEnd=152466|GE=voilà_que|Gloss=voilà_que|nWord=1|RX=SUB|Word=ʔá̰-nàá
 2	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	5	subj	_	AlignBegin=152466|AlignEnd=152546|GE=3SG|Gloss=-3SG|nWord=1|RX=PR|Word=ʔá̰-nàá
 3	-H	-H	X	FCT	_	2	aff	_	AlignBegin=152546|AlignEnd=152626|GE=MT|Gloss=-D|nWord=1|RX=FCT|Word=ʔá̰-nàá
-4	BHa-	_	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=152626|AlignEnd=152706|GE=ACC|Gloss=ACC-|nWord=2|RX=MV|Word=kɔ̀ká
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=152626|AlignEnd=152706|GE=ACC|Gloss=ACC-|nWord=2|RX=MV|Word=kɔ̀ká
 5	kɔk	kɔk	VERB	V	_	0	root	_	AlignBegin=152706|AlignEnd=152786|GE=ligoter|Gloss=ligoter|nWord=2|RX=V|Word=kɔ̀ká
 6	-H	-H	X	FCT	_	5	aff	_	AlignBegin=152786|AlignEnd=152866|GE=MT|Gloss=-D|nWord=2|RX=FCT|Word=kɔ̀ká
 7	kàá	kàá	PART	MV	_	5	mod	_	AlignBegin=152866|AlignEnd=152986|GE=REP-ADD|Gloss=REP-ADD|nWord=3|RX=MV|Word=kàà
@@ -1242,7 +1242,7 @@
 # phonetic_text = ʔà̰ kɔ́k kàà túí
 # text_fr = Elle noue donc son pagne.
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=155270|AlignEnd=155575|GE=3SG|Gloss=3SG|nWord=1|RX=PR|Word=ʔà̰
-2	H-	_	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=155575|AlignEnd=155727|GE=INAC|Gloss=INAC-|nWord=2|RX=MV|Word=kɔ́k
+2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=155575|AlignEnd=155727|GE=INAC|Gloss=INAC-|nWord=2|RX=MV|Word=kɔ́k
 3	kɔk	kɔk	VERB	V	_	0	root	_	AlignBegin=155727|AlignEnd=155880|GE=ligoter|Gloss=ligoter|nWord=2|RX=V|Word=kɔ́k
 4	kàá	kàá	PART	MV	_	3	mod	_	AlignBegin=155880|AlignEnd=156032|GE=REP-ADD|Gloss=REP-ADD|nWord=3|RX=MV|Word=kàà
 5	-H	-H	X	FCT	_	4	aff	_	AlignBegin=156032|AlignEnd=156185|GE=MT|Gloss=-D|nWord=3|RX=FCT|Word=kàà
@@ -1401,7 +1401,7 @@
 6	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	AlignBegin=172675|AlignEnd=172918|GE=seulement|Gloss=seulement|nWord=16|RX=ADV|Word=ʔèá
 
 # sent_id = GYA_PRD_NARR_T9-C7_051-051d
-# text = ʔá̰-nɛ̀ =à̰ -H BHa- yak -H nɛ̀ bóɲá -H =à̰ tɛ̀ Há- ʔɔ nù
+# text = ʔá̰-nɛ̀ =à̰ -H BHa- yak -H nɛ̀ bóɲá -H =à̰ tɛ̀ HHa- ʔɔ nù
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 169030, 176331
@@ -1410,12 +1410,12 @@
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	SUB	_	5	cc	_	AlignBegin=172918|AlignEnd=172999|GE=voilà_que|Gloss=voilà_que|nWord=17|RX=SUB|Word=ʔá̰-nàá
 2	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	5	subj	_	AlignBegin=172999|AlignEnd=173080|GE=3SG|Gloss=-3SG|nWord=17|RX=PR|Word=ʔá̰-nàá
 3	-H	-H	X	FCT	_	2	aff	_	AlignBegin=173080|AlignEnd=173161|GE=MT|Gloss=-D|nWord=17|RX=FCT|Word=ʔá̰-nàá
-4	BHa-	_	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=173161|AlignEnd=173242|GE=ACC|Gloss=ACC-|nWord=18|RX=MV|Word=yàká
+4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=173161|AlignEnd=173242|GE=ACC|Gloss=ACC-|nWord=18|RX=MV|Word=yàká
 5	yak	yak	VERB	V	_	0	root	_	AlignBegin=173242|AlignEnd=173323|GE=laisser|Gloss=laisser|nWord=18|RX=V|Word=yàká
 6	-H	-H	X	FCT	_	5	aff	_	AlignBegin=173323|AlignEnd=173404|GE=MT|Gloss=-D|nWord=18|RX=FCT|Word=yàká
 7	nɛ̀	nɛ̀	PART	MV	_	5	mod	_	AlignBegin=173404|AlignEnd=173647|GE=INSTR|Gloss=INSTR|nWord=19|RX=MV|Word=nɛ̀
 8	bóɲá	bóɲá	NOUN	N	_	5	comp:obj	_	AlignBegin=173647|AlignEnd=173728|GE=frère|Gloss=frère|nWord=20|RX=N|Word=bóɲáà
-9	-H	_H	ADP	FCT	_	8	udep	_	AlignBegin=173728|AlignEnd=173809|GE=D|Gloss=-D|nWord=20|RX=FCT|Word=bóɲáà
+9	-H	-H	ADP	FCT	_	8	udep	_	AlignBegin=173728|AlignEnd=173809|GE=D|Gloss=-D|nWord=20|RX=FCT|Word=bóɲáà
 10	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	9	comp	_	AlignBegin=173809|AlignEnd=173890|GE=3SG|Gloss=-3SG|nWord=20|RX=PR|Word=bóɲáà
 11	tɛ̀	tɛ̀	ADP	FCT	_	5	comp:obl	_	AlignBegin=173890|AlignEnd=174133|GE=à|Gloss=à|nWord=21|RX=FCT|Word=tɛ̀
 12	HHa-	HHa-	AUX	MN	_	13	aux	_	AlignBegin=174133|AlignEnd=174255|GE=NV|Gloss=NV-|nWord=22|RX=MN|Word=ʔɔ́ɔ́

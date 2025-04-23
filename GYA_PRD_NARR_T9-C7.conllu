@@ -25,7 +25,7 @@
 4	ʔîn	ʔîn	ADP	FCT	_	3	conj:coord	_	AlignBegin=3723|AlignEnd=3993|GE=et|Gloss=et|nWord=4|RX=FCT|Word=ʔín
 5	-H	-H	X	X	_	4	aff	_	AlignBegin=3993|AlignEnd=4264|GE=MT|Gloss=-MT|nWord=4|RX=FCT|Word=ʔín
 6	bóíbêm	bóíbêm	NOUN	N	_	4	comp	_	AlignBegin=4264|AlignEnd=4805|GE=garçon|Gloss=garçon|nWord=5|RX=N|Word=bóíbêm
-7	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	TOP	_	3	det	_	AlignBegin=4805|AlignEnd=4985|GE=TOP|Gloss=TOP|nWord=6|RX=TOP|Word=ʔá̰-ndɔ̀wá
+7	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	TOP	_	3	det	_	AlignBegin=4805|AlignEnd=4985|GE=TOP|Gloss=TOP|nWord=6|RX=TOP|Topicalization=Yes|Word=ʔá̰-ndɔ̀wá
 8	=wà	wà	PRON	PP	Number=Plur|Person=3	11	subj	_	AlignBegin=4985|AlignEnd=5165|GE=3PL|Gloss=3PL|nWord=6|RX=PP|Word=ʔá̰-ndɔ̀wá
 9	-H	-H	X	X	_	8	aff	_	AlignBegin=5165|AlignEnd=5346|GE=MT|Gloss=-MT|nWord=6|RX=FCT|Word=ʔá̰-ndɔ̀wá
 10	BHa-	BHa-	AUX	MV	Aspect=Perf	11	aux	_	AlignBegin=5346|AlignEnd=5526|GE=ACC|Gloss=ACC-|nWord=7|RX=MV|Word=nɛ̀ɛ́
@@ -708,7 +708,7 @@
 2	nɔ́	nɔ́	NOUN	N	_	13	subj	_	AlignBegin=90391|AlignEnd=90682|GE=graisse|Gloss=graisse|nWord=2|RX=N|Word=nɔ́
 3	-H	-H	ADP	_	_	2	udep	_	GE=MT|nWord=2|RX=FCT|Word=nɔ́
 4	yérè	yérè	NOUN	N	_	3	comp	_	AlignBegin=90682|AlignEnd=90973|GE=buffle|Gloss=buffle|nWord=3|RX=N|Word=yérè
-5	nɛ̀	nɛ̀	SCONJ	SUB	_	2	mod@relcl	_	AlignBegin=90973|AlignEnd=91264|GE=REL|Gloss=REL|nWord=4|RX=SUB|Word=nɛ̀
+5	nɛ̀	nɛ̀	SCONJ	SUB	PronType=Rel	2	mod@relcl	_	AlignBegin=90973|AlignEnd=91264|GE=REL|Gloss=REL|nWord=4|RX=SUB|Word=nɛ̀
 6	BHa-	BHa-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=91264|AlignEnd=91361|GE=ACC|Gloss=ACC-|nWord=5|RX=MV|Word=gbɛ̀ɛ̀
 7	gbɛ	gbɛ	VERB	V	_	5	comp	_	AlignBegin=91361|AlignEnd=91458|GE=tuer|Gloss=tuer|nWord=5|RX=V|Word=gbɛ̀ɛ̀
 8	-H	-H	X	FCT	_	7	aff	_	AlignBegin=91458|AlignEnd=91555|GE=MT|Gloss=-D|nWord=5|RX=FCT|Word=gbɛ̀ɛ̀
@@ -1258,7 +1258,7 @@
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=156490|AlignEnd=156795|GE=3SG|Gloss=3SG|nWord=5|RX=PR|Word=ʔà̰
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=156795|AlignEnd=156947|GE=INAC|Gloss=INAC-|nWord=6|RX=MV|Word=héí
 3	hei	hei	VERB	V	_	0	root	_	AlignBegin=156947|AlignEnd=157100|GE=pleurer|Gloss=pleurer|nWord=6|RX=V|Word=héí
-4	nɛ̀	nɛ̀	PART	MV	_	3	mod	_	AlignBegin=157100|AlignEnd=157405|GE=INSTR|Gloss=INSTR|nWord=7|RX=MV|Word=nɛ̀
+4	nɛ̀	nɛ̀	PART	MV	_	3	mod	_	AlignBegin=157100|AlignEnd=157405|GE=CIRC|Gloss=CIRC|nWord=7|RX=MV|Word=nɛ̀
 5	kɔ̰̀á̰	kɔ̰̀á̰	NOUN	N	_	3	comp:obj	_	AlignBegin=157405|AlignEnd=157710|GE=pleurs|Gloss=pleurs|nWord=8|RX=N|Word=kɔ̰̀á̰
 6	péínɛ́	péínɛ́	PART	MV	_	3	mod	_	AlignBegin=157710|AlignEnd=158015|GE=en_revenant|Gloss=en_revenant|nWord=9|RX=MV|Word=péínɛ́
 7	péínɛ́	péínɛ́	PART	MV	_	6	conj:redup	_	AlignBegin=158015|AlignEnd=158320|GE=en_revenant|Gloss=en_revenant|nWord=10|RX=MV|Word=péínɛ́
@@ -1345,7 +1345,7 @@
 4	tɛ	tɛ	VERB	V	_	0	root	_	AlignBegin=167793|AlignEnd=167930|GE=venir|Gloss=venir|nWord=2|RX=V|Word=tɛ́
 5	H-	H-	AUX	MV	Aspect=Perf	6	aux	_	AlignBegin=167930|AlignEnd=168068|GE=INF.ACC|Gloss=INF.ACC-|nWord=3|RX=MV|Word=gɔ́
 6	gɔ	gɔ	VERB	V	_	4	compound:svc	_	AlignBegin=168068|AlignEnd=168205|GE=porter_à_plusieurs|Gloss=porter_à_plusieurs|nWord=3|RX=V|Word=gɔ́
-7	nɛ̀	nɛ̀	PART	MV	_	6	mod	_	AlignBegin=168205|AlignEnd=168480|GE=INSTR|Gloss=INSTR|nWord=4|RX=MV|Word=nɛ̀
+7	nɛ̀	nɛ̀	PART	MV	_	6	mod	_	AlignBegin=168205|AlignEnd=168480|GE=CIRC|Gloss=CIRC|nWord=4|RX=MV|Word=nɛ̀
 8	bóɲá	bóɲá	NOUN	N	_	6	comp:obj	_	AlignBegin=168480|AlignEnd=168572|GE=frère|Gloss=frère|nWord=5|RX=N|Word=bóɲáà
 9	-H	-H	X	FCT	_	8	udep	_	AlignBegin=168572|AlignEnd=168664|GE=MT|Gloss=-D|nWord=5|RX=FCT|Word=bóɲáà
 10	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	9	comp	_	AlignBegin=168664|AlignEnd=168755|GE=3SG|Gloss=-3SG|nWord=5|RX=PR|Word=bóɲáà
@@ -1362,7 +1362,7 @@
 2	ndàyà	ndàyà	NOUN	N	_	1	comp	_	AlignBegin=169273|AlignEnd=169395|GE=raison|Gloss=raison|nWord=2|RX=N|Word=ndàyá
 3	-H	-H	X	FCT	_	2	udep	_	AlignBegin=169395|AlignEnd=169516|GE=MT|Gloss=-D|nWord=2|RX=FCT|Word=ndàyá
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp	_	AlignBegin=169516|AlignEnd=169759|GE=chose|Gloss=chose|nWord=3|RX=N|Word=mɔ̀
-5	nɛ̀	nɛ̀	SCONJ	SUB	_	2	mod@relcl	_	AlignBegin=169759|AlignEnd=169840|GE=REL|Gloss=REL|nWord=4|RX=SUB|Word=ndèì
+5	nɛ̀	nɛ̀	SCONJ	SUB	PronType=Rel	2	mod@relcl	_	AlignBegin=169759|AlignEnd=169840|GE=REL|Gloss=REL|nWord=4|RX=SUB|Word=ndèì
 6	=éí	ʔéí	PRON	PR	Number=Sing|PronType=Prs	9	subj	_	AlignBegin=169840|AlignEnd=169921|GE=P.IMP|Gloss=P.IMP|nWord=4|RX=PR|Word=ndèì
 7	-H	-H	X	FCT	_	6	aff	_	AlignBegin=169921|AlignEnd=170002|GE=MT|Gloss=-D|nWord=4|RX=FCT|Word=ndèì
 8	H-	H-	AUX	MV	Aspect=Imp	9	aux	_	AlignBegin=170002|AlignEnd=170124|GE=INAC|Gloss=INAC-|nWord=5|RX=MV|Word=nɛ́
@@ -1413,7 +1413,7 @@
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=173161|AlignEnd=173242|GE=ACC|Gloss=ACC-|nWord=18|RX=MV|Word=yàká
 5	yak	yak	VERB	V	_	0	root	_	AlignBegin=173242|AlignEnd=173323|GE=laisser|Gloss=laisser|nWord=18|RX=V|Word=yàká
 6	-H	-H	X	FCT	_	5	aff	_	AlignBegin=173323|AlignEnd=173404|GE=MT|Gloss=-D|nWord=18|RX=FCT|Word=yàká
-7	nɛ̀	nɛ̀	PART	MV	_	5	mod	_	AlignBegin=173404|AlignEnd=173647|GE=INSTR|Gloss=INSTR|nWord=19|RX=MV|Word=nɛ̀
+7	nɛ̀	nɛ̀	PART	MV	_	5	mod	_	AlignBegin=173404|AlignEnd=173647|GE=CIRC|Gloss=CIRC|nWord=19|RX=MV|Word=nɛ̀
 8	bóɲá	bóɲá	NOUN	N	_	5	comp:obj	_	AlignBegin=173647|AlignEnd=173728|GE=frère|Gloss=frère|nWord=20|RX=N|Word=bóɲáà
 9	-H	-H	ADP	FCT	_	8	udep	_	AlignBegin=173728|AlignEnd=173809|GE=D|Gloss=-D|nWord=20|RX=FCT|Word=bóɲáà
 10	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	9	comp	_	AlignBegin=173809|AlignEnd=173890|GE=3SG|Gloss=-3SG|nWord=20|RX=PR|Word=bóɲáà

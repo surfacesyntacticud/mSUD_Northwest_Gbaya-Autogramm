@@ -2075,7 +2075,7 @@
 2	wà	wà	PRON	N	PronType=Prs	0	root	_	AlignBegin=247743|AlignEnd=248209|GE=3PL|nWord=2|RX=PERS|Word=wà
 3	Wàntò	wàntò	PROPN	N	_	2	vocative	_	AlignBegin=247743|AlignEnd=248209|GE=Wanto|nWord=3|RX=NPR|Word=Wàntò
 4	dùà	dùà	NOUN	N	_	12	dislocated:obj	_	AlignBegin=247743|AlignEnd=248209|GE=cabri|nWord=4|RX=N|Word=dùà
-5	nɛ̀	nɛ̀	SCONJ	SUB	_	4	mod@relcl	_	AlignBegin=248209|AlignEnd=248364|GE=REL|nWord=5|RX=SUB|Word=ndèì
+5	nɛ̀	nɛ̀	SCONJ	SUB	PronType=Rel	4	mod@relcl	_	AlignBegin=248209|AlignEnd=248364|GE=REL|nWord=5|RX=SUB|Word=ndèì
 6	=éí	ʔéí	PRON	PRO	PronType=Ind	9	subj	_	AlignBegin=248364|AlignEnd=248519|GE=IMPS|nWord=5|RX=PRO|Word=ndèì
 7	-H	-H	X	FCT	_	6	aff	_	AlignBegin=248519|AlignEnd=248675|GE=MT|nWord=5|RX=FCT|Word=ndèì
 8	tɛ́-B-	tɛ́-B-	AUX	MV	Aspect=Imp|Mood=Irr	9	aux	_	AlignBegin=248675|AlignEnd=248907|GE=VIRT-INAC|nWord=6|RX=MV|Word=tɛ́-gbɛ̀
@@ -2773,7 +2773,7 @@
 # text_fr = elles disent : Wanto ce cabri on t'a bien dit qu'on l'avait tué pour te faire un rituel parce que nous qui demeurons ici, il n'y a pas d'hommes parmi nous.
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	7	discourse:participant	_	AlignBegin=323084|AlignEnd=323658|GE=3PL|nWord=1|RX=PERS|Word=wà
 2	wàntò	wàntò	PROPN	NPR	_	7	vocative	_	AlignBegin=323658|AlignEnd=324232|GE=Wàntò|nWord=2|RX=NPR|Word=Wàntò
-3	dùà	dùà	NOUN	N	_	7	comp:obl	_	AlignBegin=324232|AlignEnd=324438|GE=cabri|nWord=3|RX=N|Word=dùà
+3	dùà	dùà	NOUN	N	_	7	dislocated	_	AlignBegin=324232|AlignEnd=324438|GE=cabri|nWord=3|RX=N|Word=dùà
 4	hɛ̰̀	hɛ̰̀	ADV	ADV	_	3	mod	_	AlignBegin=324438|AlignEnd=324644|GE=ici|nWord=4|RX=ADV|Word=hɛ̰̀
 5	ʔéí	ʔéí	PRON	PRO	PronType=Ind	7	subj	_	AlignBegin=324644|AlignEnd=324850|GE=IMPS|nWord=5|RX=PRO|Word=ʔéí
 6	BHa-	BHa-	AUX	MV	Aspect=Perf	7	aux	_	AlignBegin=324850|AlignEnd=324919|GE=ACC|nWord=6|RX=MV|Word=tɔ̰̀áà
@@ -2846,7 +2846,7 @@
 6	-H	-H	X	FCT	_	5	aff	_	AlignBegin=333322|AlignEnd=333402|GE=MT|nWord=13|RX=FCT|Word=hɔ̀ɔ́
 7	ngbàrà	ngbàrà	ADP	FCT	_	5	comp:obl	_	AlignBegin=333402|AlignEnd=333523|GE=entre|nWord=14|RX=FCT|Word=ngbàràyó
 8	=yó	ʔóyó	PRON	PERS	Number=Plur|PronType=Prs	7	comp	_	AlignBegin=333523|AlignEnd=333644|GE=LOGPL|nWord=14|RX=PERS|Word=ngbàràyó
-9	nɛ̀	nɛ̀	ADP	FCT	_	5	comp:obl	_	AlignBegin=333644|AlignEnd=333886|GE=fonct|nWord=15|RX=FCT|Word=nɛ̀
+9	nɛ̀	nɛ̀	ADP	FCT	_	5	comp:obl	_	AlignBegin=333644|AlignEnd=333886|GE=en_tant_que|Gloss=en_tant_que|nWord=15|RX=FCT|Word=nɛ̀
 10	wéwéì	wéwéì	NOUN	N	_	9	comp	_	AlignBegin=333886|AlignEnd=334128|GE=homme|nWord=16|RX=N|Word=wéwéì
 11	ʔé	ʔé	ADV	ADV	_	5	mod	_	AlignBegin=334128|AlignEnd=334368|GE=déjà|nWord=17|RX=ADV|Word=ʔé
 12	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	15	cc	_	AlignBegin=334368|AlignEnd=334552|GE=voilà_que|nWord=18|RX=COORD|Word=ʔá̰-ndòyó
@@ -2980,7 +2980,7 @@
 2	ndàyà	ndàyà	NOUN	N	_	1	comp	_	AlignBegin=346912|AlignEnd=347068|GE=fond|nWord=2|RX=N|Word=ndàyá
 3	-H	-H	ADP	FCT	_	2	udep	_	AlignBegin=347068|AlignEnd=347224|GE=MT|nWord=2|RX=FCT|Word=ndàyá
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp	_	AlignBegin=347224|AlignEnd=347536|GE=chose|nWord=3|RX=N|Word=mɔ̀
-5	nɛ̀	nɛ̀	SCONJ	PERS	_	2	mod@relcl	_	AlignBegin=347536|AlignEnd=347848|GE=REL|nWord=4|RX=SUB|Word=nɛ̀mɛ́
+5	nɛ̀	nɛ̀	SCONJ	PERS	PronType=Rel	2	mod@relcl	_	AlignBegin=347536|AlignEnd=347848|GE=REL|nWord=4|RX=SUB|Word=nɛ̀mɛ́
 6	=mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	8	subj	_	AlignBegin=347536|AlignEnd=347848|GE=2SG|nWord=4|RX=PERS|Word=nɛ̀mɛ́
 7	H-	H-	AUX	MV	Aspect=Imp	8	aux	_	AlignBegin=347848|AlignEnd=348004|GE=INAC|nWord=5|RX=MV|Word=nɛ́
 8	nɛ	nɛ	VERB	V	_	5	comp	_	AlignBegin=348004|AlignEnd=348160|GE=aller|nWord=5|RX=V|Word=nɛ́

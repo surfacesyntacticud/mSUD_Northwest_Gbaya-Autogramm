@@ -636,7 +636,7 @@
 1	ɗòŋ	ɗòŋ	ADJ	AR	_	9	dislocated:obl	_	AlignBegin=72418|AlignEnd=72580|GE=après|nWord=1|RX=AR|Word=ɗòŋáìí
 2	-H	-H	X	MOD	_	1	aff	_	AlignBegin=72580|AlignEnd=72742|GE=MT|nWord=1|RX=MOD|Word=ɗòŋáìí
 3	-à	-à	DET	MN	_	1	det	_	AlignBegin=72742|AlignEnd=72904|GE=NMLS|nWord=1|RX=MN|Word=ɗòŋáìí
-4	-ìí	-ìí	DET	MOD	_	3	det	_	AlignBegin=72904|AlignEnd=73066|GE=ANAPH|nWord=1|RX=MOD|Word=ɗòŋáìí
+4	-ìí	-ìí	DET	MOD	_	1	det	_	AlignBegin=72904|AlignEnd=73066|GE=ANAPH|nWord=1|RX=MOD|Word=ɗòŋáìí
 5	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	COORD	_	1	det	_	AlignBegin=73066|AlignEnd=73282|GE=voilà_que|nWord=2|RX=COORD|Word=ʔá̰-ndɔ̀wá
 6	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	9	subj	_	AlignBegin=73282|AlignEnd=73498|GE=3PL|nWord=2|RX=PERS|Word=ʔá̰-ndɔ̀wá
 7	-H	-H	X	MOD	_	6	aff	_	AlignBegin=73498|AlignEnd=73714|GE=MT|nWord=2|RX=MOD|Word=ʔá̰-ndɔ̀wá
@@ -1967,14 +1967,14 @@
 5	dɔ̀nɔ̀	dɔ̀nɔ̀	NOUN	N	_	4	comp	_	AlignBegin=246205|AlignEnd=246627|GE=marteau_de_forge|nWord=20|RX=N|Word=dɔ̀nɔ̀
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_125-125
-# text = wà -v́ tɛ̀ɛ́-B- dak nú -H =wà ʔèá
+# text = wà -VH tɛ̀ɛ́-B- dak nú -H =wà ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 262296, 273856
 # phonetic_text = wàá tɛ̀ɛ́-dàk núwà ʔèá
 # text_fr = Ils ne pourraient pas se taire
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	4	subj	_	AlignBegin=262296|AlignEnd=262551|GE=3PL|nWord=1|RX=PERS|Word=wàá
-2	-v́	-v́	DET	MV	Mood=Cnd	1	det	_	AlignBegin=262551|AlignEnd=262806|GE=TOP|nWord=1|RX=MOD|Word=wàá
+2	-VH	-VH	DET	MV	_	1	det	_	AlignBegin=262551|AlignEnd=262806|GE=TOP|nWord=1|RX=MOD|Topicalization=Yes|Word=wàá
 3	tɛ̀ɛ́-B-	tɛ̀ɛ́-B-	AUX	MV	Aspect=Perf|Mood=Irr	4	aux	_	AlignBegin=262806|AlignEnd=263061|GE=VIRT-ACC|nWord=2|RX=MV|Word=tɛ̀ɛ́-dàk
 4	dak	dak	VERB	V	_	0	root	_	AlignBegin=263061|AlignEnd=263316|GE=retirer|nWord=2|RX=V|Word=tɛ̀ɛ́-dàk
 5	nú	nú	NOUN	N	_	4	comp:obj	_	AlignBegin=263316|AlignEnd=263486|GE=partie_active|nWord=3|RX=N|Word=núwà
@@ -2222,7 +2222,7 @@
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	AlignBegin=288231|AlignEnd=288461|GE=3P|nWord=1|RX=PR|Word=wà
 2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	AlignBegin=288461|AlignEnd=288576|GE=INAC|nWord=2|RX=MV|Word=dɛ́
 3	dɛ	dɛ	VERB	V	_	0	root	_	AlignBegin=288576|AlignEnd=288691|GE=faire|nWord=2|RX=V|Word=dɛ́
-4	nɛ̀	nɛ̀	PART	MV	_	3	mod	_	AlignBegin=288691|AlignEnd=288921|GE=INSTR|nWord=3|RX=MV|Word=nɛ̀
+4	nɛ̀	nɛ̀	PART	MV	_	3	mod	_	AlignBegin=288691|AlignEnd=288921|GE=CIRC|Gloss=CIRC|nWord=3|RX=MV|Word=nɛ̀
 5	sádàkà	sádàkà	NOUN	N	_	3	comp:obj	_	AlignBegin=288921|AlignEnd=289151|GE=fête|nWord=4|RX=N|Word=sádàkà
 6	kɔ́	kɔ́	ADP	FCT	_	5	udep	_	AlignBegin=289151|AlignEnd=289266|GE=de|nWord=5|RX=FCT|Word=kɔ̰́à̰
 7	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	6	comp	_	AlignBegin=289266|AlignEnd=289381|GE=3SG|nWord=5|RX=PERS|Word=kɔ̰́à̰

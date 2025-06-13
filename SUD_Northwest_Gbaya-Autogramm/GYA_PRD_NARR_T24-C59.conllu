@@ -34,7 +34,7 @@
 # phonetic_text = Wàntò dɛ̀ɛ̀ gíà nɛ́nɛ́ɛ́ɛ́ ʔín ʔó ngàì-wí kɔ́í
 # text_fr = Wanto participe à une chasse avec ses compagnons
 1	Wàntò	Wàntò	PROPN	NPR	_	2	subj	_	AlignBegin=6438|AlignEnd=7222|Gloss=Wàntò|MGloss=Wàntò|MSeg=Wàntò|nWord=1|RX=NPR
-2	dɛ̀ɛ̀	dɛ	VERB	V	_	0	root	_	AlignBegin=7222|AlignEnd=8006|Gloss=faire|MGloss=ACC-faire-MT|MSeg=Bha-dɛ-H|nWord=2|RX=V
+2	dɛ̀ɛ̀	dɛ	VERB	V	_	0	root	_	AlignBegin=7222|AlignEnd=8006|Gloss=faire|MGloss=ACC-faire-MT|MSeg=BHa-dɛ-H|nWord=2|RX=V
 3	gíà	gíà	NOUN	N	_	2	comp:obj	_	AlignBegin=8006|AlignEnd=8790|Gloss=chasse_collective|MGloss=chasse_collective|MSeg=gíà|nWord=3|RX=N
 4	nɛ́nɛ́ɛ́ɛ́	nɛ́nɛ́	PART	MV	_	2	mod	_	AlignBegin=8790|AlignEnd=9574|Gloss=en_allant|MGloss=en_allant-DUR|MSeg=nɛ́nɛ́-VV|nWord=4|RX=MV
 5	ʔín	ʔîn	ADP	FCT	Degree=Cmp	2	comp:obl	_	AlignBegin=9574|AlignEnd=10358|Gloss=COM|MGloss=COM-MT|MSeg=ʔîn-H|nWord=5|RX=FCT
@@ -146,7 +146,7 @@
 # text_fr = Et Wanto se lève
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	3	cc	_	AlignBegin=26521|AlignEnd=27108|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰-nɛ̀|nWord=1|RX=COORD
 2	Wàntò	Wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=27108|AlignEnd=27695|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=2|RX=NPR
-3	kùrá	kur	VERB	V	_	0	root	_	AlignBegin=27695|AlignEnd=28283|Gloss=se_lever|MGloss=ACC-se_lever|MSeg=Bha-kùrá|nWord=3|RX=V
+3	kùrá	kur	VERB	V	_	0	root	_	AlignBegin=27695|AlignEnd=28283|Gloss=se_lever|MGloss=ACC-se_lever|MSeg=BHa-kùrá|nWord=3|RX=V
 
 # sent_id = GYA_PRD_NARR_T24-C59_010-010a
 # text = kpɔ́lɔ́k bé pɛ̀ɲá Tò ndák ndák mɔ́-bà báà ndé
@@ -395,7 +395,7 @@
 # sent_timecode = 52865, 56120
 # phonetic_text = ʔàm kpáwà
 # text_fr = et donc je les ai rencontrées
-1	ʔàm	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	2	subj	_	AlignBegin=54917|AlignEnd=54917|Gloss=1SG|MGloss=et_donc-1SG|MSeg=B-ʔà́m|nWord=6|RX=PERS
+1	ʔàm	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	2	subj	_	AlignBegin=54917|AlignEnd=54917|Gloss=1SG|MGloss=et_donc-1SG|MSeg=B-ʔám|nWord=6|RX=PERS
 2	kpa	kpa	VERB	V	_	0	root	_	AlignBegin=55761|AlignEnd=55941|Gloss=trouver|MGloss=INAC-trouver|MSeg=H-kpa|nWord=9|RX=V|wordform=H-kpa
 3	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	2	comp:obj	_	AlignBegin=56031|AlignEnd=56120|Gloss=3PL|MGloss=3PL|MSeg==wà|nWord=9|RX=PERS|Word=kpáwà
 

@@ -30,14 +30,14 @@
 6	tò	tò	NOUN	N	_	5	comp:obj	_	AlignBegin=5297|AlignEnd=6438|GE=conte|nWord=9|RX=N|Word=tò
 
 # sent_id = GYA_PRD_NARR_T24-C59_003-003
-# text = Wàntò Bha- dɛ -H gíà nɛ́nɛ́ -VV ʔîn -H ʔó ngàì-wí kɔ́ =éí
+# text = Wàntò BHa- dɛ -H gíà nɛ́nɛ́ -VV ʔîn -H ʔó ngàì-wí kɔ́ =éí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 6438, 12707
 # phonetic_text = Wàntò dɛ̀ɛ̀ gíà nɛ́nɛ́ɛ́ɛ́ ʔín ʔó ngàì-wí kɔ́í
 # text_fr = Wanto participe à une chasse avec ses compagnons
 1	Wàntò	Wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=6438|AlignEnd=7222|GE=Wàntò|nWord=1|RX=NPR|Word=Wàntò
-2	Bha-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=7222|AlignEnd=7483|GE=ACC|nWord=2|RX=MV|Word=dɛ̀ɛ̀
+2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=7222|AlignEnd=7483|GE=ACC|nWord=2|RX=MV|Word=dɛ̀ɛ̀
 3	dɛ	dɛ	VERB	V	_	0	root	_	AlignBegin=7483|AlignEnd=7744|GE=faire|nWord=2|RX=V|Word=dɛ̀ɛ̀
 4	-H	-H	X	FCT	_	3	aff	_	AlignBegin=7744|AlignEnd=8006|GE=MT|nWord=2|RX=FCT|Word=dɛ̀ɛ̀
 5	gíà	gíà	NOUN	N	_	3	comp:obj	_	AlignBegin=8006|AlignEnd=8790|GE=chasse_collective|nWord=3|RX=N|Word=gíà
@@ -160,7 +160,7 @@
 12	=ɛ́ɛ́	ʔɛ́ɛ́	PRON	PERS	Number=Plur|Person=1|PronType=Prs	11	comp	_	AlignBegin=26320|AlignEnd=26519|GE=1PL|nWord=8|RX=PERS|Word=kɛ́ɛ́
 
 # sent_id = GYA_PRD_NARR_T24-C59_009-009
-# text = ʔá̰-nɛ̀ Wàntò BHa kùrá
+# text = ʔá̰-nɛ̀ Wàntò BHa- kùrá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 26521, 28283
@@ -168,7 +168,7 @@
 # text_fr = Et Wanto se lève
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=26521|AlignEnd=27108|GE=voilà_que|nWord=1|RX=COORD|Word=ʔá̰-nɛ̀
 2	Wàntò	Wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=27108|AlignEnd=27695|GE=Wanto|nWord=2|RX=NPR|Word=Wàntò
-3	Bha-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=27695|AlignEnd=27989|GE=ACC|nWord=3|RX=MV|Word=kùrá
+3	BHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=27695|AlignEnd=27989|GE=ACC|nWord=3|RX=MV|Word=kùrá
 4	kùrá	kur	VERB	V	_	0	root	_	AlignBegin=27989|AlignEnd=28283|GE=se_lever|nWord=3|RX=V|Word=kùrá
 
 # sent_id = GYA_PRD_NARR_T24-C59_010-010a
@@ -448,14 +448,14 @@
 5	tɛ	tɛ	VERB	PERS	_	0	root	_	AlignBegin=54796|AlignEnd=54917|GE=venir|nWord=7|RX=V|Word=tɛ́
 
 # sent_id = GYA_PRD_NARR_T24-C59_021-021d
-# text = B- ʔà́m H- kpa =wà
+# text = B- ʔám H- kpa =wà
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 52865, 56120
 # phonetic_text = ʔàm kpáwà
 # text_fr = et donc je les ai rencontrées
 1	B-	B-	CCONJ	FCT	_	4	cc	_	AlignBegin=54917|AlignEnd=55037|GE=et_donc|nWord=6|RX=COORD|Word=ʔàm
-2	ʔà́m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=54796|AlignEnd=54917|GE=1SG|nWord=6|RX=PERS|Word=ʔàm
+2	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=54796|AlignEnd=54917|GE=1SG|nWord=6|RX=PERS|Word=ʔàm
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=55761|AlignEnd=55851|GE=INAC|nWord=9|RX=MV|Word=kpáwà
 4	kpa	kpa	VERB	V	_	0	root	_	AlignBegin=55851|AlignEnd=55941|GE=trouver|nWord=9|RX=V|Word=kpáwà
 5	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	4	comp:obj	_	AlignBegin=56031|AlignEnd=56120|GE=3PL|nWord=9|RX=PERS|Word=kpáwà

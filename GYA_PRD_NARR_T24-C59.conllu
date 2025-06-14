@@ -99,7 +99,7 @@
 1	ká	ká	CCONJ	COORD	_	5	cc	_	AlignBegin=17102|AlignEnd=17202|GE=alors|nWord=11|RX=COORD|Word=kɔ́wàá
 2	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	5	subj	_	AlignBegin=17202|AlignEnd=17302|GE=3PL|nWord=11|RX=PERS|Word=kɔ́wàá
 3	-VH	-VH	DET	MOD MV-MV	_	2	det	_	AlignBegin=17302|AlignEnd=17403|GE=TOP|nWord=11|RX=MOD MV-MV|Topicalization=Yes|Word=kɔ́wàá
-4	H-	H-	AUX	FCT	Aspect=Imp	5	aux	_	AlignBegin=17403|AlignEnd=17553|GE=INAC|nWord=12|Word=dɛ́
+4	H-	H-	AUX	FCT	Aspect=Imp	5	aux	_	AlignBegin=17403|AlignEnd=17553|GE=INAC|nWord=12|RX=MV|Word=dɛ́
 5	dɛ	dɛ	VERB	V	_	0	root	_	AlignBegin=17553|AlignEnd=17704|GE=faire|nWord=12|RX=V|Word=dɛ́
 6	dòè	dòè	NOUN	N	_	5	comp:obj	_	AlignBegin=17704|AlignEnd=18005|GE=termite|nWord=13|RX=N|Word=dòè
 7	kɔ́	kɔ́	ADP	FCT	_	6	udep	_	AlignBegin=18005|AlignEnd=18155|GE=de|nWord=14|RX=FCT|Word=kɔ́wà
@@ -160,7 +160,7 @@
 12	=ɛ́ɛ́	ʔɛ́ɛ́	PRON	PERS	Number=Plur|Person=1|PronType=Prs	11	comp	_	AlignBegin=26320|AlignEnd=26519|GE=1PL|nWord=8|RX=PERS|Word=kɛ́ɛ́
 
 # sent_id = GYA_PRD_NARR_T24-C59_009-009
-# text = ʔá̰-nɛ̀ Wàntò BHa- kùrá
+# text = ʔá̰-nɛ̀ Wàntò BHa- kur
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 26521, 28283
@@ -169,7 +169,7 @@
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=26521|AlignEnd=27108|GE=voilà_que|nWord=1|RX=COORD|Word=ʔá̰-nɛ̀
 2	Wàntò	Wàntò	PROPN	NPR	_	4	subj	_	AlignBegin=27108|AlignEnd=27695|GE=Wanto|nWord=2|RX=NPR|Word=Wàntò
 3	BHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	AlignBegin=27695|AlignEnd=27989|GE=ACC|nWord=3|RX=MV|Word=kùrá
-4	kùrá	kur	VERB	V	_	0	root	_	AlignBegin=27989|AlignEnd=28283|GE=se_lever|nWord=3|RX=V|Word=kùrá
+4	kur	kur	VERB	V	_	0	root	_	AlignBegin=27989|AlignEnd=28283|GE=se_lever|nWord=3|RX=V|Word=kùrá
 
 # sent_id = GYA_PRD_NARR_T24-C59_010-010a
 # text = kpɔ́lɔ́k bé pɛ̀ɲá Wàntò H- ndak H- ndak mɔ́-B- ba Háà- ba ndé
@@ -567,7 +567,7 @@
 8	ʔé	ʔé	ADV	ADV	_	3	mod	_	AlignBegin=69515|AlignEnd=69880|GE=déjà|nWord=5|RX=ADV|Word=ʔé
 
 # sent_id = GYA_PRD_NARR_T24-C59_029-031
-# text = ká =mɛ́ mɛ́ -B H- ʔe há̰ =m H- zɔk zɛ́mɛ̀ -H dòè nɛ̀ dɛ́-mɛ́-B- ɲɔ̀ŋ ɲɔŋ gùn -H gótó -H =nɛ́ -ìí
+# text = ká =mɛ́ mɛ́ -B H- ʔe há̰ =m H- zɔk zɛ́mɛ̀ -H dòè nɛ̀ dɛ́-mɛ́-B- ɲɔŋ ɲɔŋ gùn -H gótó -H =nɛ́ -ìí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 69880, 74363
@@ -588,7 +588,7 @@
 13	dòè	dòè	NOUN	N	_	12	comp	_	AlignBegin=71638|AlignEnd=72004|GE=termite|nWord=7|RX=N|Word=dòè
 14	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	11	mod@relcl	_	AlignBegin=72004|AlignEnd=72370|GE=REL|nWord=8|RX=SUB|Word=nɛ̀
 15	dɛ́-mɛ́-B-	dɛ́-mɛ́-B-	AUX	MV	Aspect=Imp	16	aux	_	AlignBegin=72370|AlignEnd=72554|GE=IM-INAC|Gloss=IM-INAC-|nWord=9|RX=MV|Word=dɛ́-mɛ́-ɲɔ̀ŋ
-16	ɲɔ̀ŋ	ɲɔŋ	VERB	V	_	14	comp	_	AlignBegin=72554|AlignEnd=72738|GE=manger|nWord=9|RX=V|Word=dɛ́-mɛ́-ɲɔ̀ŋ
+16	ɲɔŋ	ɲɔŋ	VERB	V	_	14	comp	_	AlignBegin=72554|AlignEnd=72738|GE=manger|nWord=9|RX=V|Word=dɛ́-mɛ́-ɲɔ̀ŋ
 17	ɲɔŋ	ɲɔŋ	VERB	V	_	16	conj:dicto	_	AlignBegin=72738|AlignEnd=73144|GE=manger|nWord=10|RX=V|Word=ɲɔ̀ŋ
 18	gùn	gùn	NOUN	N	_	17	comp:obj	_	AlignBegin=73144|AlignEnd=73550|GE=base|nWord=11|RX=N|Word=gùn
 19	-H	-H	ADP	_	_	18	udep	_	GE=MT|nWord=11|RX=FCT|Word=gùn
@@ -1157,7 +1157,7 @@
 # sent_timecode = 137019, 139060
 # phonetic_text = Wàntò mɛ̀-nɛ́ ʔò ʔùsà yíwár hámɛ́ ʔò-ndé
 # text_fr = Wanto c'est qui qui t'a montré le chemin ?
-1	Wàntò	wàntò	PROPN	PRED	_	2	vocative	_	AlignBegin=137019|AlignEnd=137359|GE=Wanto|nWord=1|RX=NPR|Word=Wàntò
+1	Wàntò	Wàntò	PROPN	PRED	_	2	vocative	_	AlignBegin=137019|AlignEnd=137359|GE=Wanto|nWord=1|RX=NPR|Word=Wàntò
 2	mɛ̀-nɛ́	mɛ̀-nɛ́	AUX	PRED	_	0	root	_	AlignBegin=137019|AlignEnd=137359|GE=C'EST|nWord=2|RX=PRED|Word=mɛ̀-nɛ́
 3	ʔò	ʔò	PRON	INTERR	_	2	comp:pred	_	AlignBegin=137359|AlignEnd=137699|GE=qui|nWord=3|RX=INTERR|Word=ʔò
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	AlignBegin=137699|AlignEnd=137812|GE=ACC|nWord=4|RX=MV|Word=ʔùsà
@@ -2037,7 +2037,7 @@
 # phonetic_text = wà gbɛ́
 # text_fr = elles le tue
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	AlignBegin=243687|AlignEnd=244057|GE=3PL|nWord=6|RX=PERS|Word=wà
-2	H-	H-	AUX	MV- V	Aspect=Imp	3	aux	_	AlignBegin=244057|AlignEnd=244243|GE=INAC|nWord=7|RX=MV- V|Word=gbɛ́
+2	H-	H-	AUX	MV- V	Aspect=Imp	3	aux	_	AlignBegin=244057|AlignEnd=244243|GE=INAC|nWord=7|RX=MV|Word=gbɛ́
 3	gbɛ	gbɛ	VERB	V	_	0	root	_	AlignBegin=244243|AlignEnd=244428|GE=tuer|nWord=7|RX=V|Word=gbɛ́
 
 # sent_id = GYA_PRD_NARR_T24-C59_108-108
@@ -2073,7 +2073,7 @@
 # text_fr = mais elles s'adressent à Wanto  le cabri qu'on va tuer tu n'en manges pas
 1	sá	sá	CCONJ	N	_	2	cc	_	AlignBegin=247743|AlignEnd=248209|GE=mais|nWord=1|RX=COORD|Word=sá
 2	wà	wà	PRON	N	PronType=Prs	0	root	_	AlignBegin=247743|AlignEnd=248209|GE=3PL|nWord=2|RX=PERS|Word=wà
-3	Wàntò	wàntò	PROPN	N	_	2	vocative	_	AlignBegin=247743|AlignEnd=248209|GE=Wanto|nWord=3|RX=NPR|Word=Wàntò
+3	Wàntò	Wàntò	PROPN	N	_	2	vocative	_	AlignBegin=247743|AlignEnd=248209|GE=Wanto|nWord=3|RX=NPR|Word=Wàntò
 4	dùà	dùà	NOUN	N	_	12	dislocated:obj	_	AlignBegin=247743|AlignEnd=248209|GE=cabri|nWord=4|RX=N|Word=dùà
 5	nɛ̀	nɛ̀	SCONJ	SUB	PronType=Rel	4	mod@relcl	_	AlignBegin=248209|AlignEnd=248364|GE=REL|nWord=5|RX=SUB|Word=ndèì
 6	=éí	ʔéí	PRON	PRO	PronType=Ind	9	subj	_	AlignBegin=248364|AlignEnd=248519|GE=IMPS|nWord=5|RX=PRO|Word=ndèì
@@ -2263,7 +2263,7 @@
 25	nú	nú	NOUN	N	_	24	comp	_	AlignBegin=269474|AlignEnd=269748|GE=partie_active|nWord=8|RX=N|Word=nú
 
 # sent_id = GYA_PRD_NARR_T24-C59_121-121
-# text = ká wùléé H- ɲɛ́m ná
+# text = ká wùléé H- ɲɛm ná
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 261661, 267556 267556, 270839
@@ -2272,7 +2272,7 @@
 1	ká	ká	CCONJ	COORD	_	4	cc	_	AlignBegin=269748|AlignEnd=270022|GE=alors|nWord=9|RX=COORD|Word=ká
 2	wùléé	wùléé	INTJ	INTERJ	_	4	discourse	_	AlignBegin=270022|AlignEnd=270296|GE=hélas|nWord=10|RX=INTERJ|Word=wùléé
 3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	AlignBegin=270296|AlignEnd=270433|GE=INAC|nWord=11|RX=MV|Word=ɲɛ́m
-4	ɲɛ́m	ɲɛm	VERB	V	_	0	root	_	AlignBegin=270433|AlignEnd=270570|GE=convenir_à|nWord=11|RX=V|Word=ɲɛ́m
+4	ɲɛm	ɲɛm	VERB	V	_	0	root	_	AlignBegin=270433|AlignEnd=270570|GE=convenir_à|nWord=11|RX=V|Word=ɲɛ́m
 5	ná	ná	PART	MV	Polarity=Neg	4	mod	_	AlignBegin=270570|AlignEnd=270839|GE=NEG|nWord=12|RX=MV|Word=ná
 
 # sent_id = GYA_PRD_NARR_T24-C59_122-123
@@ -2331,17 +2331,17 @@
 2	kpòŋ-kòròŋ	kpòŋ-kòròŋ	ADJ	AA	_	0	root	_	AlignBegin=278198|AlignEnd=278389|GE=avec_fracas|nWord=1|RX=AA|Word=kpóŋ-kòróŋ
 
 # sent_id = GYA_PRD_NARR_T24-C59_125-125b
-# text = wàntò BHa- ɲɔŋ -H dùá -H yàà kɔ́ =éí
+# text = Wàntò BHa- ɲɔŋ -H dùà -H yàà kɔ́ =éí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 278007, 280297
 # phonetic_text = Wàntò ɲɔ̀ŋá dùá yàà kɔ́í
 # text_fr = Wanto a mangé le cabri de sa grand mère
-1	wàntò	wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=278389|AlignEnd=278771|GE=Wàntò|nWord=2|RX=NPR|Word=Wàntò
+1	Wàntò	Wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=278389|AlignEnd=278771|GE=Wàntò|nWord=2|RX=NPR|Word=Wàntò
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=278771|AlignEnd=278898|GE=ACC|nWord=3|RX=MV|Word=ɲɔ̀ŋá
 3	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=278898|AlignEnd=279025|GE=manger|nWord=3|RX=V|Word=ɲɔ̀ŋá
 4	-H	-H	X	FCT	_	3	aff	_	AlignBegin=279025|AlignEnd=279153|GE=MT|nWord=3|RX=FCT|Word=ɲɔ̀ŋá
-5	dùá	dùà-H	NOUN	N	_	3	comp:obj	_	AlignBegin=279153|AlignEnd=279535|GE=cabri|nWord=4|RX=N|Word=dùá
+5	dùà	dùà	NOUN	N	_	3	comp:obj	_	AlignBegin=279153|AlignEnd=279535|GE=cabri|nWord=4|RX=N|Word=dùá
 6	-H	-H	ADP	_	_	5	udep	_	GE=MT|nWord=4|RX=FCT|Word=dùá
 7	yàà	yàà	NOUN	N	_	6	comp	_	AlignBegin=279535|AlignEnd=279917|GE=grand-mère|nWord=5|RX=N|Word=yàà
 8	kɔ́	kɔ́	ADP	FCT	_	7	udep	_	AlignBegin=279917|AlignEnd=280107|GE=de|nWord=6|RX=FCT|Word=kɔ́í
@@ -2458,17 +2458,17 @@
 2	kpòŋ-kòròŋ	kpòŋ-kòròŋ	ADJ	AA	_	0	root	_	AlignBegin=293021|AlignEnd=293207|GE=avec_fracas|nWord=1|RX=AA|Word=kpóŋ-kòróŋ
 
 # sent_id = GYA_PRD_NARR_T24-C59_133-133b
-# text = wàntò BHa- ɲɔŋ -H dùá -H yàà kɔ́ =éí
+# text = Wàntò BHa- ɲɔŋ -H dùà -H yàà kɔ́ =éí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 292835, 295066
 # phonetic_text = Wàntò ɲɔ̀ŋá dùà yàà kɔ́í
 # text_fr = Wanto a mangé le cabri de sa grand mère
-1	wàntò	wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=293207|AlignEnd=293579|GE=Wàntò|nWord=2|RX=NPR|Word=Wàntò
+1	Wàntò	Wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=293207|AlignEnd=293579|GE=Wàntò|nWord=2|RX=NPR|Word=Wàntò
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	AlignBegin=293579|AlignEnd=293703|GE=ACC|nWord=3|RX=MV|Word=ɲɔ̀ŋá
 3	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=293703|AlignEnd=293827|GE=manger|nWord=3|RX=V|Word=ɲɔ̀ŋá
 4	-H	-H	X	FCT	_	3	aff	_	AlignBegin=293827|AlignEnd=293951|GE=MT|nWord=3|RX=FCT|Word=ɲɔ̀ŋá
-5	dùá	dùà-H	NOUN	N	_	3	comp:obj	_	AlignBegin=293951|AlignEnd=294323|GE=cabri|nWord=4|RX=N|Word=dùà
+5	dùà	dùà	NOUN	N	_	3	comp:obj	_	AlignBegin=293951|AlignEnd=294323|GE=cabri|nWord=4|RX=N|Word=dùà
 6	-H	-H	ADP	_	_	5	udep	_	GE=MT|nWord=4|RX=FCT|Word=dùà
 7	yàà	yàà	NOUN	N	_	6	comp	_	AlignBegin=294323|AlignEnd=294695|GE=grand-mère|nWord=5|RX=N|Word=yàà
 8	kɔ́	kɔ́	ADP	FCT	_	7	udep	_	AlignBegin=294695|AlignEnd=294881|GE=de|nWord=6|RX=FCT|Word=kɔ́í
@@ -2568,7 +2568,7 @@
 4	-VV	-VV	DET	MOD	_	3	det	_	AlignBegin=301882|AlignEnd=302300|GE=DUR|nWord=1|RX=MOD|Word=yááá
 
 # sent_id = GYA_PRD_NARR_T24-C59_138-139
-# text = wàntò -Hv B- zɔk mɔ̀ ná ʔó kóò BHa- gbo -H ʔé nɛ̀ ʔò -H kóré gèɗà sɛ̀kɛ̀ɛ̀
+# text = wàntò -HV B- zɔk mɔ̀ ná ʔó kóò BHa- gbo -H ʔé nɛ̀ ʔò -H kóré -H gèɗà sɛ̀kɛ̀ɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 302300, 306180
@@ -2587,7 +2587,7 @@
 11	-H	-H	X	FCT	_	10	aff	_	AlignBegin=304364|AlignEnd=304459|GE=MT|nWord=7|RX=FCT|Word=gbòò
 12	ʔé	ʔé	ADV	ADV	_	10	mod	_	AlignBegin=304459|AlignEnd=304746|GE=déjà|nWord=8|RX=ADV|Word=ʔé
 13	nɛ̀	nɛ̀	ADP	FCT	_	10	comp:obl	_	AlignBegin=304746|AlignEnd=305033|GE=avec|nWord=9|RX=FCT|Word=nɛ̀
-14	ʔò	ʔò	DET	MN	_	16	mod	_	AlignBegin=305033|AlignEnd=305177|GE=idée de totalité|nWord=10|RX=MN|Word=ʔó
+14	ʔò	ʔò	DET	MN	_	16	mod	_	AlignBegin=305033|AlignEnd=305177|GE=idée_de_totalité|nWord=10|RX=MN|Word=ʔó
 15	-H	-H	X	FCT	_	14	aff	_	AlignBegin=305177|AlignEnd=305320|GE=MT|nWord=10|RX=FCT|Word=ʔó
 16	kóré	kóré	NOUN	N	_	13	comp	_	AlignBegin=305320|AlignEnd=305607|GE=aliment_séché|nWord=11|RX=N|Word=kóré
 17	-H	-H	ADP	_	_	16	udep	_	GE=MT|nWord=11|RX=FCT|Word=kóré
@@ -2984,7 +2984,7 @@
 6	=mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	8	subj	_	AlignBegin=347536|AlignEnd=347848|GE=2SG|nWord=4|RX=PERS|Word=nɛ̀mɛ́
 7	H-	H-	AUX	MV	Aspect=Imp	8	aux	_	AlignBegin=347848|AlignEnd=348004|GE=INAC|nWord=5|RX=MV|Word=nɛ́
 8	nɛ	nɛ	VERB	V	_	5	comp	_	AlignBegin=348004|AlignEnd=348160|GE=aller|nWord=5|RX=V|Word=nɛ́
-9	HHa-	HHa-	DET	MN	Aspect=Imp	10	aux	_	AlignBegin=348160|AlignEnd=348316|GE=INF-INAC|Gloss=INF-INAC-|nWord=6|RX=MN|Word=hárá
+9	HHa-	HHa-	AUX	MN	Aspect=Imp	10	aux	_	AlignBegin=348160|AlignEnd=348316|GE=INF-INAC|Gloss=INF-INAC-|nWord=6|RX=MN|Word=hárá
 10	har	har	VERB	V	_	8	compound:svc	_	AlignBegin=348316|AlignEnd=348472|GE=s'aligner|nWord=6|RX=V|Word=hárá
 11	kóò	kóò	NOUN	N	_	10	comp:obj	_	AlignBegin=348472|AlignEnd=348786|GE=épouse|nWord=7|RX=N|Word=kóò
 12	ká	ká	CCONJ	COORD	_	13	cc	_	AlignBegin=348786|AlignEnd=349084|GE=alors|nWord=8|RX=COORD|Word=ká

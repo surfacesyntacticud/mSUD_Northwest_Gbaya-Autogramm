@@ -146,7 +146,7 @@
 # text_fr = Et Wanto se lève
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	3	cc	_	AlignBegin=26521|AlignEnd=27108|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰-nɛ̀|nWord=1|RX=COORD
 2	Wàntò	Wàntò	PROPN	NPR	_	3	subj	_	AlignBegin=27108|AlignEnd=27695|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=2|RX=NPR
-3	kùrá	kur	VERB	V	_	0	root	_	AlignBegin=27695|AlignEnd=28283|Gloss=se_lever|MGloss=ACC-se_lever|MSeg=BHa-kùrá|nWord=3|RX=V
+3	kùrá	kur	VERB	V	_	0	root	_	AlignBegin=27695|AlignEnd=28283|Gloss=se_lever|MGloss=ACC-se_lever|MSeg=BHa-kur|nWord=3|RX=V
 
 # sent_id = GYA_PRD_NARR_T24-C59_010-010a
 # text = kpɔ́lɔ́k bé pɛ̀ɲá Tò ndák ndák mɔ́-bà báà ndé
@@ -503,7 +503,7 @@
 8	zɛ́mɛ́	zɛ́mɛ̀	NOUN	N	_	7	comp:obj	_	AlignBegin=71272|AlignEnd=71638|Gloss=soldat_de_termite|MGloss=soldat_de_termite-MT|MSeg=zɛ́mɛ̀-H|nWord=6|RX=N
 9	dòè	dòè	NOUN	N	_	8	comp	_	AlignBegin=71638|AlignEnd=72004|Gloss=termite|MGloss=termite|MSeg=dòè|nWord=7|RX=N
 10	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	8	mod@relcl	_	AlignBegin=72004|AlignEnd=72370|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=8|RX=SUB
-11	dɛ́-mɛ́-ɲɔ̀ŋ	ɲɔŋ	VERB	V	_	10	comp	_	AlignBegin=72370|AlignEnd=72738|Gloss=manger|MGloss=IM-INAC--manger|MSeg=dɛ́-mɛ́-B-ɲɔ̀ŋ|nWord=9|RX=V
+11	dɛ́-mɛ́-ɲɔ̀ŋ	ɲɔŋ	VERB	V	_	10	comp	_	AlignBegin=72370|AlignEnd=72738|Gloss=manger|MGloss=IM-INAC--manger|MSeg=dɛ́-mɛ́-B-ɲɔŋ|nWord=9|RX=V
 12	ɲɔ̀ŋ	ɲɔŋ	VERB	V	_	11	conj:dicto	_	AlignBegin=72738|AlignEnd=73144|Gloss=manger|MGloss=manger|MSeg=ɲɔŋ|nWord=10|RX=V
 13	gùn	gùn	NOUN	N	_	12	comp:obj	_	AlignBegin=73144|AlignEnd=73550|Gloss=base|MGloss=base-MT|MSeg=gùn-H|nWord=11|RX=N
 14	gótó	gótó	NOUN	N	_	13	comp	_	AlignBegin=73550|AlignEnd=73753|Gloss=partie_arrière|MGloss=partie_arrière-MT|MSeg=gótó-H|nWord=12|RX=N|wordform=gótó-H
@@ -991,7 +991,7 @@
 # sent_timecode = 137019, 139060
 # phonetic_text = Wàntò mɛ̀-nɛ́ ʔò ʔùsà yíwár hámɛ́ ʔò-ndé
 # text_fr = Wanto c'est qui qui t'a montré le chemin ?
-1	Wàntò	wàntò	PROPN	PRED	_	2	vocative	_	AlignBegin=137019|AlignEnd=137359|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=1|RX=NPR
+1	Wàntò	Wàntò	PROPN	PRED	_	2	vocative	_	AlignBegin=137019|AlignEnd=137359|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=1|RX=NPR
 2	mɛ̀-nɛ́	mɛ̀-nɛ́	AUX	PRED	_	0	root	_	AlignBegin=137019|AlignEnd=137359|Gloss=C'EST|MGloss=C'EST|MSeg=mɛ̀-nɛ́|nWord=2|RX=PRED
 3	ʔò	ʔò	PRON	INTERR	_	2	comp:pred	_	AlignBegin=137359|AlignEnd=137699|Gloss=qui|MGloss=qui|MSeg=ʔò|nWord=3|RX=INTERR
 4	ʔùsà	ʔusi	VERB	V	_	2	comp:cleft	_	AlignBegin=137699|AlignEnd=138039|Gloss=montrer|MGloss=ACC-montrer-MT|MSeg=BHa-ʔusi-H|nWord=4|RX=V
@@ -1778,7 +1778,7 @@
 # text_fr = mais elles s'adressent à Wanto  le cabri qu'on va tuer tu n'en manges pas
 1	sá	sá	CCONJ	N	_	2	cc	_	AlignBegin=247743|AlignEnd=248209|Gloss=mais|MGloss=mais|MSeg=sá|nWord=1|RX=COORD
 2	wà	wà	PRON	N	PronType=Prs	0	root	_	AlignBegin=247743|AlignEnd=248209|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=2|RX=PERS
-3	Wàntò	wàntò	PROPN	N	_	2	vocative	_	AlignBegin=247743|AlignEnd=248209|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=3|RX=NPR
+3	Wàntò	Wàntò	PROPN	N	_	2	vocative	_	AlignBegin=247743|AlignEnd=248209|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=3|RX=NPR
 4	dùà	dùà	NOUN	N	_	9	dislocated:obj	_	AlignBegin=247743|AlignEnd=248209|Gloss=cabri|MGloss=cabri|MSeg=dùà|nWord=4|RX=N
 5	nɛ̀	nɛ̀	SCONJ	SUB	PronType=Rel	4	mod@relcl	_	AlignBegin=248209|AlignEnd=248364|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=5|RX=SUB
 6	=éí	ʔéí	PRON	PRO	PronType=Ind	7	subj	_	AlignBegin=248364|AlignEnd=248675|Gloss=IMPS|MGloss=IMPS-MT|MSeg==éí-H|nWord=5|RX=PRO|Word=ndèì
@@ -1946,7 +1946,7 @@
 # text_fr = oh là là c'en est trop
 1	ká	ká	CCONJ	COORD	_	3	cc	_	AlignBegin=269748|AlignEnd=270022|Gloss=alors|MGloss=alors|MSeg=ká|nWord=9|RX=COORD
 2	wùléé	wùléé	INTJ	INTERJ	_	3	discourse	_	AlignBegin=270022|AlignEnd=270296|Gloss=hélas|MGloss=hélas|MSeg=wùléé|nWord=10|RX=INTERJ
-3	ɲɛ́m	ɲɛm	VERB	V	_	0	root	_	AlignBegin=270296|AlignEnd=270570|Gloss=convenir_à|MGloss=INAC-convenir_à|MSeg=H-ɲɛ́m|nWord=11|RX=V
+3	ɲɛ́m	ɲɛm	VERB	V	_	0	root	_	AlignBegin=270296|AlignEnd=270570|Gloss=convenir_à|MGloss=INAC-convenir_à|MSeg=H-ɲɛm|nWord=11|RX=V
 4	ná	ná	PART	MV	Polarity=Neg	3	mod	_	AlignBegin=270570|AlignEnd=270839|Gloss=NEG|MGloss=NEG|MSeg=ná|nWord=12|RX=MV
 
 # sent_id = GYA_PRD_NARR_T24-C59_122-123
@@ -2000,9 +2000,9 @@
 # sent_timecode = 278007, 280297
 # phonetic_text = Wàntò ɲɔ̀ŋá dùá yàà kɔ́í
 # text_fr = Wanto a mangé le cabri de sa grand mère
-1	Wàntò	wàntò	PROPN	NPR	_	2	subj	_	AlignBegin=278389|AlignEnd=278771|Gloss=Wàntò|MGloss=Wàntò|MSeg=wàntò|nWord=2|RX=NPR
+1	Wàntò	Wàntò	PROPN	NPR	_	2	subj	_	AlignBegin=278389|AlignEnd=278771|Gloss=Wàntò|MGloss=Wàntò|MSeg=Wàntò|nWord=2|RX=NPR
 2	ɲɔ̀ŋá	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=278771|AlignEnd=279153|Gloss=manger|MGloss=ACC-manger-MT|MSeg=BHa-ɲɔŋ-H|nWord=3|RX=V
-3	dùá	dùà-H	NOUN	N	_	2	comp:obj	_	AlignBegin=279153|AlignEnd=279535|Gloss=cabri|MGloss=cabri-MT|MSeg=dùá-H|nWord=4|RX=N
+3	dùá	dùà	NOUN	N	_	2	comp:obj	_	AlignBegin=279153|AlignEnd=279535|Gloss=cabri|MGloss=cabri-MT|MSeg=dùà-H|nWord=4|RX=N
 4	yàà	yàà	NOUN	N	_	3	comp	_	AlignBegin=279535|AlignEnd=279917|Gloss=grand-mère|MGloss=grand-mère|MSeg=yàà|nWord=5|RX=N
 5	kɔ́	kɔ́	ADP	FCT	_	4	udep	_	AlignBegin=279917|AlignEnd=280107|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=6|RX=FCT
 6	=éí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	5	comp	_	AlignBegin=280107|AlignEnd=280297|Gloss=LOGSG|MGloss=LOGSG|MSeg==éí|nWord=6|RX=PERS|Word=kɔ́í
@@ -2102,9 +2102,9 @@
 # sent_timecode = 292835, 295066
 # phonetic_text = Wàntò ɲɔ̀ŋá dùà yàà kɔ́í
 # text_fr = Wanto a mangé le cabri de sa grand mère
-1	Wàntò	wàntò	PROPN	NPR	_	2	subj	_	AlignBegin=293207|AlignEnd=293579|Gloss=Wàntò|MGloss=Wàntò|MSeg=wàntò|nWord=2|RX=NPR
+1	Wàntò	Wàntò	PROPN	NPR	_	2	subj	_	AlignBegin=293207|AlignEnd=293579|Gloss=Wàntò|MGloss=Wàntò|MSeg=Wàntò|nWord=2|RX=NPR
 2	ɲɔ̀ŋá	ɲɔŋ	VERB	V	_	0	root	_	AlignBegin=293579|AlignEnd=293951|Gloss=manger|MGloss=ACC-manger-MT|MSeg=BHa-ɲɔŋ-H|nWord=3|RX=V
-3	dùà	dùà-H	NOUN	N	_	2	comp:obj	_	AlignBegin=293951|AlignEnd=294323|Gloss=cabri|MGloss=cabri-MT|MSeg=dùá-H|nWord=4|RX=N
+3	dùà	dùà	NOUN	N	_	2	comp:obj	_	AlignBegin=293951|AlignEnd=294323|Gloss=cabri|MGloss=cabri-MT|MSeg=dùà-H|nWord=4|RX=N
 4	yàà	yàà	NOUN	N	_	3	comp	_	AlignBegin=294323|AlignEnd=294695|Gloss=grand-mère|MGloss=grand-mère|MSeg=yàà|nWord=5|RX=N
 5	kɔ́	kɔ́	ADP	FCT	_	4	udep	_	AlignBegin=294695|AlignEnd=294881|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=6|RX=FCT
 6	=éí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	5	comp	_	AlignBegin=294881|AlignEnd=295066|Gloss=LOGSG|MGloss=LOGSG|MSeg==éí|nWord=6|RX=PERS|Word=kɔ́í
@@ -2203,7 +2203,7 @@
 7	gbòò	gbo	VERB	V	_	2	parataxis:comp	_	AlignBegin=304172|AlignEnd=304459|Gloss=arriver|MGloss=ACC-arriver-MT|MSeg=BHa-gbo-H|nWord=7|RX=V
 8	ʔé	ʔé	ADV	ADV	_	7	mod	_	AlignBegin=304459|AlignEnd=304746|Gloss=déjà|MGloss=déjà|MSeg=ʔé|nWord=8|RX=ADV
 9	nɛ̀	nɛ̀	ADP	FCT	_	7	comp:obl	_	AlignBegin=304746|AlignEnd=305033|Gloss=avec|MGloss=avec|MSeg=nɛ̀|nWord=9|RX=FCT
-10	ʔó	ʔò	DET	MN	_	11	mod	_	AlignBegin=305033|AlignEnd=305320|Gloss=idée de totalité|MGloss=idée de totalité-MT|MSeg=ʔò-H|nWord=10|RX=MN
+10	ʔó	ʔò	DET	MN	_	11	mod	_	AlignBegin=305033|AlignEnd=305320|Gloss=idée_de_totalité|MGloss=idée_de_totalité-MT|MSeg=ʔò-H|nWord=10|RX=MN
 11	kóré	kóré	NOUN	N	_	9	comp	_	AlignBegin=305320|AlignEnd=305607|Gloss=aliment_séché|MGloss=aliment_séché-MT|MSeg=kóré-H|nWord=11|RX=N
 12	gèɗà	gèɗà	NOUN	N	_	11	comp	_	AlignBegin=305607|AlignEnd=305894|Gloss=manioc|MGloss=manioc|MSeg=gèɗà|nWord=12|RX=N
 13	sɛ̀kɛ̀ɛ̀	sɛ̀kɛ̀ɛ̀	ADV	ADV	_	7	mod	_	AlignBegin=305894|AlignEnd=306180|Gloss=brusquement|MGloss=brusquement|MSeg=sɛ̀kɛ̀ɛ̀|nWord=13|RX=ADV

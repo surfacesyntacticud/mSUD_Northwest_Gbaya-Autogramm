@@ -441,7 +441,7 @@
 4	ná	ná	PART	_	_	1	discourse:sp	_	AlignBegin=61777|AlignEnd=62039|Gloss=DISC|MGloss=DISC|MSeg=ná|nWord=11|RX=DISC
 5	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	6	subj	_	AlignBegin=62039|AlignEnd=62238|Gloss=LOGSG|MGloss=LOGSG|MSeg=ʔéí|nWord=12|RX=PERS
 6	nɛ̀ɛ̀	nɛ	VERB	V	_	0	root	_	AlignBegin=62238|AlignEnd=62437|Gloss=aller|MGloss=ACC-aller-MT|MSeg=BHa-nɛ-H|nWord=13|RX=V
-7	kpéé	kpe	VERB	V	_	6	compound:svc	_	AlignBegin=62437|AlignEnd=62569|Gloss=fermer|MGloss=INF-INAC--fermer|MSeg=Háá-kpe|nWord=14|RX=V
+7	kpéé	kpe	VERB	V	_	6	compound:svc	_	AlignBegin=62437|AlignEnd=62569|Gloss=fermer|MGloss=INF-INAC--fermer|MSeg=HHa-kpe|nWord=14|RX=V
 8	yì	yì	NOUN	N	_	7	comp:obj	_	AlignBegin=62636|AlignEnd=62834|Gloss=rivière|MGloss=rivière|MSeg=yì|nWord=15|RX=N
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_036-036
@@ -849,7 +849,7 @@
 5	gbó	gbo	VERB	V	_	0	root	_	AlignBegin=122984|AlignEnd=123535|Gloss=arriver|MGloss=INAC-arriver|MSeg=H-gbo|nWord=5|RX=V
 6	hɛ̌n	hɛ̀n	ADP	FCT	_	5	comp:obl	_	AlignBegin=123535|AlignEnd=124086|Gloss=dans|MGloss=dans-MT|MSeg=hɛ̀n-H|nWord=6|RX=FCT
 7	zǎŋ	zàŋ	NOUN	N	_	6	comp	_	AlignBegin=124086|AlignEnd=124637|Gloss=continuité|MGloss=continuité-MT|MSeg=zàŋ-H|nWord=7|RX=N
-8	kòlèɲáà	kòlèɲáà	PROPN	NPR	_	7	comp	_	AlignBegin=124637|AlignEnd=125185|Gloss=village sp|MGloss=village sp|MSeg=kòlèɲáà|nWord=8|RX=NPR
+8	kòlèɲáà	kòlèɲáà	PROPN	NPR	_	7	comp	_	AlignBegin=124637|AlignEnd=125185|Gloss=village_sp|MGloss=village_sp|MSeg=kòlèɲáà|nWord=8|RX=NPR
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_066-066
 # text = ká dɔ̀nɔ̀ ʔá̰ sɛ̌n hḭ̀ḭ́
@@ -874,10 +874,10 @@
 1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=126550|AlignEnd=126852|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=14|RX=PERS
 2	kùrá	kur	VERB	V	_	0	root	_	AlignBegin=126852|AlignEnd=127154|Gloss=se_lever|MGloss=ACC-se_lever-MT|MSeg=BHa-kur-H|nWord=15|RX=V
 3	nɛ̀	nɛ̀	ADP	FCT	_	2	comp:obl	_	AlignBegin=127154|AlignEnd=127456|Gloss=par|MGloss=par|MSeg=nɛ̀|nWord=16|RX=FCT
-4	zàòrò-mámbɛ̀rɛ̀	zàòrò-mámbɛ̀rɛ̀	PROPN	NPR	_	3	comp	_	AlignBegin=127456|AlignEnd=127758|Gloss=village sp|MGloss=village sp|MSeg=zàòrò-mámbɛ̀rɛ̀|nWord=17|RX=NPR
+4	zàòrò-mámbɛ̀rɛ̀	zàòrò-mámbɛ̀rɛ̀	PROPN	NPR	_	3	comp	_	AlignBegin=127456|AlignEnd=127758|Gloss=village_sp|MGloss=village_sp|MSeg=zàòrò-mámbɛ̀rɛ̀|nWord=17|RX=NPR
 5	gbó	gbo	VERB	V	_	2	conj:coord	_	AlignBegin=127758|AlignEnd=128060|Gloss=arriver|MGloss=INAC-arriver|MSeg=H-gbo|nWord=18|RX=V
 6	sɛ̌n	sɛ̀n	ADP	FCT	_	5	comp:obl	_	AlignBegin=128060|AlignEnd=128362|Gloss=dans|MGloss=dans-MT|MSeg=sɛ̀n-H|nWord=19|RX=FCT
-7	kòlèɲáà	kòlèɲáà	PROPN	NPR	_	6	comp	_	AlignBegin=128362|AlignEnd=128664|Gloss=village sp|MGloss=village sp|MSeg=kòlèɲáà|nWord=20|RX=NPR
+7	kòlèɲáà	kòlèɲáà	PROPN	NPR	_	6	comp	_	AlignBegin=128362|AlignEnd=128664|Gloss=village_sp|MGloss=village_sp|MSeg=kòlèɲáà|nWord=20|RX=NPR
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_068-068
 # text = ká dɔ̀nɔ̀ ʔá̰à̰
@@ -926,7 +926,7 @@
 8	há̰	há̰	SCONJ	SUB	_	2	mod	_	AlignBegin=132428|AlignEnd=132608|Gloss=pour_que|MGloss=pour_que|MSeg=há̰|nWord=16|RX=SUB
 9	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	10	subj	_	AlignBegin=132608|AlignEnd=132787|Gloss=1SG|MGloss=1SG|MSeg==ám|nWord=16|RX=PERS|Word=hám
 10	ɲɔ́ŋ	ɲɔŋ	VERB	V	_	8	comp	_	AlignBegin=132787|AlignEnd=133146|Gloss=manger|MGloss=INAC-manger|MSeg=H-ɲɔŋ|nWord=17|RX=V
-11	nɛ̀nɛ́	nɛ̀	PART	MV	_	10	mod	_	AlignBegin=133146|AlignEnd=133504|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀nɛ́|nWord=18|RX=MV
+11	nɛ̀nɛ́	nɛ̀nɛ́	PART	MV	_	10	mod	_	AlignBegin=133146|AlignEnd=133504|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀nɛ́|nWord=18|RX=MV
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_072-072
 # text = ʔàm ɗáfí núà
@@ -1258,7 +1258,7 @@
 3	pèà	pei	VERB	V	_	0	root	_	AlignBegin=175486|AlignEnd=175978|Gloss=revenir|MGloss=ACC-revenir-MT|MSeg=BHa-pei-H|nWord=2|RX=V
 4	gbó	gbo	VERB	V	_	3	compound:svc	_	AlignBegin=175978|AlignEnd=176470|Gloss=arriver|MGloss=INF.ACC-arriver|MSeg=H-gbo|nWord=3|RX=V
 5	sɛ̌n	sɛ̀n	ADP	FCT	_	4	comp:obl	_	AlignBegin=176470|AlignEnd=176962|Gloss=dans|MGloss=dans-MT|MSeg=sɛ̀n-H|nWord=4|RX=FCT
-6	gàlò	gàlò	PROPN	NPR	_	5	comp	_	AlignBegin=176962|AlignEnd=177452|Gloss=village sp|MGloss=village sp|MSeg=gàlò|nWord=5|RX=NPR
+6	gàlò	gàlò	PROPN	NPR	_	5	comp	_	AlignBegin=176962|AlignEnd=177452|Gloss=village_sp|MGloss=village_sp|MSeg=gàlò|nWord=5|RX=NPR
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_090-090
 # text = ká =à̰ kpa nàà kɔ́ =à̰
@@ -1269,7 +1269,7 @@
 # text_fr = alors il trouve sa mère [erreur du locuteur]
 1	ká	ká	CCONJ	COORD	_	3	cc	_	AlignBegin=177452|AlignEnd=177602|Gloss=alors|MGloss=alors|MSeg=ká|nWord=6|RX=COORD|Word=ká̰à̰
 2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=177602|AlignEnd=177752|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=6|RX=PERS|Word=ká̰à̰
-3	kpa	kpa	VERB	V	_	0	root	_	AlignBegin=177752|AlignEnd=178052|Gloss=trouver|MGloss=trouver|MSeg=kpa|nWord=7|RX=V
+3	kpa	kpa	VERB	V	_	0	root	_	AlignBegin=177752|AlignEnd=178052|Gloss=trouver|MGloss=INAC--trouver|MSeg=H-kpa|nWord=7|RX=V
 4	nàà	nàà	NOUN	N	_	3	comp:obj	_	AlignBegin=178052|AlignEnd=178202|Gloss=mère|MGloss=mère|MSeg=nàà|nWord=8|RX=N
 5	kɔ́	kɔ́	ADP	FCT	_	4	udep	_	AlignBegin=178202|AlignEnd=178352|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=9|RX=FCT
 6	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	comp	_	AlignBegin=178352|AlignEnd=178653|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=9|RX=PERS|Word=kɔ̰́à
@@ -1450,7 +1450,7 @@
 1	kùɗíà	kùɗì	ADJ	AR	_	2	subj	_	AlignBegin=220670|AlignEnd=220926|Gloss=fin|MGloss=fin-MT-NMLS|MSeg=kùɗì-H-à|nWord=1|RX=AR
 2	nɛ́	nɛ́	AUX	MOD	Voice=Act	0	root	_	AlignBegin=220926|AlignEnd=221182|Gloss=FOC|MGloss=FOC|MSeg=nɛ́|nWord=2|RX=MOD
 3	sɛ̀n	sɛ̀n	ADP	FCT	_	2	comp:obl	_	AlignBegin=221182|AlignEnd=221438|Gloss=dans|MGloss=dans|MSeg=sɛ̀n|nWord=3|RX=FCT
-4	ndóngé	ndóngé	PROPN	NPR	_	3	comp	_	AlignBegin=221438|AlignEnd=221694|Gloss=village sp|MGloss=village sp|MSeg=ndóngé|nWord=4|RX=NPR
+4	ndóngé	ndóngé	PROPN	NPR	_	3	comp	_	AlignBegin=221438|AlignEnd=221694|Gloss=village_sp|MGloss=village_sp|MSeg=ndóngé|nWord=4|RX=NPR
 5	hɛ̰̀	hɛ̰̀	ADV	ADV	_	2	mod	_	AlignBegin=221694|AlignEnd=221736|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=5|RX=ADV
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_108-108
@@ -1479,7 +1479,7 @@
 6	kɔ́	kɔ́	ADP	FCT	_	5	udep	_	AlignBegin=223944|AlignEnd=224094|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=7|RX=FCT
 7	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	6	comp	_	AlignBegin=224094|AlignEnd=224243|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=7|RX=PERS|Word=kɔ̰́à̰
 8	sɛ̌n	sɛ̀n	ADP	FCT	_	4	comp:obl	_	AlignBegin=224243|AlignEnd=224542|Gloss=dans|MGloss=dans-MT|MSeg=sɛ̀n-H|nWord=8|RX=FCT
-9	gàlò	gàlò	PROPN	NPR	_	8	comp	_	AlignBegin=224542|AlignEnd=224841|Gloss=village sp|MGloss=village sp|MSeg=gàlò|nWord=9|RX=NPR
+9	gàlò	gàlò	PROPN	NPR	_	8	comp	_	AlignBegin=224542|AlignEnd=224841|Gloss=village_sp|MGloss=village_sp|MSeg=gàlò|nWord=9|RX=NPR
 10	ná	ná	PART	MV	Polarity=Neg	4	mod	_	AlignBegin=224841|AlignEnd=225140|Gloss=NEG|MGloss=NEG|MSeg=ná|nWord=10|RX=MV
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_110-110
@@ -1514,7 +1514,7 @@
 12	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	11	comp	_	AlignBegin=228126|AlignEnd=228248|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=11|RX=PERS|Word=kɔ̰́à̰,
 13	ʔá̰	ʔá̰	AUX	PRÉD	Case=Loc	0	root	_	AlignBegin=228248|AlignEnd=228492|Gloss=ETRE-LOC|MGloss=ETRE-LOC|MSeg=ʔá̰|nWord=12|RX=PRÉD
 14	sɛ̀n	sɛ̀n	ADP	FCT	_	13	comp:obl	_	AlignBegin=228492|AlignEnd=228736|Gloss=dans|MGloss=dans|MSeg=sɛ̀n|nWord=13|RX=FCT
-15	ndóngé	ndóngé	PROPN	NPR	_	14	comp	_	AlignBegin=228736|AlignEnd=228980|Gloss=village sp|MGloss=village sp|MSeg=ndóngé|nWord=14|RX=NPR
+15	ndóngé	ndóngé	PROPN	NPR	_	14	comp	_	AlignBegin=228736|AlignEnd=228980|Gloss=village_sp|MGloss=village_sp|MSeg=ndóngé|nWord=14|RX=NPR
 16	hɛ̰̀	hɛ̰̀	ADV	ADV	_	13	mod	_	AlignBegin=228980|AlignEnd=229226|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=15|RX=ADV
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_112-112
@@ -1819,7 +1819,7 @@
 3	ʔá̰-hı̰̀ı̰́	ʔá̰-hı̰̀ı̰́	AUX	_	_	0	root	_	AlignBegin=282459|AlignEnd=282884|Gloss=PRST-CONS|MGloss=PRST-CONS|MSeg=ʔá̰-hı̰̀ı̰́|nWord=2|RX=PRÉD
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_134-134a
-# text = wà dúí nú =à̰ dúí nú =à sí-ɗòŋ ʔèá
+# text = wà dúí nú =à̰ dúí núà sí-ɗòŋ ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_01_T16-C6.WAV
 # sent_timecode = 282884, 288231
@@ -1830,10 +1830,9 @@
 3	nú	nú	ADP	FCT	_	2	comp:obl	_	AlignBegin=283596|AlignEnd=283774|Gloss=partie_active|MGloss=partie_active|MSeg=nú|nWord=3|RX=FCT
 4	=à̰	ʔà̰	PRON	_	Number=Sing|Person=3|PronType=Prs	3	comp	_	AlignBegin=283774|AlignEnd=283952|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=3|RX=PR|Word=núà
 5	dúí	dui	VERB	V	_	2	conj:coord	_	AlignBegin=283952|AlignEnd=284308|Gloss=aspirer_par_succion|MGloss=INAC-aspirer_par_succion|MSeg=H-dui|nWord=4|RX=V
-6	nú	nú	NOUN	N	_	5	comp:obj	_	AlignBegin=284308|AlignEnd=284486|Gloss=partie_active|MGloss=partie_active|MSeg=nú|nWord=5|RX=N
-7	=à	ʔà	DET	MN	Number=Sing|Person=3	6	det	_	AlignBegin=284486|AlignEnd=284664|Gloss=3SG|MGloss=3SG|MSeg==à|nWord=5|RX=MN|Word=núà
-8	sí-ɗòŋ	sí-ɗòŋ	ADV	ADV	_	5	mod	_	AlignBegin=284664|AlignEnd=285020|Gloss=à_nouveau|MGloss=à_nouveau|MSeg=sí-ɗòŋ|nWord=6|RX=ADV
-9	ʔèá	ʔèá	ADV	ADV	_	5	mod	_	AlignBegin=285020|AlignEnd=285376|Gloss=seulement|MGloss=seulement|MSeg=ʔèá|nWord=7|RX=ADV
+6	núà	nú	NOUN	N	_	5	comp:obj	_	AlignBegin=284308|AlignEnd=284664|Gloss=partie_active|MGloss=partie_active-3SG|MSeg=nú-à|nWord=5|RX=N
+7	sí-ɗòŋ	sí-ɗòŋ	ADV	ADV	_	5	mod	_	AlignBegin=284664|AlignEnd=285020|Gloss=à_nouveau|MGloss=à_nouveau|MSeg=sí-ɗòŋ|nWord=6|RX=ADV
+8	ʔèá	ʔèá	ADV	ADV	_	5	mod	_	AlignBegin=285020|AlignEnd=285376|Gloss=seulement|MGloss=seulement|MSeg=ʔèá|nWord=7|RX=ADV
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_134-134b
 # text = gbɛ́ɛ́ ʔó dùà dai =à̰ ʔá̰ hɛ̌n hḭ̀ḭ́ ʔèá
@@ -1866,7 +1865,7 @@
 5	kɔ́	kɔ́	ADP	FCT	_	4	udep	_	AlignBegin=289151|AlignEnd=289266|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=5|RX=FCT
 6	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	comp	_	AlignBegin=289266|AlignEnd=289381|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=5|RX=PERS|Word=kɔ̰́à̰
 7	ʔèá	ʔèá	ADV	ADV	_	2	mod	_	AlignBegin=289381|AlignEnd=289613|Gloss=seulement|MGloss=seulement|MSeg=ʔèá|nWord=6|RX=ADV
-8	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	ADV	_	_	2	conj:coord	_	AlignBegin=289613|AlignEnd=290617|Gloss=longtemps|MGloss=longtemps|MSeg=hɔ̰́gɔ̰́ɔ̰́ɔ̰́|nWord=7
+8	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	ADV	_	_	2	mod	_	AlignBegin=289613|AlignEnd=290617|Gloss=longtemps|MGloss=longtemps|MSeg=hɔ̰́gɔ̰́ɔ̰́ɔ̰́|nWord=7
 9	yɔ́	yɔ	VERB	V	_	2	conj:coord	_	AlignBegin=290617|AlignEnd=290894|Gloss=danser|MGloss=INAC-danser|MSeg=H-yɔ|nWord=8|RX=V
 10	nɛ̀	nɛ̀	PART	MV	_	9	mod	_	AlignBegin=290894|AlignEnd=291171|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=9|RX=MV
 11	mɔ̀	mɔ̀	NOUN	N	_	9	comp:obj	_	AlignBegin=291171|AlignEnd=291448|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=10|RX=N
@@ -1881,7 +1880,7 @@
 # text_fr = Et voilà ce qui fait qu'on dit que quand un nouveau-né serait-il tout petit, minuscule, comme dans le creux de la main, même s'ils l'ont emmené jusqu'à Bangui, il grandira.dans la main de sa mère
 1	ʔèè	ʔèè	CCONJ	COORD	_	26	cc	_	AlignBegin=291725|AlignEnd=291996|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=COORD
 2	ʔá̰	ʔá̰	CCONJ	COORD	_	26	cc	_	AlignBegin=291996|AlignEnd=292267|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰|nWord=2|RX=COORD
-3	mɔ̀	mɔ̀-nɛ̀	SCONJ	N	_	26	mod	_	AlignBegin=292267|AlignEnd=292538|Gloss=du fait que|MGloss=du fait que|MSeg=mɔ̀-nɛ̀|nWord=3|RX=SUB
+3	mɔ̀	mɔ̀-nɛ̀	SCONJ	N	_	26	mod	_	AlignBegin=292267|AlignEnd=292538|Gloss=du_fait_que|MGloss=du_fait_que|MSeg=mɔ̀-nɛ̀|nWord=3|RX=SUB
 4	ndèì	ʔéí	PRON	PRO	PronType=Ind	5	subj	_	AlignBegin=292628|AlignEnd=292809|Gloss=IMPS|MGloss=IMPS-MT|MSeg==éí-H|nWord=4|RX=PRO
 5	tɔ̰́	tɔ̰	VERB	V	_	3	comp	_	AlignBegin=292809|AlignEnd=293080|Gloss=dire|MGloss=INAC-dire|MSeg=H-tɔ̰|nWord=5|RX=V
 6	kà	kà	SCONJ	SUB	_	26	mod	_	AlignBegin=293080|AlignEnd=293380|Gloss=quand|MGloss=quand|MSeg=kà|nWord=6|RX=SUB
@@ -1902,7 +1901,7 @@
 21	bá	ba	VERB	V	_	19	comp	_	AlignBegin=297580|AlignEnd=297880|Gloss=prendre|MGloss=INAC-prendre|MSeg=H-ba|nWord=21|RX=V
 22	gbó	gbo	VERB	V	_	21	compound:svc	_	AlignBegin=297880|AlignEnd=298180|Gloss=arriver|MGloss=INF-ACC-arriver|MSeg=H-gbo|nWord=22|RX=V
 23	sɛ̌n	sɛ̀n	ADP	FCT	_	22	comp:obl	_	AlignBegin=298180|AlignEnd=298480|Gloss=dans|MGloss=dans-MT|MSeg=sɛ̀n-H|nWord=23|RX=FCT
-24	bàngí	bàngí	PROPN	NPR	_	23	comp	_	AlignBegin=298480|AlignEnd=298780|Gloss=village sp|MGloss=village sp|MSeg=bàngí|nWord=24|RX=NPR
+24	bàngí	bàngí	PROPN	NPR	_	23	comp	_	AlignBegin=298480|AlignEnd=298780|Gloss=village_sp|MGloss=village_sp|MSeg=bàngí|nWord=24|RX=NPR
 25	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	26	subj	_	AlignBegin=298780|AlignEnd=299080|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=25|RX=PERS
 26	tɛ́-gàsì	gasi	VERB	V	_	0	root	_	AlignBegin=299080|AlignEnd=299380|Gloss=grandir|MGloss=VIRT-INAC--grandir|MSeg=tɛ́-B-gasi|nWord=26|RX=V
 27	kɔ̀	kɔ̀	ADP	FCT	_	26	comp:obl	_	AlignBegin=299380|AlignEnd=299680|Gloss=intérieur|MGloss=intérieur|MSeg=kɔ̀|nWord=27|RX=FCT
@@ -1998,7 +1997,7 @@
 9	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	10	subj	_	AlignBegin=310198|AlignEnd=310478|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=9|RX=PERS
 10	tɛ́-wɛ̀n	wɛn	VERB	V	_	0	root	_	AlignBegin=310478|AlignEnd=310758|Gloss=écarter|MGloss=VIRT-INAC--écarter|MSeg=tɛ́-B-wɛn|nWord=10|RX=V
 11	kàá	kàá	PART	MV	Aspect=Iter	10	mod	_	AlignBegin=310758|AlignEnd=311038|Gloss=REP-ADD|MGloss=REP-ADD|MSeg=kàá|nWord=11|RX=MV
-12	wɔ̀tɔ̀-wɔ̀tɔ̀	wɔ́tɔ́-wɔ́tɔ́	ADJ	AA	_	10	mod	_	AlignBegin=311038|AlignEnd=311318|Gloss=les_mains_de_part_et_d'autre_du_visage|MGloss=PROX-les_mains_de_part_et_d'autre_du_visage|MSeg=B-wɔ̀tɔ̀-wɔ̀tɔ̀|nWord=12|RX=AA
+12	wɔ̀tɔ̀-wɔ̀tɔ̀	wɔ́tɔ́-wɔ́tɔ́	ADJ	AA	_	10	mod	_	AlignBegin=311038|AlignEnd=311318|Gloss=les_mains_de_part_et_d'autre_du_visage|MGloss=PROX-les_mains_de_part_et_d'autre_du_visage|MSeg=B-wɔ́tɔ́-wɔ́tɔ́|nWord=12|RX=AA
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_143-143b
 # text = wà tɛ́-kpà nàà kɔ́ =wà

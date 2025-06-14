@@ -762,7 +762,7 @@
 6	yáknɛ́	yáknɛ́	PART	MV	_	3	mod	_	AlignBegin=96266|AlignEnd=96660|GE=en_partant|Gloss=en_partant|nWord=10|RX=MV|Word=yáknɛ́
 
 # sent_id = GYA_PRD_NARR_T9-C7_028-029
-# text = ʔèè bókáɲá =à H- kpe ndútùà zù ʔè ʔèè H- ʔɔ yá sí-ɗòŋ
+# text = ʔèè bókáɲá -H =à H- kpe ndútùà zù ʔè ʔèè H- ʔɔ yá sí-ɗòŋ
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 98150, 99110
@@ -780,7 +780,7 @@
 10	ʔèè	ʔèè	CCONJ	SUB	_	12	cc	_	AlignBegin=98150|AlignEnd=98390|GE=puis|Gloss=puis|nWord=1|RX=SUB|Word=ʔèè
 11	H-	H-	AUX	MV	Aspect=Imp	12	aux	_	AlignBegin=98390|AlignEnd=98510|GE=INAC|Gloss=INAC-|nWord=2|RX=MV|Word=ʔɔ́
 12	ʔɔ	ʔɔ	VERB	V	_	6	conj:coord	_	AlignBegin=98510|AlignEnd=98630|GE=s'étendre|Gloss=s'étendre|nWord=2|RX=V|Word=ʔɔ́
-13	yá	yá	VERB	V	_	12	comp:obl	_	AlignBegin=98750|AlignEnd=98870|GE=sommeil|Gloss=sommeil|nWord=3|RX=V|Word=yá
+13	yá	yá	NOUN	V	_	12	comp:obl	_	AlignBegin=98750|AlignEnd=98870|GE=sommeil|Gloss=sommeil|nWord=3|RX=N|Word=yá
 14	sí-ɗòŋ	sí-ɗòŋ	ADV	ADV	_	12	mod	_	AlignBegin=98870|AlignEnd=99110|GE=à_nouveau|Gloss=à_nouveau|nWord=4|RX=ADV|Word=sí-ɗòŋ
 
 # sent_id = GYA_PRD_NARR_T9-C7_030-030
@@ -1075,7 +1075,7 @@
 # text_fr = alors le buffle s'acharne et lui défonce le poitrail
 1	ká	ká	CCONJ	SUB	_	3	cc	_	AlignBegin=135340|AlignEnd=135765|GE=alors|Gloss=alors|nWord=1|RX=SUB|Word=ká
 2	yérè	yérè	NOUN	MV	_	3	subj	_	AlignBegin=135765|AlignEnd=135907|GE=buffle|Gloss=buffle|nWord=2|RX=N|Word=yérè
-3	ʔèá-ʔèá	ʔèá-ʔèá	VERB	V	_	0	root	_	AlignBegin=135907|AlignEnd=136049|GE=longtemps|Gloss=longtemps|nWord=3|RX=ADV|Word=ʔèá_ʔèá_ʔèá
+3	ʔèá-ʔèá	ʔèá-ʔèá	ADV	V	_	0	root	_	AlignBegin=135907|AlignEnd=136049|GE=longtemps|Gloss=longtemps|nWord=3|RX=ADV|Word=ʔèá_ʔèá_ʔèá
 4	-VV	-VV	DET	FCT	_	3	det	_	AlignBegin=136049|AlignEnd=136190|GE=DUR|Gloss=-DUR|nWord=3|RX=MOD|wordform=-vv|Word=ʔèá_ʔèá_ʔèá
 5	kà	kà	CCONJ	N	_	7	cc	_	AlignBegin=136190|AlignEnd=136332|GE=alors|Gloss=alors|nWord=4|RX=SUB|Word=ká
 6	BHa-	BHa-	AUX	FCT	_	7	aux	_	AlignBegin=136332|AlignEnd=136474|GE=ACC|Gloss=ACC-|nWord=5|RX=MV|Word=zṵ̀ṵ̀
@@ -1086,17 +1086,18 @@
 11	=à̰	ʔà̰	PRON	MN	Number=Sing|Person=3	10	comp	_	AlignBegin=137677|AlignEnd=137890|GE=3SG|Gloss=-3SG|nWord=6|RX=MN|Word=ʔɔ́máà
 
 # sent_id = GYA_PRD_NARR_T9-C7_041-041a
-# text = ká yérè gɔ̀má =à̰ ʔèá
+# text = ká yérè BHa- gɔm =à̰ ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 135340, 140860
 # phonetic_text = ká yérè gɔ̀máà ʔèá
 # text_fr = alors le buffle l'a frappé, simplement
-1	ká	ká	CCONJ	SUB	_	3	cc	_	AlignBegin=136615|AlignEnd=137040|GE=alors|Gloss=alors|nWord=4|RX=SUB|Word=ká
-2	yérè	yérè	NOUN	N	_	3	subj	_	AlignBegin=137040|AlignEnd=137465|GE=buffle|Gloss=buffle|nWord=5|RX=N|Word=yérè
-3	gɔ̀má	gɔ̀má	VERB	V	_	0	root	_	AlignBegin=137465|AlignEnd=137677|GE=frapper|Gloss=frapper|nWord=6|RX=V|Word=gɔ̀máà
-4	=à̰	ʔà̰	PRON	MN	Number=Sing|Person=3	3	comp:obj	_	AlignBegin=137677|AlignEnd=137890|GE=3SG|Gloss=-3SG|nWord=6|RX=MN|Word=gɔ̀máà
-5	ʔèá	ʔèá	ADV	ADV	_	3	mod	_	AlignBegin=137890|AlignEnd=138315|GE=seulement|Gloss=seulement|nWord=7|RX=ADV|Word=ʔèá
+1	ká	ká	CCONJ	SUB	_	4	cc	_	AlignBegin=136615|AlignEnd=137040|GE=alors|Gloss=alors|nWord=4|RX=SUB|Word=ká
+2	yérè	yérè	NOUN	N	_	4	subj	_	AlignBegin=137040|AlignEnd=137465|GE=buffle|Gloss=buffle|nWord=5|RX=N|Word=yérè
+3	BHa-	BHa-	AUX	V	Aspect=Perf	4	aux	_	AlignBegin=137465|AlignEnd=137677|GE=ACC|Gloss=ACC-|nWord=6|RX=MV|Word=gɔ̀máà
+4	gɔm	gɔm	VERB	V	_	0	root	_	AlignBegin=137465|AlignEnd=137677|GE=frapper|Gloss=frapper|nWord=6|RX=V|Word=gɔ̀máà
+5	=à̰	ʔà̰	PRON	MN	Number=Sing|Person=3	4	comp:obj	_	AlignBegin=137677|AlignEnd=137890|GE=3SG|Gloss=-3SG|nWord=6|RX=MN|Word=gɔ̀máà
+6	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	AlignBegin=137890|AlignEnd=138315|GE=seulement|Gloss=seulement|nWord=7|RX=ADV|Word=ʔèá
 
 # sent_id = GYA_PRD_NARR_T9-C7_041-041b
 # text = ká sɔ̀ngbɛ̀ɛ̀ ká bóɲá -H =à̰ BHa- fe ʔè
@@ -1446,7 +1447,7 @@
 1	ʔèè	ʔèè	CCONJ	COORD	_	7	cc	_	AlignBegin=176331|AlignEnd=176696|GE=puis|Gloss=puis|nWord=1|RX=COORD|Word=ʔèè
 2	ká	ká	CCONJ	COORD	_	7	cc	_	AlignBegin=176696|AlignEnd=177061|GE=alors|Gloss=alors|nWord=2|RX=COORD|Word=ká
 3	ndàyà	ndàyà	NOUN	N	_	7	subj	_	AlignBegin=177061|AlignEnd=177243|GE=raison|Gloss=raison|nWord=3|RX=N|Word=ndàyá
-4	-H	_H	ADP	FCT	_	3	udep	_	AlignBegin=177243|AlignEnd=177426|GE=D|Gloss=-D|nWord=3|RX=FCT|Word=ndàyá
+4	-H	-H	ADP	FCT	_	3	udep	_	AlignBegin=177243|AlignEnd=177426|GE=D|Gloss=-D|nWord=3|RX=FCT|Word=ndàyá
 5	mɔ̀	mɔ̀	NOUN	N	_	4	comp	_	AlignBegin=177426|AlignEnd=177791|GE=chose|Gloss=chose|nWord=4|RX=N|Word=mɔ̀
 6	H-	H-	AUX	MV	Aspect=Imp	7	aux	_	AlignBegin=177791|AlignEnd=177973|GE=INAC|Gloss=INAC-|nWord=5|RX=MV|Word=sá̰
 7	sa̰	sa̰	VERB	V	_	0	root	_	AlignBegin=177973|AlignEnd=178155|GE=être_clair|Gloss=être_clair|nWord=5|RX=V|Word=sá̰

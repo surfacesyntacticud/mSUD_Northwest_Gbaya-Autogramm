@@ -649,7 +649,7 @@
 7	ʔè	ʔè	PART	ME	_	4	discourse:sp	_	AlignBegin=97900|AlignEnd=98150|GE=désormais|Gloss=désormais|MGloss=désormais|MSeg=ʔè|nWord=6|RX=ME
 8	ʔèè	ʔèè	CCONJ	SUB	_	9	cc	_	AlignBegin=98150|AlignEnd=98390|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=SUB
 9	ʔɔ́	ʔɔ	VERB	V	_	4	conj:coord	_	AlignBegin=98390|AlignEnd=98630|GE=s'étendre|Gloss=s'étendre|MGloss=INAC--s'étendre|MSeg=H-ʔɔ|nWord=2|RX=V
-10	yá	yá	VERB	V	_	9	comp:obl	_	AlignBegin=98750|AlignEnd=98870|GE=sommeil|Gloss=sommeil|MGloss=sommeil|MSeg=yá|nWord=3|RX=V
+10	yá	yá	NOUN	V	_	9	comp:obl	_	AlignBegin=98750|AlignEnd=98870|GE=sommeil|Gloss=sommeil|MGloss=sommeil|MSeg=yá|nWord=3|RX=N
 11	sí-ɗòŋ	sí-ɗòŋ	ADV	ADV	_	9	mod	_	AlignBegin=98870|AlignEnd=99110|GE=à_nouveau|Gloss=à_nouveau|MGloss=à_nouveau|MSeg=sí-ɗòŋ|nWord=4|RX=ADV
 
 # sent_id = GYA_PRD_NARR_T9-C7_030-030
@@ -897,14 +897,14 @@
 # text_fr = alors le buffle s'acharne et lui défonce le poitrail
 1	ká	ká	CCONJ	SUB	_	3	cc	_	AlignBegin=135340|AlignEnd=135765|GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=1|RX=SUB
 2	yérè	yérè	NOUN	MV	_	3	subj	_	AlignBegin=135765|AlignEnd=135907|GE=buffle|Gloss=buffle|MGloss=buffle|MSeg=yérè|nWord=2|RX=N
-3	ʔèá_ʔèá_ʔèá	ʔèá-ʔèá	VERB	V	_	0	root	_	AlignBegin=135907|AlignEnd=136190|GE=longtemps|Gloss=longtemps|MGloss=longtemps--DUR|MSeg=ʔèá-ʔèá-VV|nWord=3|RX=ADV
+3	ʔèá_ʔèá_ʔèá	ʔèá-ʔèá	ADV	V	_	0	root	_	AlignBegin=135907|AlignEnd=136190|GE=longtemps|Gloss=longtemps|MGloss=longtemps--DUR|MSeg=ʔèá-ʔèá-VV|nWord=3|RX=ADV
 4	ká	kà	CCONJ	N	_	5	cc	_	AlignBegin=136190|AlignEnd=136332|GE=alors|Gloss=alors|MGloss=alors|MSeg=kà|nWord=4|RX=SUB
 5	zṵ̀ṵ̀	zṵ	VERB	MN	_	3	conj:coord	_	AlignBegin=136332|AlignEnd=137040|GE=enfoncer|Gloss=enfoncer|MGloss=ACC--enfoncer--D|MSeg=BHa-zṵ-H|nWord=5|RX=V
 6	ʔɔ́m	ʔɔ́m	NOUN	N	_	5	comp:obj	_	AlignBegin=137040|AlignEnd=137677|GE=poitrail|Gloss=poitrail|MGloss=poitrail--D|MSeg=ʔɔ́m-H|nWord=6|RX=N|wordform=ʔɔ́m-H
 7	=à̰	ʔà̰	PRON	MN	Number=Sing|Person=3	6	comp	_	AlignBegin=137677|AlignEnd=137890|GE=3SG|Gloss=-3SG|MGloss=-3SG|MSeg==à̰|nWord=6|RX=MN|Word=ʔɔ́máà
 
 # sent_id = GYA_PRD_NARR_T9-C7_041-041a
-# text = ká yérè gɔ̀má =à̰ ʔèá
+# text = ká yérè gɔm =à̰ ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 135340, 140860
@@ -912,7 +912,7 @@
 # text_fr = alors le buffle l'a frappé, simplement
 1	ká	ká	CCONJ	SUB	_	3	cc	_	AlignBegin=136615|AlignEnd=137040|GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=4|RX=SUB
 2	yérè	yérè	NOUN	N	_	3	subj	_	AlignBegin=137040|AlignEnd=137465|GE=buffle|Gloss=buffle|MGloss=buffle|MSeg=yérè|nWord=5|RX=N
-3	gɔ̀má	gɔ̀má	VERB	V	_	0	root	_	AlignBegin=137465|AlignEnd=137677|GE=frapper|Gloss=frapper|MGloss=frapper|MSeg=gɔ̀má|nWord=6|RX=V
+3	gɔm	gɔm	VERB	V	_	0	root	_	AlignBegin=137465|AlignEnd=137677|GE=frapper|Gloss=frapper|MGloss=ACC--frapper|MSeg=BHa-gɔm|nWord=6|RX=V|wordform=BHa-gɔm
 4	=à̰	ʔà̰	PRON	MN	Number=Sing|Person=3	3	comp:obj	_	AlignBegin=137677|AlignEnd=137890|GE=3SG|Gloss=-3SG|MGloss=-3SG|MSeg==à̰|nWord=6|RX=MN|Word=gɔ̀máà
 5	ʔèá	ʔèá	ADV	ADV	_	3	mod	_	AlignBegin=137890|AlignEnd=138315|GE=seulement|Gloss=seulement|MGloss=seulement|MSeg=ʔèá|nWord=7|RX=ADV
 

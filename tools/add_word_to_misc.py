@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import sys, re
-
-
-# In[2]:
-
 
 infile = sys.argv[1]
 if len(sys.argv) > 2:

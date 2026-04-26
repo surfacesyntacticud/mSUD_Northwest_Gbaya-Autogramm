@@ -2117,7 +2117,7 @@
 1	dùà	dùà	NOUN	N	_	9	dislocated:obj	_	AlignBegin=252364|AlignEnd=252580|GE=cabri|nWord=18|RX=N|Word=dùà
 2	hɛ̰̀	hɛ̰̀	ADV	ADV	_	1	mod	_	AlignBegin=252580|AlignEnd=252796|GE=ici|nWord=19|RX=ADV|Word=hɛ̰̀
 3	ʔéí	ʔéí	PRON	PRO	PronType=Ind	5	subj	_	AlignBegin=252796|AlignEnd=253012|GE=IMPS|nWord=20|RX=PRO|Word=ʔéí
-4	mɛ́-B-	mɛ́-B-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=253012|AlignEnd=253120|GE=FIN-ỊNAC|nWord=21|RX=MV|Word=mɔ́-pèì
+4	mɛ́-B-	mɛ́-B-	AUX	MV	Aspect=Imp	5	aux	_	AlignBegin=253012|AlignEnd=253120|GE=FIN.INAC|nWord=21|RX=MV|Word=mɔ́-pèì
 5	pei	pei	VERB	V	_	9	mod	_	AlignBegin=253120|AlignEnd=253228|GE=revenir|nWord=21|RX=V|Word=mɔ́-pèì
 6	B-	B-	CCONJ	COORD	_	9	cc	_	AlignBegin=253336|AlignEnd=253444|GE=et_donc|nWord=22|RX=COORD|Word=ʔèì
 7	ʔéí	ʔéí	PRON	PRO	PronType=Ind	9	subj	_	AlignBegin=253228|AlignEnd=253336|GE=IMPS|nWord=22|RX=PRO|Word=ʔèì
@@ -2302,7 +2302,7 @@
 18	zù	zù	ADP	FCT	_	17	comp:obl	_	AlignBegin=274153|AlignEnd=274300|GE=sur|nWord=11|RX=FCT|Word=zú
 19	-H	-H	X	FCT	_	18	aff	_	AlignBegin=274300|AlignEnd=274447|GE=MT|nWord=11|RX=FCT|Word=zú
 20	màá	màá	PRON	PRO	PronType=Rcp	18	comp	_	AlignBegin=274447|AlignEnd=274741|GE=RECP|nWord=12|RX=PRO|Word=màá
-21	ʔòé	ʔòé	ADV	ADV	_	11	comp	_	AlignBegin=274741|AlignEnd=275037|GE=aussi|nWord=13|RX=ADV|Word=ʔòé
+21	ʔòé	ʔòé	ADV	ADV	_	11	mod	_	AlignBegin=274741|AlignEnd=275037|GE=aussi|nWord=13|RX=ADV|Word=ʔòé
 
 # sent_id = GYA_PRD_NARR_T24-C59_124-124
 # text = ká kòtó dùà BHa- kur -H mbɔ́ɗɔ́-nù
@@ -2419,7 +2419,7 @@
 9	-H	-H	X	FCT	_	8	aff	_	AlignBegin=285721|AlignEnd=285875|GE=MT|nWord=5|RX=FCT|Word=zɔ̌m
 10	tè	tè	NOUN	N	_	6	comp:obj	_	AlignBegin=285875|AlignEnd=286183|GE=bois|nWord=6|RX=N|Word=tè
 11	ʔó	ʔó	DET	MN	Number=Plur	12	det	_	AlignBegin=286183|AlignEnd=286470|GE=PL|nWord=7|RX=MN|Word=ʔó
-12	nú	nú	NOUN	N	_	6	comp:obj	_	AlignBegin=286470|AlignEnd=286757|GE=partie_active|nWord=8|RX=N|Word=nú
+12	nú	nú	NOUN	N	_	10	conj:dicto	_	AlignBegin=286470|AlignEnd=286757|GE=partie_active|nWord=8|RX=N|Word=nú
 13	-H	-H	ADP	_	_	12	udep	_	GE=MT|nWord=8|RX=FCT|Word=nú
 14	gúá	gúá	NOUN	N	_	13	comp	_	AlignBegin=286757|AlignEnd=287044|GE=bois_de_feu|nWord=9|RX=N|Word=gúá
 15	BHa-	BHa-	AUX	MV	Aspect=Perf	16	aux	_	AlignBegin=287044|AlignEnd=287241|GE=ACC|nWord=10|RX=MV|Word=ʔàà
@@ -2787,7 +2787,7 @@
 14	dùà	dùà	NOUN	N	_	12	comp:obj	_	AlignBegin=325674|AlignEnd=325880|GE=cabri|nWord=10|RX=N|Word=dùà
 15	há̰	há̰	SCONJ	SUB	_	12	mod	_	AlignBegin=325880|AlignEnd=325983|GE=pour_que|nWord=11|RX=SUB|Word=héí
 16	=éí	ʔéí	PRON	PRO	PronType=Ind	18	subj	_	AlignBegin=325983|AlignEnd=326086|GE=IMPS|nWord=11|RX=PRO|Word=héí
-17	mɛ́-B-	mɛ́-B-	AUX	MV	Aspect=Imp	18	aux	_	AlignBegin=326086|AlignEnd=326189|GE=FIN-ỊNAC|nWord=12|RX=MV|Word=mɔ́-dɛ̀
+17	mɛ́-B-	mɛ́-B-	AUX	MV	Aspect=Imp	18	aux	_	AlignBegin=326086|AlignEnd=326189|GE=FIN.INAC|nWord=12|RX=MV|Word=mɔ́-dɛ̀
 18	dɛ	dɛ	VERB	V	_	15	comp	_	AlignBegin=326189|AlignEnd=326292|GE=faire|nWord=12|RX=V|Word=mɔ́-dɛ̀
 19	nɛ̀	nɛ̀	PART	MV	_	18	mod	_	AlignBegin=326292|AlignEnd=326498|GE=CIRC|nWord=13|RX=MV|Word=nɛ̀
 20	mɔ̀	mɔ̀	NOUN	N	_	18	comp:obj	_	AlignBegin=326498|AlignEnd=326704|GE=chose|nWord=14|RX=N|Word=mɔ̀
@@ -2935,7 +2935,7 @@
 4	ʔa	ʔa	VERB	V	_	0	root	_	AlignBegin=343071|AlignEnd=343194|GE=poser|nWord=3|RX=V|Word=ʔá
 5	kàá	kàá	PART	MV	Aspect=Iter	4	mod	_	AlignBegin=343194|AlignEnd=343441|GE=REP-ADD|nWord=4|RX=MV|Word=kàá
 6	gèɗà	gèɗà	NOUN	N	_	4	comp:obj	_	AlignBegin=343441|AlignEnd=343688|GE=manioc|nWord=5|RX=N|Word=gèɗà
-7	táá	táá	ADP	FCT	_	4	comp:obj	_	AlignBegin=343688|AlignEnd=343935|GE=vers|nWord=6|RX=FCT|Word=táá
+7	táá	táá	ADP	FCT	_	4	comp:obl	_	AlignBegin=343688|AlignEnd=343935|GE=vers|nWord=6|RX=FCT|Word=táá
 8	kútùà	kútùà	NOUN	N	_	7	comp	_	AlignBegin=343935|AlignEnd=344182|GE=maison|nWord=7|RX=N|Word=kútùà
 9	mɛ̀	mɛ̀	ADV	ADV	_	4	mod	_	AlignBegin=344182|AlignEnd=344429|GE=là-bas|nWord=8|RX=ADV|Word=mɛ̀
 

@@ -844,7 +844,7 @@
 6	kur	kur	VERB	V	_	0	root	_	AlignBegin=106757|AlignEnd=106888|GE=se_lever|Gloss=se_lever|nWord=12|RX=V|Word=kúr
 7	kɔ́	kɔ́	ADP	FCT	_	6	comp:obl	_	AlignBegin=106888|AlignEnd=107019|GE=quant_à|Gloss=quant_à|nWord=13|RX=FCT|Word=kéí
 8	=éí	ʔéí	PRON	PR	PronType=Prs	7	comp	_	AlignBegin=107019|AlignEnd=107150|GE=LogS|Gloss=-LogS|nWord=13|RX=PR|Word=kéí
-9	mɛ́-B-	mɛ́-B-	AUX	MV	_	10	aux	_	AlignBegin=107150|AlignEnd=107237|GE=FIN.ỊNAC|Gloss=FIN.ỊNAC-|nWord=14|RX=MV|Word=mɛ́-ndàkà
+9	mɛ́-B-	mɛ́-B-	AUX	MV	_	10	aux	_	AlignBegin=107150|AlignEnd=107237|GE=FIN.INAC|Gloss=FIN.ỊNAC-|nWord=14|RX=MV|Word=mɛ́-ndàkà
 10	ndak	ndak	VERB	V	_	6	compound:svc	_	AlignBegin=107237|AlignEnd=107324|GE=poursuivre|Gloss=poursuivre|nWord=14|RX=V|Word=mɛ́-ndàkà
 11	=à	ʔà̰	PRON	MN	Number=Sing|Person=3	10	comp:obj	_	AlignBegin=107324|AlignEnd=107412|GE=3SG|Gloss=-3SG|nWord=14|RX=MN|Word=mɛ́-ndàkà
 12	péínɛ́	péínɛ́	PART	MV	_	6	mod	_	AlignBegin=107412|AlignEnd=107670|GE=en_revenant|Gloss=en_revenant|nWord=15|RX=MV|Word=péínɛ́

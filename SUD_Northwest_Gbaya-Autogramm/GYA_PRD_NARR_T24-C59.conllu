@@ -1816,7 +1816,7 @@
 1	dùà	dùà	NOUN	N	_	6	dislocated:obj	_	AlignBegin=252364|AlignEnd=252580|Gloss=cabri|MGloss=cabri|MSeg=dùà|nWord=18|RX=N
 2	hɛ̰̀	hɛ̰̀	ADV	ADV	_	1	mod	_	AlignBegin=252580|AlignEnd=252796|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=19|RX=ADV
 3	ʔéí	ʔéí	PRON	PRO	PronType=Ind	4	subj	_	AlignBegin=252796|AlignEnd=253012|Gloss=IMPS|MGloss=IMPS|MSeg=ʔéí|nWord=20|RX=PRO
-4	mɔ́-pèì	pei	VERB	V	_	6	mod	_	AlignBegin=253012|AlignEnd=253228|Gloss=revenir|MGloss=FIN-ỊNAC-revenir|MSeg=mɛ́-B-pei|nWord=21|RX=V
+4	mɔ́-pèì	pei	VERB	V	_	6	mod	_	AlignBegin=253012|AlignEnd=253228|Gloss=revenir|MGloss=FIN.INAC-revenir|MSeg=mɛ́-B-pei|nWord=21|RX=V
 5	ʔèì	ʔéí	PRON	PRO	PronType=Ind	6	subj	_	AlignBegin=253336|AlignEnd=253336|Gloss=IMPS|MGloss=et_donc-IMPS|MSeg=B-ʔéí|nWord=22|RX=PRO
 6	dɛ̀	dɛ	VERB	V	_	0	root	_	AlignBegin=253444|AlignEnd=253660|Gloss=faire|MGloss=CONNU-faire|MSeg=B-dɛ|nWord=23|RX=V
 7	nɛ̀	nɛ̀	PART	MV	_	6	mod	_	AlignBegin=253660|AlignEnd=253876|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=24|RX=MV
@@ -1969,7 +1969,7 @@
 11	ʔá	ʔa	VERB	V	_	7	compound:svc	_	AlignBegin=273859|AlignEnd=274153|Gloss=verser|MGloss=INF-ACC-verser|MSeg=H-ʔa|nWord=10|RX=V
 12	zú	zù	ADP	FCT	_	11	comp:obl	_	AlignBegin=274153|AlignEnd=274447|Gloss=sur|MGloss=sur-MT|MSeg=zù-H|nWord=11|RX=FCT
 13	màá	màá	PRON	PRO	PronType=Rcp	12	comp	_	AlignBegin=274447|AlignEnd=274741|Gloss=RECP|MGloss=RECP|MSeg=màá|nWord=12|RX=PRO
-14	ʔòé	ʔòé	ADV	ADV	_	7	comp	_	AlignBegin=274741|AlignEnd=275037|Gloss=aussi|MGloss=aussi|MSeg=ʔòé|nWord=13|RX=ADV
+14	ʔòé	ʔòé	ADV	ADV	_	7	mod	_	AlignBegin=274741|AlignEnd=275037|Gloss=aussi|MGloss=aussi|MSeg=ʔòé|nWord=13|RX=ADV
 
 # sent_id = GYA_PRD_NARR_T24-C59_124-124
 # text = ká kòtó dùà kùrà mbɔ́ɗɔ́-nù
@@ -2067,7 +2067,7 @@
 5	zɔ̌m	zɔ̀m	DET	MN	Degree=Aug	6	mod	_	AlignBegin=285567|AlignEnd=285875|Gloss=AUG|MGloss=AUG-MT|MSeg=zɔ̀m-H|nWord=5|RX=MN
 6	tè	tè	NOUN	N	_	3	comp:obj	_	AlignBegin=285875|AlignEnd=286183|Gloss=bois|MGloss=bois|MSeg=tè|nWord=6|RX=N
 7	ʔó	ʔó	DET	MN	Number=Plur	8	det	_	AlignBegin=286183|AlignEnd=286470|Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=7|RX=MN
-8	nú	nú	NOUN	N	_	3	comp:obj	_	AlignBegin=286470|AlignEnd=286757|Gloss=partie_active|MGloss=partie_active-MT|MSeg=nú-H|nWord=8|RX=N
+8	nú	nú	NOUN	N	_	6	conj:dicto	_	AlignBegin=286470|AlignEnd=286757|Gloss=partie_active|MGloss=partie_active-MT|MSeg=nú-H|nWord=8|RX=N
 9	gúá	gúá	NOUN	N	_	8	comp	_	AlignBegin=286757|AlignEnd=287044|Gloss=bois_de_feu|MGloss=bois_de_feu|MSeg=gúá|nWord=9|RX=N
 10	ʔàà	ʔa	VERB	V	_	3	conj:coord	_	AlignBegin=287044|AlignEnd=287635|Gloss=verser|MGloss=ACC-verser-MT|MSeg=BHa-ʔa-H|nWord=10|RX=V
 11	zúà	zù	ADJ	NQ	_	10	comp:obl	_	AlignBegin=287635|AlignEnd=288226|Gloss=au-dessus|MGloss=au-dessus-MT-NMLS|MSeg=zù-H-à|nWord=11|RX=NQ
@@ -2369,7 +2369,7 @@
 10	dùà	dùà	NOUN	N	_	9	comp:obj	_	AlignBegin=325674|AlignEnd=325880|Gloss=cabri|MGloss=cabri|MSeg=dùà|nWord=10|RX=N
 11	há̰	há̰	SCONJ	SUB	_	9	mod	_	AlignBegin=325880|AlignEnd=325983|Gloss=pour_que|MGloss=pour_que|MSeg=há̰|nWord=11|RX=SUB
 12	=éí	ʔéí	PRON	PRO	PronType=Ind	13	subj	_	AlignBegin=325983|AlignEnd=326086|Gloss=IMPS|MGloss=IMPS|MSeg==éí|nWord=11|RX=PRO|Word=héí
-13	mɔ́-dɛ̀	dɛ	VERB	V	_	11	comp	_	AlignBegin=326086|AlignEnd=326292|Gloss=faire|MGloss=FIN-ỊNAC-faire|MSeg=mɛ́-B-dɛ|nWord=12|RX=V
+13	mɔ́-dɛ̀	dɛ	VERB	V	_	11	comp	_	AlignBegin=326086|AlignEnd=326292|Gloss=faire|MGloss=FIN.INAC-faire|MSeg=mɛ́-B-dɛ|nWord=12|RX=V
 14	nɛ̀	nɛ̀	PART	MV	_	13	mod	_	AlignBegin=326292|AlignEnd=326498|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=13|RX=MV
 15	mɔ̀	mɔ̀	NOUN	N	_	13	comp:obj	_	AlignBegin=326498|AlignEnd=326704|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=14|RX=N
 16	ʔá	ʔa	VERB	V	_	13	compound:svc	_	AlignBegin=326704|AlignEnd=326910|Gloss=poser|MGloss=INF-ACC-poser|MSeg=H-ʔa|nWord=15|RX=V
@@ -2494,7 +2494,7 @@
 3	ʔá	ʔa	VERB	V	_	0	root	_	AlignBegin=342947|AlignEnd=343194|Gloss=poser|MGloss=INAC-poser|MSeg=H-ʔa|nWord=3|RX=V
 4	kàá	kàá	PART	MV	Aspect=Iter	3	mod	_	AlignBegin=343194|AlignEnd=343441|Gloss=REP-ADD|MGloss=REP-ADD|MSeg=kàá|nWord=4|RX=MV
 5	gèɗà	gèɗà	NOUN	N	_	3	comp:obj	_	AlignBegin=343441|AlignEnd=343688|Gloss=manioc|MGloss=manioc|MSeg=gèɗà|nWord=5|RX=N
-6	táá	táá	ADP	FCT	_	3	comp:obj	_	AlignBegin=343688|AlignEnd=343935|Gloss=vers|MGloss=vers|MSeg=táá|nWord=6|RX=FCT
+6	táá	táá	ADP	FCT	_	3	comp:obl	_	AlignBegin=343688|AlignEnd=343935|Gloss=vers|MGloss=vers|MSeg=táá|nWord=6|RX=FCT
 7	kútùà	kútùà	NOUN	N	_	6	comp	_	AlignBegin=343935|AlignEnd=344182|Gloss=maison|MGloss=maison|MSeg=kútùà|nWord=7|RX=N
 8	mɛ̀	mɛ̀	ADV	ADV	_	3	mod	_	AlignBegin=344182|AlignEnd=344429|Gloss=là-bas|MGloss=là-bas|MSeg=mɛ̀|nWord=8|RX=ADV
 

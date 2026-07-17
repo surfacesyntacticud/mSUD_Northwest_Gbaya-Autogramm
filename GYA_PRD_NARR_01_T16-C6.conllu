@@ -1,4 +1,3 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = GYA_PRD_NARR_01_T16-C6_001-001
 # text = ɲínám nɛ́ ʔánà zàngé
 # speaker_id = SP
@@ -9,7 +8,7 @@
 1	ɲîn	ɲîn	NOUN	N	_	4	subj	_	AlignBegin=2960|AlignEnd=3111|GE=nom_propre|nWord=1|RX=N|Word=ɲínám
 2	-H	-H	ADP	FCT	_	1	udep	_	AlignBegin=3111|AlignEnd=3262|GE=MT|nWord=1|RX=FCT|Word=ɲínám
 3	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	2	comp	_	AlignBegin=3262|AlignEnd=3412|GE=1SG|nWord=1|RX=PERS|Word=ɲínám
-4	nɛ́	nɛ́	AUX	PRÉD	_	0	root	_	AlignBegin=3412|AlignEnd=3864|GE=ETRE-ESS|nWord=2|RX=PRÉD|Word=nɛ́
+4	nɛ́	nɛ́	AUX	PRÉD	_	0	root	_	AlignBegin=3412|AlignEnd=3864|GE=ETRE-ESS|nWord=2|RX=[PRÉD]|Word=nɛ́
 5	ʔánà	ʔánà	PROPN	NPR	_	4	comp:pred	_	AlignBegin=3864|AlignEnd=4316|GE=Anna|nWord=3|RX=NPR|Word=ʔánà
 6	zàngé	zàngé	PROPN	NPR	_	5	flat@name	_	AlignBegin=4316|AlignEnd=4768|GE=Zangué|nWord=4|RX=NPR|Word=zàngé
 
@@ -375,10 +374,10 @@
 7	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	6	comp	_	AlignBegin=44057|AlignEnd=44119|GE=3SG|nWord=3|RX=PERS|Word=ʔɛ́ráà
 8	kɔ̀	kɔ̀	ADP	_	_	4	comp:obl	_	AlignBegin=44119|AlignEnd=44303|GE=à_l'intérieur|nWord=4|RX=FCT|Word=kɔ̀
 9	gúé	gúé	NOUN	N	_	8	comp	_	AlignBegin=44303|AlignEnd=44487|GE=trou_à_poissons|nWord=5|RX=N|Word=gúé
-10	ká	ká	CCONJ	COORD	_	14	cc	_	AlignBegin=44487|AlignEnd=44671|GE=alors|nWord=6|RX=COORD|Word=ká
-11	gúé	gúé	NOUN	N	_	14	subj	_	AlignBegin=44671|AlignEnd=44854|GE=trou_à_poissons|nWord=7|RX=N|Word=gúé
-12	ká	ká	CCONJ	COORD	_	10	conj:dicto	_	AlignBegin=44854|AlignEnd=45232|GE=alors|nWord=8|RX=COORD|Word=ká
-13	gúé	gúé	NOUN	N	_	11	conj:dicto	_	AlignBegin=45232|AlignEnd=45610|GE=trou_à_poissons|nWord=9|RX=N|Word=gúé
+10	ká	ká	CCONJ	COORD	_	12	reparandum	_	AlignBegin=44487|AlignEnd=44671|GE=alors|nWord=6|RX=COORD|Word=ká
+11	gúé	gúé	NOUN	N	_	13	reparandum	_	AlignBegin=44671|AlignEnd=44854|GE=trou_à_poissons|nWord=7|RX=N|Word=gúé
+12	ká	ká	CCONJ	COORD	_	14	cc	_	AlignBegin=44854|AlignEnd=45232|GE=alors|nWord=8|RX=COORD|Word=ká
+13	gúé	gúé	NOUN	N	_	14	subj	_	AlignBegin=45232|AlignEnd=45610|GE=trou_à_poissons|nWord=9|RX=N|Word=gúé
 14	ʔá̰	ʔá̰	AUX	PRÉD	Case=Loc	0	root	_	AlignBegin=45610|AlignEnd=45988|GE=ETRE-LOC|nWord=10|RX=PRÉD|Word=ʔá̰
 15	hɛ̰̀ɛ̰́-hɛ̰̀	hɛ̰̀ɛ̰́-hɛ̰̀	ADV	ADV	_	14	comp:obl	_	AlignBegin=45988|AlignEnd=46365|GE=ici_même|nWord=11|RX=ADV|Word=hɛ̰̀ɛ̰́-hɛ̰̀
 
@@ -433,10 +432,10 @@
 8	kɔ̀	kɔ̀	ADP	FCT	_	6	comp:obl	_	AlignBegin=51882|AlignEnd=52109|GE=à_l'intérieur|nWord=5|RX=FCT|Word=kɔ̀
 9	gúé	gúé	NOUN	N	_	8	comp	_	AlignBegin=52109|AlignEnd=52336|GE=trou_à_poissons|nWord=6|RX=N|Word=gúé
 10	mɛ̀	mɛ̀	ADV	ADV	_	5	mod	_	AlignBegin=52336|AlignEnd=52563|GE=là-bas|nWord=7|RX=ADV|Word=mɛ̀
-11	ká	ká	CCONJ	SUB	_	16	cc	_	AlignBegin=52563|AlignEnd=52790|GE=alors|nWord=8|RX=SUB|Word=ká
-12	gbàzù	gbàzù	NOUN	N	_	16	subj	_	AlignBegin=52790|AlignEnd=53014|GE=barrage|nWord=9|RX=N|Word=gbàzù
-13	ká	ká	CCONJ	COORD	_	11	conj:dicto	_	AlignBegin=53014|AlignEnd=53418|GE=alors|nWord=10|RX=COORD|Word=ká
-14	gbàzù	gbàzù	NOUN	N	_	12	conj:dicto	_	AlignBegin=53418|AlignEnd=53822|GE=barrage|nWord=11|RX=N|Word=gbàzù
+11	ká	ká	CCONJ	SUB	_	13	reparandum	_	AlignBegin=52563|AlignEnd=52790|GE=alors|nWord=8|RX=SUB|Word=ká
+12	gbàzù	gbàzù	NOUN	N	_	14	reparandum	_	AlignBegin=52790|AlignEnd=53014|GE=barrage|nWord=9|RX=N|Word=gbàzù
+13	ká	ká	CCONJ	COORD	_	16	cc	_	AlignBegin=53014|AlignEnd=53418|GE=alors|nWord=10|RX=COORD|Word=ká
+14	gbàzù	gbàzù	NOUN	N	_	16	subj	_	AlignBegin=53418|AlignEnd=53822|GE=barrage|nWord=11|RX=N|Word=gbàzù
 15	BHa-	BHa-	AUX	MV	Aspect=Perf	16	aux	_	AlignBegin=53822|AlignEnd=53957|GE=ACC|nWord=12|RX=MV|Word=bàà
 16	ba	ba	VERB	V	_	0	root	_	AlignBegin=53957|AlignEnd=54092|GE=prendre|nWord=12|RX=V|Word=bàà
 17	-H	-H	X	MOD	_	16	aff	_	AlignBegin=54092|AlignEnd=54226|GE=MT|nWord=12|RX=MOD|Word=bàà
@@ -519,7 +518,7 @@
 # sent_timecode = 59184, 66907
 # phonetic_text = dáà kɔ́ bêm ná ʔéí nɛ̀ɛ̀ kpéé yì
 # text_fr = Elle dit au père de l'enfant : je suis allée barrer la rivière
-1	dáà	dáà	NOUN	N	_	7	discourse:participant	_	AlignBegin=60979|AlignEnd=61245|GE=père|nWord=8|RX=N|Word=dáà
+1	dáà	dáà	NOUN	N	_	7	vocative	_	AlignBegin=60979|AlignEnd=61245|GE=père|nWord=8|RX=N|Word=dáà
 2	kɔ́	kɔ́	ADP	FCT	_	1	udep	_	AlignBegin=61245|AlignEnd=61511|GE=de|nWord=9|RX=FCT|Word=kɔ́
 3	bêm	bêm	NOUN	N	_	2	comp	_	AlignBegin=61511|AlignEnd=61777|GE=enfant|nWord=10|RX=N|Word=bêm
 4	ná	ná	PART	_	_	1	discourse:sp	_	AlignBegin=61777|AlignEnd=62039|GE=DISC|nWord=11|RX=DISC|Word=ná
@@ -768,11 +767,11 @@
 # sent_timecode = 86003, 90785
 # phonetic_text = ká wáɲá nɛ̀ ká wáɲá nɛ̀ tàrɛ́à ʔà̰ dúk sɛ̀n ká zǎŋ yì hòkòyòkò
 # text_fr = voilà des feuilles urticantes, un peu sèches, se trouvent au bord de la rivière
-1	ká	ká	CCONJ	SUB	_	12	cc	_	AlignBegin=86851|AlignEnd=87063|GE=alors|nWord=5|RX=SUB|Word=ká
-2	wáɲá	wáɲá	NOUN	N	_	12	dislocated:subj	_	AlignBegin=87063|AlignEnd=87275|GE=feuille|nWord=6|RX=N|Word=wáɲá
+1	ká	ká	CCONJ	SUB	_	4	reparandum	_	AlignBegin=86851|AlignEnd=87063|GE=alors|nWord=5|RX=SUB|Word=ká
+2	wáɲá	wáɲá	NOUN	N	_	5	reparandum	_	AlignBegin=87063|AlignEnd=87275|GE=feuille|nWord=6|RX=N|Word=wáɲá
 3	nɛ̀	nɛ̀	ADP	FCT	_	2	comp:obl	_	AlignBegin=87275|AlignEnd=87485|GE=en_tant_que|nWord=7|RX=FCT|Word=nɛ̀
-4	ká	ká	CCONJ	COORD	_	1	conj:dicto	_	AlignBegin=87485|AlignEnd=87785|GE=alors|nWord=8|RX=COORD|Word=ká
-5	wáɲá	wáɲá	NOUN	N	_	2	conj:dicto	_	AlignBegin=87785|AlignEnd=88085|GE=feuille|nWord=9|RX=N|Word=wáɲá
+4	ká	ká	CCONJ	COORD	_	12	cc	_	AlignBegin=87485|AlignEnd=87785|GE=alors|nWord=8|RX=COORD|Word=ká
+5	wáɲá	wáɲá	NOUN	N	_	12	subj	_	AlignBegin=87785|AlignEnd=88085|GE=feuille|nWord=9|RX=N|Word=wáɲá
 6	nɛ̀	nɛ̀	ADP	FCT	_	5	comp:obl	_	AlignBegin=88085|AlignEnd=88385|GE=en_tant_que|nWord=10|RX=FCT|Word=nɛ̀
 7	tàrɛ̀	tàrɛ̀	ADJ	AR	_	6	comp	_	AlignBegin=88385|AlignEnd=88485|GE=produit_urticant|nWord=11|RX=AR|Word=tàrɛ́à
 8	-H	-H	X	MOD	_	7	aff	_	AlignBegin=88485|AlignEnd=88585|GE=MT|nWord=11|RX=MOD|Word=tàrɛ́à
@@ -880,7 +879,7 @@
 # sent_timecode = 96500, 102264
 # phonetic_text = wéì kéí ná ʔéí kòò bêm mbè
 # text_fr = Elle dit à son mari aussi étonnant que cela puisse paraître, j'ai accouché d'un enfant
-1	wéì	wéì	NOUN	N	_	7	discourse:participant	_	AlignBegin=99446|AlignEnd=99950|GE=époux|nWord=9|RX=N|Word=wéì
+1	wéì	wéì	NOUN	N	_	7	vocative	_	AlignBegin=99446|AlignEnd=99950|GE=époux|nWord=9|RX=N|Word=wéì
 2	kɔ́	kɔ́	ADP	FCT	_	1	udep	_	AlignBegin=99950|AlignEnd=100202|GE=de|nWord=10|RX=FCT|Word=kéí
 3	=éí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	2	comp	_	AlignBegin=100202|AlignEnd=100454|GE=LogS|nWord=10|RX=PR|Word=kéí
 4	ná	ná	PART	_	_	1	discourse:sp	_	AlignBegin=100454|AlignEnd=100957|GE=DISC|nWord=11|RX=DISC|Word=ná
@@ -1636,11 +1635,11 @@
 # sent_timecode = 188743, 220670
 # phonetic_text = ʔèè ʔá̰-nàà ʔá̰-ndɔ̀wá hà̰à̰ bé dɔ̀nɔ̀ há̰à̰
 1	ʔèè	ʔèè	CCONJ	COORD	_	9	cc	_	AlignBegin=192733|AlignEnd=192851|GE=puis|nWord=1|RX=COORD|Word=ʔèè
-2	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	9	cc	_	AlignBegin=192733|AlignEnd=192851|GE=voilà_que|nWord=2|RX=COORD|Word=ʔá̰-nàà
-3	=à̰	ʔà̰	PRON	COORD	Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=192733|AlignEnd=192851|GE=3SG|nWord=2|RX=PERS|Word=ʔá̰-nàà
+2	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	reparandum	_	AlignBegin=192733|AlignEnd=192851|GE=voilà_que|nWord=2|RX=COORD|Word=ʔá̰-nàà
+3	=à̰	ʔà̰	PRON	COORD	Number=Sing|Person=3|PronType=Prs	6	reparandum	_	AlignBegin=192733|AlignEnd=192851|GE=3SG|nWord=2|RX=PERS|Word=ʔá̰-nàà
 4	-H	-H	X	COORD	_	3	aff	_	AlignBegin=192733|AlignEnd=192851|GE=MT|nWord=2|RX=MOD|Word=ʔá̰-nàà
-5	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	2	conj:dicto	_	AlignBegin=192733|AlignEnd=192851|GE=voilà_que|nWord=3|RX=COORD|Word=ʔá̰-ndɔ̀wá
-6	=wà	wà	PRON	COORD	Person=3|PronType=Prs	3	conj:dicto	_	AlignBegin=192733|AlignEnd=192851|GE=3POL|nWord=3|RX=PERS|Word=ʔá̰-ndɔ̀wá
+5	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	9	cc	_	AlignBegin=192733|AlignEnd=192851|GE=voilà_que|nWord=3|RX=COORD|Word=ʔá̰-ndɔ̀wá
+6	=wà	wà	PRON	COORD	Person=3|PronType=Prs	9	subj	_	AlignBegin=192733|AlignEnd=192851|GE=3POL|nWord=3|RX=PERS|Word=ʔá̰-ndɔ̀wá
 7	-H	-H	X	COORD	_	6	aff	_	AlignBegin=192733|AlignEnd=192851|GE=MT|nWord=3|RX=MOD|Word=ʔá̰-ndɔ̀wá
 8	BHa-	BHa-	AUX	COORD	Aspect=Perf	9	aux	_	AlignBegin=192733|AlignEnd=192851|GE=ACC|nWord=4|RX=MV|Word=hà̰à̰
 9	ha̰	ha̰	VERB	COORD	_	0	root	_	AlignBegin=192733|AlignEnd=192851|GE=donner|nWord=4|RX=V|Word=hà̰à̰
@@ -2471,8 +2470,8 @@
 # sent_timecode = 316398, 318789
 # phonetic_text = ʔá̰ hɛ̌n hı̰̀ı̰́
 # text_fr = c'est comme ça.//
-1	ʔá̰	ʔá̰	CCONJ	SUB	_	2	cc	_	AlignBegin=318090|AlignEnd=318231|GE=voilà_que|nWord=13|RX=SUB|Word=ʔá̰
-2	hɛ̀n	hɛ̀n	ADP	FCT	_	0	root	_	AlignBegin=318231|AlignEnd=318301|GE=dans|nWord=14|RX=FCT|Word=hɛ̌n
+1	ʔá̰	ʔá̰	AUX	SUB	_	0	root	_	AlignBegin=318090|AlignEnd=318231|GE=ETRE-LOC|nWord=13|RX=PRED|Word=ʔá̰
+2	hɛ̀n	hɛ̀n	ADP	FCT	_	1	comp:pred	_	AlignBegin=318231|AlignEnd=318301|GE=dans|nWord=14|RX=FCT|Word=hɛ̌n
 3	-H	-H	X	FCT	_	2	aff	_	AlignBegin=318301|AlignEnd=318372|GE=D|nWord=14|RX=FCT|Word=hɛ̌n
 4	hı̰̀ı̰́	hı̰̀ı̰́	ADV	ADV	_	2	comp	_	AlignBegin=318372|AlignEnd=318513|GE=ainsi|nWord=15|RX=ADV|Word=hı̰̀ı̰́
 

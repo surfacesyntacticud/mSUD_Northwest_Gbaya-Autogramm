@@ -1,4 +1,3 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = GYA_PRD_NARR_T24-C59_001-001
 # text = ɲîn =ám nɛ́ ʔɛ̀lɛ̂n nàà kɔ́ Bɛ̀lɛ̀m
 # speaker_id = SP
@@ -504,7 +503,7 @@
 9	dòè	dòè	NOUN	N	_	8	comp	_	AlignBegin=71638|AlignEnd=72004|Gloss=termite|MGloss=termite|MSeg=dòè|nWord=7|RX=N
 10	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	8	mod@relcl	_	AlignBegin=72004|AlignEnd=72370|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=8|RX=SUB
 11	dɛ́-mɛ́-ɲɔ̀ŋ	ɲɔŋ	VERB	V	_	10	comp	_	AlignBegin=72370|AlignEnd=72738|Gloss=manger|MGloss=IM-INAC--manger|MSeg=dɛ́-mɛ́-B-ɲɔŋ|nWord=9|RX=V
-12	ɲɔ̀ŋ	ɲɔŋ	VERB	V	_	11	conj:dicto	_	AlignBegin=72738|AlignEnd=73144|Gloss=manger|MGloss=manger|MSeg=ɲɔŋ|nWord=10|RX=V
+12	ɲɔ̀ŋ	ɲɔŋ	VERB	V	_	11	comp:redup	_	AlignBegin=72738|AlignEnd=73144|Gloss=manger|MGloss=manger|MSeg=ɲɔŋ|nWord=10|RX=V
 13	gùn	gùn	NOUN	N	_	12	comp:obj	_	AlignBegin=73144|AlignEnd=73550|Gloss=base|MGloss=base-MT|MSeg=gùn-H|nWord=11|RX=N
 14	gótó	gótó	NOUN	N	_	13	comp	_	AlignBegin=73550|AlignEnd=73753|Gloss=partie_arrière|MGloss=partie_arrière-MT|MSeg=gótó-H|nWord=12|RX=N|wordform=gótó-H
 15	=nɛ́-ìí	ʔɛ́nɛ́	PRON	P	Number=Plur|Person=2	14	comp	_	AlignBegin=73753|AlignEnd=74363|Gloss=2PL|MGloss=2PL-ANAPH|MSeg==nɛ́-ìí|nWord=12|RX=P|Word=gótónɛ́ìí
@@ -793,8 +792,8 @@
 2	bé	bé	ADJ	N	_	3	mod	_	AlignBegin=107713|AlignEnd=108008|Gloss=petit|MGloss=petit|MSeg=bé|nWord=2|RX=N
 3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	4	subj	_	AlignBegin=108008|AlignEnd=108303|Gloss=cobe_de_ɓuffon|MGloss=cobe_de_ɓuffon|MSeg=pɛ̀ɲá|nWord=3|RX=N
 4	sìì	si	VERB	V	_	0	root	_	AlignBegin=108303|AlignEnd=108598|Gloss=s'en_aller|MGloss=ACC-s'en_aller-MT|MSeg=BHa-si-H|nWord=4|RX=V
-5	yɔ́	yɔ	VERB	V	_	4	compound:svc	_	AlignBegin=108598|AlignEnd=108893|Gloss=être_perdu|MGloss=INF.ACC-être_perdu|MSeg=H-yɔ|nWord=5|RX=V
-6	yɔ́	yɔ	VERB	V	_	5	conj:dicto	_	AlignBegin=108893|AlignEnd=109188|Gloss=perdre|MGloss=INF.ACC-perdre|MSeg=H-yɔ|nWord=6|RX=V
+5	yɔ́	yɔ	VERB	V	_	6	reparandum	_	AlignBegin=108598|AlignEnd=108893|Gloss=être_perdu|MGloss=INF.ACC-être_perdu|MSeg=H-yɔ|nWord=5|RX=V
+6	yɔ́	yɔ	VERB	V	_	4	compound:svc	_	AlignBegin=108893|AlignEnd=109188|Gloss=perdre|MGloss=INF.ACC-perdre|MSeg=H-yɔ|nWord=6|RX=V
 7	kàyá	kàyá	NOUN	N	_	6	comp:obj	_	AlignBegin=109188|AlignEnd=109483|Gloss=orientation|MGloss=orientation|MSeg=kàyá|nWord=7|RX=N
 8	kɔ́	kɔ́	ADP	FCT	_	7	udep	_	AlignBegin=109483|AlignEnd=109778|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=8|RX=FCT
 9	Wàntò	Wàntò	PROPN	NPR	_	8	comp	_	AlignBegin=109778|AlignEnd=110075|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=9|RX=NPR
@@ -985,20 +984,20 @@
 12	=ɛ́ɛ́	ʔɛ́ɛ́	PRON	PERS	Number=Plur|Person=1|PronType=Prs	11	comp	_	AlignBegin=136545|AlignEnd=136704|Gloss=1PL|MGloss=1PL|MSeg==ɛ́ɛ́|nWord=10|RX=PERS|Word=kɛ́ɛ́
 
 # sent_id = GYA_PRD_NARR_T24-C59_056-056
-# text = Wàntò mɛ̀-nɛ́ ʔò ʔùsà yíwár há̰ =mɛ́ ʔò-ndé
+# text = Wàntò mɛ̀-nɛ́ ʔò BHa-ʔusi yíwár há̰ =mɛ́ ʔò-ndé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # sent_timecode = 137019, 139060
 # phonetic_text = Wàntò mɛ̀-nɛ́ ʔò ʔùsà yíwár hámɛ́ ʔò-ndé
 # text_fr = Wanto c'est qui qui t'a montré le chemin ?
-1	Wàntò	Wàntò	PROPN	PRED	_	2	vocative	_	AlignBegin=137019|AlignEnd=137359|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=1|RX=NPR
-2	mɛ̀-nɛ́	mɛ̀-nɛ́	AUX	PRED	_	0	root	_	AlignBegin=137019|AlignEnd=137359|Gloss=C'EST|MGloss=C'EST|MSeg=mɛ̀-nɛ́|nWord=2|RX=PRED
-3	ʔò	ʔò	PRON	INTERR	_	2	comp:pred	_	AlignBegin=137359|AlignEnd=137699|Gloss=qui|MGloss=qui|MSeg=ʔò|nWord=3|RX=INTERR
-4	ʔùsà	ʔusi	VERB	V	_	2	comp:cleft	_	AlignBegin=137699|AlignEnd=138039|Gloss=montrer|MGloss=ACC-montrer-MT|MSeg=BHa-ʔusi-H|nWord=4|RX=V
-5	yíwár	yíwár	NOUN	N	_	4	comp:obj	_	AlignBegin=138039|AlignEnd=138379|Gloss=chemin|MGloss=chemin|MSeg=yíwár|nWord=5|RX=N
-6	há̰	há̰	ADP	FCT	_	4	mod	_	AlignBegin=138379|AlignEnd=138549|Gloss=pour|MGloss=pour|MSeg=há̰|nWord=6|RX=FCT
-7	=mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	6	comp	_	AlignBegin=138549|AlignEnd=138719|Gloss=2SG|MGloss=2SG|MSeg==mɛ́|nWord=6|RX=PERS|Word=hámɛ́
-8	ʔò-ndé	ʔò-ndé	PRON	INTERR	_	4	dislocated:subj	_	AlignBegin=138719|AlignEnd=139060|Gloss=qui|MGloss=qui|MSeg=ʔò-ndé|nWord=7|RX=INTERR
+1	Wàntò	wàntò	NOUN	PRED	_	4	vocative	_	AlignBegin=137019|AlignEnd=137359|Gloss=[Wanto]|MGloss=[Wanto]|MSeg=Wàntò|nWord=1|nWord2=1|RX=[NPR]
+2	mɛ̀-nɛ́	mɛ̀-nɛ́	DET	PRED	_	3	det	_	AlignBegin=137019|AlignEnd=137359|Gloss=FOC|MGloss=FOC|MSeg=mɛ̀-nɛ́|nWord=1|nWord2=1|RX=FOC
+3	ʔò	ʔò	PRON	INTERR	_	4	subj	_	AlignBegin=137359|AlignEnd=137699|Gloss=[qui]|MGloss=[qui]|MSeg=ʔò|nWord=2|nWord2=2|RX=[INTERR]
+4	BHa-ʔusi	ʔusi	VERB	V	_	0	root	_	AlignBegin=137699|AlignEnd=138039|Gloss=[montrer]|MGloss=[ACC]-[montrer]-[MT]|MSeg=BHa-ʔusi-H|nWord=3|nWord2=3|RX=[V]
+5	yíwár	yíwár	NOUN	N	_	4	comp:obj	_	AlignBegin=138039|AlignEnd=138379|Gloss=[chemin]|MGloss=[chemin]|MSeg=yíwár|nWord=4|nWord2=4|RX=[N]
+6	há̰	há̰	ADP	FCT	_	4	mod	_	AlignBegin=138379|AlignEnd=138549|Gloss=[pour]|MGloss=[pour]|MSeg=há̰|nWord=5|nWord2=5|RX=[FCT]
+7	=mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	6	comp	_	AlignBegin=138549|AlignEnd=138719|Gloss=[2SG]|MGloss=[2SG]|MSeg==mɛ́|nWord=5|nWord2=5|RX=[PERS]
+8	ʔò-ndé	ʔò-ndé	PRON	INTERR	_	4	dislocated:subj	_	AlignBegin=138719|AlignEnd=139060|Gloss=[qui]|MGloss=[qui]|MSeg=ʔò-ndé|nWord=6|nWord2=6|RX=[INTERR]
 
 # sent_id = GYA_PRD_NARR_T24-C59_057-057a
 # text = ʔòóyèé ʔám tɛ́ kɔ́ =ám ʔèá
@@ -1534,7 +1533,7 @@
 8	ɗǒŋ	ɗòŋ	ADP	NQ	_	7	comp	_	AlignBegin=209255|AlignEnd=209454|Gloss=arrière|MGloss=arrière-MT|MSeg=ɗòŋ-H|nWord=8|RX=AR
 9	mɔ̀	mɔ̀	NOUN	N	_	8	comp	_	AlignBegin=209454|AlignEnd=209653|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=9|RX=N
 10	hɛ̰̀	hɛ̰̀	ADV	ADV	_	8	conj:appos	_	AlignBegin=209653|AlignEnd=209852|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=10|RX=ADV
-11	ɗòŋ	ɗòŋ	ADP	NQ	_	8	conj:dicto	_	AlignBegin=209852|AlignEnd=209952|Gloss=arrière|MGloss=arrière|MSeg=ɗòŋ|nWord=11|RX=NQ
+11	ɗòŋ	ɗòŋ	ADP	NQ	_	8	conj:reform	_	AlignBegin=209852|AlignEnd=209952|Gloss=arrière|MGloss=arrière|MSeg=ɗòŋ|nWord=11|RX=NQ
 12	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	11	comp	_	AlignBegin=209952|AlignEnd=210051|Gloss=1SG|MGloss=1SG|MSeg==ám|nWord=11|RX=PERS|Word=ɗòŋám
 13	hɛ̰̀	hɛ̰̀	ADV	ADV	_	4	mod	_	AlignBegin=210051|AlignEnd=210250|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=12|RX=ADV
 
@@ -1731,8 +1730,8 @@
 # phonetic_text = ʔá̰-nɛ̀ wà wàá nɛ́ bá dùà
 # text_fr = puis elles elles vont prendre un cabri
 1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=240741|AlignEnd=241230|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰-nɛ̀|nWord=1|RX=COORD
-2	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	4	dislocated:subj	_	AlignBegin=241230|AlignEnd=241719|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=2|RX=PERS
-3	wàá	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	2	conj:dicto	_	AlignBegin=242207|AlignEnd=242577|Gloss=3PL|MGloss=3PL-TOP|MSeg=wà-VH|nWord=3|RX=PERS
+2	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	3	reparandum	_	AlignBegin=241230|AlignEnd=241719|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=2|RX=PERS
+3	wàá	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	4	subj	_	AlignBegin=242207|AlignEnd=242577|Gloss=3PL|MGloss=3PL-TOP|MSeg=wà-VH|nWord=3|RX=PERS
 4	nɛ́	nɛ	VERB	V	_	0	root	_	AlignBegin=242577|AlignEnd=242947|Gloss=aller|MGloss=INAC-aller|MSeg=H-nɛ|nWord=4|RX=V
 5	bá	ba	VERB	V	_	4	compound:svc	_	AlignBegin=242947|AlignEnd=243317|Gloss=prendre|MGloss=INF-ACC-prendre|MSeg=H-ba|nWord=5|RX=V
 6	dùà	dùà	NOUN	N	_	5	comp:obj	_	AlignBegin=243317|AlignEnd=243687|Gloss=cabri|MGloss=cabri|MSeg=dùà|nWord=6|RX=N
@@ -2065,9 +2064,9 @@
 3	ɓásí	ɓasi	VERB	V	_	2	compound:svc	_	AlignBegin=284951|AlignEnd=285259|Gloss=porter_plusieurs_choses_à_la_fois|MGloss=INF-ACC-porter_plusieurs_choses_à_la_fois|MSeg=H-ɓasi|nWord=3|RX=V
 4	ʔó	ʔó	DET	MN	Number=Plur	6	det	_	AlignBegin=285259|AlignEnd=285567|Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=4|RX=MN
 5	zɔ̌m	zɔ̀m	DET	MN	Degree=Aug	6	mod	_	AlignBegin=285567|AlignEnd=285875|Gloss=AUG|MGloss=AUG-MT|MSeg=zɔ̀m-H|nWord=5|RX=MN
-6	tè	tè	NOUN	N	_	3	comp:obj	_	AlignBegin=285875|AlignEnd=286183|Gloss=bois|MGloss=bois|MSeg=tè|nWord=6|RX=N
+6	tè	tè	NOUN	N	_	8	reparandum	_	AlignBegin=285875|AlignEnd=286183|Gloss=bois|MGloss=bois|MSeg=tè|nWord=6|RX=N
 7	ʔó	ʔó	DET	MN	Number=Plur	8	det	_	AlignBegin=286183|AlignEnd=286470|Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=7|RX=MN
-8	nú	nú	NOUN	N	_	6	conj:dicto	_	AlignBegin=286470|AlignEnd=286757|Gloss=partie_active|MGloss=partie_active-MT|MSeg=nú-H|nWord=8|RX=N
+8	nú	nú	NOUN	N	_	3	comp:obj	_	AlignBegin=286470|AlignEnd=286757|Gloss=partie_active|MGloss=partie_active-MT|MSeg=nú-H|nWord=8|RX=N
 9	gúá	gúá	NOUN	N	_	8	comp	_	AlignBegin=286757|AlignEnd=287044|Gloss=bois_de_feu|MGloss=bois_de_feu|MSeg=gúá|nWord=9|RX=N
 10	ʔàà	ʔa	VERB	V	_	3	conj:coord	_	AlignBegin=287044|AlignEnd=287635|Gloss=verser|MGloss=ACC-verser-MT|MSeg=BHa-ʔa-H|nWord=10|RX=V
 11	zúà	zù	ADJ	NQ	_	10	comp:obl	_	AlignBegin=287635|AlignEnd=288226|Gloss=au-dessus|MGloss=au-dessus-MT-NMLS|MSeg=zù-H-à|nWord=11|RX=NQ
@@ -2076,11 +2075,11 @@
 14	ʔó	ʔó	DET	MN	Number=Plur	16	det	_	AlignBegin=289123|AlignEnd=289427|Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=14|RX=MN
 15	dítá	dítá	ADJ	AV	_	16	mod	_	AlignBegin=289427|AlignEnd=289731|Gloss=lourd|MGloss=lourd|MSeg=dítá|nWord=15|RX=AV
 16	mɔ̀	mɔ̀	NOUN	N	_	17	comp:obj	_	AlignBegin=289731|AlignEnd=290035|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=16|RX=N
-17	ʔá	ʔa	VERB	V	_	10	conj:coord	_	AlignBegin=290035|AlignEnd=290339|Gloss=verser|MGloss=INAC-verser|MSeg=H-ʔa|nWord=17|RX=V
+17	ʔá	ʔa	VERB	V	_	10	conj:reform	_	AlignBegin=290035|AlignEnd=290339|Gloss=verser|MGloss=INAC-verser|MSeg=H-ʔa|nWord=17|RX=V
 18	zù	zù	ADP	FCT	_	17	comp:obl	_	AlignBegin=290339|AlignEnd=290646|Gloss=au-dessus|MGloss=au-dessus|MSeg=zù|nWord=18|RX=FCT
 19	ʔó	ʔó	DET	MN	Number=Plur	20	det	_	AlignBegin=290646|AlignEnd=290959|Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=19|RX=MN
 20	tà	tà	NOUN	N	_	21	comp:obj	_	AlignBegin=290959|AlignEnd=291272|Gloss=pierre|MGloss=pierre|MSeg=tà|nWord=20|RX=N
-21	ʔá	ʔa	VERB	V	_	17	conj:coord	_	AlignBegin=291272|AlignEnd=291585|Gloss=verser|MGloss=INAC-verser|MSeg=H-ʔa|nWord=21|RX=V
+21	ʔá	ʔa	VERB	V	_	17	conj:reform	_	AlignBegin=291272|AlignEnd=291585|Gloss=verser|MGloss=INAC-verser|MSeg=H-ʔa|nWord=21|RX=V
 22	zú	zù	ADP	FCT	_	21	mod	_	AlignBegin=291585|AlignEnd=291898|Gloss=au-dessus|MGloss=au-dessus-MT|MSeg=zù-H|nWord=22|RX=FCT
 23	kòtó	kòtó	NOUN	N	_	22	comp	_	AlignBegin=291898|AlignEnd=292211|Gloss=peau|MGloss=peau-MT|MSeg=kòtó-H|nWord=23|RX=N
 24	dùà	dùà	NOUN	N	_	23	comp	_	AlignBegin=292211|AlignEnd=292524|Gloss=cabri|MGloss=cabri|MSeg=dùà|nWord=24|RX=N
@@ -2244,19 +2243,19 @@
 # sent_timecode = 308581, 312789
 # phonetic_text = mɛ̀-nɛ́ gé fóáà nàm fó ʔá̰-nɛ̀ yíà ndɔ́r ʔá kɔ̀-núm ʔèá
 # text_fr = c'est simplement le jus qui a giglé dans ma bouche lorsque je l'ai remué
-1	mɛ̀-nɛ́	mɛ̀-nɛ́	DET	PRED	_	0	root	_	AlignBegin=310419|AlignEnd=310634|Gloss=C'EST|MGloss=C'EST|MSeg=mɛ̀-nɛ́|nWord=7|RX=FOC
-2	gé	gé	ADJ	A	_	3	mod	_	AlignBegin=310634|AlignEnd=310849|Gloss=simple|MGloss=simple|MSeg=gé|nWord=8|RX=A
-3	fóáà	fo	VERB	V	_	1	comp:pred	_	AlignBegin=310849|AlignEnd=311064|Gloss=remuer|MGloss=NV-remuer-NMLS|MSeg=HHa-fo-à|nWord=9|RX=V
-4	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	3	mod@relcl	_	AlignBegin=311064|AlignEnd=311136|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=10|RX=SUB
-5	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	6	subj	_	AlignBegin=311136|AlignEnd=311279|Gloss=1SG|MGloss=1SG-MT|MSeg==ám-H|nWord=10|RX=PERS|Word=nàm
-6	fó	fo	VERB	V	_	4	comp	_	AlignBegin=311279|AlignEnd=311494|Gloss=remuer|MGloss=INAC-remuer|MSeg=H-fo|nWord=11|RX=V
-7	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	3	det	_	AlignBegin=311494|AlignEnd=311709|Gloss=TOP|MGloss=TOP|MSeg=ʔá̰-nɛ̀|nWord=12|RX=MOD|Topicalization=Yes
-8	yíà	yì	NOUN	N	_	9	subj	_	AlignBegin=311709|AlignEnd=311924|Gloss=eau|MGloss=eau-MT-DEF|MSeg=yì-H-à|nWord=13|RX=N
-9	ndɔ́r	ndɔr	VERB	V	_	1	comp:cleft	_	AlignBegin=311924|AlignEnd=312139|Gloss=bondir|MGloss=INAC-bondir|MSeg=H-ndɔr|nWord=14|RX=V
-10	ʔá	ʔa	VERB	V	_	9	compound:svc	_	AlignBegin=312139|AlignEnd=312354|Gloss=verser|MGloss=INF-ACC-verser|MSeg=H-ʔa|nWord=15|RX=V
-11	kɔ̀-nú	kɔ̀-nú	NOUN	N	_	10	comp:obl	_	AlignBegin=312354|AlignEnd=312462|Gloss=intérieur_de_la_bouche|MGloss=intérieur_de_la_bouche-MT|MSeg=kɔ̀-nú-H|nWord=16|RX=N|wordform=kɔ̀-nú-H
-12	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	11	comp	_	AlignBegin=312462|AlignEnd=312569|Gloss=1SG|MGloss=1SG|MSeg==m|nWord=16|RX=PERS|Word=kɔ̀-núm
-13	ʔèá	ʔèá	ADV	ADV	_	9	mod	_	AlignBegin=312569|AlignEnd=312789|Gloss=seulement|MGloss=seulement|MSeg=ʔèá|nWord=17|RX=ADV
+1	mɛ̀-nɛ́	mɛ̀-nɛ́	DET	PRED	_	3	det	_	AlignBegin=310419|AlignEnd=310634|Gloss=[C'EST]|MGloss=[C'EST]|MSeg=mɛ̀-nɛ́|nWord=7|RX=[FOC]
+2	gé	gé	ADJ	A	_	3	mod	_	AlignBegin=310634|AlignEnd=310849|Gloss=[simple]|MGloss=[simple]|MSeg=gé|nWord=8|RX=[A]
+3	fóáà	fo	VERB	V	_	9	dislocated:obl	_	AlignBegin=310849|AlignEnd=311064|Gloss=[remuer]|MGloss=[NV]-[remuer]-[NMLS]|MSeg=Há-fo-à|nWord=9|RX=[V]
+4	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	3	mod@relcl	_	AlignBegin=311064|AlignEnd=311136|Gloss=[REL]|MGloss=[REL]|MSeg=nɛ̀|nWord=10|RX=[SUB]
+5	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	6	subj	_	AlignBegin=311136|AlignEnd=311279|Gloss=[1SG]|MGloss=[1SG]-[MT]|MSeg==ám-H|nWord=10|RX=[PERS]|Word=nàm
+6	fó	fo	VERB	V	_	4	comp	_	AlignBegin=311279|AlignEnd=311494|Gloss=[remuer]|MGloss=[INAC]-[remuer]|MSeg=H-fo|nWord=11|RX=[V]
+7	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	3	det	_	AlignBegin=311494|AlignEnd=311709|Gloss=[TOP]|MGloss=[TOP]|MSeg=ʔá̰-nɛ̀|nWord=12|RX=[MOD]|Topicalization=Yes
+8	yíà	yì	NOUN	N	_	9	subj	_	AlignBegin=311709|AlignEnd=311924|Gloss=[eau]|MGloss=[eau]-[MT]-[DEF]|MSeg=yì-H-à|nWord=13|RX=[N]
+9	ndɔ́r	ndɔr	VERB	V	_	0	root	_	AlignBegin=311924|AlignEnd=312139|Gloss=[bondir]|MGloss=[INAC]-[bondir]|MSeg=H-ndɔr|nWord=14|RX=[V]
+10	ʔá	ʔa	VERB	V	_	9	comp:svc	_	AlignBegin=312139|AlignEnd=312354|Gloss=[verser]|MGloss=[INF-ACC]-[verser]|MSeg=H-ʔa|nWord=15|RX=[V]
+11	kɔ̀-nú	kɔ̀-nú	NOUN	N	_	10	comp:obl	_	AlignBegin=312354|AlignEnd=312462|Gloss=[intérieur_de_la_bouche]|MGloss=[intérieur_de_la_bouche]-[MT]|MSeg=kɔ̀-nú-H|nWord=16|RX=[N]|wordform=kɔ̀-nú-H
+12	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	11	comp	_	AlignBegin=312462|AlignEnd=312569|Gloss=[1SG]|MGloss=[1SG]|MSeg==m|nWord=16|RX=[PERS]|Word=kɔ̀-núm
+13	ʔèá	ʔèá	ADV	ADV	_	9	mod	_	AlignBegin=312569|AlignEnd=312789|Gloss=[seulement]|MGloss=[seulement]|MSeg=ʔèá|nWord=17|RX=[ADV]
 
 # sent_id = GYA_PRD_NARR_T24-C59_144-144
 # text = ʔá̰-nɛ̀ kòtó dùà kúr ʔèá ká dɛ́ nɛ̀ gìmà ká tɛ̀ =ám
@@ -2271,7 +2270,7 @@
 4	kúr	kur	VERB	V	_	0	root	_	AlignBegin=313587|AlignEnd=313853|Gloss=se_lever|MGloss=INAC-se_lever|MSeg=H-kur|nWord=4|RX=V
 5	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	AlignBegin=313853|AlignEnd=314119|Gloss=seulement|MGloss=seulement|MSeg=ʔèá|nWord=5|RX=ADV
 6	ká	ká	CCONJ	COORD	_	7	cc	_	AlignBegin=314119|AlignEnd=314385|Gloss=alors|MGloss=alors|MSeg=ká|nWord=6|RX=COORD
-7	dɛ́	dɛ	VERB	V	_	4	comp:coord	_	AlignBegin=314385|AlignEnd=314651|Gloss=faire|MGloss=INAC-faire|MSeg=H-dɛ|nWord=7|RX=V
+7	dɛ́	dɛ	VERB	V	_	4	conj:coord	_	AlignBegin=314385|AlignEnd=314651|Gloss=faire|MGloss=INAC-faire|MSeg=H-dɛ|nWord=7|RX=V
 8	nɛ̀	nɛ̀	PART	MV	_	7	mod	_	AlignBegin=314651|AlignEnd=314917|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=8|RX=MV
 9	gìmà	gìmà	NOUN	N	_	7	comp:obj	_	AlignBegin=314917|AlignEnd=315183|Gloss=chant|MGloss=chant|MSeg=gìmà|nWord=9|RX=N
 10	ká	ká	ADP	FCT	_	7	comp:obl	_	AlignBegin=315183|AlignEnd=315449|Gloss=à_côté_de|MGloss=à_côté_de|MSeg=ká|nWord=10|RX=FCT

@@ -1,4 +1,3 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = GYA_PRD_NARR_T9-C7_001-001
 # text = ɲîn -H =ám nɛ́ ʔìvɔ̂n
 # speaker_id = SP
@@ -21,19 +20,19 @@
 # text_fr = Une fille et un garçon, ils sont partis en campement, elle est sa soeur.(lit. avec soeur)
 1	ʔó	ʔó	DET	MN	_	3	det	_	AlignBegin=2100|AlignEnd=2641|GE=PL|Gloss=PL|nWord=1|RX=MN|Word=ʔó
 2	mà	mà	DET	MN	_	3	det	_	AlignBegin=2641|AlignEnd=3182|GE=INDF|Gloss=INDF|nWord=2|RX=MN|Word=mà
-3	bókóbêm	bókóbêm	NOUN	N	_	11	dislocated:subj	_	AlignBegin=3182|AlignEnd=3723|GE=fille|Gloss=fille|nWord=3|RX=N|Word=bókóbêm
+3	bókóbêm	bókóbêm	NOUN	N	_	15	dislocated:subj	_	AlignBegin=3182|AlignEnd=3723|GE=fille|Gloss=fille|nWord=3|RX=N|Word=bókóbêm
 4	ʔîn	ʔîn	ADP	FCT	_	3	conj:coord	_	AlignBegin=3723|AlignEnd=3993|GE=et|Gloss=et|nWord=4|RX=FCT|Word=ʔín
 5	-H	-H	X	X	_	4	aff	_	AlignBegin=3993|AlignEnd=4264|GE=MT|Gloss=-MT|nWord=4|RX=FCT|Word=ʔín
 6	bóíbêm	bóíbêm	NOUN	N	_	4	comp	_	AlignBegin=4264|AlignEnd=4805|GE=garçon|Gloss=garçon|nWord=5|RX=N|Word=bóíbêm
 7	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	TOP	_	3	det	_	AlignBegin=4805|AlignEnd=4985|GE=TOP|Gloss=TOP|nWord=6|RX=TOP|Topicalization=Yes|Word=ʔá̰-ndɔ̀wá
-8	=wà	wà	PRON	PP	Number=Plur|Person=3	11	subj	_	AlignBegin=4985|AlignEnd=5165|GE=3PL|Gloss=3PL|nWord=6|RX=PP|Word=ʔá̰-ndɔ̀wá
+8	=wà	wà	PRON	PP	Number=Plur|Person=3	15	subj	_	AlignBegin=4985|AlignEnd=5165|GE=3PL|Gloss=3PL|nWord=6|RX=PP|Word=ʔá̰-ndɔ̀wá
 9	-H	-H	X	X	_	8	aff	_	AlignBegin=5165|AlignEnd=5346|GE=MT|Gloss=-MT|nWord=6|RX=FCT|Word=ʔá̰-ndɔ̀wá
 10	BHa-	BHa-	AUX	MV	Aspect=Perf	11	aux	_	AlignBegin=5346|AlignEnd=5526|GE=ACC|Gloss=ACC-|nWord=7|RX=MV|Word=nɛ̀ɛ́
-11	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=5526|AlignEnd=5706|GE=aller|Gloss=aller|nWord=7|RX=V|Word=nɛ̀ɛ́
+11	nɛ	nɛ	VERB	V	_	15	reparandum	_	AlignBegin=5526|AlignEnd=5706|GE=aller|Gloss=aller|nWord=7|RX=V|Word=nɛ̀ɛ́
 12	-H	-H	X	X	_	11	aff	_	AlignBegin=5706|AlignEnd=5887|GE=MT|Gloss=-MT|nWord=7|RX=FCT|Word=nɛ̀ɛ́
 13	hɛ̀n	hɛ̀n	ADP	FCT	_	11	mod	_	AlignBegin=5887|AlignEnd=6428|GE=dans|Gloss=dans|nWord=8|RX=FCT|Word=hɛ̀n...
 14	BHa-	BHa-	AUX	MV	Aspect=Perf	15	aux	_	AlignBegin=6428|AlignEnd=6608|GE=ACC|Gloss=ACC-|nWord=9|RX=MV|Word=nɛ̀ɛ̀
-15	nɛ	nɛ	VERB	V	_	11	conj:dicto	_	AlignBegin=6608|AlignEnd=6788|GE=aller|Gloss=aller|nWord=9|RX=V|Word=nɛ̀ɛ̀
+15	nɛ	nɛ	VERB	V	_	0	root	_	AlignBegin=6608|AlignEnd=6788|GE=aller|Gloss=aller|nWord=9|RX=V|Word=nɛ̀ɛ̀
 16	-H	-H	X	X	_	15	aff	_	AlignBegin=6788|AlignEnd=6969|GE=MT|Gloss=-MT|nWord=9|RX=FCT|Word=nɛ̀ɛ̀
 17	gúɗù	gúɗù	NOUN	N	_	15	comp:obl	_	AlignBegin=6969|AlignEnd=7510|GE=campement|Gloss=campement|nWord=10|RX=N|Word=gúɗù
 18	ʔîn	ʔîn	ADP	FCT	_	15	comp:obl	_	AlignBegin=7510|AlignEnd=7780|GE=COM|Gloss=COM|nWord=11|RX=FCT|Word=ʔín
@@ -75,7 +74,7 @@
 7	-H	-H	X	FCT	_	6	aff	_	AlignBegin=13110|AlignEnd=13270|GE=MT|Gloss=-MT|nWord=3|RX=FCT|Word=nɛ̀ɛ̀
 8	nɛ́	nɛ́	PART	MOD	_	6	mod	_	AlignBegin=13270|AlignEnd=13750|GE=FOC|Gloss=FOC|nWord=4|RX=MOD|Word=nɛ́
 9	yàrí	yàrí	NOUN	N	_	6	comp:obl	_	AlignBegin=13750|AlignEnd=14230|GE=excursion|Gloss=excursion|nWord=5|RX=N|Word=yàrí
-10	yàrí	yàrí	NOUN	N	_	9	conj:dicto	_	AlignBegin=14230|AlignEnd=14470|GE=excursion|Gloss=excursion|nWord=6|RX=N|Word=yàrì
+10	yàrí	yàrí	NOUN	N	_	9	conj:reform	_	AlignBegin=14230|AlignEnd=14470|GE=excursion|Gloss=excursion|nWord=6|RX=N|Word=yàrì
 11	-H	-H	ADP	FCT	_	10	udep	_	AlignBegin=14470|AlignEnd=14710|GE=MT|Gloss=-MT|nWord=6|RX=FCT|Word=yàrì
 12	ngárì	ngárì	NOUN	N	_	11	comp	_	AlignBegin=14710|AlignEnd=15190|GE=fusil|Gloss=fusil|nWord=7|RX=N|Word=ngárì
 
@@ -255,7 +254,7 @@
 8	ʔé	ʔé	ADV	ADV	_	5	mod	_	AlignBegin=34460|AlignEnd=34840|GE=déjà|Gloss=déjà|nWord=4|RX=ADV|Word=ʔé
 
 # sent_id = GYA_PRD_NARR_T9-C7_012-012
-# text = ʔèè bókáɲá =à H- ʔɔ kɔ́ =éí nɛ́ yá ɗòŋ-nà H- kpe kɔ́ =éí ndútùà zù ʔè H- ʔɔ kɔ́ =éí yá
+# text = ʔèè bókáɲá -H =à H- ʔɔ kɔ́ =éí nɛ́ yá ɗòŋ-nà H- kpe kɔ́ =éí ndútùà zù ʔè H- ʔɔ kɔ́ =éí yá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 34840, 39160
@@ -269,7 +268,7 @@
 6	ʔɔ	ʔɔ	VERB	V	_	0	root	_	AlignBegin=35560|AlignEnd=35704|GE=s'étendre|Gloss=s'étendre|nWord=3|RX=V|Word=ʔɔ́
 7	kɔ́	kɔ́	ADP	FCT	_	6	comp:obl	_	AlignBegin=35704|AlignEnd=35848|GE=quant_à|Gloss=quant_à|nWord=4|RX=FCT|Word=kéí
 8	=éí	ʔéí	PRON	PR	PronType=Prs	7	comp	_	AlignBegin=35848|AlignEnd=35992|GE=LogS|Gloss=-LogS|nWord=4|RX=PR|Word=kéí
-9	nɛ́	nɛ́	PART	MV	_	6	mod	_	AlignBegin=35992|AlignEnd=36280|GE=VAL|Gloss=VAL|nWord=5|RX=MV|Word=nɛ́
+9	nɛ́	nɛ́	PART	MV	_	6	mod	_	AlignBegin=35992|AlignEnd=36280|GE=FOC|Gloss=FOC|nWord=5|RX=MV|Word=nɛ́
 10	yá	yá	NOUN	N	_	6	comp:obl	_	AlignBegin=36280|AlignEnd=36568|GE=sommeil|Gloss=sommeil|nWord=6|RX=N|Word=yá
 11	ɗòŋ-nà	ɗòŋ-nà	ADV	ADV	_	6	mod	_	AlignBegin=36568|AlignEnd=36856|GE=après_le_départ|Gloss=après_le_départ|nWord=7|RX=ADV|Word=ɗòŋ-nà,
 12	H-	H-	AUX	MV	Aspect=Imp	13	aux	_	AlignBegin=36856|AlignEnd=37000|GE=INAC|Gloss=INAC-|nWord=8|RX=MV|Word=kpé
@@ -817,12 +816,12 @@
 # sent_timecode = 103345, 107670
 # phonetic_text = ʔèé [mà kpɔ́kɔ́ɗí] ʔèè mà yíítòó fé kéí
 # text_fr = [et un seul] Deux d'entre eux, quant à eux, meurent
-1	ʔèè	ʔèè	CCONJ	COORD	_	9	cc	_	AlignBegin=103345|AlignEnd=103541|GE=puis|Gloss=puis|nWord=1|RX=COORD|Word=ʔèé
+1	ʔèè	ʔèè	CCONJ	COORD	_	5	reparandum	_	AlignBegin=103345|AlignEnd=103541|GE=puis|Gloss=puis|nWord=1|RX=COORD|Word=ʔèé
 2	-H	-H	X	FCT	_	1	aff	_	AlignBegin=103541|AlignEnd=103737|GE=MT|Gloss=-MT|nWord=1|RX=FCT|Word=ʔèé
-3	mà	mà	PRON	PRO	_	9	subj	_	AlignBegin=103737|AlignEnd=104129|GE=PRO-INDF|Gloss=PRO-INDF|nWord=2|RX=PRO|Word=[mà
+3	mà	mà	PRON	PRO	_	6	reparandum	_	AlignBegin=103737|AlignEnd=104129|GE=PRO-INDF|Gloss=PRO-INDF|nWord=2|RX=PRO|Word=[mà
 4	kpɔ́kɔ́ɗí	kpɔ́kɔ́ɗí	ADV	NUM	_	3	mod	_	AlignBegin=104129|AlignEnd=104520|GE=un_seul|Gloss=un_seul|nWord=3|RX=NUM|Word=kpɔ́kɔ́ɗí]
-5	ʔèè	ʔèè	CCONJ	COORD	_	1	conj:dicto	_	AlignBegin=104530|AlignEnd=104792|GE=puis|Gloss=puis|nWord=4|RX=COORD|Word=ʔèè
-6	mà	mà	PRON	PRO	_	3	conj:dicto	_	AlignBegin=104792|AlignEnd=105054|GE=PRO-INDF|Gloss=PRO-INDF|nWord=5|RX=PRO|Word=mà
+5	ʔèè	ʔèè	CCONJ	COORD	_	9	cc	_	AlignBegin=104530|AlignEnd=104792|GE=puis|Gloss=puis|nWord=4|RX=COORD|Word=ʔèè
+6	mà	mà	PRON	PRO	_	9	subj	_	AlignBegin=104792|AlignEnd=105054|GE=PRO-INDF|Gloss=PRO-INDF|nWord=5|RX=PRO|Word=mà
 7	yíítòó	yíítòó	NUM	NUM	_	6	mod	_	AlignBegin=105054|AlignEnd=105316|GE=deux|Gloss=deux|nWord=6|RX=NUM|Word=yíítòó
 8	H-	H-	AUX	MV	Aspect=Imp	9	aux	_	AlignBegin=105316|AlignEnd=105447|GE=INAC|Gloss=INAC-|nWord=7|RX=MV|Word=fé
 9	fe	fe	VERB	V	_	0	root	_	AlignBegin=105447|AlignEnd=105578|GE=mourir|Gloss=mourir|nWord=7|RX=V|Word=fé
@@ -1304,11 +1303,11 @@
 7	hɔ	hɔ	VERB	V	_	0	root	_	AlignBegin=162709|AlignEnd=162842|GE=arriveun_seul|Gloss=arriveun_seul|nWord=4|RX=V|Word=hɔ́
 8	kpɔ́k	kpɔ́k	NUM	NUM	_	7	mod	_	AlignBegin=162842|AlignEnd=163108|GE=un|Gloss=un|nWord=5|RX=NUM|Word=kpɔ́k
 9	tí	tí	ADV	ADV	_	7	mod	_	AlignBegin=163108|AlignEnd=163371|GE=devant|Gloss=devant|nWord=6|RX=ADV|Word=tí
-10	ʔèè	ʔèè	CCONJ	COORD	_	12	cc	_	AlignBegin=163371|AlignEnd=163610|GE=puis|Gloss=puis|nWord=7|RX=COORD|Word=ʔèè
+10	ʔèè	ʔèè	CCONJ	COORD	_	14	cc	_	AlignBegin=163371|AlignEnd=163610|GE=puis|Gloss=puis|nWord=7|RX=COORD|Word=ʔèè
 11	H-	H-	AUX	MV	Aspect=Imp	12	aux	_	AlignBegin=163610|AlignEnd=163730|GE=INAC|Gloss=INAC-|nWord=8|RX=MV|Word=yák
-12	yak	yak	VERB	V	_	7	conj:coord	_	AlignBegin=163730|AlignEnd=163849|GE=partir|Gloss=partir|nWord=8|RX=V|Word=yák
+12	yak	yak	VERB	V	_	14	reparandum	_	AlignBegin=163730|AlignEnd=163849|GE=partir|Gloss=partir|nWord=8|RX=V|Word=yák
 13	H-	H-	AUX	MV	Aspect=Imp	14	aux	_	AlignBegin=163849|AlignEnd=163969|GE=INAC|Gloss=INAC-|nWord=9|RX=MV|Word=yák
-14	yak	yak	VERB	V	_	12	conj:dicto	_	AlignBegin=163969|AlignEnd=164088|GE=partir|Gloss=partir|nWord=9|RX=V|Word=yák
+14	yak	yak	VERB	V	_	7	conj:coord	_	AlignBegin=163969|AlignEnd=164088|GE=partir|Gloss=partir|nWord=9|RX=V|Word=yák
 15	H-	H-	AUX	MV	Aspect=Perf	16	aux	_	AlignBegin=164088|AlignEnd=164208|GE=INF-ACC|Gloss=INF-ACC-|nWord=10|RX=MV|Word=sí
 16	si	si	VERB	V	_	14	compound:svc	_	AlignBegin=164208|AlignEnd=164327|GE=s'en_aller|Gloss=s'en_aller|nWord=10|RX=V|Word=sí
 17	nɛ̀	nɛ̀	ADP	FCT	_	16	comp:obl	_	AlignBegin=164327|AlignEnd=164566|GE=par|Gloss=par|nWord=11|RX=FCT|Word=nɛ̀

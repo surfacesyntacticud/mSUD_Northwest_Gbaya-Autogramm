@@ -1,45 +1,38 @@
-# Universal variables
-GREW=grew_dev
-GRS_CONVERT=/Users/guillaum/github/surfacesyntacticud/tools/converter/grs
-UD_TOOLS=/Users/guillaum/github/UniversalDependencies/tools
-SUD_TOOLS=/Users/guillaum/github/surfacesyntacticud/tools
-
 # Corpus specific variables
 LANG=gya
 SUD_FOLDER=/Users/guillaum/github/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm/SUD_Northwest_Gbaya-Autogramm
+
+# Universal variables
+GREW=grew_dev
+GRS_CONVERT=/Users/guillaum/github/surfacesyntacticud/conversions/grs/${LANG}
+UD_TOOLS=/Users/guillaum/github/UniversalDependencies/tools
+SUD_TOOLS=/Users/guillaum/github/surfacesyntacticud/tools
+
 
 UD_FOLDER=/Users/guillaum/github/UniversalDependencies/UD_Northwest_Gbaya-Autogramm
 UD_FILE=${UD_FOLDER}/${LANG}_autogramm-ud-test.conllu
 
 doc:
-	@echo "make msud     ---> normalise with Grew"
+# 	@echo "make msud     ---> normalise with Grew"
 	@echo "make sud      ---> build word-based SUD version"
 	@echo "make ud       ---> build UD version (both word and morph based)"
 	@echo "make validate ---> validate the Word-based UD version"
 
-FILES_218=GYA_PRD_NARR_01_T16-C6.conllu GYA_PRD_NARR_T24-C59.conllu GYA_PRD_NARR_T9-C7.conllu
-
-# Note: exported files from AG goes to the folder `ArboratorGrew``
-# mSUD files (*.conllu) at the root are build with the script `add_word_to_misc.py`
-msud:
-	for file in ${FILES_218} ; do \
-		echo $$file ; \
-		${GREW} transform -i ArboratorGrew/$$file -o tmp.conllu ; \
-		python3 tools/add_word_to_misc.py tmp.conllu $$file ; \
-	done
-	rm -f tmp.conllu
+# 3 files 2.18
+# FILES=GYA_PRD_NARR_01_T16-C6.conllu GYA_PRD_NARR_T24-C59.conllu GYA_PRD_NARR_T9-C7.conllu
+FILES=GYA_PRD_NARR_01_T16-C6.conllu GYA_PRD_NARR_T24-C59.conllu GYA_PRD_NARR_T9-C7.conllu GYA_PRD_NARR_T35-C301.conllu
 
 sud:
 	mkdir -p ${SUD_FOLDER}
-	for infile in ${FILES_218} ; do \
+	for infile in ${FILES} ; do \
 		outfile=${SUD_FOLDER}/$$infile ; \
 		echo "$$infile --> $$outfile" ; \
-		${GREW} transform -text_from_tokens -config sud -grs ${GRS_CONVERT}/gya_mSUD_to_SUD.grs -i $$infile -o $$outfile ; \
+		${GREW} transform -text_from_tokens -config sud -grs ${GRS_CONVERT}/gya_mSUD_to_SUD.grs -strat gya_mSUD_to_SUD_main -i $$infile -o $$outfile ; \
 	done
 	rm -f tmp.conllu
 
 ud: sud
-	for conllu in ${FILES_218} ; do \
+	for conllu in ${FILES} ; do \
 		infile=${SUD_FOLDER}/$$conllu; \
 		outfile=${UD_FOLDER}/not-to-release/$$conllu ; \
 		echo "$$infile --> $$outfile" ; \
@@ -49,7 +42,7 @@ ud: sud
 
 build_ud:
 	echo "# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC" > ${UD_FILE}
-	for file in ${FILES_218} ; do \
+	for file in ${FILES} ; do \
 		cat ${UD_FOLDER}/not-to-release/$$file | grep -v "# global.columns" >> ${UD_FILE} ; \
 	done
 
@@ -93,3 +86,12 @@ norm:
 		python3 add_word_to_misc.py tmp.conllu $$file ; \
 	done
 	rm -r tmp.conllu
+
+
+msud:
+	for file in ${FILES} ; do \
+		echo $$file ; \
+		${GREW} transform -i ArboratorGrew/$$file -o tmp.conllu ; \
+		python3 tools/add_word_to_misc.py tmp.conllu $$file ; \
+	done
+	rm -f tmp.conllu

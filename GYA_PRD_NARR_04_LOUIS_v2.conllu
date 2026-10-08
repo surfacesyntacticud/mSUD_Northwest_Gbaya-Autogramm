@@ -845,7 +845,7 @@
 20	-TM.INV	_	PART	MODY	_	19	det	_	GE=[INT]|Gloss=-INT|nWord=12|RX=[MODY]|WordAlignmentBegin=127088|WordAlignmentEnd=127185
 21	ʔá̰-nɛ̀	_	DET	TOP	_	3	det	_	GE=[TOP]|Gloss=TOP|nWord=1|RX=[TOP]|WordAlignmentBegin=128271|WordAlignmentEnd=128599
 22	H-	_	AUX	TAM	_	23	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=2|RX=[TAM]|WordAlignmentBegin=128681|WordAlignmentEnd=128763
-23	duk	duk	VERB	V	_	_	_	_	GE=remain|Gloss=remain|nWord=2|RX=[V]|WordAlignmentBegin=128763|WordAlignmentEnd=128845
+23	duk	duk	VERB	V	_	0	root	_	GE=remain|Gloss=remain|nWord=2|RX=[V]|WordAlignmentBegin=128763|WordAlignmentEnd=128845
 24	-ɛ̰̀	_	PART	MODY	_	23	mod	_	GE=[LOC]|Gloss=-LOC|nWord=2|RX=[MODY]|WordAlignmentBegin=128845|WordAlignmentEnd=128927
 25	H-	_	AUX	TAM	_	26	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=3|RX=[TAM]|WordAlignmentBegin=129009|WordAlignmentEnd=129091
 26	duk	duk	VERB	V	_	23	comp:redup	_	GE=remain|Gloss=remain|nWord=3|RX=[V]|WordAlignmentBegin=129091|WordAlignmentEnd=129173
@@ -1885,7 +1885,7 @@
 11	ʔám	ʔám	PRON	PRO.PERS	Number=Sing|Person=1|PronType=Prs	13	subj	_	GE=[1SG]|Gloss=1SG|nWord=11|RX=[PRO].[PERS]|WordAlignmentBegin=246700|WordAlignmentEnd=246880
 12-14	tàà	_	_	_	_	_	_	_	_
 12	BHa-	BHa-	AUX	TAM	_	13	aux	_	GE=[PFV]|Gloss=PFV|nWord=12|RX=[TAM]|WordAlignmentBegin=246880|WordAlignmentEnd=246940
-13	ta	ta	VERB	V	_	_	_	_	GE=think|Gloss=think|nWord=12|RX=[V]|WordAlignmentBegin=246940|WordAlignmentEnd=247000
+13	ta	ta	VERB	V	_	0	root	_	GE=think|Gloss=think|nWord=12|RX=[V]|WordAlignmentBegin=246940|WordAlignmentEnd=247000
 14	-H	-H	X	MODY	_	13	aff	_	GE=[TM]|Gloss=TM|nWord=12|RX=[MODY]|WordAlignmentBegin=247000|WordAlignmentEnd=247060
 15	hɔ̰́gɔ̰́	hɔ̰́gɔ̰́	ADV	ADV	_	13	mod	_	GE=like_this|Gloss=like_this|nWord=13|RX=[ADV]|WordAlignmentBegin=247060|WordAlignmentEnd=247240
 16	ʔòé	ʔòé	ADV	ADV	_	13	mod	_	GE=also|Gloss=also|nWord=14|RX=[ADV]|WordAlignmentBegin=247240|WordAlignmentEnd=247420

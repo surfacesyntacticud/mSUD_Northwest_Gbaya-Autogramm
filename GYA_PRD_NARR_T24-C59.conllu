@@ -2819,7 +2819,7 @@
 19	-B	-B	AUX	MV	Mood=Jus	21	aux	_	GE=[INJ]|nWord=13|RX=[MV]|WordAlignmentBegin=350509|WordAlignmentEnd=350686
 20	H-	H-	AUX	MV	Aspect=Imp	21	aux	_	GE=[INAC]|nWord=14|RX=[MV]|WordAlignmentBegin=350686|WordAlignmentEnd=350804
 21	yak-ká-B	yak-ká-B	AUX	MV	_	22	aux	_	GE=[PROH]|nWord=14|RX=[MV]|WordAlignmentBegin=350804|WordAlignmentEnd=350922
-22	ɲɔŋ	ɲɔŋ	VERB	V	_	_	_	_	GE=[manger]|nWord=14|RX=[V]|WordAlignmentBegin=350922|WordAlignmentEnd=351041
+22	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	GE=[manger]|nWord=14|RX=[V]|WordAlignmentBegin=350922|WordAlignmentEnd=351041
 23	ɓélá	ɓélá	NOUN	N	_	22	comp:obj	_	GE=[viande]|nWord=15|RX=[N]|WordAlignmentBegin=351041|WordAlignmentEnd=351396
 24	kútùà	kútùà	NOUN	N	_	22	comp:obl	_	GE=[maison]|nWord=16|RX=[N]|WordAlignmentBegin=351396|WordAlignmentEnd=351751
 25	kɔ́	kɔ́	ADP	FCT	_	24	udep	_	GE=[de]|nWord=17|RX=[FCT]|WordAlignmentBegin=351751|WordAlignmentEnd=351929

@@ -1108,7 +1108,7 @@
 2	wà	wà	PRON	PERS	Number=Plur|Person=3	4	subj	_	GE=[3PL]|Gloss=3PL|nWord=1|RX=[PERS]|WordAlignmentBegin=214461|WordAlignmentEnd=214598
 3-4	dáŋ	_	_	_	_	_	_	_	_
 3	H-	H-	AUX	MV	_	4	aux	_	GE=[INAC]|Gloss=INAC-|nWord=2|RX=[MV]|WordAlignmentBegin=214598|WordAlignmentEnd=214802
-4	daŋ	daŋ	VERB	V	_	_	_	_	GE=monter|Gloss=monter|nWord=2|RX=[V]|WordAlignmentBegin=214802|WordAlignmentEnd=215007
+4	daŋ	daŋ	VERB	V	_	0	root	_	GE=monter|Gloss=monter|nWord=2|RX=[V]|WordAlignmentBegin=214802|WordAlignmentEnd=215007
 5	gɔ̀	gɔ̀	MOD	MOD	_	4	mod	_	GE=assurément|Gloss=assurément|nWord=3|RX=[MOD]|WordAlignmentBegin=215007|WordAlignmentEnd=215416
 
 # sent_id = GYA_PRD_NARR_T35-C301_068-068b

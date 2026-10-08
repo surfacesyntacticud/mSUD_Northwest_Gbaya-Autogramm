@@ -1284,7 +1284,7 @@
 # text = mɔ́ ndàyà -H mɔ̀ nɛ̀ ʔéí -H H- nɛ nɔ̀ ʔé
 # text_phonetic = mɔ́ ndàyá mɔ̀ ndèì nɛ́ nɔ̀ ʔé
 # text_fr = La raison de ceci est que quand on va se promener,
-1	mɔ́	mɔ́	ADP	FCT	_	_	_	_	GE=[APPOS]|Gloss=APPOS|nWord=1|RX=[FCT]|WordAlignmentBegin=169030|WordAlignmentEnd=169273
+1	mɔ́	mɔ́	ADP	FCT	_	0	root	_	GE=[APPOS]|Gloss=APPOS|nWord=1|RX=[FCT]|WordAlignmentBegin=169030|WordAlignmentEnd=169273
 2	ndàyà	ndàyà	NOUN	N	_	1	mod	_	GE=raison|Gloss=raison|nWord=2|RX=[N]|WordAlignmentBegin=169273|WordAlignmentEnd=169395
 3	-H	-H	X	FCT	_	2	udep	_	GE=[MT]|Gloss=-D|nWord=2|RX=[FCT]|WordAlignmentBegin=169395|WordAlignmentEnd=169516
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp	_	GE=chose|Gloss=chose|nWord=3|RX=[N]|WordAlignmentBegin=169516|WordAlignmentEnd=169759

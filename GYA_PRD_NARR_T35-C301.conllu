@@ -611,7 +611,7 @@
 5	ʔéí	ʔéí	PRON	PRO	_	8	subj	_	GE=[IMPS]|Gloss=IMPS|nWord=11|RX=[PRO]|WordAlignmentBegin=130204|WordAlignmentEnd=130409
 6	-B	-B	AUX	MVMV	_	8	aux	_	GE=[ININJ-INAC]|Gloss=-ININJ-INAC-|nWord=11|RX=[MVMV]|WordAlignmentBegin=130409|WordAlignmentEnd=130614
 7-8	dɛ́	_	_	_	_	_	_	_	_
-7	H-	_	_	_	_	8	aux	_	nWord=12|WordAlignmentBegin=130614|WordAlignmentEnd=130819
+7	H-	_	AUX	_	_	8	aux	_	nWord=12|WordAlignmentBegin=130614|WordAlignmentEnd=130819
 8	dɛ	dɛ	VERB	V	_	0	root	_	GE=faire|Gloss=faire|nWord=12|RX=[V]|WordAlignmentBegin=130819|WordAlignmentEnd=131024
 9	gìmà	gìmà	NOUN	N	_	8	comp:obj	_	GE=chant|Gloss=chant|nWord=13|RX=[N]|WordAlignmentBegin=131024|WordAlignmentEnd=131434
 10	nɛ̀	nɛ̀	ADP	FCT	_	8	mod	_	GE=avec|Gloss=avec|nWord=14|RX=[FCT]|WordAlignmentBegin=131434|WordAlignmentEnd=131844
@@ -857,7 +857,7 @@
 5	-nɛ́	-nɛ́	PRON	PERS	_	8	subj	_	GE=[2POL]|Gloss=-2POL|nWord=8|RX=[PERS]|WordAlignmentBegin=176698|WordAlignmentEnd=176777
 6	-H	-H	MOMV	MOMV	_	5	aff	_	GE=[MTVIRT-INAC]|Gloss=-MTVIRT-INAC|nWord=8|RX=[MOMV]|WordAlignmentBegin=176777|WordAlignmentEnd=176856
 7-8	tɛ́-sà	_	_	_	_	_	_	_	_
-7	tɛ́-B	_	_	_	_	8	aux	_	nWord=9|WordAlignmentBegin=176856|WordAlignmentEnd=176974
+7	tɛ́-B	_	AUX	_	_	8	aux	_	nWord=9|WordAlignmentBegin=176856|WordAlignmentEnd=176974
 8	sa	sa	VERB	V	_	4	comp	_	GE=appeler|Gloss=appeler|nWord=9|RX=[V]|WordAlignmentBegin=176974|WordAlignmentEnd=177093
 9	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	5	det	_	GE=[TOP]|Gloss=TOP|nWord=10|RX=[MOD]|WordAlignmentBegin=177093|WordAlignmentEnd=177172
 10	-ɛ́ɛ́	-ɛ́ɛ́	PRON	PERS	_	13	subj	_	GE=[1PL]|Gloss=-1PL|nWord=10|RX=[PERS]|WordAlignmentBegin=177172|WordAlignmentEnd=177251
@@ -1915,7 +1915,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = sá nɛ́ mà wí sàɗì nɛ̀ dúk hɔ̰́gɔ̰́
 # text_en = mais mes herbes [...], une sorte d'animal dont mon oncle de m'a pas dit le nom restait comme ça et m'a poursuivi sur le chemin du retour comme ça //
-1	sá	sá	_	MN	_	2	cc	_	GE=[mais]|Gloss=mais|nWord=13|RX=[COORD]|WordAlignmentBegin=324943|WordAlignmentEnd=325304
+1	sá	sá	CCONJ	MN	_	2	cc	_	GE=[mais]|Gloss=mais|nWord=13|RX=[COORD]|WordAlignmentBegin=324943|WordAlignmentEnd=325304
 2	nɛ́	nɛ́	MN	MN	_	0	root	_	GE=[ETRE-ESS]|Gloss=ETRE-ESS|nWord=13|RX=[PRED]|WordAlignmentBegin=324943|WordAlignmentEnd=325304
 3	mà	mà	DET	MN	_	4	det	_	GE=[INDF]|Gloss=INDF|nWord=13|RX=[MN]|WordAlignmentBegin=324943|WordAlignmentEnd=325304
 4	wí	wí	NOUN	N	_	2	comp:pred	_	GE=individu|Gloss=individu|nWord=14|RX=[N]|WordAlignmentBegin=325304|WordAlignmentEnd=325665

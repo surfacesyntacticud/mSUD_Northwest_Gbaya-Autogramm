@@ -1053,7 +1053,7 @@
 # text = mɔ́ ndàyà mɔ̀ nɛ̀ ʔéí H-nɛ nɔ̀ ʔé
 # text_phonetic = mɔ́ ndàyá mɔ̀ ndèì nɛ́ nɔ̀ ʔé
 # text_fr = La raison de ceci est que quand on va se promener,
-1	mɔ́	mɔ́	ADP	FCT	_	_	_	_	GE=[APPOS]|Gloss=APPOS|MGloss=APPOS|MSeg=mɔ́|nWord=1|RX=[FCT]|WordAlignmentBegin=169030|WordAlignmentEnd=169273
+1	mɔ́	mɔ́	ADP	FCT	_	0	root	_	GE=[APPOS]|Gloss=APPOS|MGloss=APPOS|MSeg=mɔ́|nWord=1|RX=[FCT]|WordAlignmentBegin=169030|WordAlignmentEnd=169273
 2	ndàyà	ndàyà	NOUN	N	_	1	mod	_	GE=raison|Gloss=raison|MGloss=raison--D|MSeg=ndàyà-H|nWord=2|RX=[N]|WordAlignmentBegin=169273|WordAlignmentEnd=169516
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp	_	GE=chose|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=3|RX=[N]|WordAlignmentBegin=169516|WordAlignmentEnd=169759
 4	nɛ̀	nɛ̀	SCONJ	SUB	_	2	comp:obl@relcl	_	GE=[REL]|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=4|RX=[SUB]|WordAlignmentBegin=169759|WordAlignmentEnd=169840

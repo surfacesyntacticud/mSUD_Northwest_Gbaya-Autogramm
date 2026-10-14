@@ -2371,7 +2371,7 @@
 14	nɛ̀	nɛ̀	CCONJ	COORD	_	17	cc	_	Gloss=[et_ainsi]|MGloss=[et_ainsi]|MSeg=nɛ̀|nWord=12|RX=[COORD]|WordAlignmentBegin=349976|WordAlignmentEnd=350331
 15	mɛ́-B	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	17	subj	_	Gloss=[2SG]|MGloss=[2SG]-[INJ]|MSeg=mɛ́-B|nWord=13|RX=[PERS]|WordAlignmentBegin=350331|WordAlignmentEnd=350686
 16	H-yak-ká-B	yak-ká-B	AUX	MV	_	17	aux	_	Gloss=[PROH]|MGloss=[INAC]-[PROH]|MSeg=H-yak-ká-B|nWord=14|RX=[MV]|WordAlignmentBegin=350686|WordAlignmentEnd=350922
-17	ɲɔŋ	ɲɔŋ	VERB	V	_	_	_	_	Gloss=[manger]|MGloss=[manger]|MSeg=ɲɔŋ|nWord=14|RX=[V]|WordAlignmentBegin=350922|WordAlignmentEnd=351041
+17	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	Gloss=[manger]|MGloss=[manger]|MSeg=ɲɔŋ|nWord=14|RX=[V]|WordAlignmentBegin=350922|WordAlignmentEnd=351041
 18	ɓélá	ɓélá	NOUN	N	_	17	comp:obj	_	Gloss=[viande]|MGloss=[viande]|MSeg=ɓélá|nWord=15|RX=[N]|WordAlignmentBegin=351041|WordAlignmentEnd=351396
 19	kútùà	kútùà	NOUN	N	_	17	comp:obl	_	Gloss=[maison]|MGloss=[maison]|MSeg=kútùà|nWord=16|RX=[N]|WordAlignmentBegin=351396|WordAlignmentEnd=351751
 20	kɔ́	kɔ́	ADP	FCT	_	19	udep	_	Gloss=[de]|MGloss=[de]|MSeg=kɔ́|nWord=17|RX=[FCT]|WordAlignmentBegin=351751|WordAlignmentEnd=351929

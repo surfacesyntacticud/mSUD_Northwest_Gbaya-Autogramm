@@ -29,7 +29,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = wà H-gar H-ʔa wèè tɛ̀ zɔ̰́ sínɛ́ zɛ̀ŋ-zɛ̀ŋ-RDP
 # text_en = Voilà que Gbason a delimité ses herbes / et lancé l'annonce appelant tous les gens : 'qu'ils se rassemblent' / et il met le feu aux herbes qui s'étend en un grand cercle //
-1	wà	wà	PRON	PERS	_	2	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=14|RX=[PERS]|WordAlignmentBegin=19909|WordAlignmentEnd=20501
+1	wà	wà	PRON	PERS	Number=Plur|Person=3	2	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=14|RX=[PERS]|WordAlignmentBegin=19909|WordAlignmentEnd=20501
 2	H-gar	gar	VERB	V	_	0	root	_	GE=se_rassembler|Gloss=se_rassembler|MGloss=INJ-INAC--se_rassembler|MSeg=H-gar|nWord=15|RX=[V]|WordAlignmentBegin=20501|WordAlignmentEnd=21093
 3	H-ʔa	ʔa	VERB	V	_	2	conj:coord	_	GE=lancer|Gloss=lancer|MGloss=INAC--lancer|MSeg=H-ʔa|nWord=16|RX=[V]|WordAlignmentBegin=21093|WordAlignmentEnd=21685
 4	wèè	wèè	NOUN	N	_	3	comp:obj	_	GE=feu|Gloss=feu|MGloss=feu|MSeg=wèè|nWord=17|RX=[N]|WordAlignmentBegin=21685|WordAlignmentEnd=22277
@@ -46,7 +46,7 @@
 1	gbàsɔ̰̀	gbàsɔ̰̀	PROPN	NPR	_	2	subj	_	GE=[Gbason]|Gloss=Gbason|MGloss=Gbason|MSeg=gbàsɔ̰̀|nWord=1|RX=[NPR]|WordAlignmentBegin=24654|WordAlignmentEnd=25230
 2	H-tɔ̰	tɔ̰	VERB	V	_	0	root	_	GE=dire|Gloss=dire|MGloss=INAC--dire|MSeg=H-tɔ̰|nWord=2|RX=[V]|WordAlignmentBegin=25230|WordAlignmentEnd=25806
 3	há̰	há̰	ADP	FCT	_	2	mod	_	GE=pour|Gloss=pour|MGloss=pour|MSeg=há̰|nWord=3|RX=[FCT]|WordAlignmentBegin=25806|WordAlignmentEnd=26094
-4	wà	wà	PRON	PERS	_	3	comp	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=3|RX=[PERS]|WordAlignmentBegin=26094|WordAlignmentEnd=26382
+4	wà	wà	PRON	PERS	Number=Plur|Person=3	3	comp	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=3|RX=[PERS]|WordAlignmentBegin=26094|WordAlignmentEnd=26382
 
 # sent_id = GYA_PRD_NARR_T35-C301_003-004b
 # text = gbàsɔ̰̀ ndé zɔ̰́ hɛ̰̀ nɛ̀-ɛ́ɛ́ H-ʔa wèè sɛ̀nɛ́-ìí gìmà nɛ̀-nɛ́ tɛ́-B bei ʔɛ́nɛ́-B H-kɔ̰ ɗɔ̀ɔ̀-H-à
@@ -65,7 +65,7 @@
 10	nɛ̀-nɛ́	nɛ̀	SCONJ	SUB	_	9	mod@relcl	_	GE=[REL]|Gloss=REL|MGloss=REL--2PL--MT|MSeg=nɛ̀-nɛ́-H|nWord=13|RX=[SUB]|WordAlignmentBegin=30727|WordAlignmentEnd=31183
 11	tɛ́-B	tɛ́-B	AUX	MV	_	12	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAC|MGloss=VIRT-INAC|MSeg=tɛ́-B|nWord=14|RX=[MV]|WordAlignmentBegin=31183|WordAlignmentEnd=31411
 12	bei	bei	VERB	V	_	10	comp	_	GE=chanter|Gloss=chanter|MGloss=chanter|MSeg=bei|nWord=14|RX=[V]|WordAlignmentBegin=31411|WordAlignmentEnd=31639
-13	ʔɛ́nɛ́-B	ʔɛ́nɛ́	PRON	PERS	_	14	subj	_	GE=[2PL]|Gloss=2PL|MGloss=2PL--INJ|MSeg=ʔɛ́nɛ́-B|nWord=15|RX=[PERS]|WordAlignmentBegin=31639|WordAlignmentEnd=32095
+13	ʔɛ́nɛ́-B	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2	14	subj	_	GE=[2PL]|Gloss=2PL|MGloss=2PL--INJ|MSeg=ʔɛ́nɛ́-B|nWord=15|RX=[PERS]|WordAlignmentBegin=31639|WordAlignmentEnd=32095
 14	H-kɔ̰	kɔ̰	VERB	V	_	0	root	_	GE=répondre|Gloss=répondre|MGloss=INJ-INAC--répondre|MSeg=H-kɔ̰|nWord=16|RX=[V]|WordAlignmentBegin=32095|WordAlignmentEnd=32551
 15	ɗɔ̀ɔ̀-H-à	ɗɔ̀ɔ̀	AR	AR	_	14	comp:obl	_	GE=sous|Gloss=sous|MGloss=sous--MT--NMLS|MSeg=ɗɔ̀ɔ̀-H-à|nWord=17|RX=[AR]|WordAlignmentBegin=32551|WordAlignmentEnd=33013
 
@@ -75,7 +75,7 @@
 # text = ʔèè ʔɛ́nɛ́-B H-bei gìmà kɔ́ gbàsɔ̰̀
 # text_en = Et chantez le chant de Gbason //
 1	ʔèè	ʔèè	CCONJ	COORD	_	3	cc	_	GE=puis|Gloss=puis|MGloss=puis--MT|MSeg=ʔèè-H|nWord=1|RX=[COORD]|WordAlignmentBegin=33013|WordAlignmentEnd=33345
-2	ʔɛ́nɛ́-B	ʔɛ́nɛ́	PRON	PERS	_	3	subj	_	GE=[2PL]|Gloss=2PL|MGloss=2PL--INJ|MSeg=ʔɛ́nɛ́-B|nWord=2|RX=[PERS]|WordAlignmentBegin=33345|WordAlignmentEnd=33677
+2	ʔɛ́nɛ́-B	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2	3	subj	_	GE=[2PL]|Gloss=2PL|MGloss=2PL--INJ|MSeg=ʔɛ́nɛ́-B|nWord=2|RX=[PERS]|WordAlignmentBegin=33345|WordAlignmentEnd=33677
 3	H-bei	bei	VERB	V	_	0	root	_	GE=chanter|Gloss=chanter|MGloss=INJ-INAC--chanter|MSeg=H-bei|nWord=3|RX=[V]|WordAlignmentBegin=33677|WordAlignmentEnd=34009
 4	gìmà	gìmà	NOUN	N	_	3	comp:obj	_	GE=chant|Gloss=chant|MGloss=chant|MSeg=gìmà|nWord=4|RX=[N]|WordAlignmentBegin=34009|WordAlignmentEnd=34341
 5	kɔ́	kɔ́	ADP	FCT	_	4	udep	_	GE=de|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=5|RX=[FCT]|WordAlignmentBegin=34341|WordAlignmentEnd=34673
@@ -86,7 +86,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔɛ́nɛ́-B H-bei gìmà kɔ́ gbàsɔ̰̀
 # text_en = Chantez le chant de Gbason //
-1	ʔɛ́nɛ́-B	ʔɛ́nɛ́	PRON	PERS	_	2	subj	_	GE=[2PL]|Gloss=2PL|MGloss=2PL--INJ|MSeg=ʔɛ́nɛ́-B|nWord=1|RX=[PERS]|WordAlignmentBegin=35008|WordAlignmentEnd=35525
+1	ʔɛ́nɛ́-B	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2	2	subj	_	GE=[2PL]|Gloss=2PL|MGloss=2PL--INJ|MSeg=ʔɛ́nɛ́-B|nWord=1|RX=[PERS]|WordAlignmentBegin=35008|WordAlignmentEnd=35525
 2	H-bei	bei	VERB	V	_	0	root	_	GE=chanter|Gloss=chanter|MGloss=INJ-INAC--chanter|MSeg=H-bei|nWord=2|RX=[V]|WordAlignmentBegin=35525|WordAlignmentEnd=36042
 3	gìmà	gìmà	NOUN	N	_	2	comp	_	GE=chant|Gloss=chant|MGloss=chant|MSeg=gìmà|nWord=3|RX=[N]|WordAlignmentBegin=36042|WordAlignmentEnd=36559
 4	kɔ́	kɔ́	ADP	FCT	_	3	udep	_	GE=de|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=4|RX=[FCT]|WordAlignmentBegin=36559|WordAlignmentEnd=37076
@@ -97,7 +97,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔɛ́nɛ́ BHa-zei ndé ʔó-B béí-B
 # text_en = Vous avez entendu, les gens? //
-1	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	_	2	subj	_	GE=[2PL]|Gloss=2PL|MGloss=2PL|MSeg=ʔɛ́nɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=37594|WordAlignmentEnd=37844
+1	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2	2	subj	_	GE=[2PL]|Gloss=2PL|MGloss=2PL|MSeg=ʔɛ́nɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=37594|WordAlignmentEnd=37844
 2	BHa-zei	zei	VERB	V	_	0	root	_	GE=entendre|Gloss=entendre|MGloss=ACC--entendre|MSeg=BHa-zei|nWord=2|RX=[V]|WordAlignmentBegin=37844|WordAlignmentEnd=38094
 3	ndé	ndé	INTERR	INTERR	_	2	mod	_	GE=est-ce-que|Gloss=est-ce-que|MGloss=est-ce-que|MSeg=ndé|nWord=3|RX=[INTERR]|WordAlignmentBegin=38094|WordAlignmentEnd=38344
 4	ʔó-B	ʔó	DET	MN	_	5	det	_	GE=[PL]|Gloss=PL|MGloss=PL--INTERR|MSeg=ʔó-B|nWord=4|RX=[MN]|WordAlignmentBegin=38344|WordAlignmentEnd=38594
@@ -108,7 +108,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔɛ́nɛ́ BHa-zei
 # text_en = Vous avez entendu //
-1	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	_	2	subj	_	GE=[2PL]|Gloss=2PL|MGloss=2PL|MSeg=ʔɛ́nɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=38845|WordAlignmentEnd=39369
+1	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2	2	subj	_	GE=[2PL]|Gloss=2PL|MGloss=2PL|MSeg=ʔɛ́nɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=38845|WordAlignmentEnd=39369
 2	BHa-zei	zei	VERB	V	_	0	root	_	GE=entendre|Gloss=entendre|MGloss=ACC--entendre|MSeg=BHa-zei|nWord=2|RX=[V]|WordAlignmentBegin=39369|WordAlignmentEnd=39893
 
 # sent_id = GYA_PRD_NARR_T35-C301_009-009
@@ -117,7 +117,7 @@
 # text = ʔḭ́ḭ̀ ʔɛ́ɛ́ BHa-zei
 # text_en = Oui nous avons entendu. //
 1	ʔḭ́ḭ̀	ʔḭ́ḭ̀	ADV	ADV	_	3	mod	_	GE=oui|Gloss=oui|MGloss=oui|MSeg=ʔḭ́ḭ̀|nWord=1|RX=[ADV]|WordAlignmentBegin=39893|WordAlignmentEnd=40311
-2	ʔɛ́ɛ́	ʔɛ́ɛ́	PRON	PERS	_	3	subj	_	GE=[1PL]|Gloss=1PL|MGloss=1PL|MSeg=ʔɛ́ɛ́|nWord=2|RX=[PERS]|WordAlignmentBegin=40311|WordAlignmentEnd=40729
+2	ʔɛ́ɛ́	ʔɛ́ɛ́	PRON	PERS	Number=Plur|Person=1	3	subj	_	GE=[1PL]|Gloss=1PL|MGloss=1PL|MSeg=ʔɛ́ɛ́|nWord=2|RX=[PERS]|WordAlignmentBegin=40311|WordAlignmentEnd=40729
 3	BHa-zei	zei	VERB	V	_	0	root	_	GE=entendre|Gloss=entendre|MGloss=ACC--entendre|MSeg=BHa-zei|nWord=3|RX=[V]|WordAlignmentBegin=40729|WordAlignmentEnd=41147
 
 # sent_id = GYA_PRD_NARR_T35-C301_010-010
@@ -262,7 +262,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = wà H-gbɛ sàɗì sínɛ́
 # text_en = Ils vont et tuent du gibier //
-1	wà	wà	PRON	PERS	_	2	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=1|RX=[PERS]|WordAlignmentBegin=74464|WordAlignmentEnd=74771
+1	wà	wà	PRON	PERS	Number=Plur|Person=3	2	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=1|RX=[PERS]|WordAlignmentBegin=74464|WordAlignmentEnd=74771
 2	H-gbɛ	gbɛ	VERB	V	_	0	root	_	GE=tuer|Gloss=tuer|MGloss=INAC--tuer|MSeg=H-gbɛ|nWord=2|RX=[V]|WordAlignmentBegin=74771|WordAlignmentEnd=75078
 3	sàɗì	sàɗì	NOUN	N	_	2	comp:obj	_	GE=animal|Gloss=animal|MGloss=animal|MSeg=sàɗì|nWord=3|RX=[N]|WordAlignmentBegin=75078|WordAlignmentEnd=75385
 4	sínɛ́	sínɛ́	MV	MV	_	2	mod	_	GE=en_s'en_allant|Gloss=en_s'en_allant|MGloss=en_s'en_allant|MSeg=sínɛ́|nWord=4|RX=[MV]|WordAlignmentBegin=75385|WordAlignmentEnd=75692
@@ -272,7 +272,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = wà H-gbɛ sàɗì sínɛ́
 # text_en = ils vont et tuent du gibier //
-1	wà	wà	PRON	PERS	_	2	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=5|RX=[PERS]|WordAlignmentBegin=75692|WordAlignmentEnd=75999
+1	wà	wà	PRON	PERS	Number=Plur|Person=3	2	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=5|RX=[PERS]|WordAlignmentBegin=75692|WordAlignmentEnd=75999
 2	H-gbɛ	gbɛ	VERB	V	_	0	root	_	GE=tuer|Gloss=tuer|MGloss=INAC--tuer|MSeg=H-gbɛ|nWord=6|RX=[V]|WordAlignmentBegin=75999|WordAlignmentEnd=76306
 3	sàɗì	sàɗì	NOUN	N	_	2	comp:obj	_	GE=animal|Gloss=animal|MGloss=animal|MSeg=sàɗì|nWord=7|RX=[N]|WordAlignmentBegin=76306|WordAlignmentEnd=76613
 4	sínɛ́	sínɛ́	MV	MV	_	2	mod	_	GE=en_s'en_allant|Gloss=en_s'en_allant|MGloss=en_s'en_allant|MSeg=sínɛ́|nWord=8|RX=[MV]|WordAlignmentBegin=76613|WordAlignmentEnd=76920
@@ -282,7 +282,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = wà H-gbɛ sàɗì sínɛ́ ʔèááá
 # text_en = ils vont et tuent du gibier longtemps. //
-1	wà	wà	PRON	PERS	_	2	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=9|RX=[PERS]|WordAlignmentBegin=76920|WordAlignmentEnd=77227
+1	wà	wà	PRON	PERS	Number=Plur|Person=3	2	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=9|RX=[PERS]|WordAlignmentBegin=76920|WordAlignmentEnd=77227
 2	H-gbɛ	gbɛ	VERB	V	_	0	root	_	GE=tuer|Gloss=tuer|MGloss=INAC--tuer|MSeg=H-gbɛ|nWord=10|RX=[V]|WordAlignmentBegin=77227|WordAlignmentEnd=77534
 3	sàɗì	sàɗì	NOUN	N	_	2	comp:obj	_	GE=animal|Gloss=animal|MGloss=animal|MSeg=sàɗì|nWord=11|RX=[N]|WordAlignmentBegin=77534|WordAlignmentEnd=77841
 4	sínɛ́	sínɛ́	MV	MV	_	2	mod	_	GE=en_s'en_allant|Gloss=en_s'en_allant|MGloss=en_s'en_allant|MSeg=sínɛ́|nWord=12|RX=[MV]|WordAlignmentBegin=77841|WordAlignmentEnd=78148
@@ -378,15 +378,15 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mí mɔ́ wàntò gásá zɔ̰́ kɔ́-ám nɛ́ mí ʔám tɛ́-B sa
 # text_en = Moi, Wanto [dit que ] ce grand territoire, c'est moi qui vais en faire l'annonce //
-1	mí	mí	PRON	PERS	_	11	discourse:participant	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=mí|nWord=1|RX=[PERS]|WordAlignmentBegin=97421|WordAlignmentEnd=98056
+1	mí	mí	PRON	PERS	Number=Sing|Person=1	11	discourse:participant	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=mí|nWord=1|RX=[PERS]|WordAlignmentBegin=97421|WordAlignmentEnd=98056
 2	mɔ́	mɔ́	ADP	FCT	_	1	mod	_	GE=[APPOS]|Gloss=APPOS|MGloss=APPOS|MSeg=mɔ́|nWord=2|RX=[FCT]|WordAlignmentBegin=98056|WordAlignmentEnd=98691
 3	wàntò	wàntò	PROPN	NPR	_	2	comp	_	GE=[Wàntò]|Gloss=Wàntò|MGloss=Wàntò|MSeg=wàntò|nWord=3|RX=[NPR]|WordAlignmentBegin=98691|WordAlignmentEnd=99326
 4	gásá	gásá	DET	N	_	5	det	_	GE=[gásá]|Gloss=grannd|MGloss=grannd|MSeg=gásá|nWord=1|RX=[AV]|WordAlignmentBegin=99326|WordAlignmentEnd=99628
 5	zɔ̰́	zɔ̰́	NOUN	N	_	11	dislocated:obj	_	GE=herbe|Gloss=herbe|MGloss=herbe|MSeg=zɔ̰́|nWord=1|RX=[N]|WordAlignmentBegin=99326|WordAlignmentEnd=99628
 6	kɔ́-ám	kɔ́	ADP	FCT	_	5	mod	_	GE=de|Gloss=de|MGloss=de--1SG|MSeg=kɔ́-ám|nWord=2|RX=[FCT]|WordAlignmentBegin=99628|WordAlignmentEnd=99930
 7	nɛ́	nɛ́	PERS	PERS	_	8	mod	_	GE=[FOC]|Gloss=FOC|MGloss=FOC|MSeg=nɛ́|nWord=3|RX=[MOD]|WordAlignmentBegin=99930|WordAlignmentEnd=100232
-8	mí	mí	PRON	PERS	_	11	dislocated:subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=mí|nWord=3|RX=[PERS]|WordAlignmentBegin=99930|WordAlignmentEnd=100232
-9	ʔám	ʔám	PRON	PERS	_	11	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=4|RX=[PERS]|WordAlignmentBegin=100232|WordAlignmentEnd=100534
+8	mí	mí	PRON	PERS	Number=Sing|Person=1	11	dislocated:subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=mí|nWord=3|RX=[PERS]|WordAlignmentBegin=99930|WordAlignmentEnd=100232
+9	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	11	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=4|RX=[PERS]|WordAlignmentBegin=100232|WordAlignmentEnd=100534
 10	tɛ́-B	tɛ́-B	AUX	V	_	11	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAC|MGloss=VIRT-INAC|MSeg=tɛ́-B|nWord=5|RX=[MV]|WordAlignmentBegin=100685|WordAlignmentEnd=100836
 11	sa	sa	VERB	V	_	0	root	_	GE=appeler|Gloss=appeler|MGloss=appeler|MSeg=sa|nWord=11|RX=[V]|WordAlignmentBegin=102498|WordAlignmentEnd=102649
 
@@ -396,7 +396,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text_en = je chanterai ici en mon nom poour qu'ils en fassent l'annonces l'annonce //
 # text_ortho = mí tɛ́-bèì gìmà hɛ̰̀ nɛ́ ɲínám háwà sá zɔ̰́àí
-1	mí	mí	PRON	PERS	_	3	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=mí|nWord=1|RX=[PERS]|WordAlignmentBegin=103831|WordAlignmentEnd=104246
+1	mí	mí	PRON	PERS	Number=Sing|Person=1	3	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=mí|nWord=1|RX=[PERS]|WordAlignmentBegin=103831|WordAlignmentEnd=104246
 2	tɛ́-B	tɛ́-B	AUX	MV	_	3	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAC|MGloss=VIRT-INAC|MSeg=tɛ́-B|nWord=2|RX=[MV]|WordAlignmentBegin=104246|WordAlignmentEnd=104454
 3	bei	bei	VERB	V	_	0	root	_	GE=chanter|Gloss=chanter|MGloss=chanter|MSeg=bei|nWord=2|RX=[V]|WordAlignmentBegin=104454|WordAlignmentEnd=104661
 4	gìmà	gìmà	NOUN	N	_	3	comp:obj	_	GE=chant|Gloss=chant|MGloss=chant|MSeg=gìmà|nWord=3|RX=[N]|WordAlignmentBegin=104661|WordAlignmentEnd=105076
@@ -404,7 +404,7 @@
 6	nɛ̀	nɛ̀	ADP	FCT	_	3	mod	_	GE=avec|Gloss=avec|MGloss=avec|MSeg=nɛ̀|nWord=5|RX=[FCT]|WordAlignmentBegin=105491|WordAlignmentEnd=105906
 7	ɲîn-H-ám	ɲîn	NOUN	N	_	6	comp	_	GE=nom_propre|Gloss=nom_propre|MGloss=nom_propre--MT--1SG|MSeg=ɲîn-H-ám|nWord=6|RX=[N]|WordAlignmentBegin=105906|WordAlignmentEnd=106321
 8	há̰	há̰	SCONJ	FCT	_	3	mod	_	GE=pour|Gloss=pour|MGloss=pour|MSeg=há̰|nWord=7|RX=[FCT]|WordAlignmentBegin=106321|WordAlignmentEnd=106529
-9	wà	wà	PRON	PERS	_	10	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=7|RX=[PERS]|WordAlignmentBegin=106529|WordAlignmentEnd=106736
+9	wà	wà	PRON	PERS	Number=Plur|Person=3	10	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=7|RX=[PERS]|WordAlignmentBegin=106529|WordAlignmentEnd=106736
 10	H-sa	sa	VERB	V	_	8	comp	_	GE=appeler|Gloss=appeler|MGloss=INAC--appeler|MSeg=H-sa|nWord=1|RX=[V]|WordAlignmentBegin=108536|WordAlignmentEnd=109426
 11	zɔ̰́-à-ìí	zɔ̰́	NOUN	N	_	10	comp:obj	_	GE=herbe|Gloss=herbe|MGloss=herbe--DEF-ANAPH|MSeg=zɔ̰́-à-ìí|nWord=2|RX=[N]|WordAlignmentBegin=109426|WordAlignmentEnd=110315
 
@@ -416,7 +416,7 @@
 1	gbàsɔ̰̀	gbàsɔ̰̀	PROPN	NPR	_	5	discourse:participant	_	GE=[Gbason]|Gloss=Gbason|MGloss=Gbason|MSeg=gbàsɔ̰̀|nWord=1|RX=[NPR]|WordAlignmentBegin=110326|WordAlignmentEnd=111591
 2	ndé	ndé	DISC	DISC	_	1	discourse	_	GE=dit|Gloss=dit|MGloss=dit|MSeg=ndé|nWord=2|RX=[DISC]|WordAlignmentBegin=111591|WordAlignmentEnd=112856
 3	wàntò	wàntò	PROPN	NPR	_	5	vocative	_	GE=[Wàntò]|Gloss=Wàntò|MGloss=Wàntò|MSeg=wàntò|nWord=3|RX=[NPR]|WordAlignmentBegin=112856|WordAlignmentEnd=114120
-4	mɛ́-B	mɛ́	PRON	PERS	_	5	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=1|RX=[PERS]|WordAlignmentBegin=114120|WordAlignmentEnd=114752
+4	mɛ́-B	mɛ́	PRON	PERS	Number=Sing|Person=2	5	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=1|RX=[PERS]|WordAlignmentBegin=114120|WordAlignmentEnd=114752
 5	H-bei	bei	VERB	V	_	0	root	_	GE=chanter|Gloss=chanter|MGloss=INJ-INAC--chanter|MSeg=H-bei|nWord=2|RX=[V]|WordAlignmentBegin=114752|WordAlignmentEnd=115384
 6	gìmà	gìmà	NOUN	N	_	5	comp:obj	_	GE=chant|Gloss=chant|MGloss=chant|MSeg=gìmà|nWord=3|RX=[N]|WordAlignmentBegin=115384|WordAlignmentEnd=116016
 7	nɛ̀	nɛ̀	ADP	FCT	_	5	mod	_	GE=avec|Gloss=avec|MGloss=avec|MSeg=nɛ̀|nWord=4|RX=[FCT]|WordAlignmentBegin=116016|WordAlignmentEnd=116648
@@ -429,12 +429,12 @@
 # text_en = wàntò [dit] / quant à toi qui a brûlé ici tu as chanté [ta] chanson //
 1	wàntò	wàntò	PROPN	NPR	_	9	discourse:participant	_	GE=[Wàntò]|Gloss=Wàntò|MGloss=Wàntò|MSeg=wàntò|nWord=1|RX=[NPR]|WordAlignmentBegin=117280|WordAlignmentEnd=117697
 2	kɔ́	kɔ́	ADP	FCT	_	9	mod	_	GE=quant_à|Gloss=quant_à|MGloss=quant_à|MSeg=kɔ́|nWord=3|RX=[FCT]|WordAlignmentBegin=118114|WordAlignmentEnd=118322
-3	mɛ́	mɛ́	PRON	PERS	_	2	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=3|RX=[PERS]|WordAlignmentBegin=118322|WordAlignmentEnd=118531
+3	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=3|RX=[PERS]|WordAlignmentBegin=118322|WordAlignmentEnd=118531
 4	nɛ̀	nɛ̀	SCONJ	SUB	_	3	mod@relcl	_	GE=[REL]|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=4|RX=[SUB]|WordAlignmentBegin=118531|WordAlignmentEnd=118670
-5	mɛ́	mɛ́	PRON	PERS	_	6	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--MT|MSeg=mɛ́-H|nWord=4|RX=[PERS]|WordAlignmentBegin=118670|WordAlignmentEnd=118948
+5	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	6	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--MT|MSeg=mɛ́-H|nWord=4|RX=[PERS]|WordAlignmentBegin=118670|WordAlignmentEnd=118948
 6	BHa-gɔn	gɔn	VERB	V	_	4	comp	_	GE=couper|Gloss=couper|MGloss=ACC--couper--MT|MSeg=BHa-gɔn-H|nWord=5|RX=[V]|WordAlignmentBegin=118948|WordAlignmentEnd=119365
 7	hɛ̰̀	hɛ̰̀	ADV	ADV	_	6	mod	_	GE=ici|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=6|RX=[ADV]|WordAlignmentBegin=119365|WordAlignmentEnd=119782
-8	mɛ́	mɛ́	PRON	PERS	_	9	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=7|RX=[PERS]|WordAlignmentBegin=119782|WordAlignmentEnd=120199
+8	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	9	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=7|RX=[PERS]|WordAlignmentBegin=119782|WordAlignmentEnd=120199
 9	BHa-gbɛ	gbɛ	VERB	V	_	0	root	_	GE=tuer|Gloss=tuer|MGloss=ACC--tuer|MSeg=BHa-gbɛ|nWord=8|RX=[V]|WordAlignmentBegin=120199|WordAlignmentEnd=120616
 
 # sent_id = GYA_PRD_NARR_T35-C301_034-034b
@@ -443,13 +443,13 @@
 # text = ʔèè ʔám tɛ́-B bei kɔ́-ám nɛ̀ ɲîn mɛ́ hégè
 # text_en = comment pourrai-je chanter moi en ton nom //
 1	ʔèè	ʔèè	CCONJ	COORD	_	4	cc	_	GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=9|RX=[COORD]|WordAlignmentBegin=120616|WordAlignmentEnd=121033
-2	ʔám	ʔám	PRON	PERS	_	4	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=10|RX=[PERS]|WordAlignmentBegin=121033|WordAlignmentEnd=121450
+2	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	4	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=10|RX=[PERS]|WordAlignmentBegin=121033|WordAlignmentEnd=121450
 3	tɛ́-B	tɛ́-B	AUX	MV	_	4	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAC|MGloss=VIRT-INAC|MSeg=tɛ́-B|nWord=11|RX=[MV]|WordAlignmentBegin=121450|WordAlignmentEnd=121658
 4	bei	bei	VERB	V	_	0	root	_	GE=chanter|Gloss=chanter|MGloss=chanter|MSeg=bei|nWord=11|RX=[V]|WordAlignmentBegin=121658|WordAlignmentEnd=121867
 5	kɔ́-ám	kɔ́	ADP	FCT	_	4	mod	_	GE=quant_à|Gloss=quant_à|MGloss=quant_à--1SG|MSeg=kɔ́-ám|nWord=12|RX=[FCT]|WordAlignmentBegin=121867|WordAlignmentEnd=122284
 6	nɛ̀	nɛ̀	ADP	FCT	_	4	mod	_	GE=avec|Gloss=avec|MGloss=avec|MSeg=nɛ̀|nWord=13|RX=[FCT]|WordAlignmentBegin=122284|WordAlignmentEnd=122701
 7	ɲîn	ɲîn	NOUN	N	_	6	comp	_	GE=nom_propre|Gloss=nom_propre|MGloss=nom_propre--MT|MSeg=ɲîn-H|nWord=14|RX=[N]|WordAlignmentBegin=122701|WordAlignmentEnd=122909
-8	mɛ́	mɛ́	PRON	PERS	_	7	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=14|RX=[PERS]|WordAlignmentBegin=123013|WordAlignmentEnd=123118
+8	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	7	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=14|RX=[PERS]|WordAlignmentBegin=123013|WordAlignmentEnd=123118
 9	hégè	hégè	INTERR	INTERR	_	4	mod	_	GE=comment|Gloss=comment|MGloss=comment|MSeg=hégè|nWord=15|RX=[INTERR]|WordAlignmentBegin=123118|WordAlignmentEnd=123542
 
 # sent_id = GYA_PRD_NARR_T35-C301_035-039a
@@ -457,7 +457,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔám tɛ́-B bei nɛ̀ ɲîn-H-ám mɔ́ kɔ́m H-ʔa wèè tɛ̀ zɔ̰́
 # text_en = Je vais chanter en mon propre nom et mettre le feu aux herbes
-1	ʔám	ʔám	PRON	PERS	_	3	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=1|RX=[PERS]|WordAlignmentBegin=123542|WordAlignmentEnd=123976
+1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	3	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=1|RX=[PERS]|WordAlignmentBegin=123542|WordAlignmentEnd=123976
 2	tɛ́-B	tɛ́-B	AUX	MV	_	3	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAC|MGloss=VIRT-INAC|MSeg=tɛ́-B|nWord=2|RX=[MV]|WordAlignmentBegin=123976|WordAlignmentEnd=124193
 3	bei	bei	VERB	V	_	0	root	_	GE=chanter|Gloss=chanter|MGloss=chanter|MSeg=bei|nWord=2|RX=[V]|WordAlignmentBegin=124193|WordAlignmentEnd=124410
 4	nɛ̀	nɛ̀	ADP	FCT	_	3	mod	_	GE=avec|Gloss=avec|MGloss=avec|MSeg=nɛ̀|nWord=3|RX=[FCT]|WordAlignmentBegin=124410|WordAlignmentEnd=124844
@@ -668,7 +668,7 @@
 # text = ʔèè wà wòóyèé wó
 # text_en = et ils disent: non vraiment! //
 1	ʔèè	ʔèè	CCONJ	COORD	_	3	cc	_	GE=puis|Gloss=puis|MGloss=puis--MT|MSeg=ʔèè-H|nWord=1|RX=[COORD]|WordAlignmentBegin=174960|WordAlignmentEnd=175197
-2	wà	wà	PRON	PERS	_	3	discourse:participant	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=2|RX=[PERS]|WordAlignmentBegin=175197|WordAlignmentEnd=175434
+2	wà	wà	PRON	PERS	Number=Plur|Person=3	3	discourse:participant	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=2|RX=[PERS]|WordAlignmentBegin=175197|WordAlignmentEnd=175434
 3	wòóyèé	wòóyèé	ADV	ADV	_	0	root	_	GE=non|Gloss=non|MGloss=non|MSeg=wòóyèé|nWord=3|RX=[ADV]|WordAlignmentBegin=175434|WordAlignmentEnd=175671
 4	wó	wó	MOD	MOD	_	3	discourse	_	GE=vraiment|Gloss=vraiment|MGloss=vraiment|MSeg=wó|nWord=4|RX=[MOD]|WordAlignmentBegin=175671|WordAlignmentEnd=175908
 
@@ -681,7 +681,7 @@
 2	zɔ̰́	zɔ̰́	NOUN	N	_	8	dislocated:obj	_	GE=herbe|Gloss=herbe|MGloss=herbe|MSeg=zɔ̰́|nWord=6|RX=[N]|WordAlignmentBegin=176145|WordAlignmentEnd=176382
 3	hɛ̰̀	hɛ̰̀	ADV	ADV	_	2	mod	_	GE=ici|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=7|RX=[ADV]|WordAlignmentBegin=176382|WordAlignmentEnd=176619
 4	nɛ̀-nɛ́	nɛ̀	SCONJ	SUB	_	2	mod@relcl	_	GE=[REL]|Gloss=REL|MGloss=REL--2POL--MTVIRT-INAC|MSeg=nɛ̀-nɛ́-H|nWord=8|RX=[SUB]|WordAlignmentBegin=176619|WordAlignmentEnd=176856
-5	tɛ́-B	_	_	_	_	6	aux	_	MSeg=tɛ́-B|nWord=9|WordAlignmentBegin=176856|WordAlignmentEnd=176974
+5	tɛ́-B	_	AUX	_	_	6	aux	_	MSeg=tɛ́-B|nWord=9|WordAlignmentBegin=176856|WordAlignmentEnd=176974
 6	sa	sa	VERB	V	_	4	comp	_	GE=appeler|Gloss=appeler|MGloss=appeler|MSeg=sa|nWord=9|RX=[V]|WordAlignmentBegin=176974|WordAlignmentEnd=177093
 7	ʔá̰-nɛ̀-ɛ́ɛ́	ʔá̰-nɛ̀	DET	MOD	_	4	det	_	GE=[TOP]|Gloss=TOP|MGloss=TOP--1PL--MT|MSeg=ʔá̰-nɛ̀-ɛ́ɛ́-H|nWord=10|RX=[MOD]|WordAlignmentBegin=177093|WordAlignmentEnd=177330
 8	H-gbɛ	gbɛ	VERB	V	_	0	root	_	GE=tuer|Gloss=tuer|MGloss=INAC-tuer|MSeg=H-gbɛ|nWord=11|RX=[V]|WordAlignmentBegin=177251|WordAlignmentEnd=177567
@@ -723,7 +723,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = wà-Hv tɛ̀ɛ́-B zɔk mɔ̀ ná ká ɗìŋ-kìrìŋ mà sàɗì ʔà̰ H-ʔɔ nù
 # text_en = comme ils s'aperçoivent  // qu'un animal inerte, il est allongé à terre //
-1	wà-Hv	wà	PRON	PERS	_	3	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL--cond|MSeg=wà-Hv|nWord=1|RX=[PERS]|WordAlignmentBegin=184987|WordAlignmentEnd=185408
+1	wà-Hv	wà	PRON	PERS	Number=Plur|Person=3	3	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL--cond|MSeg=wà-Hv|nWord=1|RX=[PERS]|WordAlignmentBegin=184987|WordAlignmentEnd=185408
 2	tɛ̀ɛ́-B	tɛ̀ɛ́-B	AUX	MV	_	3	aux	_	GE=[COND-ACC]|Gloss=COND-ACC|MGloss=COND-ACC|MSeg=tɛ̀ɛ́-B|nWord=2|RX=[MV]|WordAlignmentBegin=185408|WordAlignmentEnd=185618
 3	zɔk	zɔk	VERB	V	_	11	mod	_	GE=voir|Gloss=voir|MGloss=voir|MSeg=zɔk|nWord=2|RX=[V]|WordAlignmentBegin=185618|WordAlignmentEnd=185829
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp:obj	_	GE=chose|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=3|RX=[N]|WordAlignmentBegin=185829|WordAlignmentEnd=186250
@@ -732,7 +732,7 @@
 7	ɗìŋ-kìrìŋ	ɗìŋ-kìrìŋ	AA	AA	_	11	mod	_	GE=inerte|Gloss=inerte|MGloss=inerte|MSeg=ɗìŋ-kìrìŋ|nWord=6|RX=[AA]|WordAlignmentBegin=187092|WordAlignmentEnd=187513
 8	mà	mà	DET	MN	_	9	det	_	GE=[INDF]|Gloss=INDF|MGloss=INDF|MSeg=mà|nWord=7|RX=[MN]|WordAlignmentBegin=187513|WordAlignmentEnd=187934
 9	sàɗì	sàɗì	NOUN	N	_	11	dislocated:subj	_	GE=animal|Gloss=animal|MGloss=animal|MSeg=sàɗì|nWord=8|RX=[N]|WordAlignmentBegin=187934|WordAlignmentEnd=188355
-10	ʔà̰	ʔà̰	PRON	PERS	_	11	subj:redup	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=9|RX=[PERS]|WordAlignmentBegin=188355|WordAlignmentEnd=188776
+10	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	11	subj:redup	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=9|RX=[PERS]|WordAlignmentBegin=188355|WordAlignmentEnd=188776
 11	H-ʔɔ	ʔɔ	VERB	V	_	0	root	_	GE=être_étendu|Gloss=être_étendu|MGloss=INAC--être_étendu|MSeg=H-ʔɔ|nWord=10|RX=[V]|WordAlignmentBegin=188776|WordAlignmentEnd=189197
 12	nù	nù	NOUN	N	_	11	comp:obl	_	GE=terre|Gloss=terre|MGloss=terre|MSeg=nù|nWord=11|RX=[N]|WordAlignmentBegin=189197|WordAlignmentEnd=189617
 
@@ -741,7 +741,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = wà hó
 # text_en = Ils font oh!  //
-1	wà	wà	PRON	PERS	_	2	discourse:participant	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=1|RX=[PERS]|WordAlignmentBegin=192320|WordAlignmentEnd=192787
+1	wà	wà	PRON	PERS	Number=Plur|Person=3	2	discourse:participant	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=1|RX=[PERS]|WordAlignmentBegin=192320|WordAlignmentEnd=192787
 2	hó	hó	INTERJ	INTERJ	_	0	root	_	GE=oh_non|Gloss=oh_non|MGloss=oh_non|MSeg=hó|nWord=2|RX=[INTERJ]|WordAlignmentBegin=192787|WordAlignmentEnd=193254
 
 # sent_id = GYA_PRD_NARR_T35-C301_057-057b
@@ -751,7 +751,7 @@
 # text_en = un animal, il est couché ici. //
 1	mà	mà	DET	MN	_	2	det	_	GE=[INDF]|Gloss=INDF|MGloss=INDF|MSeg=mà|nWord=3|RX=[MN]|WordAlignmentBegin=193254|WordAlignmentEnd=193721
 2	sàɗì	sàɗì	NOUN	N	_	4	subj	_	GE=animal|Gloss=animal|MGloss=animal|MSeg=sàɗì|nWord=4|RX=[N]|WordAlignmentBegin=193721|WordAlignmentEnd=194188
-3	ʔà̰	ʔà̰	DET	PERS	_	2	det	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=5|RX=[PERS]|WordAlignmentBegin=194188|WordAlignmentEnd=194655
+3	ʔà̰	ʔà̰	DET	PERS	Number=Sing|Person=3	2	det	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=5|RX=[PERS]|WordAlignmentBegin=194188|WordAlignmentEnd=194655
 4	H-ʔɔ	ʔɔ	VERB	V	_	0	root	_	GE=être_étendu|Gloss=être_étendu|MGloss=INAC--être_étendu|MSeg=H-ʔɔ|nWord=6|RX=[V]|WordAlignmentBegin=194655|WordAlignmentEnd=195122
 5	hɛ̰̀	hɛ̰̀	ADV	ADV	_	4	mod	_	GE=ici|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=7|RX=[ADV]|WordAlignmentBegin=195122|WordAlignmentEnd=195592
 
@@ -816,7 +816,7 @@
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text_en = Dispersez bien, bien plus en arrière, //
-1	ʔɛ̀nɛ́-B	ʔɛ́nɛ́	PRON	PERS	_	2	subj	_	GE=[1PL]|Gloss=1PL|MGloss=1PL--INJ|MSeg=ʔɛ̀nɛ́-B|nWord=3|RX=[PERS]|WordAlignmentBegin=206730|WordAlignmentEnd=207188
+1	ʔɛ̀nɛ́-B	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=1	2	subj	_	GE=[1PL]|Gloss=1PL|MGloss=1PL--INJ|MSeg=ʔɛ̀nɛ́-B|nWord=3|RX=[PERS]|WordAlignmentBegin=206730|WordAlignmentEnd=207188
 2	H-yai	yai	VERB	V	_	0	root	_	GE=se_disperser|Gloss=se_disperse|MGloss=INJ-INAC--se_disperse|MSeg=H-yai|nWord=4|RX=[V]|WordAlignmentBegin=207188|WordAlignmentEnd=207646
 3	sí	sí	ADV	ADV	_	2	mod	_	GE=vers|Gloss=vers|MGloss=vers|MSeg=sí|nWord=5|RX=[PREP|WordAlignmentBegin=207646|WordAlignmentEnd=208103
 4	ɗòŋ	ɗòŋ	ADV	ADV	_	3	comp	_	GE=en_arrière|Gloss=en_arrière|MGloss=en_arrière|MSeg=ɗòŋ|nWord=5|RX=[ADV]|WordAlignmentBegin=207646|WordAlignmentEnd=208103
@@ -837,7 +837,7 @@
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text_en = Fuyez loin de cet animal qui court à toute allure // //
-1	ʔɛ̀nɛ̀-B	ʔénɛ́	PRON	N	_	2	subj	_	GE=2PL|Gloss=2PL|MGloss=2PL-INJ|MSeg=ʔɛ̀nɛ̀-B|nWord=1|RX=[PERS]|WordAlignmentBegin=208103|WordAlignmentEnd=208502
+1	ʔɛ̀nɛ̀-B	ʔénɛ́	PRON	N	Number=Plur|Person=2	2	subj	_	GE=2PL|Gloss=2PL|MGloss=2PL-INJ|MSeg=ʔɛ̀nɛ̀-B|nWord=1|RX=[PERS]|WordAlignmentBegin=208103|WordAlignmentEnd=208502
 2	H-yú	yu	VERB	N	_	0	root	_	GE=s'enfuir|Gloss=s'enfuir|MGloss=INJ-INAC-s'enfuir|MSeg=H-yú|nWord=3|RX=[V]|WordAlignmentBegin=208502|WordAlignmentEnd=208901
 3	há̰	há̰	ADP	***	_	2	mod	_	GE=[pour]|Gloss=pour|MGloss=pour|MSeg=há̰|nWord=4|RX=[FCT]|WordAlignmentBegin=208901|WordAlignmentEnd=209167
 4	sàɗì	sàɗì	NOUN	N	_	3	comp	_	GE=animal|Gloss=animal|MGloss=animal|MSeg=sàɗì|nWord=5|RX=[N]|WordAlignmentBegin=209167|WordAlignmentEnd=209433
@@ -851,7 +851,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔám tɛ́-B sa ɲîn sàɗì yè
 # text_en = je vais dire pour finir dire le nom de l'animal //
-1	ʔám	ʔám	PRON	PERS	_	3	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=1|RX=[PERS]|WordAlignmentBegin=210231|WordAlignmentEnd=210627
+1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	3	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=1|RX=[PERS]|WordAlignmentBegin=210231|WordAlignmentEnd=210627
 2	tɛ́-B	tɛ́-B	AUX	MV	_	3	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAC|MGloss=VIRT-INAC|MSeg=tɛ́-B|nWord=2|RX=[MV]|WordAlignmentBegin=210627|WordAlignmentEnd=210825
 3	sa	sa	VERB	V	_	0	root	_	GE=appeler|Gloss=appeler|MGloss=appeler|MSeg=sa|nWord=2|RX=[V]|WordAlignmentBegin=210825|WordAlignmentEnd=211023
 4	ɲîn	ɲîn	NOUN	N	_	3	comp:obj	_	GE=nom_propre|Gloss=nom_propre|MGloss=nom_propre--MT|MSeg=ɲîn-H|nWord=3|RX=[N]|WordAlignmentBegin=211023|WordAlignmentEnd=211419
@@ -873,8 +873,8 @@
 # text = nɛ̀ wà H-daŋ gɔ̀
 # text_en = et ainsi ils montent donc //
 1	nɛ̀	nɛ̀	CCONJ	COORD	_	3	cc	_	GE=et_ainsi|Gloss=et_ainsi|MGloss=et_ainsi|MSeg=nɛ̀|nWord=1|RX=[COORD]|WordAlignmentBegin=214189|WordAlignmentEnd=214325
-2	wà	wà	PRON	PERS	_	3	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=1|RX=[PERS]|WordAlignmentBegin=214461|WordAlignmentEnd=214598
-3	H-daŋ	daŋ	VERB	V	_	_	_	_	GE=monter|Gloss=monter|MGloss=INAC--monter|MSeg=H-daŋ|nWord=2|RX=[V]|WordAlignmentBegin=214598|WordAlignmentEnd=215007
+2	wà	wà	PRON	PERS	Number=Plur|Person=3	3	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=1|RX=[PERS]|WordAlignmentBegin=214461|WordAlignmentEnd=214598
+3	H-daŋ	daŋ	VERB	V	_	0	root	_	GE=monter|Gloss=monter|MGloss=INAC--monter|MSeg=H-daŋ|nWord=2|RX=[V]|WordAlignmentBegin=214598|WordAlignmentEnd=215007
 4	gɔ̀	gɔ̀	MOD	MOD	_	3	mod	_	GE=assurément|Gloss=assurément|MGloss=assurément|MSeg=gɔ̀|nWord=3|RX=[MOD]|WordAlignmentBegin=215007|WordAlignmentEnd=215416
 
 # sent_id = GYA_PRD_NARR_T35-C301_068-068b
@@ -895,7 +895,7 @@
 2	béí	béí	NOUN	N	_	6	dislocated:subj	_	GE=personne|Gloss=personne|MGloss=personne|MSeg=béí|nWord=2|RX=[N]|WordAlignmentBegin=217084|WordAlignmentEnd=217526
 3	hɛ̰̀	hɛ̰̀	ADV	ADV	_	2	mod	_	GE=ici|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=3|RX=[ADV]|WordAlignmentBegin=217526|WordAlignmentEnd=217968
 4	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	2	det	_	GE=[TOP]|Gloss=TOP|MGloss=TOP|MSeg=ʔá̰-nɛ̀|nWord=4|RX=[MOD]|WordAlignmentBegin=217968|WordAlignmentEnd=218115
-5	wà	wà	PRON	PERS	_	6	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL--MT|MSeg=wà-H|nWord=4|RX=[PERS]|WordAlignmentBegin=218115|WordAlignmentEnd=218410
+5	wà	wà	PRON	PERS	Number=Plur|Person=3	6	subj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL--MT|MSeg=wà-H|nWord=4|RX=[PERS]|WordAlignmentBegin=218115|WordAlignmentEnd=218410
 6	H-zei	zei	VERB	V	_	0	root	_	GE=entendre|Gloss=entendre|MGloss=INJ-INAC--entendre|MSeg=H-zei|nWord=5|RX=[V]|WordAlignmentBegin=218410|WordAlignmentEnd=218852
 7	wó	wó	MOD	MOD	_	6	discourse	_	GE=vraiment|Gloss=vraiment|MGloss=vraiment|MSeg=wó|nWord=6|RX=[MOD]|WordAlignmentBegin=218852|WordAlignmentEnd=219294
 
@@ -992,7 +992,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ H-ye kɔ̀ tè
 # text_en = tu es entré dans l'arbre //
-1	mɛ́	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=241705|WordAlignmentEnd=242052
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=241705|WordAlignmentEnd=242052
 2	H-ye	ye	VERB	V	_	0	root	_	GE=entrer|Gloss=entrer|MGloss=INAC--entrer|MSeg=H-ye|nWord=2|RX=[V]|WordAlignmentBegin=242052|WordAlignmentEnd=242399
 3	kɔ̀	kɔ̀	ADP	FCT	_	2	mod	_	GE=à_l'intérieur|Gloss=à_l'intérieur|MGloss=à_l'intérieur--MT|MSeg=kɔ̀-H|nWord=3|RX=[FCT]|WordAlignmentBegin=242399|WordAlignmentEnd=242746
 4	tè	tè	NOUN	N	_	3	comp	_	GE=arbre|Gloss=arbre|MGloss=arbre|MSeg=tè|nWord=4|RX=[N]|WordAlignmentBegin=242746|WordAlignmentEnd=243093
@@ -1002,18 +1002,18 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔám BHa-zɔk mɛ́
 # text_en = je t'ai vu,  //
-1	ʔám	ʔám	PRON	PERS	_	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=5|RX=[PERS]|WordAlignmentBegin=243093|WordAlignmentEnd=243440
+1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=5|RX=[PERS]|WordAlignmentBegin=243093|WordAlignmentEnd=243440
 2	BHa-zɔk	zɔk	VERB	V	_	0	root	_	GE=voir|Gloss=voir|MGloss=ACC--voir--MT|MSeg=BHa-zɔk-H|nWord=6|RX=[V]|WordAlignmentBegin=243440|WordAlignmentEnd=243647
-3	mɛ́	mɛ́	PRON	PERS	_	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=6|RX=[PERS]|WordAlignmentBegin=243716|WordAlignmentEnd=243787
+3	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=6|RX=[PERS]|WordAlignmentBegin=243716|WordAlignmentEnd=243787
 
 # sent_id = GYA_PRD_NARR_T35-C301_076-076c
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔám BHa-zɔk mɛ́
 # text_en = je t'ai vu //
-1	ʔám	ʔám	PRON	PERS	_	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=7|RX=[PERS]|WordAlignmentBegin=243787|WordAlignmentEnd=244134
+1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=7|RX=[PERS]|WordAlignmentBegin=243787|WordAlignmentEnd=244134
 2	BHa-zɔk	zɔk	VERB	V	_	0	root	_	GE=voir|Gloss=voir|MGloss=ACC--voir--MT|MSeg=BHa-zɔk-H|nWord=8|RX=[V]|WordAlignmentBegin=244134|WordAlignmentEnd=244341
-3	mɛ́	mɛ́	PRON	PERS	_	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=8|RX=[PERS]|WordAlignmentBegin=244410|WordAlignmentEnd=244481
+3	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=8|RX=[PERS]|WordAlignmentBegin=244410|WordAlignmentEnd=244481
 
 # sent_id = GYA_PRD_NARR_T35-C301_077-077
 # text = wàntò H-pḭ wá H-sar yù sínɛ́ sínɛ́
@@ -1033,8 +1033,8 @@
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text_en = Toi, toi //
-1	mɛ́	mɛ́	PRON	PERS	_	0	root	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=247094|WordAlignmentEnd=247465
-2	mɛ́	mɛ́	PRON	PERS	_	1	conj:redup	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=2|RX=[PERS]|WordAlignmentBegin=247465|WordAlignmentEnd=247836
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	0	root	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=247094|WordAlignmentEnd=247465
+2	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	1	conj:redup	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=2|RX=[PERS]|WordAlignmentBegin=247465|WordAlignmentEnd=247836
 
 # sent_id = GYA_PRD_NARR_T35-C301_078-078b
 # text = wàntò B-kifi kàn
@@ -1050,7 +1050,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-kifi kàn
 # text_en = tu t'es changé en roseau //
-1	mɛ́	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=248951|WordAlignmentEnd=249216
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=248951|WordAlignmentEnd=249216
 2	BHa-kifi	kifi	VERB	V	_	0	root	_	GE=se_changer|Gloss=se_changer|MGloss=ACC--se_changer--MT|MSeg=BHa-kifi-H|nWord=2|RX=[V]|WordAlignmentBegin=249216|WordAlignmentEnd=249481
 3	kàn	kàn	NOUN	N	_	2	comp:obl	_	GE=roseaux_secs|Gloss=roseaux_secs|MGloss=roseaux_secs|MSeg=kàn|nWord=3|RX=[N]|WordAlignmentBegin=249481|WordAlignmentEnd=249746
 
@@ -1059,18 +1059,18 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔám BHa-zɔk mɛ́
 # text_en = je t'ai vu //
-1	ʔám	ʔám	PRON	PERS	_	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=4|RX=[PERS]|WordAlignmentBegin=249746|WordAlignmentEnd=250011
+1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=4|RX=[PERS]|WordAlignmentBegin=249746|WordAlignmentEnd=250011
 2	BHa-zɔk	zɔk	VERB	V	_	0	root	_	GE=voir|Gloss=voir|MGloss=ACC--voir--MT|MSeg=BHa-zɔk-H|nWord=5|RX=[V]|WordAlignmentBegin=250011|WordAlignmentEnd=250170
-3	mɛ́	mɛ́	PRON	PERS	_	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=250223|WordAlignmentEnd=250276
+3	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=250223|WordAlignmentEnd=250276
 
 # sent_id = GYA_PRD_NARR_T35-C301_079-079c
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔám BHa-zɔk mɛ́
 # text_en = je t'ai vu //
-1	ʔám	ʔám	PRON	PERS	_	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=6|RX=[PERS]|WordAlignmentBegin=250276|WordAlignmentEnd=250541
+1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=6|RX=[PERS]|WordAlignmentBegin=250276|WordAlignmentEnd=250541
 2	BHa-zɔk	zɔk	VERB	V	_	0	root	_	GE=voir|Gloss=voir|MGloss=ACC--voir--MT|MSeg=BHa-zɔk-H|nWord=7|RX=[V]|WordAlignmentBegin=250541|WordAlignmentEnd=250700
-3	mɛ́	mɛ́	PRON	PERS	_	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=7|RX=[PERS]|WordAlignmentBegin=250753|WordAlignmentEnd=250808
+3	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=7|RX=[PERS]|WordAlignmentBegin=250753|WordAlignmentEnd=250808
 
 # sent_id = GYA_PRD_NARR_T35-C301_080-080
 # speaker_id = @SP
@@ -1097,7 +1097,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-kifi kɔ́k wáɲá
 # text_en = Tu t'es changé en feuille morte. //
-1	mɛ́	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=253406|WordAlignmentEnd=253718
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=253406|WordAlignmentEnd=253718
 2	BHa-kifi	kifi	VERB	V	_	0	root	_	GE=se_changer|Gloss=se_changer|MGloss=ACC--se_changer--MT|MSeg=BHa-kifi-H|nWord=2|RX=[V]|WordAlignmentBegin=253718|WordAlignmentEnd=254030
 3	kɔ́k	kɔ́k	A	A	_	4	mod	_	GE=rigide|Gloss=rigide|MGloss=rigide|MSeg=kɔ́k|nWord=3|RX=[A]|WordAlignmentBegin=254030|WordAlignmentEnd=254342
 4	wáɲá	wáɲá	NOUN	N	_	2	comp:obl	_	GE=feuille|Gloss=feuille|MGloss=feuille|MSeg=wáɲá|nWord=4|RX=[N]|WordAlignmentBegin=254342|WordAlignmentEnd=254654
@@ -1107,18 +1107,18 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔám BHa-zɔk mɛ́
 # text_en = je t'ai vu //
-1	ʔám	ʔám	PRON	PERS	_	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=5|RX=[PERS]|WordAlignmentBegin=254654|WordAlignmentEnd=254966
+1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=5|RX=[PERS]|WordAlignmentBegin=254654|WordAlignmentEnd=254966
 2	BHa-zɔk	zɔk	VERB	V	_	0	root	_	GE=voir|Gloss=voir|MGloss=ACC--voir--MT|MSeg=BHa-zɔk-H|nWord=6|RX=[V]|WordAlignmentBegin=254966|WordAlignmentEnd=255152
-3	mɛ́	mɛ́	PRON	PERS	_	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=6|RX=[PERS]|WordAlignmentBegin=255214|WordAlignmentEnd=255278
+3	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=6|RX=[PERS]|WordAlignmentBegin=255214|WordAlignmentEnd=255278
 
 # sent_id = GYA_PRD_NARR_T35-C301_082-082c
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔám BHa-zɔk mɛ́
 # text_en = je t'ai vu //
-1	ʔám	ʔám	PRON	PERS	_	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=7|RX=[PERS]|WordAlignmentBegin=255278|WordAlignmentEnd=255590
+1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=7|RX=[PERS]|WordAlignmentBegin=255278|WordAlignmentEnd=255590
 2	BHa-zɔk	zɔk	VERB	V	_	0	root	_	GE=voir|Gloss=voir|MGloss=ACC--voir--MT|MSeg=BHa-zɔk-H|nWord=8|RX=[V]|WordAlignmentBegin=255590|WordAlignmentEnd=255776
-3	mɛ́	mɛ́	PRON	PERS	_	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=8|RX=[PERS]|WordAlignmentBegin=255838|WordAlignmentEnd=255898
+3	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=8|RX=[PERS]|WordAlignmentBegin=255838|WordAlignmentEnd=255898
 
 # sent_id = GYA_PRD_NARR_T35-C301_083-083
 # speaker_id = @SP
@@ -1134,7 +1134,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-kifi gbàmìì
 # text_en = Tu t'es changé en fourmi. //
-1	mɛ́	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=257036|WordAlignmentEnd=257393
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=257036|WordAlignmentEnd=257393
 2	BHa-kifi	kifi	VERB	V	_	0	root	_	GE=se_changer|Gloss=se_changer|MGloss=ACC--se_changer--MT|MSeg=BHa-kifi-H|nWord=2|RX=[V]|WordAlignmentBegin=257393|WordAlignmentEnd=257750
 3	gbàmìì	gbàmìì	NOUN	N	_	2	comp:obl	_	GE=fourmi|Gloss=fourmi|MGloss=fourmi|MSeg=gbàmìì|nWord=3|RX=[N]|WordAlignmentBegin=257750|WordAlignmentEnd=258107
 
@@ -1143,18 +1143,18 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔám BHa-zɔk mɛ́
 # text_en = je t'ai vu. //
-1	ʔám	ʔám	PRON	PERS	_	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=4|RX=[PERS]|WordAlignmentBegin=258107|WordAlignmentEnd=258464
+1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=4|RX=[PERS]|WordAlignmentBegin=258107|WordAlignmentEnd=258464
 2	BHa-zɔk	zɔk	VERB	V	_	0	root	_	GE=voir|Gloss=voir|MGloss=ACC--voir--MT|MSeg=BHa-zɔk-H|nWord=5|RX=[V]|WordAlignmentBegin=258464|WordAlignmentEnd=258677
-3	mɛ́	mɛ́	PRON	PERS	_	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=258748|WordAlignmentEnd=258821
+3	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=258748|WordAlignmentEnd=258821
 
 # sent_id = GYA_PRD_NARR_T35-C301_084-084c
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔám BHa-zɔk mɛ́
 # text_en = je t'ai vu. //
-1	ʔám	ʔám	PRON	PERS	_	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=6|RX=[PERS]|WordAlignmentBegin=258821|WordAlignmentEnd=259178
+1	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	2	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=6|RX=[PERS]|WordAlignmentBegin=258821|WordAlignmentEnd=259178
 2	BHa-zɔk	zɔk	VERB	V	_	0	root	_	GE=voir|Gloss=voir|MGloss=ACC--voir--MT|MSeg=BHa-zɔk-H|nWord=7|RX=[V]|WordAlignmentBegin=259178|WordAlignmentEnd=259391
-3	mɛ́	mɛ́	PRON	PERS	_	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=7|RX=[PERS]|WordAlignmentBegin=259462|WordAlignmentEnd=259532
+3	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	comp:obj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=7|RX=[PERS]|WordAlignmentBegin=259462|WordAlignmentEnd=259532
 
 # sent_id = GYA_PRD_NARR_T35-C301_085-085
 # speaker_id = @SP
@@ -1170,7 +1170,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-kifi kùsì
 # text_en = Tu t'es changé en termitière-champignon //
-1	mɛ́	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=260761|WordAlignmentEnd=261055
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=260761|WordAlignmentEnd=261055
 2	BHa-kifi	kifi	VERB	V	_	0	root	_	GE=se_changer|Gloss=se_changer|MGloss=ACC--se_changer--MT|MSeg=BHa-kifi-H|nWord=2|RX=[V]|WordAlignmentBegin=261055|WordAlignmentEnd=261349
 3	kùsì	kùsì	NOUN	N	_	2	comp:obl	_	GE=termitière-champignon|Gloss=termitière-champignon|MGloss=termitière-champignon|MSeg=kùsì|nWord=3|RX=[N]|WordAlignmentBegin=261349|WordAlignmentEnd=261643
 
@@ -1179,7 +1179,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-kifi kùsì
 # text_en = Tu t'es changé en termitière-champignon //
-1	mɛ́	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=4|RX=[PERS]|WordAlignmentBegin=261643|WordAlignmentEnd=261937
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=4|RX=[PERS]|WordAlignmentBegin=261643|WordAlignmentEnd=261937
 2	BHa-kifi	kifi	VERB	V	_	0	root	_	GE=se_changer|Gloss=se_changer|MGloss=ACC--se_changer--MT|MSeg=BHa-kifi-H|nWord=5|RX=[V]|WordAlignmentBegin=261937|WordAlignmentEnd=262231
 3	kùsì	kùsì	NOUN	N	_	2	comp:obl	_	GE=termitière-champignon|Gloss=termitière-champignon|MGloss=termitière-champignon|MSeg=kùsì|nWord=6|RX=[N]|WordAlignmentBegin=262231|WordAlignmentEnd=262522
 
@@ -1243,7 +1243,7 @@
 1	Háà-ʔiŋ	ʔiŋ	VERB	V	_	5	dislocated:obj	_	GE=connaître|Gloss=connaître|MGloss=NV--connaître--MT|MSeg=Háà-ʔiŋ-H|nWord=1|RX=[V]|WordAlignmentBegin=282280|WordAlignmentEnd=282583
 2	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	1	comp:obj	_	GE=ʔìŋà-lɔ́ngɔ́|Gloss=ʔìŋà-lɔ́ngɔ́|MGloss=ʔìŋà-lɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=2|RX=[NPR]|WordAlignmentBegin=282583|WordAlignmentEnd=282886
 3	wàntò	wàntò	PROPN	NPR	_	5	vocative	_	GE=wàntò|Gloss=wàntò|MGloss=wàntò|MSeg=wàntò|nWord=3|RX=[NPR]|WordAlignmentBegin=282886|WordAlignmentEnd=283189
-4	mɛ́	mɛ́	PRON	PERS	_	5	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=4|RX=[PERS]|WordAlignmentBegin=283189|WordAlignmentEnd=283492
+4	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	5	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=4|RX=[PERS]|WordAlignmentBegin=283189|WordAlignmentEnd=283492
 5	BHa-ʔiŋ	ʔiŋ	VERB	V	_	0	root	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=5|RX=[V]|WordAlignmentBegin=283492|WordAlignmentEnd=283795
 6	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	5	comp:obj	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=6|RX=[NPR]|WordAlignmentBegin=283795|WordAlignmentEnd=284098
 7	nɛ̀	nɛ̀	ADP	FCT	_	5	mod	_	GE=par|Gloss=par|MGloss=par|MSeg=nɛ̀|nWord=7|RX=[FCT]|WordAlignmentBegin=284098|WordAlignmentEnd=284401
@@ -1254,7 +1254,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́
 # text_en = tu connaîs lɔngo Wanto, //
-1	mɛ́	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=284710|WordAlignmentEnd=284950
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=284710|WordAlignmentEnd=284950
 2	BHa-ʔiŋ	ʔiŋ	VERB	V	_	0	root	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=2|RX=[V]|WordAlignmentBegin=284950|WordAlignmentEnd=285190
 3	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	2	comp:obj	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=3|RX=[NPR]|WordAlignmentBegin=285190|WordAlignmentEnd=285430
 
@@ -1264,7 +1264,7 @@
 # text = wàntò mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ nɛ̀ díì
 # text_en = d'où connais tu lɔngɔ //
 1	wàntò	wàntò	PROPN	NPR	_	3	vocative	_	GE=wàntò|Gloss=wàntò|MGloss=wàntò|MSeg=wàntò|nWord=4|RX=[NPR]|WordAlignmentBegin=285430|WordAlignmentEnd=285670
-2	mɛ́	mɛ́	PRON	PERS	_	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=285670|WordAlignmentEnd=285910
+2	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=285670|WordAlignmentEnd=285910
 3	BHa-ʔiŋ	ʔiŋ	VERB	V	_	0	root	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=6|RX=[V]|WordAlignmentBegin=285910|WordAlignmentEnd=286150
 4	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	3	comp:obj	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=7|RX=[NPR]|WordAlignmentBegin=286150|WordAlignmentEnd=286390
 5	nɛ̀	nɛ̀	ADP	FCT	_	3	mod	_	GE=par|Gloss=par|MGloss=par|MSeg=nɛ̀|nWord=8|RX=[FCT]|WordAlignmentBegin=286390|WordAlignmentEnd=286630
@@ -1290,7 +1290,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́
 # text_en = tu connaîs lɔngo /
-1	mɛ́	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=289068|WordAlignmentEnd=289296
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=289068|WordAlignmentEnd=289296
 2	BHa-ʔiŋ	ʔiŋ	VERB	V	_	0	root	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=2|RX=[V]|WordAlignmentBegin=289296|WordAlignmentEnd=289524
 3	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	2	comp:obj	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=3|RX=[NPR]|WordAlignmentBegin=289524|WordAlignmentEnd=289752
 
@@ -1300,7 +1300,7 @@
 # text = wàntò mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ nɛ̀ díì
 # text_en = Wanto, d'où connais tu lɔngɔ //
 1	wàntò	wàntò	PROPN	NPR	_	3	vocative	_	GE=wàntò|Gloss=wàntò|MGloss=wàntò|MSeg=wàntò|nWord=4|RX=[NPR]|WordAlignmentBegin=289752|WordAlignmentEnd=289980
-2	mɛ́	mɛ́	PRON	PERS	_	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=289980|WordAlignmentEnd=290208
+2	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=289980|WordAlignmentEnd=290208
 3	BHa-ʔiŋ	ʔiŋ	VERB	V	_	0	root	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=6|RX=[V]|WordAlignmentBegin=290208|WordAlignmentEnd=290436
 4	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	3	comp:obj	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=7|RX=[NPR]|WordAlignmentBegin=290436|WordAlignmentEnd=290664
 5	nɛ̀	nɛ̀	ADP	FCT	_	3	mod	_	GE=par|Gloss=par|MGloss=par|MSeg=nɛ̀|nWord=8|RX=[FCT]|WordAlignmentBegin=290664|WordAlignmentEnd=290892
@@ -1311,11 +1311,11 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ wàntò mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ nɛ̀ díì
 # text_en = tu connaîs lɔngo Wanto, d'où connais tu lɔngɔ //
-1	mɛ́	mɛ́	PRON	PERS	_	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=291124|WordAlignmentEnd=291394
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=291124|WordAlignmentEnd=291394
 2	BHa-ʔiŋ	ʔiŋ	VERB	V	_	_	_	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=2|RX=[V]|WordAlignmentBegin=291394|WordAlignmentEnd=291664
 3	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	_	_	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=3|RX=[NPR]|WordAlignmentBegin=291664|WordAlignmentEnd=291934
 4	wàntò	wàntò	PROPN	NPR	_	_	_	_	GE=wàntò|Gloss=wàntò|MGloss=wàntò|MSeg=wàntò|nWord=4|RX=[NPR]|WordAlignmentBegin=291934|WordAlignmentEnd=292204
-5	mɛ́	mɛ́	PRON	PERS	_	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=292204|WordAlignmentEnd=292474
+5	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=292204|WordAlignmentEnd=292474
 6	BHa-ʔiŋ	ʔiŋ	VERB	V	_	_	_	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=6|RX=[V]|WordAlignmentBegin=292474|WordAlignmentEnd=292744
 7	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	_	_	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=7|RX=[NPR]|WordAlignmentBegin=292744|WordAlignmentEnd=293014
 8	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	GE=par|Gloss=par|MGloss=par|MSeg=nɛ̀|nWord=8|RX=[FCT]|WordAlignmentBegin=293014|WordAlignmentEnd=293284
@@ -1341,11 +1341,11 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ wàntò mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ nɛ̀ díì
 # text_en = tu connaîs lɔngo Wanto, d'où connais tu lɔngɔ //
-1	mɛ́	mɛ́	PRON	PERS	_	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=295635|WordAlignmentEnd=295867
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=295635|WordAlignmentEnd=295867
 2	BHa-ʔiŋ	ʔiŋ	VERB	V	_	_	_	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=2|RX=[V]|WordAlignmentBegin=295867|WordAlignmentEnd=296099
 3	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	_	_	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=3|RX=[NPR]|WordAlignmentBegin=296099|WordAlignmentEnd=296331
 4	wàntò	wàntò	PROPN	NPR	_	_	_	_	GE=wàntò|Gloss=wàntò|MGloss=wàntò|MSeg=wàntò|nWord=4|RX=[NPR]|WordAlignmentBegin=296331|WordAlignmentEnd=296563
-5	mɛ́	mɛ́	PRON	PERS	_	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=296563|WordAlignmentEnd=296795
+5	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=296563|WordAlignmentEnd=296795
 6	BHa-ʔiŋ	ʔiŋ	VERB	V	_	_	_	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=6|RX=[V]|WordAlignmentBegin=296795|WordAlignmentEnd=297027
 7	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	_	_	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=7|RX=[NPR]|WordAlignmentBegin=297027|WordAlignmentEnd=297259
 8	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	GE=par|Gloss=par|MGloss=par|MSeg=nɛ̀|nWord=8|RX=[FCT]|WordAlignmentBegin=297259|WordAlignmentEnd=297491
@@ -1356,11 +1356,11 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ wàntò mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ nɛ̀ díì
 # text_en = tu connaîs lɔngo Wanto, d'où connais tu lɔngɔ //
-1	mɛ́	mɛ́	PRON	PERS	_	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=297726|WordAlignmentEnd=297974
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=297726|WordAlignmentEnd=297974
 2	BHa-ʔiŋ	ʔiŋ	VERB	V	_	_	_	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=2|RX=[V]|WordAlignmentBegin=297974|WordAlignmentEnd=298222
 3	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	_	_	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=3|RX=[NPR]|WordAlignmentBegin=298222|WordAlignmentEnd=298470
 4	wàntò	wàntò	PROPN	NPR	_	_	_	_	GE=wàntò|Gloss=wàntò|MGloss=wàntò|MSeg=wàntò|nWord=4|RX=[NPR]|WordAlignmentBegin=298470|WordAlignmentEnd=298718
-5	mɛ́	mɛ́	PRON	PERS	_	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=298718|WordAlignmentEnd=298966
+5	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=298718|WordAlignmentEnd=298966
 6	BHa-ʔiŋ	ʔiŋ	VERB	V	_	_	_	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=6|RX=[V]|WordAlignmentBegin=298966|WordAlignmentEnd=299214
 7	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	_	_	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=7|RX=[NPR]|WordAlignmentBegin=299214|WordAlignmentEnd=299462
 8	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	GE=par|Gloss=par|MGloss=par|MSeg=nɛ̀|nWord=8|RX=[FCT]|WordAlignmentBegin=299462|WordAlignmentEnd=299710
@@ -1386,11 +1386,11 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ wàntò mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ nɛ̀ díì
 # text_en = tu connaîs lɔngo Wanto, d'où connais tu lɔngɔ //
-1	mɛ́	mɛ́	PRON	PERS	_	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=302272|WordAlignmentEnd=302496
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=302272|WordAlignmentEnd=302496
 2	BHa-ʔiŋ	ʔiŋ	VERB	V	_	_	_	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=2|RX=[V]|WordAlignmentBegin=302496|WordAlignmentEnd=302720
 3	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	_	_	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=3|RX=[NPR]|WordAlignmentBegin=302720|WordAlignmentEnd=302944
 4	wàntò	wàntò	PROPN	NPR	_	_	_	_	GE=wàntò|Gloss=wàntò|MGloss=wàntò|MSeg=wàntò|nWord=4|RX=[NPR]|WordAlignmentBegin=302944|WordAlignmentEnd=303168
-5	mɛ́	mɛ́	PRON	PERS	_	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=303168|WordAlignmentEnd=303392
+5	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=303168|WordAlignmentEnd=303392
 6	BHa-ʔiŋ	ʔiŋ	VERB	V	_	_	_	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=6|RX=[V]|WordAlignmentBegin=303392|WordAlignmentEnd=303616
 7	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	_	_	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=7|RX=[NPR]|WordAlignmentBegin=303616|WordAlignmentEnd=303840
 8	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	GE=par|Gloss=par|MGloss=par|MSeg=nɛ̀|nWord=8|RX=[FCT]|WordAlignmentBegin=303840|WordAlignmentEnd=304064
@@ -1401,11 +1401,11 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ wàntò mɛ́ BHa-ʔiŋ ʔìŋàlɔ́ngɔ́ nɛ̀ díì
 # text_en = tu connaîs lɔngo Wanto, d'où connais tu lɔngɔ //
-1	mɛ́	mɛ́	PRON	PERS	_	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=304284|WordAlignmentEnd=304534
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=304284|WordAlignmentEnd=304534
 2	BHa-ʔiŋ	ʔiŋ	VERB	V	_	_	_	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=2|RX=[V]|WordAlignmentBegin=304534|WordAlignmentEnd=304784
 3	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	_	_	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=3|RX=[NPR]|WordAlignmentBegin=304784|WordAlignmentEnd=305034
 4	wàntò	wàntò	PROPN	NPR	_	_	_	_	GE=wàntò|Gloss=wàntò|MGloss=wàntò|MSeg=wàntò|nWord=4|RX=[NPR]|WordAlignmentBegin=305034|WordAlignmentEnd=305284
-5	mɛ́	mɛ́	PRON	PERS	_	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=305284|WordAlignmentEnd=305534
+5	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	_	_	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=5|RX=[PERS]|WordAlignmentBegin=305284|WordAlignmentEnd=305534
 6	BHa-ʔiŋ	ʔiŋ	VERB	V	_	_	_	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=6|RX=[V]|WordAlignmentBegin=305534|WordAlignmentEnd=305784
 7	ʔìŋàlɔ́ngɔ́	ʔìŋàlɔ́ngɔ́	PROPN	NPR	_	_	_	_	GE=ʔìŋàlɔ́ngɔ́|Gloss=ʔìŋàlɔ́ngɔ́|MGloss=ʔìŋàlɔ́ngɔ́|MSeg=ʔìŋàlɔ́ngɔ́|nWord=7|RX=[NPR]|WordAlignmentBegin=305784|WordAlignmentEnd=306034
 8	nɛ̀	nɛ̀	ADP	FCT	_	_	_	_	GE=par|Gloss=par|MGloss=par|MSeg=nɛ̀|nWord=8|RX=[FCT]|WordAlignmentBegin=306034|WordAlignmentEnd=306284
@@ -1467,7 +1467,7 @@
 12	tɛ̀	tɛ̀	ADP	N	_	2	mod	_	GE=chez|Gloss=chez|MGloss=chez|MSeg=tɛ̀|nWord=6|RX=[PREP]|WordAlignmentBegin=319584|WordAlignmentEnd=320064
 13	nɔ́kɔ́	nɔ́kɔ́	NOUN	N	_	12	comp	_	GE=oncle_utérin|Gloss=oncle_utérin|MGloss=oncle_utérin|MSeg=nɔ́kɔ́|nWord=6|RX=[N]|WordAlignmentBegin=319584|WordAlignmentEnd=320064
 14	kɔ́	kɔ́	ADP	FCT	_	13	udep	_	GE=de|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=7|RX=[FCT]|WordAlignmentBegin=320064|WordAlignmentEnd=320304
-15	wà	wà	PRON	PERS	_	14	comp	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=8|RX=[PERS]|WordAlignmentBegin=320304|WordAlignmentEnd=320545
+15	wà	wà	PRON	PERS	Number=Plur|Person=3	14	comp	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=8|RX=[PERS]|WordAlignmentBegin=320304|WordAlignmentEnd=320545
 
 # sent_id = GYA_PRD_NARR_T35-C301_106-107a
 # speaker_id = @SP
@@ -1492,7 +1492,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = sá nɛ́ mà wí sàɗì nɛ̀ H-duk hɔ̰́gɔ̰́
 # text_en = mais mes herbes [...], une sorte d'animal dont mon oncle de m'a pas dit le nom restait comme ça et m'a poursuivi sur le chemin du retour comme ça //
-1	sá	sá	_	MN	_	2	cc	_	GE=[mais]|Gloss=mais|MGloss=mais|MSeg=sá|nWord=13|RX=[COORD]|WordAlignmentBegin=324943|WordAlignmentEnd=325304
+1	sá	sá	CCONJ	MN	_	2	cc	_	GE=[mais]|Gloss=mais|MGloss=mais|MSeg=sá|nWord=13|RX=[COORD]|WordAlignmentBegin=324943|WordAlignmentEnd=325304
 2	nɛ́	nɛ́	MN	MN	_	0	root	_	GE=[ETRE-ESS]|Gloss=ETRE-ESS|MGloss=ETRE-ESS|MSeg=nɛ́|nWord=13|RX=[PRED]|WordAlignmentBegin=324943|WordAlignmentEnd=325304
 3	mà	mà	DET	MN	_	4	det	_	GE=[INDF]|Gloss=INDF|MGloss=INDF|MSeg=mà|nWord=13|RX=[MN]|WordAlignmentBegin=324943|WordAlignmentEnd=325304
 4	wí	wí	NOUN	N	_	2	comp:pred	_	GE=individu|Gloss=individu|MGloss=individu|MSeg=wí|nWord=14|RX=[N]|WordAlignmentBegin=325304|WordAlignmentEnd=325665
@@ -1517,7 +1517,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text_en = Non, entre là dedans, entre dans ce panier à poules //
 1	ʔàà	ʔàà	INTERJ	INTERJ	_	3	mod	_	GE=non|Gloss=non|MGloss=non|MSeg=ʔàà|nWord=1|RX=[INTERJ]|WordAlignmentBegin=330352|WordAlignmentEnd=330742
-2	mɛ́-B	mɛ́	PRON	PERS	_	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=2|RX=[PERS]|WordAlignmentBegin=330742|WordAlignmentEnd=331132
+2	mɛ́-B	mɛ́	PRON	PERS	Number=Sing|Person=2	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=2|RX=[PERS]|WordAlignmentBegin=330742|WordAlignmentEnd=331132
 3	H-ye	ye	VERB	V	_	0	root	_	GE=entrer|Gloss=entrer|MGloss=INJ-INAC--entrer|MSeg=H-ye|nWord=3|RX=[V]|WordAlignmentBegin=331132|WordAlignmentEnd=331522
 4	kɔ́	kɔ̀	ADP	FCT	_	3	mod	_	GE=à_l'intérieur|Gloss=à_l'intérieur|MGloss=à_l'intérieur-mt|MSeg=kɔ́-H|nWord=4|RX=[FCT]|WordAlignmentBegin=331522|WordAlignmentEnd=331912
 5	mɔ̀	mɔ̀	NOUN	MOD	_	4	comp	_	GE=[chose]|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=4|RX=[N]|WordAlignmentBegin=331717|WordAlignmentEnd=331912
@@ -1531,7 +1531,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́-B H-ye kɔ̀ gɛ̀sɛ̀ kɔ̀rá
 # text_en = entre dans ce panier à poules //
-1	mɛ́-B	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=1|RX=[PERS]|WordAlignmentBegin=333863|WordAlignmentEnd=334256
+1	mɛ́-B	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=1|RX=[PERS]|WordAlignmentBegin=333863|WordAlignmentEnd=334256
 2	H-ye	ye	VERB	V	_	0	root	_	GE=entrer|Gloss=entrer|MGloss=INJ-INAC--entrer|MSeg=H-ye|nWord=2|RX=[V]|WordAlignmentBegin=334256|WordAlignmentEnd=334649
 3	kɔ̀	kɔ̀	ADP	FCT	_	2	mod	_	GE=à_l'intérieur|Gloss=à_l'intérieur|MGloss=à_l'intérieur--MT|MSeg=kɔ̀-H|nWord=3|RX=[FCT]|WordAlignmentBegin=334649|WordAlignmentEnd=335042
 4	gɛ̀sɛ̀	gɛ̀sɛ̀	NOUN	N	_	3	comp	_	GE=gɛ̀sɛ̀|Gloss=gɛ̀sɛ̀|MGloss=gɛ̀sɛ̀--MT|MSeg=gɛ̀sɛ̀-H|nWord=4|RX=[N]|WordAlignmentBegin=335042|WordAlignmentEnd=335435
@@ -1583,10 +1583,10 @@
 1	ʔèè	ʔèè	CCONJ	COORD	_	5	cc	_	GE=puis|Gloss=puis|MGloss=puis--MT|MSeg=ʔèè-H|nWord=10|RX=[COORD]|WordAlignmentBegin=341886|WordAlignmentEnd=342197
 2	nɛ̀	nɛ̀	CCONJ	COORD	_	5	cc	_	GE=et_ainsi|Gloss=et_ainsi|MGloss=et_ainsi|MSeg=nɛ̀|nWord=11|RX=[COORD]|WordAlignmentBegin=342197|WordAlignmentEnd=342508
 3	wàntò	wàntò	PROPN	NPR	_	5	vocative	_	GE=wàntò|Gloss=wàntò|MGloss=wàntò|MSeg=wàntò|nWord=12|RX=[NPR]|WordAlignmentBegin=342508|WordAlignmentEnd=342819
-4	mɛ́-B	mɛ́	PRON	PERS	_	5	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=13|RX=[PERS]|WordAlignmentBegin=342819|WordAlignmentEnd=343130
+4	mɛ́-B	mɛ́	PRON	PERS	Number=Sing|Person=2	5	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=13|RX=[PERS]|WordAlignmentBegin=342819|WordAlignmentEnd=343130
 5	H-bei	bei	VERB	V	_	0	root	_	GE=chanter|Gloss=chanter|MGloss=INJ-INAC--chanter|MSeg=H-bei|nWord=14|RX=[V]|WordAlignmentBegin=343130|WordAlignmentEnd=343441
 6	kɔ́	kɔ́	ADP	FCT	_	5	mod	_	GE=quant_à|Gloss=quant_à|MGloss=quant_à|MSeg=kɔ́|nWord=15|RX=[FCT]|WordAlignmentBegin=343441|WordAlignmentEnd=343595
-7	mɛ́	mɛ́	PRON	PERS	_	6	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=15|RX=[PERS]|WordAlignmentBegin=343595|WordAlignmentEnd=343750
+7	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	6	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=15|RX=[PERS]|WordAlignmentBegin=343595|WordAlignmentEnd=343750
 
 # sent_id = GYA_PRD_NARR_T35-C301_114-114a
 # speaker_id = @SP
@@ -1594,7 +1594,7 @@
 # text = ʔèè mɛ́-B H-duk tí
 # text_en = et place toi devant //
 1	ʔèè	ʔèè	CCONJ	COORD	_	3	cc	_	GE=puis|Gloss=puis|MGloss=puis--MT|MSeg=ʔèè-H|nWord=1|RX=[COORD]|WordAlignmentBegin=343750|WordAlignmentEnd=343963
-2	mɛ́-B	mɛ́	PRON	PERS	_	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=2|RX=[PERS]|WordAlignmentBegin=343963|WordAlignmentEnd=344176
+2	mɛ́-B	mɛ́	PRON	PERS	Number=Sing|Person=2	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=2|RX=[PERS]|WordAlignmentBegin=343963|WordAlignmentEnd=344176
 3	H-duk	duk	VERB	V	_	0	root	_	GE=rester|Gloss=rester|MGloss=INJ-INAC--rester|MSeg=H-duk|nWord=3|RX=[V]|WordAlignmentBegin=344176|WordAlignmentEnd=344389
 4	tí	tí	ADV	ADV	_	3	mod	_	GE=devant|Gloss=devant|MGloss=devant|MSeg=tí|nWord=4|RX=[ADV]|WordAlignmentBegin=344389|WordAlignmentEnd=344602
 
@@ -1606,7 +1606,7 @@
 1	mɛ̀-B	mɛ̀	ADV	ADV	_	2	subj	_	GE=là-bas|Gloss=là-bas|MGloss=là-bas-INJ|MSeg=mɛ̀-B|nWord=5|RX=[ADV]|WordAlignmentBegin=344602|WordAlignmentEnd=344921
 2	H-tɔ̰	tɔ̰	VERB	V	_	0	root	_	GE=parler|Gloss=parler|MGloss=IMP-INAC--parler|MSeg=H-tɔ̰|nWord=6|RX=[V]|WordAlignmentBegin=344815|WordAlignmentEnd=345028
 3	kɔ́	kɔ́	ADP	FCT	_	2	mod	_	GE=quant_à|Gloss=quant_à|MGloss=quant_à|MSeg=kɔ́|nWord=7|RX=[FCT]|WordAlignmentBegin=345028|WordAlignmentEnd=345134
-4	mɛ́	mɛ́	PRON	PERS	_	3	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=7|RX=[PERS]|WordAlignmentBegin=345134|WordAlignmentEnd=345241
+4	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	3	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=7|RX=[PERS]|WordAlignmentBegin=345134|WordAlignmentEnd=345241
 5	ŋɔ́n	ŋɔ́n	ADV	ADV	_	2	mod	_	GE=plus_fort|Gloss=plus_fort|MGloss=plus_fort|MSeg=ŋɔ́n|nWord=8|RX=[ADV]|WordAlignmentBegin=345241|WordAlignmentEnd=345454
 
 # sent_id = GYA_PRD_NARR_T35-C301_115-115a
@@ -1626,7 +1626,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́-B H-hiɗi mɔ̀ ʔé
 # text_en = crie déjà //
-1	mɛ́-B	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=8|RX=[PERS]|WordAlignmentBegin=346931|WordAlignmentEnd=347142
+1	mɛ́-B	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=8|RX=[PERS]|WordAlignmentBegin=346931|WordAlignmentEnd=347142
 2	H-hiɗi	hiɗi	VERB	V	_	0	root	_	GE=hurler|Gloss=hurler|MGloss=INJ-INAC--hurler|MSeg=H-hiɗi|nWord=9|RX=[V]|WordAlignmentBegin=347142|WordAlignmentEnd=347353
 3	mɔ̀	mɔ̀	NOUN	N	_	2	comp:obj	_	GE=chose|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=10|RX=[N]|WordAlignmentBegin=347353|WordAlignmentEnd=347564
 4	ʔé	ʔé	ADV	ADV	_	2	mod	_	GE=déjà|Gloss=déjà|MGloss=déjà|MSeg=ʔé|nWord=11|RX=[ADV]|WordAlignmentBegin=347564|WordAlignmentEnd=347772
@@ -1657,7 +1657,7 @@
 # text_en = mon oncle, mon oncl, il va m'attraper, c'est pas croyable! //
 1	ʔó	ʔó	DET	MN	_	2	det	_	GE=[POL]|Gloss=POL|MGloss=POL|MSeg=ʔó|nWord=2|RX=[MN]|WordAlignmentBegin=349983|WordAlignmentEnd=350616
 2	nɔ́kɔ́	nɔ́kɔ́	NOUN	N	_	5	vocative	_	GE=oncle_utérin|Gloss=oncle_utérin|MGloss=oncle_utérin|MSeg=nɔ́kɔ́|nWord=3|RX=[N]|WordAlignmentBegin=350616|WordAlignmentEnd=351249
-3	ʔà̰	ʔà̰	PRON	PERS	_	5	subj	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=4|RX=[PERS]|WordAlignmentBegin=351249|WordAlignmentEnd=351565
+3	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	5	subj	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=4|RX=[PERS]|WordAlignmentBegin=351249|WordAlignmentEnd=351565
 4	tɛ́-B	tɛ́-B	AUX	PERS	_	5	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAc|MGloss=VIRT-INAc|MSeg=tɛ́-B|nWord=4|RX=[MV]|WordAlignmentBegin=351249|WordAlignmentEnd=351565
 5	bà-ám	ba	VERB	PERS	_	0	root	_	GE=[prendre]|Gloss=prendre|MGloss=prendre-1SG|MSeg=bà-ám|nWord=4|RX=[V]|WordAlignmentBegin=351249|WordAlignmentEnd=351565
 6	mbè	mbè	PERS	PERS	_	5	discourse	_	GE=[étonnant]|Gloss=étonnant|MGloss=étonnant|MSeg=mbè|nWord=4|RX=[MOD]|WordAlignmentBegin=351249|WordAlignmentEnd=351565
@@ -1676,7 +1676,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔà̰ tɛ́-B ba-ám
 # text_en = il va m'attraper.//
-1	ʔà̰	ʔà̰	PRON	PERS	_	3	subj	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=7|RX=[PERS]|WordAlignmentBegin=353148|WordAlignmentEnd=353781
+1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=7|RX=[PERS]|WordAlignmentBegin=353148|WordAlignmentEnd=353781
 2	tɛ́-B	tɛ́-B	AUX	MV	_	3	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAC|MGloss=VIRT-INAC|MSeg=tɛ́-B|nWord=8|RX=[MV]|WordAlignmentBegin=353781|WordAlignmentEnd=353992
 3	ba-ám	ba	VERB	V	_	0	root	_	GE=prendre|Gloss=prendre|MGloss=prendre--1SG|MSeg=ba-ám|nWord=8|RX=[V]|WordAlignmentBegin=353992|WordAlignmentEnd=354414
 
@@ -1688,7 +1688,7 @@
 1	ʔó	ʔó	DET	MN	_	2	det	_	GE=[POL]|Gloss=POL|MGloss=POL|MSeg=ʔó|nWord=9|RX=[MN]|WordAlignmentBegin=354414|WordAlignmentEnd=355047
 2	nɔ́kɔ́	nɔ́kɔ́	NOUN	N	_	6	vocative	_	GE=oncle_utérin|Gloss=oncle_utérin|MGloss=oncle_utérin|MSeg=nɔ́kɔ́|nWord=10|RX=[N]|WordAlignmentBegin=355047|WordAlignmentEnd=355680
 3	kínɛ̀	kínɛ̀	ADV	ADV	_	6	mod	_	GE=maintenant|Gloss=maintenant|MGloss=maintenant|MSeg=kínɛ̀|nWord=11|RX=[ADV]|WordAlignmentBegin=355680|WordAlignmentEnd=356313
-4	ʔà̰	ʔà̰	PRON	PERS	_	6	subj	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=12|RX=[PERS]|WordAlignmentBegin=356313|WordAlignmentEnd=356946
+4	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	6	subj	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=12|RX=[PERS]|WordAlignmentBegin=356313|WordAlignmentEnd=356946
 5	tɛ́-B	tɛ́-B	AUX	MV	_	6	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAC|MGloss=VIRT-INAC|MSeg=tɛ́-B|nWord=13|RX=[MV]|WordAlignmentBegin=356946|WordAlignmentEnd=357157
 6	ba-ám	ba	VERB	V	_	0	root	_	GE=prendre|Gloss=prendre|MGloss=prendre--1SG|MSeg=ba-ám|nWord=13|RX=[V]|WordAlignmentBegin=357157|WordAlignmentEnd=357579
 
@@ -1697,7 +1697,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔà̰ tɛ́-B ba-ám
 # text_en = il va m'attraper // ʔìŋàlɔ́ngɔ́ est sur le point de tuer //
-1	ʔà̰	ʔà̰	PRON	PERS	_	3	subj	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=14|RX=[PERS]|WordAlignmentBegin=357579|WordAlignmentEnd=358212
+1	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	3	subj	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=14|RX=[PERS]|WordAlignmentBegin=357579|WordAlignmentEnd=358212
 2	tɛ́-B	tɛ́-B	AUX	MV	_	3	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAC|MGloss=VIRT-INAC|MSeg=tɛ́-B|nWord=15|RX=[MV]|WordAlignmentBegin=358212|WordAlignmentEnd=358425
 3	ba-ám	ba	VERB	V	_	0	root	_	GE=prendre|Gloss=prendre|MGloss=prendre--1SG|MSeg=ba-ám|nWord=15|RX=[V]|WordAlignmentBegin=358425|WordAlignmentEnd=358851
 
@@ -1754,7 +1754,7 @@
 2	sɔ̰́	sɔ̰́	MOD	MOD	_	1	mod	_	GE=[REV]|Gloss=REV|MGloss=REV|MSeg=sɔ̰́|nWord=8|RX=[MOD]|WordAlignmentBegin=371741|WordAlignmentEnd=372048
 3	wà	wà	PRON	PERS	_	1	comp	_	GE=[3POL]|Gloss=3POL|MGloss=3POL|MSeg=wà|nWord=9|RX=[PERS]|WordAlignmentBegin=372048|WordAlignmentEnd=372355
 4	ná	ná	MV	MV	_	1	mod	_	GE=[NEG]|Gloss=NEG|MGloss=NEG|MSeg=ná|nWord=10|RX=[MV]|WordAlignmentBegin=372355|WordAlignmentEnd=372662
-5	ʔám	ʔám	PRON	PERS	_	7	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=11|RX=[PERS]|WordAlignmentBegin=372662|WordAlignmentEnd=372969
+5	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1	7	subj	_	GE=[1SG]|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=11|RX=[PERS]|WordAlignmentBegin=372662|WordAlignmentEnd=372969
 6	tɛ̀ɛ́-B	tɛ̀ɛ́-B	AUX	MV	_	7	aux	_	GE=[VIRT-ACC]|Gloss=VIRT-ACC|MGloss=VIRT-ACC|MSeg=tɛ̀ɛ́-B|nWord=12|RX=[MV]|WordAlignmentBegin=372969|WordAlignmentEnd=373123
 7	ʔiŋ	ʔiŋ	VERB	V	_	0	root	_	GE=savoir|Gloss=savoir|MGloss=savoir|MSeg=ʔiŋ|nWord=12|RX=[V]|WordAlignmentBegin=373123|WordAlignmentEnd=373276
 8	ngbák	ngbák	ADV	ADV	_	7	mod	_	GE=véritablement|Gloss=véritablement|MGloss=véritablement|MSeg=ngbák|nWord=13|RX=[ADV]|WordAlignmentBegin=373276|WordAlignmentEnd=373583
@@ -1794,7 +1794,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́ BHa-ʔiŋ ndàyà mɔ̀ mɔ́ hɛ̰̀ mɛ́ zɛ̀ wó
 # text_en = tu a su le fond de l'affaire ici, cette nuit.//
-1	mɛ́	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=382026|WordAlignmentEnd=382425
+1	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=1|RX=[PERS]|WordAlignmentBegin=382026|WordAlignmentEnd=382425
 2	BHa-ʔiŋ	ʔiŋ	VERB	V	_	0	root	_	GE=connaître|Gloss=connaître|MGloss=ACC--connaître--MT|MSeg=BHa-ʔiŋ-H|nWord=2|RX=[V]|WordAlignmentBegin=382425|WordAlignmentEnd=382824
 3	ndàyà	ndàyà	NOUN	N	_	2	comp:obj	_	GE=fond|Gloss=fond|MGloss=fond--MT|MSeg=ndàyà-H|nWord=3|RX=[N]|WordAlignmentBegin=382824|WordAlignmentEnd=383223
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp	_	GE=chose|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=4|RX=[N]|WordAlignmentBegin=383223|WordAlignmentEnd=383622
@@ -1814,13 +1814,13 @@
 3	hɛ̰̀	hɛ̰̀	ADV	ADV	_	2	mod	_	GE=ici|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=3|RX=[ADV]|WordAlignmentBegin=386215|WordAlignmentEnd=386512
 4	nɛ̀	nɛ̀	SUB	SUB	_	2	comp@relcl	_	GE=[REL]|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=4|RX=[SUB]|WordAlignmentBegin=386512|WordAlignmentEnd=386809
 5	H-tɛ	tɛ	VERB	V	_	4	comp	_	GE=venir|Gloss=venir|MGloss=INAC--venir|MSeg=H-tɛ|nWord=5|RX=[V]|WordAlignmentBegin=386809|WordAlignmentEnd=387106
-6	ʔà̰	ʔà̰	DET	PERS	_	2	det	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=6|RX=[PERS]|WordAlignmentBegin=387106|WordAlignmentEnd=387403
+6	ʔà̰	ʔà̰	DET	PERS	Number=Sing|Person=3	2	det	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=6|RX=[PERS]|WordAlignmentBegin=387106|WordAlignmentEnd=387403
 7	H-tɔ̰	tɔ̰	VERB	V	_	1	comp	_	GE=dire|Gloss=dire|MGloss=INAC--dire|MSeg=H-tɔ̰|nWord=7|RX=[V]|WordAlignmentBegin=387403|WordAlignmentEnd=387700
 8	ndàyà-H-à	ndàyà	NOUN	N	_	7	comp:obj	_	GE=fond|Gloss=fond|MGloss=fond--MT--DEF|MSeg=ndàyà-H-à|nWord=8|RX=[N]|WordAlignmentBegin=387700|WordAlignmentEnd=387997
 9	há̰	há̰	ADP	FCT	_	7	mod	_	GE=pour|Gloss=pour|MGloss=pour|MSeg=há̰|nWord=9|RX=[FCT]|WordAlignmentBegin=387997|WordAlignmentEnd=388145
-10	mɛ́	mɛ́	PRON	PERS	_	9	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=9|RX=[PERS]|WordAlignmentBegin=388145|WordAlignmentEnd=388294
+10	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	9	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=9|RX=[PERS]|WordAlignmentBegin=388145|WordAlignmentEnd=388294
 11	sɛ́kà	sɛ́kà	SUB	SUB	_	13	cc	_	GE=de_telle_sorte_que|Gloss=de_telle_sorte_que|MGloss=de_telle_sorte_que|MSeg=sɛ́kà|nWord=10|RX=[SUB]|WordAlignmentBegin=388294|WordAlignmentEnd=388393
-12	mɛ́-B	mɛ́	PRON	PERS	_	13	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=10|RX=[PERS]|WordAlignmentBegin=388393|WordAlignmentEnd=388591
+12	mɛ́-B	mɛ́	PRON	PERS	Number=Sing|Person=2	13	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=10|RX=[PERS]|WordAlignmentBegin=388393|WordAlignmentEnd=388591
 13	H-dɛ	dɛ	VERB	V	_	0	root	_	GE=faire|Gloss=faire|MGloss=INJ-INAC--faire|MSeg=H-dɛ|nWord=11|RX=[V]|WordAlignmentBegin=388591|WordAlignmentEnd=388888
 
 # sent_id = GYA_PRD_NARR_T35-C301_126-126b
@@ -1828,7 +1828,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = mɛ́-B H-dɛ nɛ̀ kɔ́mɛ́
 # text_en = tu le fais à ton tour //
-1	mɛ́-B	mɛ́	PRON	PERS	_	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=12|RX=[PERS]|WordAlignmentBegin=388888|WordAlignmentEnd=389185
+1	mɛ́-B	mɛ́	PRON	PERS	Number=Sing|Person=2	2	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG--INJ|MSeg=mɛ́-B|nWord=12|RX=[PERS]|WordAlignmentBegin=388888|WordAlignmentEnd=389185
 2	H-dɛ	dɛ	VERB	V	_	0	root	_	GE=faire|Gloss=faire|MGloss=INJ-INAC--faire|MSeg=H-dɛ|nWord=13|RX=[V]|WordAlignmentBegin=389185|WordAlignmentEnd=389482
 3	nɛ̀	nɛ̀	ADP	FCT	_	2	mod	_	GE=comme|Gloss=comme|MGloss=comme|MSeg=nɛ̀|nWord=14|RX=[FCT]|WordAlignmentBegin=389482|WordAlignmentEnd=389779
 4	kɔ́mɛ́	kɔ́mɛ́	PRON	PRO	_	2	comp:obj	_	GE=[POSS]|Gloss=POSS|MGloss=POSS|MSeg=kɔ́mɛ́|nWord=15|RX=[PRO]|WordAlignmentBegin=389779|WordAlignmentEnd=390081
@@ -1839,10 +1839,10 @@
 # text = wòóyèé mɛ́ H-dɛ kɔ́ mɛ́
 # text_en = Non! tu agis toi //
 1	wòóyèé	wòóyèé	ADV	ADV	_	3	mod	_	GE=non|Gloss=non|MGloss=non|MSeg=wòóyèé|nWord=1|RX=[ADV]|WordAlignmentBegin=390081|WordAlignmentEnd=390422
-2	mɛ́	mɛ́	PRON	PERS	_	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=2|RX=[PERS]|WordAlignmentBegin=390422|WordAlignmentEnd=390763
+2	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=2|RX=[PERS]|WordAlignmentBegin=390422|WordAlignmentEnd=390763
 3	H-dɛ	dɛ	VERB	V	_	0	root	_	GE=faire|Gloss=faire|MGloss=INAC--faire|MSeg=H-dɛ|nWord=3|RX=[V]|WordAlignmentBegin=390763|WordAlignmentEnd=391104
 4	kɔ́	kɔ́	ADP	FCT	_	3	mod	_	GE=quant_à|Gloss=quant_à|MGloss=quant_à|MSeg=kɔ́|nWord=4|RX=[FCT]|WordAlignmentBegin=391104|WordAlignmentEnd=391274
-5	mɛ́	mɛ́	PRON	PERS	_	4	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=4|RX=[PERS]|WordAlignmentBegin=391274|WordAlignmentEnd=391445
+5	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	4	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=4|RX=[PERS]|WordAlignmentBegin=391274|WordAlignmentEnd=391445
 
 # sent_id = GYA_PRD_NARR_T35-C301_127-127b
 # text = hèè ʔò BHa-tɔ̰ ndàyà há̰ mɛ́ ʔò mɛ́-B dɛ mɔ̀
@@ -1854,7 +1854,7 @@
 3	BHa-tɔ̰	tɔ̰	VERB	V	_	0	root	_	GE=dire|Gloss=dire|MGloss=ACC--dire--MT|MSeg=BHa-tɔ̰-H|nWord=7|RX=[V]|WordAlignmentBegin=392127|WordAlignmentEnd=392468
 4	ndàyà	ndàyà	NOUN	N	_	3	comp:obj	_	GE=fond|Gloss=fond|MGloss=fond|MSeg=ndàyà|nWord=8|RX=[N]|WordAlignmentBegin=392468|WordAlignmentEnd=392809
 5	há̰	há̰	SUB	SUB	_	3	mod	_	GE=pour_que|Gloss=pour_que|MGloss=pour_que|MSeg=há̰|nWord=9|RX=[SUB]|WordAlignmentBegin=392809|WordAlignmentEnd=392979
-6	mɛ́	mɛ́	PRON	PERS	_	5	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=9|RX=[PERS]|WordAlignmentBegin=392979|WordAlignmentEnd=393150
+6	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	5	comp	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=9|RX=[PERS]|WordAlignmentBegin=392979|WordAlignmentEnd=393150
 7	ʔò	ʔò	INTERR	INTERR	_	3	subj:redup	_	GE=qui|Gloss=qui|MGloss=qui|MSeg=ʔò|nWord=10|RX=[INTERR]|WordAlignmentBegin=393150|WordAlignmentEnd=393491
 8	mɛ́-B	mɛ́-B	AUX	MV	_	9	aux	_	GE=[INF-VIRTUEL]|Gloss=INF-VIRTUEL|MGloss=INF-VIRTUEL|MSeg=mɛ́-B|nWord=11|RX=[MV]|WordAlignmentBegin=393491|WordAlignmentEnd=393661
 9	dɛ	dɛ	VERB	V	_	3	compound:svc	_	GE=faire|Gloss=faire|MGloss=faire|MSeg=dɛ|nWord=11|RX=[V]|WordAlignmentBegin=393661|WordAlignmentEnd=393832
@@ -1866,7 +1866,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text_en = alors tu l'as fait.//
 1	ká	ká	CCONJ	COORD	_	3	cc	_	GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=13|RX=[COORD]|WordAlignmentBegin=394173|WordAlignmentEnd=394343
-2	mɛ́	mɛ́	PRON	PERS	_	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=13|RX=[PERS]|WordAlignmentBegin=394343|WordAlignmentEnd=394514
+2	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2	3	subj	_	GE=[2SG]|Gloss=2SG|MGloss=2SG|MSeg=mɛ́|nWord=13|RX=[PERS]|WordAlignmentBegin=394343|WordAlignmentEnd=394514
 3	BHa-dɛ	dɛ	VERB	V	_	0	root	_	GE=faire|Gloss=faire|MGloss=ACC--faire|MSeg=BHa-dɛ|nWord=14|RX=[V]|WordAlignmentBegin=394514|WordAlignmentEnd=394856
 
 # sent_id = GYA_PRD_NARR_T35-C301_128-128

@@ -1906,7 +1906,7 @@
 # sent_id = GYA_PRD_NARR_04_Louis_175-175_split2
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = há̰ mí dɛ̀ hɔ̰́gɔ̰́ mɩ́ kàm dɛ́ hɔ̰́gɔ̰́ ɓɔ̀ kám ʔèé H bɔ̀ndɛ̀ zù kóò kɔ̰́à̰
+# text = há̰ mí dɛ̀ hɔ̰́gɔ̰́ mɩ́ kàm dɛ́ hɔ̰́gɔ̰́ ɓɔ̀ kám ʔèé -H bɔ̀ndɛ̀ zù kóò kɔ̰́à̰
 # text_phonetic = há̰ mí dɛ̀ hɔ̰́gɔ̰́ / mí kàm dɛ́ hɔ̰́gɔ̰́ ɓɔ̀ / kám ʔèé bɔ̀ndɛ̀ zù kóò kɔ̰́à̰ //
 # text_fr = Et je me suis dit que si je faisais cela à mon tour, je ferais porter toute la souffrance sur sa femme §
 1	há̰	há̰	SCONJ	SUBORD	_	16	mod	_	GE=in_order_to|Gloss=in_order_to|nWord=5|RX=[SUBORD]|WordAlignmentBegin=248485|WordAlignmentEnd=248646
@@ -1920,7 +1920,7 @@
 7	kà	kà	SCONJ	SUBORD	_	16	mod	_	GE=when|Gloss=when|nWord=12|RX=[SUBORD]|WordAlignmentBegin=249612|WordAlignmentEnd=249692
 8	-ám	_	PRON	PRO.PERS	Number=Sing|Person=1|PronType=Prs	10	subj	_	GE=[1SG]|Gloss=-1SG|nWord=12|RX=[PRO].[PERS]|WordAlignmentBegin=249692|WordAlignmentEnd=249773
 9-10	dɛ́	_	_	_	_	_	_	_	_
-9	H	H	AUX	TAM	_	10	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=13|RX=[TAM]|WordAlignmentBegin=249773|WordAlignmentEnd=249853
+9	H-	H-	AUX	TAM	_	10	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=13|RX=[TAM]|WordAlignmentBegin=249773|WordAlignmentEnd=249853
 10	dɛ	dɛ	VERB	V	_	7	comp	_	GE=do|Gloss=do|nWord=13|RX=[V]|WordAlignmentBegin=249853|WordAlignmentEnd=249934
 11	hɔ̰́gɔ̰́	hɔ̰́gɔ̰́	ADV	ADV	_	10	mod	_	GE=like_this|Gloss=like_this|nWord=14|RX=[ADV]|WordAlignmentBegin=249934|WordAlignmentEnd=250095
 12	ɓɔ̀	ɓɔ̀	ADV	ADV	_	10	mod	_	GE=once_again|Gloss=once_again|nWord=15|RX=[ADV]|WordAlignmentBegin=250095|WordAlignmentEnd=250256
@@ -1930,7 +1930,7 @@
 15-16	ʔèé	_	_	_	_	_	_	_	_
 15	BHa	BHa	AUX	TAM	_	16	aux	_	GE=[PFV]|Gloss=PFV|nWord=18|RX=[TAM]|WordAlignmentBegin=250578|WordAlignmentEnd=250632
 16	ʔe	ʔe	VERB	V	_	0	root	_	GE=mettre|Gloss=mettre|nWord=18|RX=[V]|WordAlignmentBegin=250632|WordAlignmentEnd=250686
-17	H	H	X	MODY	_	16	aff	_	GE=[TM]|Gloss=TM|nWord=18|RX=[MODY]|WordAlignmentBegin=250686|WordAlignmentEnd=250739
+17	-H	-H	X	MODY	_	16	aff	_	GE=[TM]|Gloss=TM|nWord=18|RX=[MODY]|WordAlignmentBegin=250686|WordAlignmentEnd=250739
 18	bɔ̀ndɛ̀	bɔ̀ndɛ̀	NOUN	N	_	16	comp:obj	_	GE=misfortune|Gloss=misfortune|nWord=19|RX=[N]|WordAlignmentBegin=250739|WordAlignmentEnd=250900
 19	zù	zù	ADP	PREP	_	16	comp:obl	_	GE=top|Gloss=top|nWord=20|RX=[PREP]|WordAlignmentBegin=250900|WordAlignmentEnd=251061
 20	kóò	kóò	NOUN	N	_	19	comp	_	GE=wife|Gloss=wife|nWord=21|RX=[N]|WordAlignmentBegin=251061|WordAlignmentEnd=251222
@@ -1969,7 +1969,7 @@
 # sent_id = GYA_PRD_NARR_04_Louis_176-181_split2_split2_split1
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = wà -H nɛ̀ wà -H BHa kai -yɛ́ɛ́ ʔé -ìí -H ba dárò -H gèɗà ʔîn -H fùù kɔ́ -à̰ nɛ̀ wà -H BHa- ba -H ʔòé H- ba H- ʔe sèè zù -H -à
+# text = wàá  ndɔ̀wá -H  kàyàyɛ́ɛ́ -yɛ́ɛ́  ʔéìí bá dáró gèɗà ʔín fùù kɔ̰́à̰ ndɔ̀wà -H bàá -H ʔòé bá ʔé sèè zúà -à
 # text_phonetic = wàá  ndɔ̀wá  kàyàyɛ́ɛ́  ʔéìí / bá dáró gèɗà ʔín fùù kɔ̰́à̰ ndɔ̀wà bàá ʔòé / bá ʔé sèè zúà //
 # text_fr = eux qui nous ont déjà attrapés. Ils prennent les cossettes rapportées et sa farine qu'ils ont pris aussi, ils les lui font porter sur la tête .§
 1-2	wàá 	_	_	_	_	_	_	_	_
@@ -1987,7 +1987,7 @@
 9	ʔé	ʔé	ADV	ADV	_	7	mod	_	GE=already|Gloss=already|nWord=14|RX=[ADV]|WordAlignmentBegin=254625|WordAlignmentEnd=254736
 10	-ìí	_	DET	MODY	_	9	det	_	GE=[ANAPH]|Gloss=ANAPH|nWord=14|RX=[MODY]|WordAlignmentBegin=254736|WordAlignmentEnd=254847
 11-12	bá	_	_	_	_	_	_	_	_
-11	-H	_	AUX	TAM	_	12	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=17|RX=[TAM]|WordAlignmentBegin=255500|WordAlignmentEnd=255584
+11	H-	_	AUX	TAM	_	12	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=17|RX=[TAM]|WordAlignmentBegin=255500|WordAlignmentEnd=255584
 12	ba	ba	VERB	V	_	7	conj:coord	_	GE=take|Gloss=take|nWord=17|RX=[V]|WordAlignmentBegin=255584|WordAlignmentEnd=255669
 13-14	dáró	_	_	_	_	_	_	_	_
 13	dárò	dárò	NOUN	N	_	12	comp:obj	_	GE=bowl|Gloss=bowl|nWord=18|RX=[N]|WordAlignmentBegin=255669|WordAlignmentEnd=255753
@@ -2555,24 +2555,24 @@
 # sent_id = GYA_PRD_NARR_04_Louis_213-223_split2_split2_split2_split1
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = wà H nɛ kàá
+# text = wà nɛ́ kàá
 # text_phonetic = wà nɛ́ kàá //
 # text_fr = Ils y vont encore §.
 1	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	GE=[3PL]|Gloss=3PL|nWord=35|RX=[PRO].[PERS]|WordAlignmentBegin=314160|WordAlignmentEnd=314315
 2-3	nɛ́	_	_	_	_	_	_	_	_
-2	H	H	AUX	TAM	_	3	aux	_	GE=[IMPF]|Gloss=IMPF|nWord=36|RX=[TAM]|WordAlignmentBegin=314315|WordAlignmentEnd=314393
+2	H-	H-	AUX	TAM	_	3	aux	_	GE=[IMPF]|Gloss=IMPF|nWord=36|RX=[TAM]|WordAlignmentBegin=314315|WordAlignmentEnd=314393
 3	nɛ	nɛ	VERB	V	_	0	root	_	GE=go|Gloss=go|nWord=36|RX=[V]|WordAlignmentBegin=314393|WordAlignmentEnd=314470
 4	kàá	kàá	PART	MODY	_	3	mod	_	GE=[ITER].[ADD]|Gloss=ITER.ADD|nWord=37|RX=[MODY]|WordAlignmentBegin=314470|WordAlignmentEnd=314625
 
 # sent_id = GYA_PRD_NARR_04_Louis_213-223_split2_split2_split2_split2_split1
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = wà H dɛ mɔ̀ nɛ́nɛ́
+# text = wà dɛ́ mɔ̀ nɛ́nɛ́
 # text_phonetic = wà dɛ́ mɔ̀ nɛ́nɛ́ //
 # text_fr = Ils continuent leur agissements.§
 1	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	GE=[3PL]|Gloss=3PL|nWord=39|RX=[PRO].[PERS]|WordAlignmentBegin=314780|WordAlignmentEnd=314935
 2-3	dɛ́	_	_	_	_	_	_	_	_
-2	H	H	AUX	TAM	_	3	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=40|RX=[TAM]|WordAlignmentBegin=314935|WordAlignmentEnd=315013
+2	H-	H-	AUX	TAM	_	3	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=40|RX=[TAM]|WordAlignmentBegin=314935|WordAlignmentEnd=315013
 3	dɛ	dɛ	VERB	V	_	0	root	_	GE=do|Gloss=do|nWord=40|RX=[V]|WordAlignmentBegin=315013|WordAlignmentEnd=315090
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp:obj	_	GE=thing|Gloss=thing|nWord=41|RX=[N]|WordAlignmentBegin=315090|WordAlignmentEnd=315245
 5	nɛ́nɛ́	nɛ́nɛ́	PART	VM	_	3	mod	_	GE=going|Gloss=going|nWord=42|RX=[VM]|WordAlignmentBegin=315245|WordAlignmentEnd=315400
@@ -2580,30 +2580,30 @@
 # sent_id = GYA_PRD_NARR_04_Louis_213-223_split2_split2_split2_split2_split2_split1
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = ʔèè H wà BHa pei H ɗòŋ
+# text = ʔèé wà pèá -H ɗòŋ
 # text_phonetic = ʔèé wà pèá ɗòŋ //
 # text_fr = et ils reviennent. §
 1-2	ʔèé	_	_	_	_	_	_	_	_
 1	ʔèè	ʔèè	CCONJ	COORD	_	5	cc	_	GE=and|Gloss=and|nWord=44|RX=[COORD]|WordAlignmentBegin=315555|WordAlignmentEnd=315633
-2	H	H	X	MODY	_	1	aff	_	GE=[TM]|Gloss=TM|nWord=44|RX=[MODY]|WordAlignmentBegin=315633|WordAlignmentEnd=315710
+2	-H	-H	X	MODY	_	1	aff	_	GE=[TM]|Gloss=TM|nWord=44|RX=[MODY]|WordAlignmentBegin=315633|WordAlignmentEnd=315710
 3	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	5	subj	_	GE=[3PL]|Gloss=3PL|nWord=45|RX=[PRO].[PERS]|WordAlignmentBegin=315710|WordAlignmentEnd=315865
 4-5	pèá	_	_	_	_	_	_	_	_
 4	BHa	_	AUX	TAM	_	5	aux	_	GE=[PFV]|Gloss=PFV|nWord=46|RX=[TAM]|WordAlignmentBegin=315865|WordAlignmentEnd=315917
 5	pei	pei	VERB	V	_	0	root	_	GE=come_back|Gloss=come_back|nWord=46|RX=[V]|WordAlignmentBegin=315917|WordAlignmentEnd=315969
-6	H	H	X	MODY	_	5	aff	_	GE=[TM]|Gloss=TM|nWord=46|RX=[MODY]|WordAlignmentBegin=315969|WordAlignmentEnd=316020
+6	-H	-H	X	MODY	_	5	aff	_	GE=[TM]|Gloss=TM|nWord=46|RX=[MODY]|WordAlignmentBegin=315969|WordAlignmentEnd=316020
 7	ɗòŋ	ɗòŋ	ADV	ADV	_	5	comp:obl	_	GE=back|Gloss=back|nWord=47|RX=[ADV]|WordAlignmentBegin=316020|WordAlignmentEnd=316175
 
 # sent_id = GYA_PRD_NARR_04_Louis_213-223_split2_split2_split2_split2_split2_split2_split1
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = wà BHa gusi H -à
+# text = wà gùsáà -H -à
 # text_phonetic = wà gùsáà //
 # text_fr = ils le tapent §
 1	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	GE=[3PL]|Gloss=3PL|nWord=49|RX=[PRO].[PERS]|WordAlignmentBegin=316330|WordAlignmentEnd=316485
 2-3	gùsáà	_	_	_	_	_	_	_	_
 2	BHa	_	AUX	TAM	_	3	aux	_	GE=[PFV]|Gloss=PFV|nWord=50|RX=[TAM]|WordAlignmentBegin=316485|WordAlignmentEnd=316524
 3	gusi	gusi	VERB	V	_	0	root	_	GE=strike|Gloss=strike|nWord=50|RX=[V]|WordAlignmentBegin=316524|WordAlignmentEnd=316563
-4	H	H	X	MODY	_	3	aff	_	GE=[TM]|Gloss=TM|nWord=50|RX=[MODY]|WordAlignmentBegin=316563|WordAlignmentEnd=316602
+4	-H	-H	X	MODY	_	3	aff	_	GE=[TM]|Gloss=TM|nWord=50|RX=[MODY]|WordAlignmentBegin=316563|WordAlignmentEnd=316602
 5	-à	_	PRON	PRO.PERS	Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	GE=[3SG]|Gloss=3SG|nWord=50|RX=[PRO].[PERS]|WordAlignmentBegin=316602|WordAlignmentEnd=316640
 
 # sent_id = GYA_PRD_NARR_04_Louis_213-223_split2_split2_split2_split2_split2_split2_split2_split1
@@ -2614,11 +2614,11 @@
 # text_fr = Ils cognent la crosse du fusil contre sa joue..§
 1	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	GE=[3PL]|Gloss=3PL|nWord=52|RX=[PRO].[PERS]|WordAlignmentBegin=316795|WordAlignmentEnd=316950
 2-3	tó	_	_	_	_	_	_	_	_
-2	H	H	AUX	TAM	_	3	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=53|RX=[TAM]|WordAlignmentBegin=316950|WordAlignmentEnd=317028
+2	H-	H-	AUX	TAM	_	3	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=53|RX=[TAM]|WordAlignmentBegin=316950|WordAlignmentEnd=317028
 3	to	to	VERB	V	_	0	root	_	GE=hit_hard|Gloss=hit_hard|nWord=53|RX=[V]|WordAlignmentBegin=317028|WordAlignmentEnd=317105
 4-5	ndàyá	_	_	_	_	_	_	_	_
 4	ndàyà	ndàyà	NOUN	N	_	3	comp:obj	_	GE=bottom|Gloss=bottom|nWord=54|RX=[N]|WordAlignmentBegin=317105|WordAlignmentEnd=317183
-5	H	H	ADP	MODY	_	4	udep	_	GE=[TM]|Gloss=TM|nWord=54|RX=[MODY]|WordAlignmentBegin=317183|WordAlignmentEnd=317260
+5	-H	-H	ADP	MODY	_	4	udep	_	GE=[TM]|Gloss=TM|nWord=54|RX=[MODY]|WordAlignmentBegin=317183|WordAlignmentEnd=317260
 6	ngòmbè	ngòmbè	NOUN	N	_	5	comp	_	GE=rifle|Gloss=rifle|nWord=55|RX=[N]|WordAlignmentBegin=317260|WordAlignmentEnd=317415
 7	nɛ̀	nɛ̀	ADP	PREP	_	3	comp:obl	_	GE=par|Gloss=par|nWord=56|RX=[PREP]|WordAlignmentBegin=317415|WordAlignmentEnd=317570
 8-9	záɗáà	_	_	_	_	_	_	_	_
@@ -2628,12 +2628,12 @@
 # sent_id = GYA_PRD_NARR_04_Louis_213-223_split2_split2_split2_split2_split2_split2_split2_split2_split1
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = wà H to -à̰ H- pḭ nù ʔɔ̀rɔ̀p H- nɛ yo wà yo BHi ʔòé
+# text = wà tòáà -à̰ pḭ́ nù ʔɔ̀rɔ̀p H- nɛ yo wà yòo ʔòé
 # text_phonetic = wà tòáà pḭ́ nù ʔɔ̀rɔ̀p / mɔ́-yòwà yòo ʔòé //
 # text_fr = Ils lui donne un coup très fort et s'en vont en cherchant à les tuer aussi.§
 1	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	3	subj	_	GE=[3PL]|Gloss=3PL|nWord=59|RX=[PRO].[PERS]|WordAlignmentBegin=317880|WordAlignmentEnd=318035
 2-3	tòáà	_	_	_	_	_	_	_	_
-2	H	H	AUX	TAM	_	3	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=60|RX=[TAM]|WordAlignmentBegin=318035|WordAlignmentEnd=318087
+2	H-	H-	AUX	TAM	_	3	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=60|RX=[TAM]|WordAlignmentBegin=318035|WordAlignmentEnd=318087
 3	to	to	VERB	V	_	0	root	_	GE=hit_hard|Gloss=hit_hard|nWord=60|RX=[V]|WordAlignmentBegin=318087|WordAlignmentEnd=318139
 4	-à̰	_	PRON	PRO.PERS	Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	GE=[3SG]|Gloss=3SG|nWord=60|RX=[PRO].[PERS]|WordAlignmentBegin=318139|WordAlignmentEnd=318190
 5-6	pḭ́	_	_	_	_	_	_	_	_
@@ -2740,7 +2740,7 @@
 # sent_id = GYA_PRD_NARR_04_Louis_227-231_split2_split2_split2
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = mí hó ʔá̰ ʔɛ̰̀-ndɔ̀wá -H ʔàrètéè ʔóí mɛ̀í ʔé nù hɛ̰̀ kɔ̀wà káí ʔó mìlìtɛ̂r tɛ́nɛ́ ʔèè kám ʔìŋà H gúyá ngbàráwà wà hégè-ndé̠
+# text = mí hó ʔá̰ ʔɛ̰̀-ndɔ̀wá -H ʔàrètéè ʔóí mɛ̀í ʔé nù hɛ̰̀ kɔ̀wà káí ʔó mìlìtɛ̂r tɛ́nɛ́ ʔèè kám ʔìŋà -H gúyá ngbàráwà wà hégè-ndé̠
 # text_phonetic = mí / hó / ʔá̰ ʔɛ̰̀-ndɔ̀wá ʔàrètéè ʔóí mɛ̀í ʔé nù hɛ̰̀ // kɔ̀wà káí ʔó mìlìtɛ̂r tɛ́nɛ́ / ʔèè kám ʔìŋà gúyá ngbàráwà hégè ndé //
 # text_fr = Je dis oh Du fait qu’ils ont arrêté certains de ceux-ci ici , et s'ils ont fait venir des militaires. je ne sais plus comment me protéger d'eux. §
 1	mí	mí	PRON	PRO.PERS	Number=Sing|Person=1|PronType=Prs	27	discourse:parenth	_	GE=[1SG]|Gloss=1SG|nWord=21|RX=[PRO].[PERS]|WordAlignmentBegin=326800|WordAlignmentEnd=326963
@@ -2771,20 +2771,20 @@
 21	tɛ́nɛ́	tɛ́nɛ́	PART	COORD	_	18	mod	_	GE=coming|Gloss=coming|nWord=39|RX=[COORD]|WordAlignmentBegin=330608|WordAlignmentEnd=330804
 22-23	ʔèè	_	_	_	_	_	_	_	_
 22	ʔèé	ʔèé	CCONJ	COORD	_	27	cc	_	GE=and|Gloss=and|nWord=42|RX=[COORD]|WordAlignmentBegin=331320|WordAlignmentEnd=331466
-23	H	H	X	MODY	_	22	aff	_	GE=[TM]|Gloss=TM|nWord=42|RX=[MODY]|WordAlignmentBegin=331466|WordAlignmentEnd=331612
+23	-H	-H	X	MODY	_	22	aff	_	GE=[TM]|Gloss=TM|nWord=42|RX=[MODY]|WordAlignmentBegin=331466|WordAlignmentEnd=331612
 24-25	kám	_	_	_	_	_	_	_	_
 24	ká	ká	CCONJ	COORD	_	27	cc	_	GE=then|Gloss=then|nWord=43|RX=[COORD]|WordAlignmentBegin=331612|WordAlignmentEnd=331758
 25	-ám	_	PRON	PRO.PERS	Number=Sing|Person=1|PronType=Prs	27	subj	_	GE=[1SG]|Gloss=1SG|nWord=43|RX=[PRO].[PERS]|WordAlignmentBegin=331758|WordAlignmentEnd=331904
 26-27	ʔìŋà	_	_	_	_	_	_	_	_
 26	ƁHa	_	AUX	TAM	_	27	aux	_	GE=[PFV]|Gloss=PFV|nWord=44|RX=[TAM]|WordAlignmentBegin=331904|WordAlignmentEnd=332001
 27	ʔiŋ	ʔiŋ	VERB	V	_	0	root	_	GE=know|Gloss=know|nWord=44|RX=[V]|WordAlignmentBegin=332001|WordAlignmentEnd=332098
-28	H	H	X	MODY	_	27	aff	_	GE=[TM]|Gloss=TM|nWord=44|RX=[MODY]|WordAlignmentBegin=332098|WordAlignmentEnd=332196
+28	-H	-H	X	MODY	_	27	aff	_	GE=[TM]|Gloss=TM|nWord=44|RX=[MODY]|WordAlignmentBegin=332098|WordAlignmentEnd=332196
 29-30	gúyá	_	_	_	_	_	_	_	_
 29	Há	Há	AUX	VM	_	30	aux	_	GE=[INF].[IPFV]|Gloss=INF.IPFV|nWord=45|RX=[VM]|WordAlignmentBegin=332196|WordAlignmentEnd=332342
 30	gui	gui	VERB	V	_	27	compound:svc	_	GE=avoid|Gloss=avoid|nWord=45|RX=[V]|WordAlignmentBegin=332342|WordAlignmentEnd=332488
 31-32	ngbàráwà	_	_	_	_	_	_	_	_
 31	ngbàrà	ngbàrà	ADP	PREP	_	30	comp:obl	_	GE=between|Gloss=between|nWord=46|RX=[PREP]|WordAlignmentBegin=332488|WordAlignmentEnd=332585
-32	H	H	X	MODY	_	31	aff	_	GE=[TM]|Gloss=TM|nWord=46|RX=[MODY]|WordAlignmentBegin=332585|WordAlignmentEnd=332682
+32	-H	-H	X	MODY	_	31	aff	_	GE=[TM]|Gloss=TM|nWord=46|RX=[MODY]|WordAlignmentBegin=332585|WordAlignmentEnd=332682
 33	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	31	comp	_	GE=[3PL]|Gloss=3PL|nWord=46|RX=[PRO].[PERS]|WordAlignmentBegin=332682|WordAlignmentEnd=332780
 34	hégè-ndé̠	hégè-ndé̠	ADV	Q	_	27	mod	_	GE=comment|Gloss=comment|nWord=47|RX=[Q]|WordAlignmentBegin=332780|WordAlignmentEnd=333072
 
@@ -2877,16 +2877,16 @@
 # sent_id = GYA_PRD_NARR_04_Louis_241-241_split1
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = ʔèé H ká ʔéí H zɔk ʔɛ̀ɛ̀ H- ya nù
+# text = ʔèè  ká ʔéí zɔ́k  ʔɛ̀ɛ̀ yá  nù
 # text_phonetic = ʔèè  ká  ʔéí  zɔ́k  / ʔɛ̀ɛ̀  yá  nù
 # text_fr = et ils nous ordonnent de rester là .
 1-2	ʔèè 	_	_	_	_	_	_	_	_
 1	ʔèé	ʔèé	CCONJ	COORD	_	6	cc	_	GE=and|Gloss=and|nWord=1|RX=[COORD]|WordAlignmentBegin=343540|WordAlignmentEnd=343611
-2	H	H	_	MODY	_	1	aff	_	GE=[TM]|Gloss=TM|nWord=1|RX=[MODY]|WordAlignmentBegin=343611|WordAlignmentEnd=343682
+2	-H	-H	_	MODY	_	1	aff	_	GE=[TM]|Gloss=TM|nWord=1|RX=[MODY]|WordAlignmentBegin=343611|WordAlignmentEnd=343682
 3	ká	ká	CCONJ	COORD	_	6	cc	_	GE=then|Gloss=then|nWord=2|RX=[COORD]|WordAlignmentBegin=343682|WordAlignmentEnd=343824
 4	ʔéí	ʔéí	PRON	PRO.PERS	PronType=Prs	6	subj	_	GE=[LOG].[SG]|Gloss=LOG.SG|nWord=3|RX=[PRO].[PERS]|WordAlignmentBegin=343824|WordAlignmentEnd=343966
 5-6	zɔ́k 	_	_	_	_	_	_	_	_
-5	H	H	AUX	TAM	_	6	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=4|RX=[TAM]|WordAlignmentBegin=343966|WordAlignmentEnd=344037
+5	H-	H-	AUX	TAM	_	6	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=4|RX=[TAM]|WordAlignmentBegin=343966|WordAlignmentEnd=344037
 6	zɔk	zɔk	VERB	V	_	9	comp	_	GE=see|Gloss=see|nWord=4|RX=[V]|WordAlignmentBegin=344037|WordAlignmentEnd=344108
 7	ʔɛ̀ɛ̀	ʔɛ̀ɛ̀	PRON	PRO.PERS	Number=Plur|Person=1|PronType=Prs	9	subj	_	GE=[1PL]|Gloss=1PL|nWord=6|RX=[PRO].[PERS]|WordAlignmentBegin=344250|WordAlignmentEnd=344392
 8-9	yá 	_	_	_	_	_	_	_	_
@@ -3284,7 +3284,7 @@
 2-4	nǎm	_	_	_	_	_	_	_	_
 2	nɛ̀	nɛ̀	SCONJ	SUBORD	_	1	mod@relcl	_	GE=[REL]|Gloss=REL|nWord=3|RX=[SUBORD]|WordAlignmentBegin=380647|WordAlignmentEnd=380696
 3	-ám	_	PRON	PRO.PERS	Number=Sing|Person=1|PronType=Prs	6	subj	_	GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO].[PERS]|WordAlignmentBegin=380696|WordAlignmentEnd=380745
-4	H	H	X	MODY	_	3	aff	_	GE=[TM]|Gloss=TM|nWord=3|RX=[MODY]|WordAlignmentBegin=380745|WordAlignmentEnd=380794
+4	-H	-H	X	MODY	_	3	aff	_	GE=[TM]|Gloss=TM|nWord=3|RX=[MODY]|WordAlignmentBegin=380745|WordAlignmentEnd=380794
 5-6	zɔ̀ká	_	_	_	_	_	_	_	_
 5	BHa-	_	AUX	TAM	_	6	aux	_	GE=[PFV]|Gloss=PFV|nWord=6|RX=[TAM]|WordAlignmentBegin=381580|WordAlignmentEnd=381696
 6	zɔk	zɔk	VERB	V	_	2	comp	_	GE=see|Gloss=see|nWord=6|RX=[V]|WordAlignmentBegin=381696|WordAlignmentEnd=381813

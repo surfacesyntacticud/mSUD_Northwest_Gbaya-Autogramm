@@ -1952,7 +1952,7 @@
 4	H-	H-	AUX	MV	_	5	aux	_	GE=[INJ-INAC]|Gloss=INJ-INAC-|nWord=3|RX=[MV]|WordAlignmentBegin=331132|WordAlignmentEnd=331327
 5	ye	ye	VERB	V	_	0	root	_	GE=entrer|Gloss=entrer|nWord=3|RX=[V]|WordAlignmentBegin=331327|WordAlignmentEnd=331522
 6	kɔ́	kɔ̀	ADP	FCT	_	5	mod	_	GE=à_l'intérieur|Gloss=à_l'intérieur|nWord=4|RX=[FCT]|WordAlignmentBegin=331522|WordAlignmentEnd=331717
-7	-H	_H	MOD	MOD	_	6	aff	_	GE=MT]|Gloss=mt|nWord=4|RX=[MOD]|WordAlignmentBegin=331717|WordAlignmentEnd=331912
+7	-H	-H	MOD	MOD	_	6	aff	_	GE=MT]|Gloss=mt|nWord=4|RX=[MOD]|WordAlignmentBegin=331717|WordAlignmentEnd=331912
 8	mɔ̀	mɔ̀	NOUN	MOD	_	6	comp	_	GE=[chose]|Gloss=chose|nWord=4|RX=[N]|WordAlignmentBegin=331717|WordAlignmentEnd=331912
 9-10	yé	_	_	_	_	_	_	_	_
 9	H-	H-	AUX	MV	_	10	aux	_	GE=[INAC]|Gloss=INAC-|nWord=6|RX=[MV]|WordAlignmentBegin=332302|WordAlignmentEnd=332497

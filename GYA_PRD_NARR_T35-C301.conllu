@@ -4,7 +4,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text_en = Wanto et Gbason. // Voilà que Gbason a delimité ses herbes / et lancé l'annonce appelant tous les gens : 'qu'ils se rassemblent' / et il met le feu aux herbes qui s'étend en un grand cercle //
 1	wàntò	wàntò	_	COORD	_	2	subj	_	GE=[wàntò]|Gloss=Wanto|nWord=1|RX=NPR|WordAlignmentBegin=12213|WordAlignmentEnd=12805
-2	ʔín	ʔîn -H	_	COORD	_	0	root	_	GE=ʔîn|Gloss=et|nWord=1|RX=PREP|WordAlignmentBegin=12213|WordAlignmentEnd=12805
+2	ʔín	ʔîn-H	_	COORD	_	0	root	_	GE=ʔîn|Gloss=et|nWord=1|RX=PREP|WordAlignmentBegin=12213|WordAlignmentEnd=12805
 3	-H	-H	_	COORD	_	2	aff	_	GE=MT|Gloss=MT|nWord=1|RX=MOD|WordAlignmentBegin=12213|WordAlignmentEnd=12805
 4	gbàsɔ̰̀	NPR	_	COORD	_	2	comp	_	GE=gbàsɔ̰̀|Gloss=Gbason|nWord=1|RX=NPR|WordAlignmentBegin=12213|WordAlignmentEnd=12805
 

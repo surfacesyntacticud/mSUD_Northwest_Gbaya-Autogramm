@@ -1616,11 +1616,11 @@
 # sent_id = GYA_PRD_NARR_04_Louis_143-145_split2
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = wà kùmàsè  melanze nú tùà bɔ̀ɔ̀ kɔ́ Kólíngbá
+# text = wà kùmàsè melanze nú tùà bɔ̀ɔ̀ kɔ́ Kólíngbá
 # text_phonetic = wà kùmàsè melanze nú tùà bɔ̀ɔ̀ kɔ́ Kólíngbá //
 # text_fr = Ils commencent à frapper sur la porte de chez Kolingba. §
 1	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	2	subj	_	GE=[3PL]|Gloss=3PL|nWord=9|RX=[PRO].[PERS]|WordAlignmentBegin=217664|WordAlignmentEnd=217918
-2	kùmàsè 	kùmàsè 	VERB	V	_	0	root	_	GE=commencer|Gloss=<F|nWord=10|RX=[V]|WordAlignmentBegin=217918|WordAlignmentEnd=218172
+2	kùmàsè	kùmàsè	VERB	V	_	0	root	_	GE=commencer|Gloss=<F|nWord=10|RX=[V]|WordAlignmentBegin=217918|WordAlignmentEnd=218172
 3	melanze	melanze	VERB	V	_	2	compound:svc	_	GE=mélanger|Gloss=<F|nWord=11|RX=[V]|WordAlignmentBegin=218172|WordAlignmentEnd=218426
 4	nú	nú	NOUN	N	_	2	comp:obj	_	GE=active_point|Gloss=active_point|nWord=12|RX=[N]|WordAlignmentBegin=218426|WordAlignmentEnd=218680
 5	tùà	tùà	NOUN	N	_	4	comp	_	GE=house|Gloss=house|nWord=13|RX=[N]|WordAlignmentBegin=218680|WordAlignmentEnd=218934
@@ -1800,7 +1800,7 @@
 11	dui	dui	VERB	V	_	7	conj:coord	_	GE=bend_down|Gloss=bend_down|nWord=6|RX=[V]|WordAlignmentBegin=237911|WordAlignmentEnd=238032
 12	ɗɔ̀ɔ̀	ɗɔ̀ɔ̀	ADP	PREP	_	11	comp:obl	_	GE=sous|Gloss=sous|nWord=7|RX=[PREP]|WordAlignmentBegin=238032|WordAlignmentEnd=238274
 13-15	ʔàvòkáà	_	_	_	_	_	_	_	_
-13	ʔàvòkà 	ʔàvòkà 	NOUN	N	_	12	comp	_	GE=avocat|Gloss=<F|nWord=8|RX=[N]|WordAlignmentBegin=238274|WordAlignmentEnd=238355
+13	ʔàvòkà	ʔàvòkà	NOUN	N	_	12	comp	_	GE=avocat|Gloss=<F|nWord=8|RX=[N]|WordAlignmentBegin=238274|WordAlignmentEnd=238355
 14	-H	-H	X	MODY	_	13	aff	_	GE=[TM]|Gloss=TM|nWord=8|RX=[MODY]|WordAlignmentBegin=238355|WordAlignmentEnd=238436
 15	-à	_	DET	NM	_	13	det	_	GE=[DEF]|Gloss=DEF|nWord=8|RX=[NM]|WordAlignmentBegin=238436|WordAlignmentEnd=238516
 16-17	káɓàá	_	_	_	_	_	_	_	_
@@ -1956,15 +1956,15 @@
 # sent_id = GYA_PRD_NARR_04_Louis_176-181_split2_split1
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = màná wà tɛ́-B  gusi -à̰ hɔ̰́gɔ̰́
+# text = màná wà tɛ́-B gusi -à̰ hɔ̰́gɔ̰́
 # text_phonetic = màná  wà  tɛ́-gùsàà  hɔ̰́gɔ̰́  //
 # text_fr = peut-être ils voudront la battre §,
 1	màná	màná	ADV	SUBORD	_	4	mod	_	GE=perhaps|Gloss=perhaps|nWord=6|RX=[SUBORD]|WordAlignmentBegin=252849|WordAlignmentEnd=253071
 2	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	4	subj	_	GE=[3PL]|Gloss=3PL|nWord=7|RX=[PRO].[PERS]|WordAlignmentBegin=253071|WordAlignmentEnd=253293
-3	tɛ́-B 	_	AUX	TAM	_	4	aux	_	GE=[VRT].[IMPF]|Gloss=VRT.IMPF|nWord=8|RX=[TAM]|WordAlignmentBegin=253293|WordAlignmentEnd=253404
+3	tɛ́-B	_	AUX	TAM	_	4	aux	_	GE=[VRT].[IMPF]|Gloss=VRT.IMPF|nWord=8|RX=[TAM]|WordAlignmentBegin=253293|WordAlignmentEnd=253404
 4	gusi	gusi	VERB	V	_	0	root	_	GE=strike|Gloss=strike|nWord=8|RX=[V]|WordAlignmentBegin=253404|WordAlignmentEnd=253515
 5	-à̰	ʔà̰	PRON	V	Number=Sing|Person=3	4	comp:obj	_	GE=3SG|Gloss=3SG|nWord=8|RX=[V]|WordAlignmentBegin=253404|WordAlignmentEnd=253515
-6	hɔ̰́gɔ̰́ 	hɔ̰́gɔ̰́ 	ADV	ADV	_	4	mod	_	GE=like_this|Gloss=like_this|nWord=9|RX=[ADV]|WordAlignmentBegin=253515|WordAlignmentEnd=253737
+6	hɔ̰́gɔ̰́	hɔ̰́gɔ̰́	ADV	ADV	_	4	mod	_	GE=like_this|Gloss=like_this|nWord=9|RX=[ADV]|WordAlignmentBegin=253515|WordAlignmentEnd=253737
 
 # sent_id = GYA_PRD_NARR_04_Louis_176-181_split2_split2_split1
 # speaker_id = @SP
@@ -2396,10 +2396,10 @@
 # sent_id = GYA_PRD_NARR_04_Louis_203-207_split1_split1_split2
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = súkɛ́r  wálà súkɛ́r wálà
+# text = súkɛ́r wálà súkɛ́r wálà
 # text_phonetic = súkɛ́r wálà! súkɛ́r wálà!
 # text_fr = ya pas de sucre !, ya pas de sucre !’.
-1	súkɛ́r 	súkɛ́r 	NOUN	MODY	_	2	subj	_	GE=sucre|Gloss=<F|nWord=16|RX=[N]|WordAlignmentBegin=294647|WordAlignmentEnd=294720
+1	súkɛ́r	súkɛ́r	NOUN	MODY	_	2	subj	_	GE=sucre|Gloss=<F|nWord=16|RX=[N]|WordAlignmentBegin=294647|WordAlignmentEnd=294720
 2	wálà	wálà	_	MODY	_	0	root	_	GE=wálà|Gloss=<Ful|nWord=16|RX=[PRED]|WordAlignmentBegin=294647|WordAlignmentEnd=294720
 3	súkɛ́r	súkɛ́r	NOUN	MODY	_	1	comp:redup	_	GE=sucre|Gloss=<F|nWord=16|RX=[N]|WordAlignmentBegin=294647|WordAlignmentEnd=294720
 4	wálà	wálà	_	MODY	_	2	comp:redup	_	GE=wálà|Gloss=<Ful|nWord=16|RX=[PRED]|WordAlignmentBegin=294647|WordAlignmentEnd=294720
@@ -2407,7 +2407,7 @@
 # sent_id = GYA_PRD_NARR_04_Louis_203-207_split1_split2_GYA_PRD_NARR_04_Louis_203-207_split2
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = kɔ́wà ɓám zěrwà wà nɛ̀ pɛ́nsɛ̀ɛ̀  mɔ́-ŋmàn
+# text = kɔ́wà ɓám zěrwà wà nɛ̀ pɛ́nsɛ̀ɛ̀ mɔ́-ŋmàn
 # text_phonetic = kɔ́wà ɓám nɛ́ zěrwà nɛ̀ pɛ́nsɛ̀ɛ̀ mɔ́-ŋmàn //
 # text_fr = . Alors ils lui pincent l’oreille avec une pince pour la couper..
 1-2	kɔ́wà	_	_	_	_	_	_	_	_
@@ -2421,7 +2421,7 @@
 6	-H	-H	ADP	MODY	_	5	udep	_	GE=[TM]|Gloss=TM|nWord=23|RX=[MODY]|WordAlignmentBegin=296970|WordAlignmentEnd=297100
 7	wà	wà	PRON	PRO.PERS	PronType=Prs	6	comp	_	GE=[3POL]|Gloss=3POL|nWord=23|RX=[PRO].[PERS]|WordAlignmentBegin=297100|WordAlignmentEnd=297230
 8	nɛ̀	nɛ̀	ADP	PREP	_	4	comp:obl	_	GE=avec|Gloss=avec|nWord=24|RX=[PREP]|WordAlignmentBegin=297230|WordAlignmentEnd=297620
-9	pɛ́nsɛ̀ɛ̀ 	pɛ́nsɛ̀ɛ̀ 	NOUN	N	_	8	comp	_	GE=pince|Gloss=<F|nWord=25|RX=[N]|WordAlignmentBegin=297620|WordAlignmentEnd=298010
+9	pɛ́nsɛ̀ɛ̀	pɛ́nsɛ̀ɛ̀	NOUN	N	_	8	comp	_	GE=pince|Gloss=<F|nWord=25|RX=[N]|WordAlignmentBegin=297620|WordAlignmentEnd=298010
 10-11	mɔ́-ŋmàn	_	_	_	_	_	_	_	_
 10	mɛ́-B	_	AUX	VM	_	11	aux	_	GE=[INF].[VRT]|Gloss=INF.VRT-|nWord=33|RX=[VM]|WordAlignmentBegin=299855|WordAlignmentEnd=299961
 11	ŋman	ŋman	VERB	V	_	4	compound:svc	_	GE=cut|Gloss=cut|nWord=33|RX=[V]|WordAlignmentBegin=299961|WordAlignmentEnd=300066
@@ -2497,7 +2497,7 @@
 # sent_id = GYA_PRD_NARR_04_Louis_213-223_split2_split1
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = ká wà BHa- saŋ -H mà fàmíì  kɔ́ wí nɛ̀ -wà -H BHa- tom nɛ̀nɛ́ mɛ̀ -ìí
+# text = kɔ́wà sàŋá -H mà fàmíì kɔ́ wí ndɔ̀wá -H tòmá nɛ̀nɛ́ mɛ̀í
 # text_phonetic = kɔ́wà sàŋá / mà fàmíì kɔ́ wí ndɔ̀wá tòmá nɛ̀nɛ́ mɛ̀í // kɔ́wà sàŋáà pḭ́ nù hḭ̀ḭ́ / sàŋáà pḭ́ nù / wà nɛ́ kàá // wà dɛ́ mɔ̀ nɛ́nɛ́ // ʔèé wà pèá ɗòŋ // wà gùsáà // wà tó ndàyá ngòmbè nɛ̀ záɗáà // wà tòáà pḭ́ nù ʔɔ̀rɔ̀p / mɔ́-yòwà yòo ʔòé // ʔɛ́ɛ́ yùmà ʔá zú màá //
 # text_fr = Alors ils ont attrapés. la famille de celui qu'ils ont envoyé §
 1-2	kɔ́wà	_	_	_	_	_	_	_	_
@@ -2508,7 +2508,7 @@
 4	saŋ	saŋ	VERB	V	_	0	root	_	GE=tie|Gloss=tie|nWord=11|RX=[V]|WordAlignmentBegin=307603|WordAlignmentEnd=307678
 5	-H	_	X	MODY	_	4	aff	_	GE=[TM]|Gloss=TM|nWord=11|RX=[MODY]|WordAlignmentBegin=307678|WordAlignmentEnd=307752
 6	mà	mà	DET	NM	_	7	det	_	GE=[INDF]|Gloss=INDF|nWord=14|RX=[NM]|WordAlignmentBegin=309280|WordAlignmentEnd=309465
-7	fàmíì 	fàmíì 	NOUN	N	_	4	comp	_	GE=famille|Gloss=<F|nWord=15|RX=[N]|WordAlignmentBegin=309465|WordAlignmentEnd=309650
+7	fàmíì	fàmíì	NOUN	N	_	4	comp	_	GE=famille|Gloss=<F|nWord=15|RX=[N]|WordAlignmentBegin=309465|WordAlignmentEnd=309650
 8	kɔ́	kɔ́	ADP	PREP	_	7	udep	_	GE=of|Gloss=of|nWord=16|RX=[PREP]|WordAlignmentBegin=309650|WordAlignmentEnd=309835
 9	wí	wí	PRON	PRO.PERS	PronType=Prs	8	comp	_	GE=the_one|Gloss=the_one|nWord=17|RX=[PRO].[PERS]|WordAlignmentBegin=309835|WordAlignmentEnd=310020
 10-11	ndɔ̀wá	_	_	_	_	_	_	_	_
@@ -2740,7 +2740,7 @@
 # sent_id = GYA_PRD_NARR_04_Louis_227-231_split2_split2_split2
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = mí hó ʔá̰ ʔɛ̰̀-ndɔ̀wá -H ʔàrètéè ʔóí mɛ̀í ʔé nù hɛ̰̀ kɔ̀wà káí ʔó mìlìtɛ̂r  tɛ́nɛ́ ʔèè kám ʔìŋà H gúyá ngbàráwà wà hégè-ndé̠
+# text = mí hó ʔá̰ ʔɛ̰̀-ndɔ̀wá -H ʔàrètéè ʔóí mɛ̀í ʔé nù hɛ̰̀ kɔ̀wà káí ʔó mìlìtɛ̂r tɛ́nɛ́ ʔèè kám ʔìŋà H gúyá ngbàráwà wà hégè-ndé̠
 # text_phonetic = mí / hó / ʔá̰ ʔɛ̰̀-ndɔ̀wá ʔàrètéè ʔóí mɛ̀í ʔé nù hɛ̰̀ // kɔ̀wà káí ʔó mìlìtɛ̂r tɛ́nɛ́ / ʔèè kám ʔìŋà gúyá ngbàráwà hégè ndé //
 # text_fr = Je dis oh Du fait qu’ils ont arrêté certains de ceux-ci ici , et s'ils ont fait venir des militaires. je ne sais plus comment me protéger d'eux. §
 1	mí	mí	PRON	PRO.PERS	Number=Sing|Person=1|PronType=Prs	27	discourse:parenth	_	GE=[1SG]|Gloss=1SG|nWord=21|RX=[PRO].[PERS]|WordAlignmentBegin=326800|WordAlignmentEnd=326963
@@ -2767,7 +2767,7 @@
 17	H-	_	AUX	TAM	_	18	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=36|RX=[TAM]|WordAlignmentBegin=330020|WordAlignmentEnd=330118
 18	kai	kai	VERB	V	_	15	comp	_	GE=gather|Gloss=gather|nWord=36|RX=[V]|WordAlignmentBegin=330118|WordAlignmentEnd=330216
 19	ʔó	ʔó	DET	NM	_	20	det	_	GE=[PL]|Gloss=PL|nWord=37|RX=[NM]|WordAlignmentBegin=330216|WordAlignmentEnd=330412
-20	mìlìtɛ̂r 	mìlìtɛ̂r 	NOUN	N	_	18	comp:obj	_	GE=militaires|Gloss=<F|nWord=38|RX=[N]|WordAlignmentBegin=330412|WordAlignmentEnd=330608
+20	mìlìtɛ̂r	mìlìtɛ̂r	NOUN	N	_	18	comp:obj	_	GE=militaires|Gloss=<F|nWord=38|RX=[N]|WordAlignmentBegin=330412|WordAlignmentEnd=330608
 21	tɛ́nɛ́	tɛ́nɛ́	PART	COORD	_	18	mod	_	GE=coming|Gloss=coming|nWord=39|RX=[COORD]|WordAlignmentBegin=330608|WordAlignmentEnd=330804
 22-23	ʔèè	_	_	_	_	_	_	_	_
 22	ʔèé	ʔèé	CCONJ	COORD	_	27	cc	_	GE=and|Gloss=and|nWord=42|RX=[COORD]|WordAlignmentBegin=331320|WordAlignmentEnd=331466
@@ -2934,7 +2934,7 @@
 # sent_id = GYA_PRD_NARR_04_Louis_241-241_split2_split2
 # speaker_id = @SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_04_LOUIS_modifie2.WAV
-# text = súkɛ̀rɛ̀ nɛ̀ -éí -H H- kpa ná dí-sèè  kɔ́ -éí H- be ná yè
+# text = súkɛ̀rɛ̀ ndèì  -H kpá  ná dí-sèè kéí  bé ná yè
 # text_phonetic = súkɛ̀rɛ̀  ndèì  kpá  ná  dí-sèè  kéí  bé  ná yé //
 # text_fr = , Le sucre qu’ils n’ont pas trouvé, les a fâchés. §
 1	súkɛ̀rɛ̀	súkɛ̀rɛ̀	NOUN	N	_	12	comp:obl	_	GE=sucre|Gloss=<F|nWord=29|RX=[N]|WordAlignmentBegin=347516|WordAlignmentEnd=347658
@@ -2946,7 +2946,7 @@
 5	H-	_	AUX	TAM	_	6	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=31|RX=[TAM]|WordAlignmentBegin=347800|WordAlignmentEnd=347871
 6	kpa	kpa	VERB	V	_	2	comp	_	GE=find|Gloss=find|nWord=31|RX=[V]|WordAlignmentBegin=347871|WordAlignmentEnd=347942
 7	ná	ná	PART	VM	_	6	mod	_	GE=[NEG]|Gloss=NEG|nWord=32|RX=[VM]|WordAlignmentBegin=347942|WordAlignmentEnd=348084
-8	dí-sèè 	_	NOUN	N	_	12	subj	_	GE=joy|Gloss=joy|nWord=33|RX=[N]|WordAlignmentBegin=348084|WordAlignmentEnd=348226
+8	dí-sèè	_	NOUN	N	_	12	subj	_	GE=joy|Gloss=joy|nWord=33|RX=[N]|WordAlignmentBegin=348084|WordAlignmentEnd=348226
 9-10	kéí 	_	_	_	_	_	_	_	_
 9	kɔ́	kɔ́	ADP	PREP	_	8	udep	_	GE=of|Gloss=of|nWord=34|RX=[PREP]|WordAlignmentBegin=348226|WordAlignmentEnd=348297
 10	-éí	_	PRON	PRO.PERS	PronType=Prs	9	comp	_	GE=[LOG].[SG]|Gloss=LOG.SG|nWord=34|RX=[PRO].[PERS]|WordAlignmentBegin=348297|WordAlignmentEnd=348368

@@ -454,7 +454,7 @@
 2	zɔ̰́	zɔ̰́	NOUN	N	_	7	subj	_	GE=herbe|Gloss=herbe|nWord=2|RX=[N]|WordAlignmentBegin=94108|WordAlignmentEnd=94522
 3-4	kɔ́í	_	_	_	_	_	_	_	_
 3	kɔ́	kɔ́	ADP	FCT	_	2	udep	_	GE=de|Gloss=de|nWord=3|RX=[FCT]|WordAlignmentBegin=94522|WordAlignmentEnd=94729
-4	-éí	-éí	PRON	PERS	_	3	:comp	_	GE=[LOGSG]|Gloss=-LOGSG|nWord=3|RX=[PERS]|WordAlignmentBegin=94729|WordAlignmentEnd=94936
+4	-éí	-éí	PRON	PERS	_	3	comp	_	GE=[LOGSG]|Gloss=-LOGSG|nWord=3|RX=[PERS]|WordAlignmentBegin=94729|WordAlignmentEnd=94936
 5	mɔ́	mɔ́	ADP	FCT	_	2	mod	_	GE=[APPOS]|Gloss=APPOS|nWord=4|RX=[FCT]|WordAlignmentBegin=94936|WordAlignmentEnd=95350
 6	hɛ̰̀	hɛ̰̀	ADV	ADV	_	5	comp	_	GE=ici|Gloss=ici|nWord=5|RX=[ADV]|WordAlignmentBegin=95350|WordAlignmentEnd=95764
 7	nɛ́	nɛ́	PRÉD	PRÉD	_	0	root	_	GE=[ETRE-ESS]|Gloss=ETRE-ESS|nWord=6|RX=[PRÉD]|WordAlignmentBegin=95764|WordAlignmentEnd=96178
@@ -1118,7 +1118,7 @@
 # text_en = et Wanto s'arrête d'abord//
 1	wàntò	wàntò	PROPN	NPR	_	3	subj	_	GE=wàntò|Gloss=wàntò|nWord=4|RX=[NPR]|WordAlignmentBegin=215416|WordAlignmentEnd=215825
 2-3	yór	_	_	_	_	_	_	_	_
-2	H-	H-	MV	MV	_	3	_	_	GE=[INAC]|Gloss=INAC-|nWord=5|RX=[MV]|WordAlignmentBegin=215825|WordAlignmentEnd=216029
+2	H-	H-	AUX	MV	_	3	aux	_	GE=[INAC]|Gloss=INAC-|nWord=5|RX=[MV]|WordAlignmentBegin=215825|WordAlignmentEnd=216029
 3	yor	yor	VERB	V	_	0	root	_	GE=s'arrêter|Gloss=s'arrêter|nWord=5|RX=[V]|WordAlignmentBegin=216029|WordAlignmentEnd=216234
 4	sɛ́	sɛ́	ADV	ADV	_	3	mod	_	GE=d'abord|Gloss=d'abord|nWord=6|RX=[ADV]|WordAlignmentBegin=216234|WordAlignmentEnd=216642
 
@@ -1550,7 +1550,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text = ʔèè H- duk ɗòŋ -H wàntò sínɛ́
 # text_en = puis [il] reste après Wanto //
-1	ʔèè	ʔèè	CCONJ	COORD	_	3	_	_	GE=puis|Gloss=puis|nWord=7|RX=[COORD]|WordAlignmentBegin=273283|WordAlignmentEnd=273837
+1	ʔèè	ʔèè	CCONJ	COORD	_	3	cc	_	GE=puis|Gloss=puis|nWord=7|RX=[COORD]|WordAlignmentBegin=273283|WordAlignmentEnd=273837
 2-3	dúk	_	_	_	_	_	_	_	_
 2	H-	H-	AUX	MV	_	3	aux	_	GE=[INAC]|Gloss=INAC-|nWord=8|RX=[MV]|WordAlignmentBegin=273837|WordAlignmentEnd=274114
 3	duk	duk	VERB	V	_	0	root	_	GE=rester|Gloss=rester|nWord=8|RX=[V]|WordAlignmentBegin=274114|WordAlignmentEnd=274391

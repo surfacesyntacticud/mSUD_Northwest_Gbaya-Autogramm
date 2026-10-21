@@ -698,7 +698,7 @@
 3	B-	B-	AUX	MV	Aspect=Imp|Mood=Cnd	4	aux	_	GE=[COND-INAC]|nWord=2|RX=[MV]|WordAlignmentBegin=79248|WordAlignmentEnd=79406
 4	ba	ba	VERB	V	_	11	comp	_	GE=[prendre]|nWord=2|RX=[V]|WordAlignmentBegin=79406|WordAlignmentEnd=79564
 5	ndàlàŋ	ndàlàŋ	NOUN	N	_	4	comp:obj	_	GE=[nasse]|nWord=3|RX=[N]|WordAlignmentBegin=79564|WordAlignmentEnd=79880
-6	nɛ̀	nɛ̀	ADP	FCT	_	4	comp:obl	_	GE= [par]|nWord=4|RX=[FCT]|WordAlignmentBegin=79880|WordAlignmentEnd=80196
+6	nɛ̀	nɛ̀	ADP	FCT	_	4	comp:obl	_	GE=[par]|nWord=4|RX=[FCT]|WordAlignmentBegin=79880|WordAlignmentEnd=80196
 7	ŋɔ́n	ŋɔ́n	ADV	ADV	_	6	comp	_	GE=[en_haut]|nWord=5|RX=[ADV]|WordAlignmentBegin=80196|WordAlignmentEnd=80512
 8	ká	ká	SCONJ	SUB	_	11	cc	_	GE=[alors]|nWord=6|RX=[SUB]|WordAlignmentBegin=80512|WordAlignmentEnd=80828
 9	bêm	bêm	NOUN	N	_	11	subj	_	GE=[enfant]|nWord=7|RX=[N]|WordAlignmentBegin=80828|WordAlignmentEnd=81144
@@ -1959,7 +1959,7 @@
 # text_fr = alors ceux qui se trouvent devant cette forge ils appellent ainsi:
 1	ká	ká	CCONJ	COORD	_	14	cc	_	GE=[alors]|nWord=5|RX=[COORD]|WordAlignmentBegin=264336|WordAlignmentEnd=264644
 2	ʔóí	ʔóí	NOUN	N	_	14	dislocated:subj	_	GE=[les_personnes]|nWord=6|RX=[N]|WordAlignmentBegin=264644|WordAlignmentEnd=264952
-3	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	2	mod:relcl	_	GE=[REL]|nWord=7|RX=[SUB]|WordAlignmentBegin=264952|WordAlignmentEnd=265260
+3	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	2	mod@relcl	_	GE=[REL]|nWord=7|RX=[SUB]|WordAlignmentBegin=264952|WordAlignmentEnd=265260
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	GE=[ACC]|nWord=8|RX=[MV]|WordAlignmentBegin=265260|WordAlignmentEnd=265363
 5	ya	ya	VERB	V	_	3	comp	_	GE=[demeurer]|nWord=8|RX=[V]|WordAlignmentBegin=265363|WordAlignmentEnd=265466
 6	-H	-H	X	MOD	_	5	aff	_	GE=[MT]|nWord=8|RX=[MOD]|WordAlignmentBegin=265466|WordAlignmentEnd=265568
@@ -1994,7 +1994,7 @@
 1	bêm	bêm	NOUN	N	_	13	dislocated:obj	_	GE=[enfant]|nWord=17|RX=[N]|WordAlignmentBegin=268462|WordAlignmentEnd=268770
 2	kɔ́	kɔ́	ADP	FCT	_	1	udep	_	GE=[de]|nWord=18|RX=[FCT]|WordAlignmentBegin=268770|WordAlignmentEnd=268924
 3	=nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2	2	comp	_	GE=[2PL]|nWord=18|RX=[PERS]|WordAlignmentBegin=268924|WordAlignmentEnd=269078
-4	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	1	mod:relcl	_	GE=[REL]|nWord=19|RX=[SUB]|WordAlignmentBegin=269078|WordAlignmentEnd=269386
+4	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	1	mod@relcl	_	GE=[REL]|nWord=19|RX=[SUB]|WordAlignmentBegin=269078|WordAlignmentEnd=269386
 5	BHa-	BHa-	AUX	MV	Aspect=Perf	6	aux	_	GE=[ACC]|nWord=20|RX=[MV]|WordAlignmentBegin=269386|WordAlignmentEnd=269489
 6	yɔ	yɔ	VERB	V	_	4	comp	_	GE=[être_perdu]|nWord=20|RX=[V]|WordAlignmentBegin=269489|WordAlignmentEnd=269592
 7	-H	-H	AUX	MOD	_	6	aff	_	GE=[MT]|nWord=20|RX=[MOD]|WordAlignmentBegin=269592|WordAlignmentEnd=269694

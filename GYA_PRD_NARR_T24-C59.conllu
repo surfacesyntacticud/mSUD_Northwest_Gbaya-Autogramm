@@ -2185,7 +2185,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # text_phonetic = kpóŋ-kòróŋ
 # text_fr = Avec fracas
-1	BH-	BH-	AUX	MOD	_	2	cop	_	GE=PRED|nWord=1|RX=MOD|WordAlignmentBegin=278007|WordAlignmentEnd=278198
+1	BH-	BH-	AUX	MOD	_	2	aux	_	GE=PRED|nWord=1|RX=MOD|WordAlignmentBegin=278007|WordAlignmentEnd=278198
 2	kpòŋ-kòròŋ	kpòŋ-kòròŋ	ADJ	AA	_	0	root	_	GE=avec_fracas|nWord=1|RX=AA|WordAlignmentBegin=278198|WordAlignmentEnd=278389
 
 # sent_id = GYA_PRD_NARR_T24-C59_125-125b
@@ -2210,7 +2210,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # text_phonetic = kpóŋ-kòróŋ
 # text_fr = avec fracas
-1	BH-	BH-	AUX	MOD	_	2	cop	_	GE=PRED|nWord=1|RX=MOD|WordAlignmentBegin=280297|WordAlignmentEnd=280464
+1	BH-	BH-	AUX	MOD	_	2	aux	_	GE=PRED|nWord=1|RX=MOD|WordAlignmentBegin=280297|WordAlignmentEnd=280464
 2	kpòŋ-kòròŋ	kpòŋ-kòròŋ	ADJ	AA	_	0	root	_	GE=avec_fracas|nWord=1|RX=AA|WordAlignmentBegin=280464|WordAlignmentEnd=280631
 
 # sent_id = GYA_PRD_NARR_T24-C59_126-126b
@@ -2235,7 +2235,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # text_phonetic = kpóŋ-kòróŋ
 # text_fr = avec fracas
-1	BH-	BH-	AUX	MOD	_	2	cop	_	GE=PRED|nWord=1|RX=MOD|WordAlignmentBegin=282304|WordAlignmentEnd=282473
+1	BH-	BH-	AUX	MOD	_	2	aux	_	GE=PRED|nWord=1|RX=MOD|WordAlignmentBegin=282304|WordAlignmentEnd=282473
 2	kpòŋ-kòròŋ	kpòŋ-kòròŋ	ADJ	AA	_	0	root	_	GE=avec_fracas|nWord=1|RX=AA|WordAlignmentBegin=282473|WordAlignmentEnd=282642
 
 # sent_id = GYA_PRD_NARR_T24-C59_127-127b
@@ -2305,7 +2305,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # text_phonetic = kpóŋ-kòróŋ
 # text_fr = Avec fracas
-1	BH-	BH-	AUX	MOD	_	2	cop	_	GE=PRED|nWord=1|RX=MOD|WordAlignmentBegin=292835|WordAlignmentEnd=293021
+1	BH-	BH-	AUX	MOD	_	2	aux	_	GE=PRED|nWord=1|RX=MOD|WordAlignmentBegin=292835|WordAlignmentEnd=293021
 2	kpòŋ-kòròŋ	kpòŋ-kòròŋ	ADJ	AA	_	0	root	_	GE=avec_fracas|nWord=1|RX=AA|WordAlignmentBegin=293021|WordAlignmentEnd=293207
 
 # sent_id = GYA_PRD_NARR_T24-C59_133-133b
@@ -2603,7 +2603,7 @@
 # text_phonetic = wà Wàntò dùà hɛ̰̀ ʔéí tɔ̰̀áà ndé ʔéí gbɛ̀ɛ́ dùà héí mɔ́-dɛ̀ nɛ̀ mɔ̀ ʔá tɛ̀mɛ́ wèn ʔóyó nɛ̀ yá hɛ̰̀ wéwéì bé ngbàràyó ná
 # text_fr = elles disent : Wanto ce cabri on t'a bien dit qu'on l'avait tué pour te faire un rituel parce que nous qui demeurons ici, il n'y a pas d'hommes parmi nous.
 1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	12	discourse:participant	_	GE=[3PL]|nWord=1|RX=[PERS]|WordAlignmentBegin=323084|WordAlignmentEnd=323658
-2	wàntò	wàntò	PROPN	NPR	_	12	_	_	GE=[Wàntò]|nWord=2|RX=[NPR]|WordAlignmentBegin=323658|WordAlignmentEnd=324232
+2	wàntò	wàntò	PROPN	NPR	_	12	vocative	_	GE=[Wàntò]|nWord=2|RX=[NPR]|WordAlignmentBegin=323658|WordAlignmentEnd=324232
 3	dùà	dùà	NOUN	N	_	12	dislocated:obj	_	GE=[cabri]|nWord=3|RX=[N]|WordAlignmentBegin=324232|WordAlignmentEnd=324438
 4	hɛ̰̀	hɛ̰̀	ADV	ADV	_	3	mod	_	GE=[ici]|nWord=4|RX=[ADV]|WordAlignmentBegin=324438|WordAlignmentEnd=324644
 5	ʔéí	ʔéí	PRON	PRO	PronType=Ind	7	subj	_	GE=[IMPS]|nWord=5|RX=[PRO]|WordAlignmentBegin=324644|WordAlignmentEnd=324850
@@ -2662,13 +2662,13 @@
 14	hɛ̰̀	hɛ̰̀	ADV	ADV	_	11	mod	_	GE=ici|nWord=9|RX=ADV|WordAlignmentBegin=332128|WordAlignmentEnd=332434
 
 # sent_id = GYA_PRD_NARR_T24-C59_152-153
-# text = ʔá̰ mɔ̀-nɛ̀ mɛ́ BHa- hɔ -H ngbàrà =yó nɛ̀ wéwéì ʔé ʔá̰-nɛ̀ =yó BHa- ba -H dùà há̰ =yó H- gbɛ
+# text = hɛ̰̀ ʔá̰ mɔ̀-nɛ̀ mɛ́ BHa- hɔ -H ngbàrà =yó nɛ̀ wéwéì ʔé ʔá̰-nɛ̀ =yó BHa- ba -H dùà há̰ =yó H- gbɛ
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # text_phonetic = ʔá̰ mɔ̀-nɛ̀ mɛ́ hɔ̀ɔ́ ngbàràyó nɛ̀ wéwéì ʔé ʔá̰-ndòyó bàá dùà hóyó gbɛ́
 # text_fr = comme tu a débarqué entre nous en tant qu'homme voilà que nous avons pris un cabri pour le tuer
 1	hɛ̰̀	hɛ̰̀	ADV	ADV	_	16	mod	_	GE=[ici]|nWord=9|RX=[ADV]|WordAlignmentBegin=332128|WordAlignmentEnd=332434
-2	ʔá̰	ʔá̰	CCONJ	COORD	_	16	_	_	GE=[voilà_que]|nWord=10|RX=[COORD]|WordAlignmentBegin=332434|WordAlignmentEnd=332676
+2	ʔá̰	ʔá̰	CCONJ	COORD	_	16	cc	_	GE=[voilà_que]|nWord=10|RX=[COORD]|WordAlignmentBegin=332434|WordAlignmentEnd=332676
 3	mɔ̀-nɛ̀	mɔ̀-nɛ̀	SCONJ	SUB	_	16	conj	_	GE=[puisque]|nWord=11|RX=[SUB]|WordAlignmentBegin=332676|WordAlignmentEnd=332918
 4	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	6	subj	_	GE=[2SG]|nWord=12|RX=[PERS]|WordAlignmentBegin=332918|WordAlignmentEnd=333160
 5	BHa-	BHa-	AUX	MV	Aspect=Perf	6	aux	_	GE=[ACC]|nWord=13|RX=[MV]|WordAlignmentBegin=333160|WordAlignmentEnd=333241
@@ -2685,9 +2685,10 @@
 16	ba	ba	VERB	V	_	0	root	_	GE=[prendre]|nWord=19|RX=[V]|WordAlignmentBegin=334859|WordAlignmentEnd=334982
 17	-H	-H	X	FCT	_	16	aff	_	GE=[MT]|nWord=19|RX=[FCT]|WordAlignmentBegin=334982|WordAlignmentEnd=335104
 18	dùà	dùà	NOUN	N	_	16	comp:obj	_	GE=[cabri]|nWord=20|RX=[N]|WordAlignmentBegin=335104|WordAlignmentEnd=335472
-19	há̰	há̰	SCONJ	SUB	_	16	conj	_	GE=[pour_que]|nWord=21|RX=[SUB]|WordAlignmentBegin=335472|WordAlignmentEnd=335656
-20	=yó	ʔóyó	PRON	PERS	Number=Plur|PronType=Prs	0	subj	_	GE=[LOGPL]|nWord=21|RX=[PERS]|WordAlignmentBegin=335656|WordAlignmentEnd=335840
-21	H-	H-	AUX	MV	Aspect=Imp	0	aux	_	GE=[INAC]|nWord=22|RX=[MV]|WordAlignmentBegin=335840|WordAlignmentEnd=336023
+19	há̰	há̰	SCONJ	SUB	_	16	mod	_	GE=[pour_que]|nWord=21|RX=[SUB]|WordAlignmentBegin=335472|WordAlignmentEnd=335656
+20	=yó	ʔóyó	PRON	PERS	Number=Plur|PronType=Prs	22	subj	_	GE=[LOGPL]|nWord=21|RX=[PERS]|WordAlignmentBegin=335656|WordAlignmentEnd=335840
+21	H-	H-_	AUX	MV	Aspect=Imp	22	aux	_	GE=[INAC]|nWord=22|RX=[MV]|WordAlignmentBegin=335840|WordAlignmentEnd=336023
+22	gbɛ	gbɛ	AUX	MV	Aspect=Imp	19	comp	_	GE=tuer|nWord=22|RX=[V]|WordAlignmentBegin=335840|WordAlignmentEnd=336023
 
 # sent_id = GYA_PRD_NARR_T24-C59_154-154
 # text = B- =óyó H- dɛ nɛ̀ mɔ̀ H- ʔa tɛ̀ -H =mɛ́ kà =mɛ́ H- duk ngbàrà =yó

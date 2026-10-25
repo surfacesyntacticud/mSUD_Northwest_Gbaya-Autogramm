@@ -834,7 +834,7 @@
 12-14	ʔá̰-ndɔ̀wá	_	_	_	_	_	_	_	_
 12	ʔá̰-nɛ̀	_	DET	MODY	_	3	det	_	GE=[TOP]|Gloss=TOP|nWord=9|RX=[MODY]|WordAlignmentBegin=126409|WordAlignmentEnd=126474
 13	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	16	subj	_	GE=[3PL]|Gloss=3PL|nWord=9|RX=[PRO].[PERS]|WordAlignmentBegin=126474|WordAlignmentEnd=126539
-14	-H	_	_	MODY	_	13	aff	_	GE=[TM]|Gloss=TM|nWord=9|RX=[MODY]|WordAlignmentBegin=126539|WordAlignmentEnd=126603
+14	-H	_	X	MODY	_	13	aff	_	GE=[TM]|Gloss=TM|nWord=9|RX=[MODY]|WordAlignmentBegin=126539|WordAlignmentEnd=126603
 15-17	yàkà	_	_	_	_	_	_	_	_
 15	BHa-	_	AUX	TAM	_	16	aux	_	GE=[PFV]|Gloss=PFV|nWord=10|RX=[TAM]|WordAlignmentBegin=126603|WordAlignmentEnd=126668
 16	yak	yak	VERB	V	_	8	comp:redup	_	GE=leave|Gloss=leave|nWord=10|RX=[V]|WordAlignmentBegin=126668|WordAlignmentEnd=126733
@@ -951,7 +951,7 @@
 18-19	mɔ́-hɔ̀	_	_	_	_	_	_	_	_
 18	mɛ́-B	_	AUX	VM	_	19	aux	_	GE=[INF].[VRT]|Gloss=INF.VRT-|nWord=14|RX=[VM]|WordAlignmentBegin=147862|WordAlignmentEnd=147984
 19	hɔ	hɔ	VERB	V	_	16	compound:svc	_	GE=arrive|Gloss=arrive|nWord=14|RX=[V]|WordAlignmentBegin=147984|WordAlignmentEnd=148107
-20	díí-gè-ndé	díí-gè-ndé	_	INTJ	_	19	comp:obl	_	GE=où|Gloss=où|nWord=15|RX=[INTERR]|WordAlignmentBegin=148107|WordAlignmentEnd=148352
+20	díí-gè-ndé	díí-gè-ndé	ADV	INTJ	_	19	mod	_	GE=où|Gloss=où|nWord=15|RX=[INTERR]|WordAlignmentBegin=148107|WordAlignmentEnd=148352
 
 # sent_id = GYA_PRD_NARR_04_Louis_093-099_split2
 # speaker_id = @SP
@@ -1803,7 +1803,7 @@
 3-5	ndɔ̀wá	_	_	_	_	_	_	_	_
 3	nɛ̀	nɛ̀	DET	MODY	_	1	det	_	GE=[TOP]|Gloss=TOP|nWord=2|RX=[MODY]|WordAlignmentBegin=236822|WordAlignmentEnd=236903
 4	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	7	subj	_	GE=[3PL]|Gloss=3PL|nWord=2|RX=[PRO].[PERS]|WordAlignmentBegin=236903|WordAlignmentEnd=236984
-5	-H	_	_	MODY	_	4	aff	_	GE=[TM]|Gloss=TM|nWord=2|RX=[MODY]|WordAlignmentBegin=236984|WordAlignmentEnd=237064
+5	-H	_	X	MODY	_	4	aff	_	GE=[TM]|Gloss=TM|nWord=2|RX=[MODY]|WordAlignmentBegin=236984|WordAlignmentEnd=237064
 6-8	ndàkà	_	_	_	_	_	_	_	_
 6	BHa-	_	AUX	TAM	_	7	aux	_	GE=[PFV]|Gloss=PFV|nWord=3|RX=[TAM]|WordAlignmentBegin=237064|WordAlignmentEnd=237145
 7	ndak	ndak	VERB	V	_	0	root	_	GE=chase|Gloss=chase|nWord=3|RX=[V]|WordAlignmentBegin=237145|WordAlignmentEnd=237226
@@ -1876,7 +1876,7 @@
 6	wèn	wèn	ADP	PREP	_	4	comp:obl	_	GE=because_of|Gloss=because_of|nWord=8|RX=[PREP]|WordAlignmentBegin=243854|WordAlignmentEnd=244036
 7-8	ʔá̰	_	_	_	_	_	_	_	_
 7	-ám	_	PRON	PRO.PERS	Number=Sing|Person=1|PronType=Prs	6	comp	_	GE=[1SG]|Gloss=-1SG|nWord=9|RX=[PRO].[PERS]|WordAlignmentBegin=244036|WordAlignmentEnd=244127
-8	ʔá̰-hḭ̀ḭ́	ʔá̰-hḭ̀ḭ́	_	PRED	_	0	root	_	GE=[PRST-CONS]|Gloss=c'est ainsi|nWord=9|RX=[PRED]|WordAlignmentBegin=244127|WordAlignmentEnd=244218
+8	ʔá̰-hḭ̀ḭ́	ʔá̰-hḭ̀ḭ́	AUX	PRED	_	0	root	_	GE=[PRST-CONS]|Gloss=c'est ainsi|nWord=9|RX=[PRED]|WordAlignmentBegin=244127|WordAlignmentEnd=244218
 
 # sent_id = GYA_PRD_NARR_04_Louis_171-173
 # speaker_id = @SP
@@ -2120,7 +2120,7 @@
 8-9	gárdéà	_	_	_	_	_	_	_	_
 8	gárdè	gárdè	NOUN	N	_	7	parataxis	_	GE=garde|Gloss=<F|nWord=19|RX=[N]|WordAlignmentBegin=265433|WordAlignmentEnd=265543
 9	-à	_	DET	NM	_	8	det	_	GE=[DEF]|Gloss=DEF|nWord=19|RX=[NM]|WordAlignmentBegin=265543|WordAlignmentEnd=265652
-10	ʔá̰-sɛ̀nɛ́	ʔá̰-sɛ̀nɛ́	_	PRED	_	0	root	_	GE=[EXS]|Gloss=EXS|nWord=20|RX=[PRED]|WordAlignmentBegin=265652|WordAlignmentEnd=265871
+10	ʔá̰-sɛ̀nɛ́	ʔá̰-sɛ̀nɛ́	AUX	PRED	_	0	root	_	GE=[EXS]|Gloss=EXS|nWord=20|RX=[PRED]|WordAlignmentBegin=265652|WordAlignmentEnd=265871
 
 # sent_id = GYA_PRD_NARR_04_Louis_185-193_split2_split2_split2_split1
 # text = ʔó mà ʔà̰ yá pɛ́myɛ́ɛ́ -yɛ́ɛ́ nɛ̀ ngòmbè mbɔ́ɗɔ́-nù
@@ -2270,7 +2270,7 @@
 7	-yɛ́ɛ́	_	PRON	PRO.PERS	Number=Plur|Person=1|PronType=Prs	5	comp:obj	_	GE=[1PL]|Gloss=-1PL|nWord=3|RX=[PRO].[PERS]|WordAlignmentBegin=283206|WordAlignmentEnd=283253
 8-10	ʔínwà	_	_	_	_	_	_	_	_
 8	ʔîn	ʔîn	ADP	PREP	_	5	comp:obl	_	GE=with|Gloss=with|nWord=4|RX=[PREP]|WordAlignmentBegin=283253|WordAlignmentEnd=283317
-9	-H	_	_	MODY	_	8	aff	_	GE=[TM]|Gloss=TM|nWord=4|RX=[MODY]|WordAlignmentBegin=283317|WordAlignmentEnd=283381
+9	-H	_	X	MODY	_	8	aff	_	GE=[TM]|Gloss=TM|nWord=4|RX=[MODY]|WordAlignmentBegin=283317|WordAlignmentEnd=283381
 10	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	8	comp	_	GE=[3PL]|Gloss=3PL|nWord=4|RX=[PRO].[PERS]|WordAlignmentBegin=283381|WordAlignmentEnd=283444
 
 # sent_id = GYA_PRD_NARR_04_Louis_199-199_split2_split1
@@ -2404,7 +2404,7 @@
 18-19	tɔ̰́	_	_	_	_	_	_	_	_
 18	H-	_	AUX	TAM	_	19	aux	_	GE=[IPFV]|Gloss=IPFV|nWord=15|RX=[TAM]|WordAlignmentBegin=294430|WordAlignmentEnd=294502
 19	tɔ̰	tɔ̰	VERB	V	_	15	comp	_	GE=say|Gloss=say|nWord=15|RX=[V]|WordAlignmentBegin=294502|WordAlignmentEnd=294575
-20	nɛ̀nɛ́	nɛ̀nɛ́	_	VM	_	19	mod	_	GE=[CRCST]|Gloss=CRCST|nWord=16|RX=[VM]|WordAlignmentBegin=294575|WordAlignmentEnd=294647
+20	nɛ̀nɛ́	nɛ̀nɛ́	PART	VM	_	19	mod	_	GE=[CRCST]|Gloss=CRCST|nWord=16|RX=[VM]|WordAlignmentBegin=294575|WordAlignmentEnd=294647
 21	-TM.INV	_	DET	MODY	_	20	det	_	GE=[INT]|Gloss=-INT|nWord=16|RX=[MODY]|WordAlignmentBegin=294647|WordAlignmentEnd=294720
 
 # sent_id = GYA_PRD_NARR_04_Louis_203-207_split1_split1_split2

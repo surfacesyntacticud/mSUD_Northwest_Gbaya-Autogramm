@@ -1288,7 +1288,7 @@
 2	ndàyà	ndàyà	NOUN	N	_	1	mod	_	GE=raison|Gloss=raison|nWord=2|RX=[N]|WordAlignmentBegin=169273|WordAlignmentEnd=169395
 3	-H	-H	X	FCT	_	2	udep	_	GE=[MT]|Gloss=-D|nWord=2|RX=[FCT]|WordAlignmentBegin=169395|WordAlignmentEnd=169516
 4	mɔ̀	mɔ̀	NOUN	N	_	3	comp	_	GE=chose|Gloss=chose|nWord=3|RX=[N]|WordAlignmentBegin=169516|WordAlignmentEnd=169759
-5	nɛ̀	nɛ̀	SCONJ	SUB	_	2	comp:obl@relcl	_	GE=[REL]|Gloss=REL|nWord=4|RX=[SUB]|WordAlignmentBegin=169759|WordAlignmentEnd=169840
+5	nɛ̀	nɛ̀	SCONJ	SUB	_	2	mod@relcl	_	GE=[REL]|Gloss=REL|nWord=4|RX=[SUB]|WordAlignmentBegin=169759|WordAlignmentEnd=169840
 6	ʔéí	ʔéí	PRON	PR	Number=Sing|PronType=Log	9	subj	_	GE=[P].[IMP]|Gloss=P.IMP|nWord=4|RX=[PR]|WordAlignmentBegin=169840|WordAlignmentEnd=169921
 7	-H	-H	X	FCT	_	6	aff	_	GE=[MT]|Gloss=-D|nWord=4|RX=[FCT]|WordAlignmentBegin=169921|WordAlignmentEnd=170002
 8	H-	H-	AUX	MV	_	9	aux	_	GE=[INAC]|Gloss=INAC-|nWord=5|RX=[MV]|WordAlignmentBegin=170002|WordAlignmentEnd=170124

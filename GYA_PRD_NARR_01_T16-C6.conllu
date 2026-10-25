@@ -1998,7 +1998,7 @@
 5	BHa-	BHa-	AUX	MV	Aspect=Perf	6	aux	_	GE=[ACC]|nWord=20|RX=[MV]|WordAlignmentBegin=269386|WordAlignmentEnd=269489
 6	yɔ	yɔ	VERB	V	_	4	comp	_	GE=[être_perdu]|nWord=20|RX=[V]|WordAlignmentBegin=269489|WordAlignmentEnd=269592
 7	-H	-H	AUX	MOD	_	6	aff	_	GE=[MT]|nWord=20|RX=[MOD]|WordAlignmentBegin=269592|WordAlignmentEnd=269694
-8	sɔ̰́	sɔ̰́	PART	MOD	VerbForm=Fin	6	mod	_	GE=[REV]|nWord=21|RX=[MOD]|WordAlignmentBegin=269694|WordAlignmentEnd=270002
+8	sɔ̰́	sɔ̰́	PART	MOD	_	6	mod	_	GE=[REV]|nWord=21|RX=[MOD]|WordAlignmentBegin=269694|WordAlignmentEnd=270002
 9	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	1	det	_	GE=[TOP]|nWord=22|RX=[MOD]|Topicalization=Yes|WordAlignmentBegin=270002|WordAlignmentEnd=270105
 10	=éí	ʔéí	PRON	PERS	Number=Sing|PronType=Log	13	subj	_	GE=[LOGSG]|nWord=22|RX=[PERS]|WordAlignmentBegin=270105|WordAlignmentEnd=270208
 11	-H	-H	X	FCT	_	10	aff	_	GE=[MT]|nWord=22|RX=[FCT]|WordAlignmentBegin=270208|WordAlignmentEnd=270310
@@ -2213,7 +2213,7 @@
 8	kà	kà	CCONJ	SUB	_	37	mod	_	GE=[quand]|nWord=6|RX=[SUB]|WordAlignmentBegin=293080|WordAlignmentEnd=293380
 9	mbɔ́zɔ̀-bêm	mbɔ́zɔ̀-bêm	NOUN	N	_	11	subj	_	GE=[nouveau-né]|nWord=7|RX=[N]|WordAlignmentBegin=293380|WordAlignmentEnd=293680
 10-12	nɛ́-bèè	nɛ́-bèè	_	_	_	_	_	_	_
-10	nɛ́-BHa	nɛ́-BHa	AUX	MV	Aspect=Perf	11	aux	_	GE=[HYPO-ACC]|nWord=8|RX=[MV]|WordAlignmentBegin=293680|WordAlignmentEnd=293780
+10	nɛ́-BHa-	nɛ́-BHa-	AUX	MV	Aspect=Perf	11	aux	_	GE=[HYPO-ACC]|nWord=8|RX=[MV]|WordAlignmentBegin=293680|WordAlignmentEnd=293780
 11	be	be	VERB	V	_	8	comp	_	GE=[pouvoir_être]|nWord=8|RX=[V]|WordAlignmentBegin=293780|WordAlignmentEnd=293880
 12	-H	-H	X	MOD	_	11	aff	_	GE=[MT]|nWord=8|RX=[MOD]|WordAlignmentBegin=293880|WordAlignmentEnd=293980
 13	sór-mɔ̀-ná	sór-mɔ̀-ná	ADV	ADV	_	11	comp:pred	_	GE=[un_tout_petit_peu]|nWord=9|RX=[ADV]|WordAlignmentBegin=293980|WordAlignmentEnd=294280
@@ -2245,14 +2245,14 @@
 34	bàngí	bàngí	PROPN	NPR	_	32	comp	_	GE=[village sp]|nWord=24|RX=[NPR]|WordAlignmentBegin=298480|WordAlignmentEnd=298780
 35	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3	37	subj	_	GE=[3SG]|nWord=25|RX=[PERS]|WordAlignmentBegin=298780|WordAlignmentEnd=299080
 36-37	tɛ́-gàsì	_	_	_	_	_	_	_	_
-36	tɛ́-B	tɛ́-B	AUX	MV	Aspect=Imp|Mood=Irr	37	aux	_	GE=[VIRT].[INAC]|nWord=26|RX=[MV]|WordAlignmentBegin=299080|WordAlignmentEnd=299230
+36	tɛ́-B-	tɛ́-B-	AUX	MV	Aspect=Imp|Mood=Irr	37	aux	_	GE=[VIRT].[INAC]|nWord=26|RX=[MV]|WordAlignmentBegin=299080|WordAlignmentEnd=299230
 37	gasi	gasi	VERB	V	_	0	root	_	GE=[grandir]|nWord=26|RX=[V]|WordAlignmentBegin=299230|WordAlignmentEnd=299380
 38	kɔ̀	kɔ̀	ADP	FCT	_	37	comp:obl	_	GE=[intérieur]|nWord=27|RX=[FCT]|WordAlignmentBegin=299380|WordAlignmentEnd=299680
 39	ʔér	ʔér	NOUN	N	_	38	comp	_	GE=[main]|nWord=28|RX=[N]|WordAlignmentBegin=299680|WordAlignmentEnd=299970
 40	-H	-H	ADP	_	_	39	udep	_	GE=[MT]|nWord=28|RX=[FCT]
 41	nàà	nàà	NOUN	N	_	40	comp	_	GE=[mère]|nWord=28|RX=[N]|WordAlignmentBegin=299680|WordAlignmentEnd=299970
 42	kɔ́	kɔ́	ADP	N	_	41	udep	_	GE=[de]|nWord=28|RX=[FCT]|WordAlignmentBegin=299680|WordAlignmentEnd=299970
-43	=à̰	=à̰	NOUN	N	Number=Sing|Person=3	42	comp	_	GE=[3SG]|nWord=28|RX=[PERS]|WordAlignmentBegin=299680|WordAlignmentEnd=299970
+43	=à̰	=à̰	PRON	N	Number=Sing|Person=3	42	comp	_	GE=[3SG]|nWord=28|RX=[PERS]|WordAlignmentBegin=299680|WordAlignmentEnd=299970
 44	-ìí	-ìí	DET	N	_	43	det	_	GE=[ANAPH]|nWord=28|RX=[MOD]|WordAlignmentBegin=299680|WordAlignmentEnd=299970
 
 # sent_id = GYA_PRD_NARR_01_T16-C6_140-140a
@@ -2277,7 +2277,7 @@
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	GE=ACC|nWord=6|RX=MV|WordAlignmentBegin=301530|WordAlignmentEnd=301634
 5	ba	ba	VERB	V	_	1	comp	_	GE=prendre|nWord=6|RX=V|WordAlignmentBegin=301634|WordAlignmentEnd=301738
 6	-H	-H	X	MOD	_	5	aff	_	GE=MT|nWord=6|RX=MOD|WordAlignmentBegin=301738|WordAlignmentEnd=301842
-7	sɔ̰́	sɔ̰́	PART	MOD	VerbForm=Fin	5	mod	_	GE=REV|nWord=7|RX=MOD|WordAlignmentBegin=301842|WordAlignmentEnd=302154
+7	sɔ̰́	sɔ̰́	PART	MOD	_	5	mod	_	GE=REV|nWord=7|RX=MOD|WordAlignmentBegin=301842|WordAlignmentEnd=302154
 8	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	GE=3SG|nWord=8|RX=PERS|WordAlignmentBegin=302154|WordAlignmentEnd=302466
 9	yáknɛ́	yáknɛ́	PART	MV	_	5	mod	_	GE=en_partant|nWord=9|RX=MV|WordAlignmentBegin=302466|WordAlignmentEnd=302778
 10	H-	H-	AUX	MV	Aspect=Perf	11	aux	_	GE=INF-ACC|nWord=10|RX=MV|WordAlignmentBegin=302778|WordAlignmentEnd=302934

@@ -550,7 +550,7 @@
 14	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	11	mod@relcl	_	GE=REL|nWord=8|RX=SUB|WordAlignmentBegin=72004|WordAlignmentEnd=72370
 15	dɛ́-mɛ́-B-	dɛ́-mɛ́-B-	AUX	MV	Aspect=Imp	16	aux	_	GE=IM-INAC|Gloss=IM-INAC-|nWord=9|RX=MV|WordAlignmentBegin=72370|WordAlignmentEnd=72554
 16	ɲɔŋ	ɲɔŋ	VERB	V	_	14	comp	_	GE=manger|nWord=9|RX=V|WordAlignmentBegin=72554|WordAlignmentEnd=72738
-17	ɲɔŋ	ɲɔŋ	VERB	V	_	16	comp:redup	_	GE=manger|nWord=10|RX=V|WordAlignmentBegin=72738|WordAlignmentEnd=73144
+17	ɲɔŋ	ɲɔŋ	VERB	V	_	16	conj:redup	_	GE=manger|nWord=10|RX=V|WordAlignmentBegin=72738|WordAlignmentEnd=73144
 18	gùn	gùn	NOUN	N	_	17	comp:obj	_	GE=base|nWord=11|RX=N|WordAlignmentBegin=73144|WordAlignmentEnd=73550
 19	-H	-H	ADP	_	_	18	udep	_	GE=MT|nWord=11|RX=FCT
 20	gótó	gótó	NOUN	N	_	19	comp	_	GE=partie_arrière|nWord=12|RX=N|WordAlignmentBegin=73550|WordAlignmentEnd=73753
@@ -1159,7 +1159,7 @@
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	GE=ACC|nWord=2|RX=MV|WordAlignmentBegin=144306|WordAlignmentEnd=144418
 3	kai	kai	VERB	V	_	0	root	_	GE=ramasser|nWord=2|RX=V|WordAlignmentBegin=144418|WordAlignmentEnd=144530
 4	-H	-H	X	FCT	_	3	aff	_	GE=MT|nWord=2|RX=FCT|WordAlignmentBegin=144530|WordAlignmentEnd=144642
-5	sɔ̰́	sɔ̰́	PART	MOD	VerbForm=Fin	3	mod	_	GE=REV|nWord=3|RX=MOD|WordAlignmentBegin=144642|WordAlignmentEnd=144978
+5	sɔ̰́	sɔ̰́	PART	MOD	_	3	mod	_	GE=REV|nWord=3|RX=MOD|WordAlignmentBegin=144642|WordAlignmentEnd=144978
 6	gbàɲà	gbàɲà	NOUN	N	_	3	comp:obj	_	GE=partie_dure|nWord=4|RX=N|WordAlignmentBegin=144978|WordAlignmentEnd=145146
 7	-H	-H	ADP	FCT	_	6	udep	_	GE=MT|nWord=4|RX=FCT|WordAlignmentBegin=145146|WordAlignmentEnd=145314
 8	sùnù	sùnù	NOUN	N	_	7	comp	_	GE=sésame|nWord=5|RX=N|WordAlignmentBegin=145314|WordAlignmentEnd=145650
@@ -1199,7 +1199,7 @@
 4	dɛ	dɛ	VERB	V	_	0	root	_	GE=se_produire|nWord=9|RX=V|WordAlignmentBegin=150342|WordAlignmentEnd=150619
 
 # sent_id = GYA_PRD_NARR_T24-C59_062-062
-# text = wàntò BHa- zɔk -H sɔ̰́ wàn zù -H -à ká BHa- di -H tɛ̀ -H wí
+# text = wàntò BHa- zɔk -H sɔ̰́ wàn -H zù -H -à ká BHa- di -H tɛ̀ -H =wí
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # text_phonetic = Wàntò zɔ̀kà sɔ̰́ wàn zúà ká dìí tɛ̀í
@@ -1208,7 +1208,7 @@
 2	BHa-	BHa-	AUX	MV	Aspect=Perf	3	aux	_	GE=ACC|nWord=2|RX=MV|WordAlignmentBegin=150939|WordAlignmentEnd=151045
 3	zɔk	zɔk	VERB	V	_	0	root	_	GE=voir|nWord=2|RX=V|WordAlignmentBegin=151045|WordAlignmentEnd=151151
 4	-H	-H	X	FCT	_	3	aff	_	GE=MT|nWord=2|RX=FCT|WordAlignmentBegin=151151|WordAlignmentEnd=151258
-5	sɔ̰́	sɔ̰́	PART	MOD	VerbForm=Fin	3	mod	_	GE=REV|nWord=3|RX=MOD|WordAlignmentBegin=151258|WordAlignmentEnd=151577
+5	sɔ̰́	sɔ̰́	PART	MOD	_	3	mod	_	GE=REV|nWord=3|RX=MOD|WordAlignmentBegin=151258|WordAlignmentEnd=151577
 6	wàn	wàn	PRON	PRO	_	3	comp:obj	_	GE=celui_sp|nWord=4|RX=PRO|WordAlignmentBegin=151577|WordAlignmentEnd=151896
 7	-H	-H	ADP	_	_	6	udep	_	GE=MT|nWord=4|RX=FCT
 8	zù	zù	NOUN	FCT	_	7	comp	_	GE=dessus|nWord=5|RX=AR|WordAlignmentBegin=151896|WordAlignmentEnd=152002
@@ -2794,7 +2794,7 @@
 6	fàrà	fàrà	NOUN	N	_	3	comp:obl	_	GE=endroit|nWord=4|RX=N|WordAlignmentBegin=346306|WordAlignmentEnd=346600
 
 # sent_id = GYA_PRD_NARR_T24-C59_160-162
-# text = mɔ́ ndàyà -H mɔ̀ nɛ̀ mɛ́ H- nɛ Há- har kóò ká hèè mɛ́ nɛ́-BHa nɛ nɛ̀ mɛ́ -B H- yak-ká-B ɲɔŋ ɓélá kútùà kɔ́ ʔó fòr -H =mɛ́ sítí-há̰ wà ná
+# text = mɔ́ ndàyà -H mɔ̀ nɛ̀ mɛ́ H- nɛ Há- har kóò ká hèè mɛ́ nɛ́-BHa- nɛ nɛ̀ mɛ́ -B H- yak-ká-B ɲɔŋ ɓélá kútùà kɔ́ ʔó fòr -H =mɛ́ sítí-há̰ wà ná
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
 # text_phonetic = mɔ́ ndàyá mɔ̀ nɛ̀mɛ́ nɛ́ hárá kóò ká hèè mɛ́ nɛ́-nɛ̀á nɛ̀ mɛ̀ yák-tɛ́-ɲɔ̀ŋ ɓélá kútùà kó fòrmɛ́ sítí-há̰wà ná
@@ -2813,7 +2813,7 @@
 12	ká	ká	CCONJ	COORD	_	13	cc	_	GE=[alors]|nWord=8|RX=[COORD]|WordAlignmentBegin=348786|WordAlignmentEnd=349084
 13	hèè	hèè	INTJ	INTERJ	_	22	parataxis:participant	_	GE=[DISC]|nWord=9|RX=[DISC]|WordAlignmentBegin=349084|WordAlignmentEnd=349382
 14	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	16	subj	_	GE=[2SG]|nWord=10|RX=[PERS]|WordAlignmentBegin=349382|WordAlignmentEnd=349680
-15	nɛ́-BHa	nɛ́-BHa	AUX	MV	Aspect=Perf	16	aux	_	GE=[HYPO-ACC]|nWord=11|RX=[MV]|WordAlignmentBegin=349680|WordAlignmentEnd=349828
+15	nɛ́-BHa-	nɛ́-BHa-	AUX	MV	Aspect=Perf	16	aux	_	GE=[HYPO-ACC]|nWord=11|RX=[MV]|WordAlignmentBegin=349680|WordAlignmentEnd=349828
 16	nɛ	nɛ	VERB	V	_	22	mod	_	GE=[aller]|nWord=11|RX=[V]|WordAlignmentBegin=349828|WordAlignmentEnd=349976
 17	nɛ̀	nɛ̀	CCONJ	COORD	_	22	cc	_	GE=[et_ainsi]|nWord=12|RX=[COORD]|WordAlignmentBegin=349976|WordAlignmentEnd=350331
 18	mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	22	subj	_	GE=[2SG]|nWord=13|RX=[PERS]|WordAlignmentBegin=350331|WordAlignmentEnd=350509

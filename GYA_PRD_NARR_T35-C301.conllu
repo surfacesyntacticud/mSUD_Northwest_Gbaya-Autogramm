@@ -18,7 +18,7 @@
 3-4	gɔ̀nà	_	_	_	_	_	_	_	_
 3	BHa-	BHa-	AUX	MV	_	4	aux	_	GE=[ACC]|Gloss=ACC-|nWord=3|RX=[MV]|WordAlignmentBegin=13397|WordAlignmentEnd=13594
 4	gɔn	gɔn	VERB	V	_	0	root	_	GE=couper|Gloss=couper|nWord=3|RX=[V]|WordAlignmentBegin=13594|WordAlignmentEnd=13791
-5	-H	-H	MOD	MOD	_	4	aff	_	GE=[MT]|Gloss=-MT|nWord=3|RX=[MOD]|WordAlignmentBegin=13791|WordAlignmentEnd=13989
+5	-H	-H	X	MOD	_	4	aff	_	GE=[MT]|Gloss=-MT|nWord=3|RX=[MOD]|WordAlignmentBegin=13791|WordAlignmentEnd=13989
 6	zɔ̰́	zɔ̰́	NOUN	N	_	4	comp:obj	_	GE=herbe|Gloss=herbe|nWord=4|RX=[N]|WordAlignmentBegin=13989|WordAlignmentEnd=14581
 7-8	kɔ́í	_	_	_	_	_	_	_	_
 7	kɔ́	kɔ́	ADP	FCT	_	6	mod	_	GE=de|Gloss=de|nWord=5|RX=[FCT]|WordAlignmentBegin=14581|WordAlignmentEnd=14877
@@ -49,9 +49,9 @@
 6	wèè	wèè	NOUN	N	_	5	comp:obj	_	GE=feu|Gloss=feu|nWord=17|RX=[N]|WordAlignmentBegin=21685|WordAlignmentEnd=22277
 7	tɛ̀	tɛ̀	ADP	FCT	_	5	mod	_	GE=à|Gloss=à|nWord=18|RX=[FCT]|WordAlignmentBegin=22277|WordAlignmentEnd=22869
 8	zɔ̰́	zɔ̰́	NOUN	N	_	7	comp	_	GE=herbe|Gloss=herbe|nWord=19|RX=[N]|WordAlignmentBegin=22869|WordAlignmentEnd=23461
-9	sínɛ́	sínɛ́	MV	MV	_	5	mod	_	GE=en_s'en_allant|Gloss=en_s'en_allant|nWord=20|RX=[MV]|WordAlignmentBegin=23461|WordAlignmentEnd=24053
+9	sínɛ́	sínɛ́	PART	MV	_	5	mod	_	GE=en_s'en_allant|Gloss=en_s'en_allant|nWord=20|RX=[MV]|WordAlignmentBegin=23461|WordAlignmentEnd=24053
 10-11	zɛ̀ŋ_zɛ̀ŋ_zɛ̀ŋ_zɛ̀ŋ	_	_	_	_	_	_	_	_
-10	zɛ̀ŋ-zɛ̀ŋ	zɛ̀ŋ-zɛ̀ŋ	AA	AA	_	5	mod	_	GE=faisant un cercle|Gloss=faisant un cercle|nWord=21|RX=[AA]|WordAlignmentBegin=24053|WordAlignmentEnd=24353
+10	zɛ̀ŋ-zɛ̀ŋ	zɛ̀ŋ-zɛ̀ŋ	ADJ	AA	_	5	mod	_	GE=faisant un cercle|Gloss=faisant un cercle|nWord=21|RX=[AA]|WordAlignmentBegin=24053|WordAlignmentEnd=24353
 11	-RDP	-RDP	DET	***	_	10	det	_	GE=[***]|Gloss=-***|nWord=21|RX=[***]|WordAlignmentBegin=24353|WordAlignmentEnd=24652
 
 # sent_id = GYA_PRD_NARR_T35-C301_003-004a
@@ -73,25 +73,25 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T35-C301.WAV
 # text_en = Gbason dit] / ces herbes que nous allons brûler / le chant que vous allez chanter / faites le répons. //
 1	gbàsɔ̰̀	gbàsɔ̰̀	PROPN	NPR	_	22	discourse:participant	_	GE=[Gbason]|Gloss=Gbason|nWord=4|RX=[NPR]|WordAlignmentBegin=26382|WordAlignmentEnd=26958
-2	ndé	ndé	DISC	DISC	_	1	discourse	_	GE=dit|Gloss=dit|nWord=5|RX=[DISC]|WordAlignmentBegin=26958|WordAlignmentEnd=27535
+2	ndé	ndé	PART	DISC	_	1	discourse	_	GE=dit|Gloss=dit|nWord=5|RX=[DISC]|WordAlignmentBegin=26958|WordAlignmentEnd=27535
 3	zɔ̰́	zɔ̰́	NOUN	N	_	22	dislocated:obl	_	GE=herbe|Gloss=herbe|nWord=6|RX=[N]|WordAlignmentBegin=27535|WordAlignmentEnd=27991
 4	hɛ̰̀	hɛ̰̀	ADV	ADV	_	3	mod	_	GE=ici|Gloss=ici|nWord=7|RX=[ADV]|WordAlignmentBegin=27991|WordAlignmentEnd=28447
 5-6	ndɛ̀ɛ̀	_	_	_	_	_	_	_	_
 5	nɛ̀	nɛ̀	SCONJ	SUB	_	3	mod@relcl	_	GE=[REL]|Gloss=REL|nWord=8|RX=[SUB]|WordAlignmentBegin=28447|WordAlignmentEnd=28599
 6	-ɛ́ɛ́	-ɛ́ɛ́	PRON	PERS	Number=Plur|Person=1	9	subj	_	GE=[1PL]|Gloss=-1PL|nWord=8|RX=[PERS]|WordAlignmentBegin=28599|WordAlignmentEnd=28751
-7	-H	-H	MOD	MOD	_	6	aff	_	GE=[MT]|Gloss=-MT|nWord=8|RX=[MOD]|WordAlignmentBegin=28751|WordAlignmentEnd=28903
+7	-H	-H	X	MOD	_	6	aff	_	GE=[MT]|Gloss=-MT|nWord=8|RX=[MOD]|WordAlignmentBegin=28751|WordAlignmentEnd=28903
 8-9	ʔá	_	_	_	_	_	_	_	_
 8	H-	H-	AUX	MV	_	9	aux	_	GE=[INAC]|Gloss=INAC-|nWord=9|RX=[MV]|WordAlignmentBegin=28903|WordAlignmentEnd=29131
 9	ʔa	ʔa	VERB	V	_	5	comp	_	GE=lancer|Gloss=lancer|nWord=9|RX=[V]|WordAlignmentBegin=29131|WordAlignmentEnd=29359
 10	wèè	wèè	NOUN	N	_	9	comp:obj	_	GE=feu|Gloss=feu|nWord=10|RX=[N]|WordAlignmentBegin=29359|WordAlignmentEnd=29815
 11-12	sɛ̀nɛ́ìí	_	_	_	_	_	_	_	_
-11	sɛ̀nɛ́	sɛ̀nɛ́	MV	MV	_	9	mod	_	GE=dedans|Gloss=dedans|nWord=11|RX=[MV]|WordAlignmentBegin=29815|WordAlignmentEnd=30043
+11	sɛ̀nɛ́	sɛ̀nɛ́	PART	MV	_	9	mod	_	GE=dedans|Gloss=dedans|nWord=11|RX=[MV]|WordAlignmentBegin=29815|WordAlignmentEnd=30043
 12	-ìí	-ìí	DET	MOD	_	11	det	_	GE=[ANAPH]|Gloss=-ANAPH|nWord=11|RX=[MOD]|WordAlignmentBegin=30043|WordAlignmentEnd=30271
 13	gìmà	gìmà	NOUN	N	_	22	dislocated:obj	_	GE=chant|Gloss=chant|nWord=12|RX=[N]|WordAlignmentBegin=30271|WordAlignmentEnd=30727
 14-15	nɛ̀nɛ̀	_	_	_	_	_	_	_	_
 14	nɛ̀	nɛ̀	SCONJ	SUB	_	13	mod@relcl	_	GE=[REL]|Gloss=REL|nWord=13|RX=[SUB]|WordAlignmentBegin=30727|WordAlignmentEnd=30879
 15	-nɛ́	-nɛ́	PRON	PERS	Number=Plur|Person=2	18	subj	_	GE=[2PL]|Gloss=-2PL|nWord=13|RX=[PERS]|WordAlignmentBegin=30879|WordAlignmentEnd=31031
-16	-H	-H	MOD	MOD	_	15	aff	_	GE=[MT]|Gloss=-MT|nWord=13|RX=[MOD]|WordAlignmentBegin=31031|WordAlignmentEnd=31183
+16	-H	-H	X	MOD	_	15	aff	_	GE=[MT]|Gloss=-MT|nWord=13|RX=[MOD]|WordAlignmentBegin=31031|WordAlignmentEnd=31183
 17-18	tɛ́-bèì	_	_	_	_	_	_	_	_
 17	tɛ́-B	tɛ́-B	AUX	MV	_	18	aux	_	GE=[VIRT-INAC]|Gloss=VIRT-INAC|nWord=14|RX=[MV]|WordAlignmentBegin=31183|WordAlignmentEnd=31411
 18	bei	bei	VERB	V	_	14	comp	_	GE=chanter|Gloss=chanter|nWord=14|RX=[V]|WordAlignmentBegin=31411|WordAlignmentEnd=31639
@@ -102,9 +102,9 @@
 21	H-	H-	AUX	MV	_	22	aux	_	GE=[INJ-INAC]|Gloss=INJ-INAC-|nWord=16|RX=[MV]|WordAlignmentBegin=32095|WordAlignmentEnd=32323
 22	kɔ̰	kɔ̰	VERB	V	_	0	root	_	GE=répondre|Gloss=répondre|nWord=16|RX=[V]|WordAlignmentBegin=32323|WordAlignmentEnd=32551
 23-24	ɗɔ̀áà	_	_	_	_	_	_	_	_
-23	ɗɔ̀ɔ̀	ɗɔ̀ɔ̀	AR	AR	_	22	comp:obl	_	GE=sous|Gloss=sous|nWord=17|RX=[AR]|WordAlignmentBegin=32551|WordAlignmentEnd=32705
-24	-H	-H	ADP	FCT	_	23	aff	_	GE=[MT]|Gloss=-MT|nWord=17|RX=[FCT]|WordAlignmentBegin=32705|WordAlignmentEnd=32859
-25	-à	-à	DET	MN	_	23	det	_	GE=[NMLS]|Gloss=-NMLS|nWord=17|RX=[MN]|WordAlignmentBegin=32859|WordAlignmentEnd=33013
+23	ɗɔ̀ɔ̀	ɗɔ̀ɔ̀	ADP	AR	_	22	comp:obl	_	GE=sous|Gloss=sous|nWord=17|RX=[AR]|WordAlignmentBegin=32551|WordAlignmentEnd=32705
+24	-H	-H	X	FCT	_	23	aff	_	GE=[MT]|Gloss=-MT|nWord=17|RX=[FCT]|WordAlignmentBegin=32705|WordAlignmentEnd=32859
+25	-à	-à	DET	MN	_	23	comp	_	GE=[NMLS]|Gloss=-NMLS|nWord=17|RX=[MN]|WordAlignmentBegin=32859|WordAlignmentEnd=33013
 
 # sent_id = GYA_PRD_NARR_T35-C301_005-005
 # speaker_id = @SP
@@ -113,7 +113,7 @@
 # text_en = Et chantez le chant de Gbason //
 1-2	ʔèé	_	_	_	_	_	_	_	_
 1	ʔèè	ʔèè	CCONJ	COORD	_	6	cc	_	GE=puis|Gloss=puis|nWord=1|RX=[COORD]|WordAlignmentBegin=33013|WordAlignmentEnd=33179
-2	-H	-H	MOD	MOD	_	1	aff	_	GE=[MT]|Gloss=-MT|nWord=1|RX=[MOD]|WordAlignmentBegin=33179|WordAlignmentEnd=33345
+2	-H	-H	X	MOD	_	1	aff	_	GE=[MT]|Gloss=-MT|nWord=1|RX=[MOD]|WordAlignmentBegin=33179|WordAlignmentEnd=33345
 3-4	ʔɛ̀nɛ̀	_	_	_	_	_	_	_	_
 3	ʔɛ́nɛ́	ʔɛ́nɛ́	PRON	PERS	Number=Plur|Person=2	6	subj	_	GE=[2PL]|Gloss=2PL|nWord=2|RX=[PERS]|WordAlignmentBegin=33345|WordAlignmentEnd=33511
 4	-B	-B	AUX	MV	_	6	aux	_	GE=[INJ]|Gloss=-INJ|nWord=2|RX=[MV]|WordAlignmentBegin=33511|WordAlignmentEnd=33677

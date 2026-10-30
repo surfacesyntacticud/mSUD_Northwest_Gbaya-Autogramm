@@ -1,97 +1,124 @@
-# Corpus specific variables
-LANG=gya
-SUD_FOLDER=/Users/guillaum/github/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm/SUD_Northwest_Gbaya-Autogramm
-
 # Universal variables
 GREW=grew_dev
-GRS_CONVERT=/Users/guillaum/github/surfacesyntacticud/conversions/grs/${LANG}
 UD_TOOLS=/Users/guillaum/github/UniversalDependencies/tools
 SUD_TOOLS=/Users/guillaum/github/surfacesyntacticud/tools
+UNIDIVE=/Users/guillaum/github/UniDive/SpLAn-UD/metadata-encoding
 
+# Corpus specific variables
+LANG=gya
 
 UD_FOLDER=/Users/guillaum/github/UniversalDependencies/UD_Northwest_Gbaya-Autogramm
-UD_FILE=${UD_FOLDER}/${LANG}_autogramm-ud-test.conllu
+ORIGINAL_SPLIT=${UD_FOLDER}/not-to-release/original_split
 
 doc:
-# 	@echo "make msud     ---> normalise with Grew"
-	@echo "make sud      ---> build word-based SUD version"
-	@echo "make ud       ---> build UD version (both word and morph based)"
-	@echo "make validate ---> validate the Word-based UD version"
+	@echo "make norm       ---> normalise with Grew"
+	@echo "make sud_full   ---> build word-based SUD version"
+	@echo "make ud_full    ---> build the UD conversion"
+	@echo ""
+	@echo "make run_filter ---> build the subcorpus with full annotated sentences"
+	@echo "make sud_filter ---> build word-based filtered SUD version"
+	@echo "make ud_filter  ---> build filtered UD version"
+	@echo ""
+	@echo "⚠️ Make sure that `merge.json` is relevant with respect to filtered version"
+	@echo "make ud         ---> update local UD github repo (⚠️ : from filtered)"
+	@echo "make validate   ---> validate the Word-based UD version"
 
-# 3 files 2.18
-# FILES=GYA_PRD_NARR_01_T16-C6.conllu GYA_PRD_NARR_T24-C59.conllu GYA_PRD_NARR_T9-C7.conllu
-FILES=GYA_PRD_NARR_01_T16-C6.conllu GYA_PRD_NARR_T24-C59.conllu GYA_PRD_NARR_T9-C7.conllu GYA_PRD_NARR_T35-C301.conllu
 
-sud:
-	mkdir -p ${SUD_FOLDER}
-	for infile in ${FILES} ; do \
-		outfile=${SUD_FOLDER}/$$infile ; \
-		echo "$$infile --> $$outfile" ; \
-		${GREW} transform -text_from_tokens -config sud -grs ${GRS_CONVERT}/gya_mSUD_to_SUD.grs -strat gya_mSUD_to_SUD_main -i $$infile -o $$outfile ; \
+norm:
+	for file in *.conllu ; do \
+		${GREW} transform -i $$file -o tmp ; \
+		mv -f tmp $$file ; \
 	done
-	rm -f tmp.conllu
 
-ud: sud
-	for conllu in ${FILES} ; do \
-		infile=${SUD_FOLDER}/$$conllu; \
-		outfile=${UD_FOLDER}/not-to-release/$$conllu ; \
-		echo "$$infile --> $$outfile" ; \
-		${GREW} transform -config sud -grs ${GRS_CONVERT}/${LANG}_SUD_to_UD.grs -strat ${LANG}_SUD_to_UD_main -i $$infile -o $$outfile ; \
-	done
-	@make build_ud
+run_filter:
+	mkdir -p filter
+	python3 ${SUD_TOOLS}/MISC/extract_trees.py . filter/mSUD_Northwest_Gbaya-Autogramm
 
-build_ud:
-	echo "# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC" > ${UD_FILE}
-	for file in ${FILES} ; do \
-		cat ${UD_FOLDER}/not-to-release/$$file | grep -v "# global.columns" >> ${UD_FILE} ; \
-	done
+sud_full:
+	${GREW} build SUD_Northwest_Gbaya-Autogramm@latest
+
+ud_full:
+	${GREW} build UD_Northwest_Gbaya-Autogramm@conv
+
+sud_filter:
+	${GREW} build SUD_Northwest_Gbaya-Autogramm@filter
+
+ud_filter:
+	${GREW} build UD_Northwest_Gbaya-Autogramm@filter
+
+
+UD_CORPUS=UD_Northwest_Gbaya-Autogramm@filter
+UD_BUILD_DIR=`grew_dev get_dir ${UD_CORPUS}`
+ud:
+	cp ${UD_BUILD_DIR}/*.conllu ${ORIGINAL_SPLIT}
+	cp -f merge.json ${ORIGINAL_SPLIT}
+	python3 ${UNIDIVE}/merge_and_unshare.py ${UD_FOLDER}
+
+whole_filter:
+	@make run_filter
+	@make sud_filter
+	@make ud_filter
+	@make ud
 
 validate:
-	${UD_TOOLS}/validate.py --max-err=0 --no-warnings --lang=${LANG} ${UD_FILE}
+	${GREW} validate ${UD_CORPUS}
+	cat ${UD_BUILD_DIR}/_build_grew/${UD_CORPUS}/valid_ud.txt
+
+diag:
+	python3 ${SUDTOOLS}/UD/diag.py ${UD_BUILD_DIR}/_build_grew/${UD_CORPUS}/valid_ud.txt
+
+# # ============================================================
+# diag:
+# 	echo "" > _UDVAL.txt
+# 	for file in ${ORIGINAL_SPLIT}/*.conllu ; do \
+# 		${UD_TOOLS}/validate.py --lang=${LANG} --max-err=0 $$file 2>> _UDVAL.txt || true ; \
+# 	done
+# 	@echo "========= Unknown UPOS tag ========="
+# 	@grep "Unknown UPOS tag" _UDVAL.txt | cut -f 3- -d ":" |  sort | uniq -c | sort -nr
+# 	@echo "========= Unknown DEPREL label ========="
+# 	@grep "Unknown DEPREL label" _UDVAL.txt | cut -f 3- -d ":" |  sort | uniq -c | sort -nr
+# 	@echo "========= feature-value-unknown ========="
+# 	@grep "L4 MORPHO feature-value-unknown" _UDVAL.txt | cut -f 3- -d "]" | cut -f 1 -d "(" | sort | uniq -c | sort -nr 
+# 	@echo "========= feature-upos-not-permitted ========="
+# 	@grep "L4 MORPHO feature-upos-not-permitted" _UDVAL.txt | cut -f 3- -d "]" | cut -f 1 -d "(" | sort | uniq -c | sort -nr 
+# 	@echo "========= feature-value-upos-not-permitted ========="
+# 	@grep "L4 MORPHO feature-value-upos-not-permitted" _UDVAL.txt | cut -f 3- -d "]" | cut -f 1 -d "(" | sort | uniq -c | sort -nr 
+# 	@echo "========= feature-not-permitted ========="
+# 	@grep "L4 MORPHO feature-not-permitted" _UDVAL.txt | cut -f 3- -d "]" | cut -f 1 -d "(" | sort | uniq -c | sort -nr 
+# 	@echo "========= feature-unknown ========="
+# 	@grep "L4 MORPHO feature-unknown" _UDVAL.txt | cut -f 3- -d "]" | cut -f 1 -d "(" | sort | uniq -c | sort -nr 
+# 	@echo "========= aux declaration ========="
+# 	@grep "is not an auxiliary in language" _UDVAL.txt | cut -f 3- -d "]" | sort | uniq -c | sort -nr 
+# 	@echo "========= cop declaration ========="
+# 	@grep "is not a copula in language" _UDVAL.txt | cut -f 3- -d "]" | sort | uniq -c | sort -nr 
+# 	@echo "========= Other issues ========="
+# 	@cat _UDVAL.txt \
+# 	| grep "Line" \
+# 	| grep -v "WARNING" \
+# 	| grep -v "Unknown DEPREL label" \
+# 	| grep -v "Invalid DEPREL value" \
+# 	| grep -v "feature-upos-not-permitted" \
+# 	| grep -v "feature-value-upos-not-permitted" \
+# 	| grep -v "feature-not-permitted" \
+# 	| grep -v "feature-value-unknown" \
+# 	| grep -v "feature-unknown" \
+# 	| grep -v "Unknown UPOS tag" \
+# 	| grep -v "is not an auxiliary in language" \
+# 	| grep -v "is not a copula in language" \
+# 	| grep -v "PASSED" || True
 
 
 # ======================================================================================
+
+run:
+	for infile in *.conllu ; do \
+		${GREW} transform -config sud -grs xxx.grs -i $$infile -o tmp ; \
+		mv -f tmp $$infile ; \
+	done
+
+
 GE:
 	grep GE *.conllu | cut -f 10 | tr "|" "\n" | grep GE | sed "s/^GE=//" | sort -u > GE.list
 
 MGloss:
 	grep MGloss word_based/*.conllu | cut -f 10 | tr "|" "\n" | grep MGloss | sed "s/^GE=//" | sort -u
-
-# ======================================================================================
-# unused
-# ======================================================================================
-mSUD_FOLDER=/Users/guillaum/github/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm/mSUD_Northwest_Gbaya-Autogramm
-xxx:
-	mkdir -p ${mSUD_FOLDER}
-	for infile in *.conllu ; do \
-		outfile=${mSUD_FOLDER}/$$infile ; \
-		echo "$$infile --> $$outfile" ; \
-		${GREW} transform -text_from_tokens -config sud -grs xSUD_to_mSUD.grs -i $$infile -o $$outfile ; \
-	done
-
-tt:	
-	for file in GYA*.conllu ; do \
-		${GREW} transform -grs tokentype.grs -i $$file -o tmp.conllu ; \
-		mv -f tmp.conllu $$file ; \
-	done
-	rm -r tmp.conllu
-
-
-# normalisation:
-# 1) run Grew: normalise Conll and unicode NFC
-# 2) run script adding Word=xxx for SUD convertion
-norm:
-	for file in GYA*.conllu ; do \
-		${GREW} transform -i $$file -o tmp.conllu ; \
-		python3 add_word_to_misc.py tmp.conllu $$file ; \
-	done
-	rm -r tmp.conllu
-
-
-msud:
-	for file in ${FILES} ; do \
-		echo $$file ; \
-		${GREW} transform -i ArboratorGrew/$$file -o tmp.conllu ; \
-		python3 tools/add_word_to_misc.py tmp.conllu $$file ; \
-	done
-	rm -f tmp.conllu

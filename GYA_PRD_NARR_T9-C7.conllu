@@ -1,14 +1,14 @@
 # sent_id = GYA_PRD_NARR_T9-C7_001-001
-# text = ɲîn -H =ám nɛ́ ʔìvɔ̂n
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = ɲínám nɛ́ ʔìvɔ̂n
-# text_fr = Je m'appelle Yvonne
-1	ɲîn	ɲîn	NOUN	N	_	4	subj	_	GE=nom_propre|Gloss=nom_propre|nWord=1|RX=N|WordAlignmentBegin=790|WordAlignmentEnd=936
-2	-H	-H	ADP	_	_	1	udep	_	GE=MT|Gloss=-MT|nWord=1|RX=FCT|WordAlignmentBegin=936|WordAlignmentEnd=1082
-3	=ám	ʔám	PRON	PR	Number=Sing|Person=1|PronType=Prs	2	comp	_	GE=1SG|Gloss=-1SG|nWord=1|RX=PR|WordAlignmentBegin=1082|WordAlignmentEnd=1227
-4	nɛ́	nɛ́	AUX	PRÉD	_	0	root	_	GE=ETRE-ESS|Gloss=ETRE-ESS|nWord=2|RX=PRÉD|WordAlignmentBegin=1227|WordAlignmentEnd=1664
-5	ʔìvɔ̂n	ʔìvɔ̂n	PROPN	NPR	_	4	comp:pred	_	GE=Yvonne|Gloss=Yvonne|nWord=3|RX=NPR|WordAlignmentBegin=1664|WordAlignmentEnd=2100
+# text = ɲîn -H -ám nɛ́ ʔìvɔ̂n
+# text_phonetic = ɲínám nɛ́ ʔìvɔ̂n.
+# text_fr = Je m'appelle Yvonne.
+1	ɲîn	ɲîn	N	_	_	4	subj	_	GE=nom_propre|Gloss=nom_propre|nWord=1|RX=[N]|WordAlignmentBegin=790|WordAlignmentEnd=936
+2	-H	_	ADP	_	_	1	udep	_	GE=[MT]|Gloss=-MT|nWord=1|RX=[FCT]|WordAlignmentBegin=936|WordAlignmentEnd=1082
+3	-ám	_	PRON	_	_	2	comp	_	GE=[1SG]|Gloss=-1SG|nWord=1|RX=[PR]|WordAlignmentBegin=1082|WordAlignmentEnd=1227
+4	nɛ́	nɛ́	AUX	_	_	0	root	_	GE=[ETRE-ESS]|Gloss=ETRE-ESS|nWord=2|RX=[PRÉD]|WordAlignmentBegin=1227|WordAlignmentEnd=1664
+5	ʔìvɔ̂n	ʔìvɔ̂n	PROPN	_	_	4	comp:pred	_	GE=[Yvonne]|Gloss=Yvonne|nWord=3|RX=[NPR]|WordAlignmentBegin=1664|WordAlignmentEnd=2100
 
 # sent_id = GYA_PRD_NARR_T9-C7_002-002
 # text = ʔó mà bókóbêm ʔîn -H bóíbêm ʔá̰-nɛ̀ =wà -H BHa- nɛ -H hɛ̀n BHa- nɛ -H gúɗù ʔîn -H bókáɲá -H =à
@@ -56,23 +56,23 @@
 9	tùà	tùà	NOUN	N	_	7	comp:obj	_	GE=maison|Gloss=maison|nWord=5|RX=N|WordAlignmentBegin=11182|WordAlignmentEnd=11830
 
 # sent_id = GYA_PRD_NARR_T9-C7_004-004
-# text = ʔèè ʔá̰-nɛ̀ =à̰ -H BHa- nɛ -H nɛ́ yàrí yàrí -H ngárì
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = ʔèè ʔá̰-nàá nɛ̀ɛ̀ nɛ́ yàrí yàrì ngárì
+# text = ʔèè ʔá̰-nɛ̀ -à̰ -H BHa- nɛ -H nɛ́ yàrí yàrí -H ngárì
+# text_phonetic = ʔèè ʔá̰-nàá nɛ̀ɛ̀ nɛ́ yàrí yàrì ngárì.
 # text_fr = Puis voilà qu'il est parti en excursion, en excursion au fusil.
-1	ʔèè	ʔèè	CCONJ	SUB	_	6	cc	_	GE=puis|Gloss=puis|nWord=1|RX=SUB|WordAlignmentBegin=11830|WordAlignmentEnd=12310
-2	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	SUCOORD	_	6	cc	_	GE=voilà_que|Gloss=voilà_que|nWord=2|RX=SUCOORD|WordAlignmentBegin=12310|WordAlignmentEnd=12470
-3	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	6	subj	_	GE=3SG|Gloss=-3SG|nWord=2|RX=PERS|WordAlignmentBegin=12470|WordAlignmentEnd=12630
-4	-H	-H	X	FCT	_	3	aff	_	GE=MT|Gloss=-MT|nWord=2|RX=FCT|WordAlignmentBegin=12630|WordAlignmentEnd=12790
-5	BHa-	BHa-	AUX	MV	Aspect=Perf	6	aux	_	GE=ACC|Gloss=ACC-|nWord=3|RX=MV|WordAlignmentBegin=12790|WordAlignmentEnd=12950
-6	nɛ	nɛ	VERB	V	_	0	root	_	GE=aller|Gloss=aller|nWord=3|RX=V|WordAlignmentBegin=12950|WordAlignmentEnd=13110
-7	-H	-H	X	FCT	_	6	aff	_	GE=MT|Gloss=-MT|nWord=3|RX=FCT|WordAlignmentBegin=13110|WordAlignmentEnd=13270
-8	nɛ́	nɛ́	PART	MOD	_	6	mod	_	GE=FOC|Gloss=FOC|nWord=4|RX=MOD|WordAlignmentBegin=13270|WordAlignmentEnd=13750
-9	yàrí	yàrí	NOUN	N	_	6	comp:obl	_	GE=excursion|Gloss=excursion|nWord=5|RX=N|WordAlignmentBegin=13750|WordAlignmentEnd=14230
-10	yàrí	yàrí	NOUN	N	_	9	conj:reform	_	GE=excursion|Gloss=excursion|nWord=6|RX=N|WordAlignmentBegin=14230|WordAlignmentEnd=14470
-11	-H	-H	ADP	FCT	_	10	udep	_	GE=MT|Gloss=-MT|nWord=6|RX=FCT|WordAlignmentBegin=14470|WordAlignmentEnd=14710
-12	ngárì	ngárì	NOUN	N	_	11	comp	_	GE=fusil|Gloss=fusil|nWord=7|RX=N|WordAlignmentBegin=14710|WordAlignmentEnd=15190
+1	ʔèè	ʔèè	CCONJ	_	_	6	cc	_	GE=puis|Gloss=puis|nWord=1|RX=[SUB]|WordAlignmentBegin=11830|WordAlignmentEnd=12310
+2	ʔá̰-nɛ̀	_	CCONJ	_	_	6	cc	_	GE=voilà_que|Gloss=voilà_que|nWord=2|RX=[SUCOORD]|WordAlignmentBegin=12310|WordAlignmentEnd=12470
+3	-à̰	_	PRON	_	_	6	subj	_	GE=[3SG]|Gloss=-3SG|nWord=2|RX=[PERS]|WordAlignmentBegin=12470|WordAlignmentEnd=12630
+4	-H	_	X	_	_	3	aff	_	GE=[MT]|Gloss=-MT|nWord=2|RX=[FCT]|WordAlignmentBegin=12630|WordAlignmentEnd=12790
+5	BHa-	_	AUX	_	_	6	aux	_	GE=[ACC]|Gloss=ACC-|nWord=3|RX=[MV]|WordAlignmentBegin=12790|WordAlignmentEnd=12950
+6	nɛ	nɛ	V	_	_	0	root	_	GE=aller|Gloss=aller|nWord=3|RX=[V]|WordAlignmentBegin=12950|WordAlignmentEnd=13110
+7	-H	_	X	_	_	6	aff	_	GE=[MT]|Gloss=-MT|nWord=3|RX=[FCT]|WordAlignmentBegin=13110|WordAlignmentEnd=13270
+8	nɛ́	nɛ́	PART	_	_	6	mod	_	GE=[FOC]|Gloss=FOC|nWord=4|RX=[MOD]|WordAlignmentBegin=13270|WordAlignmentEnd=13750
+9	yàrí	yàrí	N	_	_	8	comp	_	GE=excursion|Gloss=excursion|nWord=5|RX=[N]|WordAlignmentBegin=13750|WordAlignmentEnd=14230
+10	yàrí	yàrí	N	_	_	9	conj:appos	_	GE=excursion|Gloss=excursion|nWord=6|RX=[N]|WordAlignmentBegin=14230|WordAlignmentEnd=14470
+11	-H	_	ADP	_	_	10	udep	_	GE=[MT]|Gloss=-MT|nWord=6|RX=[FCT]|WordAlignmentBegin=14470|WordAlignmentEnd=14710
+12	ngárì	ngárì	N	_	_	11	comp	_	GE=fusil|Gloss=fusil|nWord=7|RX=[N]|WordAlignmentBegin=14710|WordAlignmentEnd=15190
 
 # sent_id = GYA_PRD_NARR_T9-C7_005-005a
 # text = ʔèè ʔá̰-nɛ̀ =wà -H BHa- dɛ -H tùà
@@ -140,21 +140,21 @@
 8	yàrí	yàrí	NOUN	N	_	5	comp:obl	_	GE=excursion|Gloss=excursion|nWord=5|RX=N|WordAlignmentBegin=23014|WordAlignmentEnd=23360
 
 # sent_id = GYA_PRD_NARR_T9-C7_008-008a
-# text = ʔá̰-nɛ̀ =à̰ -H BHa- yar -H yar -BHi nɛ́nɛ́ -VV
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
+# text = ʔá̰-nɛ̀ -à̰ -H BHa- yar -H yar -BHi nɛ́nɛ́ -vv
 # text_phonetic = ʔá̰-nàá yàrá yàrí nɛ́nɛ́ɛ́ɛ́
 # text_fr = Voilà qu'il part en excursion longtemps,
-1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	5	cc	_	GE=voilà_que|Gloss=voilà_que|nWord=1|RX=COORD|WordAlignmentBegin=23360|WordAlignmentEnd=23465
-2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	subj	_	GE=3SG|Gloss=-3SG|nWord=1|RX=PERS|WordAlignmentBegin=23465|WordAlignmentEnd=23570
-3	-H	-H	X	FCT	_	2	aff	_	GE=MT|Gloss=-MT|nWord=1|RX=FCT|WordAlignmentBegin=23570|WordAlignmentEnd=23675
-4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	GE=ACC|Gloss=ACC-|nWord=2|RX=MV|WordAlignmentBegin=23675|WordAlignmentEnd=23780
-5	yar	yar	VERB	V	_	0	root	_	GE=se_promener|Gloss=se_promener|nWord=2|RX=V|WordAlignmentBegin=23780|WordAlignmentEnd=23885
-6	-H	-H	X	FCT	_	5	aff	_	GE=MT|Gloss=-MT|nWord=2|RX=FCT|WordAlignmentBegin=23885|WordAlignmentEnd=23990
-7	yar	yar	VERB	V	_	5	mod	_	GE=se_promener|Gloss=se_promener|nWord=3|RX=V|WordAlignmentBegin=23990|WordAlignmentEnd=24148
-8	-BHi	-BHi	AUX	MV	_	7	aux	_	GE=ASS|Gloss=-ASS|nWord=3|RX=MV|WordAlignmentBegin=24148|WordAlignmentEnd=24305
-9	nɛ́nɛ́	nɛ́nɛ́	PART	MV	_	5	mod	_	GE=en_allant|Gloss=en_allant|nWord=4|RX=MV|WordAlignmentBegin=24305|WordAlignmentEnd=24463
-10	-VV	-VV	DET	MOD	_	9	det	_	GE=DUR|Gloss=-DUR|nWord=4|RX=MOD|WordAlignmentBegin=24463|WordAlignmentEnd=24620
+1	ʔá̰-nɛ̀	_	CCONJ	_	_	5	cc	_	GE=voilà_que|Gloss=voilà_que|nWord=1|RX=[COORD]|WordAlignmentBegin=23360|WordAlignmentEnd=23465
+2	-à̰	_	PRON	_	_	5	subj	_	GE=[3SG]|Gloss=-3SG|nWord=1|RX=[PERS]|WordAlignmentBegin=23465|WordAlignmentEnd=23570
+3	-H	_	X	_	_	2	aff	_	GE=[MT]|Gloss=-MT|nWord=1|RX=[FCT]|WordAlignmentBegin=23570|WordAlignmentEnd=23675
+4	BHa-	_	AUX	_	_	5	aux	_	GE=[ACC]|Gloss=ACC-|nWord=2|RX=[MV]|WordAlignmentBegin=23675|WordAlignmentEnd=23780
+5	yar	yar	V	_	_	0	root	_	GE=se_promener|Gloss=se_promener|nWord=2|RX=[V]|WordAlignmentBegin=23780|WordAlignmentEnd=23885
+6	-H	_	X	_	_	5	aff	_	GE=[MT]|Gloss=-MT|nWord=2|RX=[FCT]|WordAlignmentBegin=23885|WordAlignmentEnd=23990
+7	yar	yar	V	_	_	5	mod	_	GE=se_promener|Gloss=se_promener|nWord=3|RX=[V]|WordAlignmentBegin=23990|WordAlignmentEnd=24148
+8	-BHi	_	AUX	_	_	7	aux	_	GE=[ASS]|Gloss=-ASS|nWord=3|RX=[MV]|WordAlignmentBegin=24148|WordAlignmentEnd=24305
+9	nɛ́nɛ́	nɛ́nɛ́	PART	_	_	7	mod	_	GE=en_allant|Gloss=en_allant|nWord=4|RX=[MV]|WordAlignmentBegin=24305|WordAlignmentEnd=24463
+10	-vv	_	PART	_	_	9	det	_	GE=[DUR]|Gloss=-DUR|nWord=4|RX=[MOD]|WordAlignmentBegin=24463|WordAlignmentEnd=24620
 
 # sent_id = GYA_PRD_NARR_T9-C7_008-008b
 # text = ʔèè -H ʔà̰ H- nɛ
@@ -471,64 +471,64 @@
 7	ʔèá	ʔèá	ADV	ADV	_	6	mod	_	GE=seulement|Gloss=seulement|nWord=63|RX=ADV|WordAlignmentBegin=67741|WordAlignmentEnd=68211
 
 # sent_id = GYA_PRD_NARR_T9-C7_016-016
-# text = ʔèè ká yérè H- pei kùr-kùr -RDPP H- kpa fàrà kà =à̰ H- ye kútùà ná H- kpa fàrà kà =à̰ H- ye kútùà ná ʔòé
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = ʔèè ká yérè péí kùr_kùr_kùr kpá fàrà kà̰à̰ yé kútùà ná, kpá fàrà kà̰à̰ yé kútùà ná ʔòé
+# text = ʔèè ká yérè H- pei kùr-kùr -RDPP H- kpa fàrà kà -à̰ H- ye kútùà ná H- kpa fàrà kà -à̰ H- ye kútùà ná ʔòé
+# text_phonetic = ʔèè ká yérè péí kùr_kùr_kùr kpá fàrà kà̰à̰ yé kútùà ná, kpá fàrà kà̰à̰ yé kútùà ná ʔòé.
 # text_fr = Et le bufffle tourne en rond tourne en rond, ne trouve pas de moyen pour entrer dans la maison, ne trouve aucun moyen pour entrer dans la maison
-1	ʔèè	ʔèè	CCONJ	SUB	_	5	cc	_	GE=puis|Gloss=puis|nWord=1|RX=SUB|WordAlignmentBegin=68211|WordAlignmentEnd=68445
-2	ká	ká	CCONJ	SUB	_	5	cc	_	GE=alors|Gloss=alors|nWord=2|RX=SUB|WordAlignmentBegin=68445|WordAlignmentEnd=68679
-3	yérè	yérè	NOUN	N	_	5	subj	_	GE=buffle|Gloss=buffle|nWord=3|RX=N|WordAlignmentBegin=68679|WordAlignmentEnd=68913
-4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	GE=INAC|Gloss=INAC-|nWord=4|RX=MV|WordAlignmentBegin=68913|WordAlignmentEnd=69030
-5	pei	pei	VERB	V	_	0	root	_	GE=revenir|Gloss=revenir|nWord=4|RX=V|WordAlignmentBegin=69030|WordAlignmentEnd=69147
-6	kùr-kùr	kùr-kùr	ADJ	AA	_	5	mod	_	GE=en_rond|Gloss=en_rond|nWord=5|RX=AA|WordAlignmentBegin=69147|WordAlignmentEnd=69264
-7	-REPET	-REPET	DET	MOD	_	6	det	_	GE=RDPP|Gloss=-RDPP|nWord=5|RX=MOD|WordAlignmentBegin=69264|WordAlignmentEnd=69381
-8	H-	H-	AUX	MV	Aspect=Imp	9	aux	_	GE=INAC|Gloss=INAC-|nWord=6|RX=MV|WordAlignmentBegin=69381|WordAlignmentEnd=69498
-9	kpa	kpa	VERB	V	_	5	conj:coord	_	GE=trouver|Gloss=trouver|nWord=6|RX=V|WordAlignmentBegin=69498|WordAlignmentEnd=69615
-10	fàrà	fàrà	NOUN	N	_	9	comp:obj	_	GE=endroit|Gloss=endroit|nWord=7|RX=N|WordAlignmentBegin=69615|WordAlignmentEnd=69849
-11	kà	kà	SCONJ	SUB	_	9	mod	_	GE=de_sorte_que|Gloss=de_sorte_que|nWord=8|RX=SUB|WordAlignmentBegin=69849|WordAlignmentEnd=69966
-12	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	14	subj	_	GE=3SG|Gloss=-3SG|nWord=8|RX=PR|WordAlignmentBegin=69966|WordAlignmentEnd=70083
-13	H-	H-	AUX	MV	Aspect=Imp	14	aux	_	GE=INAC|Gloss=INAC-|nWord=9|RX=MV|WordAlignmentBegin=70083|WordAlignmentEnd=70200
-14	ye	ye	VERB	V	_	11	comp	_	GE=entrer|Gloss=entrer|nWord=9|RX=V|WordAlignmentBegin=70200|WordAlignmentEnd=70317
-15	kútùà	kútùà	NOUN	N	_	14	comp:obl	_	GE=maison|Gloss=maison|nWord=10|RX=N|WordAlignmentBegin=70317|WordAlignmentEnd=70551
-16	ná	ná	PART	MV	_	9	mod	_	GE=NEG|Gloss=NEG|nWord=11|RX=MV|WordAlignmentBegin=70551|WordAlignmentEnd=70785
-17	H-	H-	AUX	MV	Aspect=Imp	18	aux	_	GE=INAC|Gloss=INAC-|nWord=12|RX=MV|WordAlignmentBegin=70785|WordAlignmentEnd=70902
-18	kpa	kpa	VERB	V	_	9	conj:redup	_	GE=trouver|Gloss=trouver|nWord=12|RX=V|WordAlignmentBegin=70902|WordAlignmentEnd=71019
-19	fàrà	fàrà	NOUN	N	_	18	comp:obj	_	GE=endroit|Gloss=endroit|nWord=13|RX=N|WordAlignmentBegin=71019|WordAlignmentEnd=71253
-20	kà	kà	SCONJ	SUB	_	18	mod	_	GE=de_sorte_que|Gloss=de_sorte_que|nWord=14|RX=SUB|WordAlignmentBegin=71253|WordAlignmentEnd=71370
-21	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	23	subj	_	GE=3SG|Gloss=-3SG|nWord=14|RX=PR|WordAlignmentBegin=71370|WordAlignmentEnd=71487
-22	H-	H-	AUX	MV	Aspect=Imp	23	aux	_	GE=INAC|Gloss=INAC-|nWord=15|RX=MV|WordAlignmentBegin=71487|WordAlignmentEnd=71604
-23	ye	ye	VERB	V	_	20	comp	_	GE=entrer|Gloss=entrer|nWord=15|RX=V|WordAlignmentBegin=71604|WordAlignmentEnd=71721
-24	kútùà	kútùà	NOUN	N	_	23	comp:obl	_	GE=maison|Gloss=maison|nWord=16|RX=N|WordAlignmentBegin=71721|WordAlignmentEnd=71955
-25	ná	ná	PART	MV	_	18	mod	_	GE=NEG|Gloss=NEG|nWord=17|RX=MV|WordAlignmentBegin=71955|WordAlignmentEnd=72189
-26	ʔòé	ʔòé	ADV	ADV	_	9	mod	_	GE=aussi|Gloss=aussi|nWord=18|RX=ADV|WordAlignmentBegin=72189|WordAlignmentEnd=72430
+1	ʔèè	ʔèè	CCONJ	_	_	5	cc	_	GE=puis|Gloss=puis|nWord=1|RX=[SUB]|WordAlignmentBegin=68211|WordAlignmentEnd=68445
+2	ká	ká	CCONJ	_	_	5	cc	_	GE=alors|Gloss=alors|nWord=2|RX=[SUB]|WordAlignmentBegin=68445|WordAlignmentEnd=68679
+3	yérè	yérè	N	_	_	5	subj	_	GE=buffle|Gloss=buffle|nWord=3|RX=[N]|WordAlignmentBegin=68679|WordAlignmentEnd=68913
+4	H-	_	AUX	_	_	5	aux	_	GE=[INAC]|Gloss=INAC-|nWord=4|RX=[MV]|WordAlignmentBegin=68913|WordAlignmentEnd=69030
+5	pei	pei	V	_	_	0	root	_	GE=revenir|Gloss=revenir|nWord=4|RX=[V]|WordAlignmentBegin=69030|WordAlignmentEnd=69147
+6	kùr-kùr	_	ADJ	_	_	5	mod	_	GE=en_rond|Gloss=en_rond|nWord=5|RX=[AA]|WordAlignmentBegin=69147|WordAlignmentEnd=69264
+7	-RDPP	_	PART	_	_	6	det	_	GE=[RDPP]|Gloss=-RDPP|nWord=5|RX=[MOD]|WordAlignmentBegin=69264|WordAlignmentEnd=69381
+8	H-	_	AUX	_	_	9	aux	_	GE=[INAC]|Gloss=INAC-|nWord=6|RX=[MV]|WordAlignmentBegin=69381|WordAlignmentEnd=69498
+9	kpa	kpa	V	_	_	5	conj:coord	_	GE=trouver|Gloss=trouver|nWord=6|RX=[V]|WordAlignmentBegin=69498|WordAlignmentEnd=69615
+10	fàrà	fàrà	N	_	_	9	comp:obj	_	GE=endroit|Gloss=endroit|nWord=7|RX=[N]|WordAlignmentBegin=69615|WordAlignmentEnd=69849
+11	kà	kà	SUB	_	_	9	mod	_	GE=de_sorte_que|Gloss=de_sorte_que|nWord=8|RX=[SUB]|WordAlignmentBegin=69849|WordAlignmentEnd=69966
+12	-à̰	_	PRON	_	_	14	subj	_	GE=[3SG]|Gloss=-3SG|nWord=8|RX=[PR]|WordAlignmentBegin=69966|WordAlignmentEnd=70083
+13	H-	_	AUX	_	_	14	aux	_	GE=[INAC]|Gloss=INAC-|nWord=9|RX=[MV]|WordAlignmentBegin=70083|WordAlignmentEnd=70200
+14	ye	ye	V	_	_	11	comp	_	GE=entrer|Gloss=entrer|nWord=9|RX=[V]|WordAlignmentBegin=70200|WordAlignmentEnd=70317
+15	kútùà	kútùà	N	_	_	14	comp:obl	_	GE=maison|Gloss=maison|nWord=10|RX=[N]|WordAlignmentBegin=70317|WordAlignmentEnd=70551
+16	ná	ná	PART	_	_	14	mod	_	GE=[NEG]|Gloss=NEG|nWord=11|RX=[MV]|WordAlignmentBegin=70551|WordAlignmentEnd=70785
+17	H-	_	AUX	_	_	18	aux	_	GE=[INAC]|Gloss=INAC-|nWord=12|RX=[MV]|WordAlignmentBegin=70785|WordAlignmentEnd=70902
+18	kpa	kpa	V	_	_	9	conj:redup	_	GE=trouver|Gloss=trouver|nWord=12|RX=[V]|WordAlignmentBegin=70902|WordAlignmentEnd=71019
+19	fàrà	fàrà	N	_	_	18	comp:obl	_	GE=endroit|Gloss=endroit|nWord=13|RX=[N]|WordAlignmentBegin=71019|WordAlignmentEnd=71253
+20	kà	kà	SUB	_	_	18	mod	_	GE=de_sorte_que|Gloss=de_sorte_que|nWord=14|RX=[SUB]|WordAlignmentBegin=71253|WordAlignmentEnd=71370
+21	-à̰	_	PR	_	_	23	subj	_	GE=[3SG]|Gloss=-3SG|nWord=14|RX=[PR]|WordAlignmentBegin=71370|WordAlignmentEnd=71487
+22	H-	_	AUX	_	_	23	aux	_	GE=[INAC]|Gloss=INAC-|nWord=15|RX=[MV]|WordAlignmentBegin=71487|WordAlignmentEnd=71604
+23	ye	ye	V	_	_	20	comp	_	GE=entrer|Gloss=entrer|nWord=15|RX=[V]|WordAlignmentBegin=71604|WordAlignmentEnd=71721
+24	kútùà	kútùà	N	_	_	23	comp:obl	_	GE=maison|Gloss=maison|nWord=16|RX=[N]|WordAlignmentBegin=71721|WordAlignmentEnd=71955
+25	ná	ná	PART	_	_	23	mod	_	GE=[NEG]|Gloss=NEG|nWord=17|RX=[MV]|WordAlignmentBegin=71955|WordAlignmentEnd=72189
+26	ʔòé	ʔòé	ADV	_	_	23	mod	_	GE=aussi|Gloss=aussi|nWord=18|RX=[ADV]|WordAlignmentBegin=72189|WordAlignmentEnd=72430
 
 # sent_id = GYA_PRD_NARR_T9-C7_017-017
-# text = ʔá̰-nɛ̀ =à̰ -H BHa- tek -H nù sɔ̀ngbɛ̀ɛ̀
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = ʔá̰-nàá tèká nù sɔ̀ngbɛ̀ɛ̀
+# text = ʔá̰-nɛ̀ -à̰ -H BHa- tek -H nù sɔ̀ngbɛ̀ɛ̀
+# text_phonetic = ʔá̰-nàá tèká nù sɔ̀ngbɛ̀ɛ̀.
 # text_fr = Voilà qu'il s'écroule à terre raide mort.
-1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	SUB	_	5	cc	_	GE=voilà_que|Gloss=voilà_que|nWord=1|RX=SUB|WordAlignmentBegin=72430|WordAlignmentEnd=72635
-2	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	5	subj	_	GE=3SG|Gloss=-3SG|nWord=1|RX=PR|WordAlignmentBegin=72635|WordAlignmentEnd=72840
-3	-H	-H	X	FCT	_	2	aff	_	GE=D|Gloss=-D|nWord=1|RX=FCT|WordAlignmentBegin=72840|WordAlignmentEnd=73045
-4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	GE=ACC|Gloss=ACC-|nWord=2|RX=MV|WordAlignmentBegin=73045|WordAlignmentEnd=73250
-5	tek	tek	VERB	V	_	0	root	_	GE=tomber|Gloss=tomber|nWord=2|RX=V|WordAlignmentBegin=73250|WordAlignmentEnd=73455
-6	-H	-H	X	FCT	_	5	aff	_	GE=D|Gloss=-D|nWord=2|RX=FCT|WordAlignmentBegin=73455|WordAlignmentEnd=73660
-7	nù	nù	NOUN	N	_	5	comp:obl	_	GE=terre|Gloss=terre|nWord=3|RX=N|WordAlignmentBegin=73660|WordAlignmentEnd=74275
-8	sɔ̀ngbɛ̀ɛ̀	sɔ̀ngbɛ̀ɛ̀	ADJ	AA	_	5	mod	_	GE=raide_mort|Gloss=raide_mort|nWord=4|RX=AA|WordAlignmentBegin=74275|WordAlignmentEnd=74890
+1	ʔá̰-nɛ̀	_	CCONJ	_	_	5	cc	_	GE=voilà_que|Gloss=voilà_que|nWord=1|RX=[SUB]|WordAlignmentBegin=72430|WordAlignmentEnd=72635
+2	-à̰	_	PR	_	_	5	subj	_	GE=[3SG]|Gloss=-3SG|nWord=1|RX=[PR]|WordAlignmentBegin=72635|WordAlignmentEnd=72840
+3	-H	_	X	_	_	2	aff	_	GE=[D]|Gloss=-D|nWord=1|RX=[FCT]|WordAlignmentBegin=72840|WordAlignmentEnd=73045
+4	BHa-	_	AUX	_	_	5	aux	_	GE=[ACC]|Gloss=ACC-|nWord=2|RX=[MV]|WordAlignmentBegin=73045|WordAlignmentEnd=73250
+5	tek	tek	V	_	_	0	root	_	GE=tomber|Gloss=tomber|nWord=2|RX=[V]|WordAlignmentBegin=73250|WordAlignmentEnd=73455
+6	-H	_	X	_	_	5	aff	_	GE=[D]|Gloss=-D|nWord=2|RX=[FCT]|WordAlignmentBegin=73455|WordAlignmentEnd=73660
+7	nù	nù	N	_	_	5	comp:obl	_	GE=terre|Gloss=terre|nWord=3|RX=[N]|WordAlignmentBegin=73660|WordAlignmentEnd=74275
+8	sɔ̀ngbɛ̀ɛ̀	sɔ̀ngbɛ̀ɛ̀	ADJ	_	_	5	mod	_	GE=raide_mort|Gloss=raide_mort|nWord=4|RX=[AA]|WordAlignmentBegin=74275|WordAlignmentEnd=74890
 
 # sent_id = GYA_PRD_NARR_T9-C7_018-018
-# text = ʔèè bóíbêm -ìí H- gbo
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = ʔèè bóíbêmí gbó
-# text_fr = Et le garçon sort
-1	ʔèè	ʔèè	CCONJ	SUB	_	5	cc	_	GE=puis|Gloss=puis|nWord=1|RX=SUB|WordAlignmentBegin=74900|WordAlignmentEnd=75570
-2	bóíbêm	bóíbêm	NOUN	N	_	5	subj	_	GE=garçon|Gloss=garçon|nWord=2|RX=N|WordAlignmentBegin=75570|WordAlignmentEnd=75905
-3	-ìí	-ìí	DET	MOD	_	2	det	_	GE=ANAPH|Gloss=-ANAPH|nWord=2|RX=MOD|WordAlignmentBegin=75905|WordAlignmentEnd=76240
-4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	GE=INAC|Gloss=INAC-|nWord=3|RX=MV|WordAlignmentBegin=76240|WordAlignmentEnd=76575
-5	gbo	gbo	VERB	V	_	0	root	_	GE=sortir|Gloss=sortir|nWord=3|RX=V|WordAlignmentBegin=76575|WordAlignmentEnd=76910
+# text = ʔèè bóíbêm -ìí H- gbo
+# text_phonetic = ʔèè bóíbêmí gbó.
+# text_fr = Et le garçon sort.//
+1	ʔèè	ʔèè	CCONJ	_	_	5	cc	_	GE=puis|Gloss=puis|nWord=1|RX=[SUB]|WordAlignmentBegin=74900|WordAlignmentEnd=75570
+2	bóíbêm	bóíbêm	N	_	_	5	subj	_	GE=garçon|Gloss=garçon|nWord=2|RX=[N]|WordAlignmentBegin=75570|WordAlignmentEnd=75905
+3	-ìí	_	PART	_	_	2	det	_	GE=[ANAPH]|Gloss=-ANAPH|nWord=2|RX=[MOD]|WordAlignmentBegin=75905|WordAlignmentEnd=76240
+4	H-	_	AUX	_	_	5	aux	_	GE=[INAC]|Gloss=INAC-|nWord=3|RX=[MV]|WordAlignmentBegin=76240|WordAlignmentEnd=76575
+5	gbo	gbo	V	_	_	0	root	_	GE=sortir|Gloss=sortir|nWord=3|RX=[V]|WordAlignmentBegin=76575|WordAlignmentEnd=76910
 
 # sent_id = GYA_PRD_NARR_T9-C7_019-020
 # text = ʔèè ká ʔá̰-nɛ̀ =à̰ -H H- ʔɔ nù hɛ̰̀ ʔèè H- ba sàɗì H- ba yérè
@@ -579,27 +579,27 @@
 18	ʔèá	ʔèá	ADV	ADV	_	9	mod	_	GE=seulement|Gloss=seulement|nWord=8|RX=ADV|WordAlignmentBegin=82954|WordAlignmentEnd=83220
 
 # sent_id = GYA_PRD_NARR_T9-C7_022-022
-# text = Há- gɔm yérè ʔá̰-hı̰̀ı̰́ ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = gɔ́má yérè ʔá̰-hı̰̀ı̰́ ʔèá
-# text_fr = Couper le buffle c'est ainsi simplement.
-1	HHa-	HHa-	AUX	MN	_	2	aux	_	GE=NV|Gloss=NV-|nWord=1|RX=MN|WordAlignmentBegin=83220|WordAlignmentEnd=83345
-2	gɔm	gɔm	VERB	V	VerbForm=Vnoun	4	subj	_	GE=couper|Gloss=couper|nWord=1|RX=V|WordAlignmentBegin=83345|WordAlignmentEnd=83470
-3	yérè	yérè	NOUN	N	_	2	comp:obj	_	GE=buffle|Gloss=buffle|nWord=2|RX=N|WordAlignmentBegin=83470|WordAlignmentEnd=83720
-4	ʔá̰-hı̰̀ı̰́	ʔá̰-hı̰̀ı̰́	AUX	PRÉD	_	0	root	_	GE=ETRE-CONS|Gloss=ETRE-CONS|nWord=3|RX=PRÉD|WordAlignmentBegin=83720|WordAlignmentEnd=83970
-5	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	GE=seulement|Gloss=seulement|nWord=5|RX=ADV|WordAlignmentBegin=84220|WordAlignmentEnd=84470
+# text = Há- gɔm yérè ʔá̰-hḭ̀ḭ́ ʔèá
+# text_phonetic = gɔ́má yérè ʔá̰ hı̰̀ı̰́ ʔèá.
+# text_fr = Couper le buffle c'est ainsi tout simplement.
+1	Há-	_	DET	_	_	2	det	_	GE=[NV]|Gloss=NV-|nWord=1|RX=[MN]|WordAlignmentBegin=83220|WordAlignmentEnd=83345
+2	gɔm	gɔm	V	_	_	4	subj	_	GE=couper|Gloss=couper|nWord=1|RX=[V]|WordAlignmentBegin=83345|WordAlignmentEnd=83470
+3	yérè	yérè	N	_	_	2	comp:obj	_	GE=buffle|Gloss=buffle|nWord=2|RX=[N]|WordAlignmentBegin=83470|WordAlignmentEnd=83720
+4	ʔá̰-hḭ̀ḭ́	ʔá̰-hḭ̀ḭ́	AUX	_	_	0	root	_	GE=prst-cons|Gloss=être ainsi|nWord=3|RX=[PRST-CONS]|WordAlignmentBegin=83720|WordAlignmentEnd=83970
+5	ʔèá	ʔèá	ADV	_	_	4	mod	_	GE=seulement|Gloss=seulement|nWord=5|RX=[ADV]|WordAlignmentBegin=84220|WordAlignmentEnd=84470
 
 # sent_id = GYA_PRD_NARR_T9-C7_023-023a
-# text = wà H- ɲɔŋ -vv
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
+# text = wà H- ɲɔŋ -vv
 # text_phonetic = wà ɲɔ́ɔ́ɔ́ŋ
 # text_fr = Ils mangent longtemps
-1	wà	wà	PRON	PR	PronType=Prs	3	subj	_	GE=3P|Gloss=3P|nWord=1|RX=PR|WordAlignmentBegin=84470|WordAlignmentEnd=84774
-2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	GE=INAC|Gloss=INAC-|nWord=2|RX=MV|WordAlignmentBegin=84774|WordAlignmentEnd=84875
-3	ɲɔŋ	ɲɔŋ	VERB	V	_	0	root	_	GE=manger|Gloss=manger|nWord=2|RX=V|WordAlignmentBegin=84875|WordAlignmentEnd=84976
-4	-VV	-VV	DET	MOD	_	3	det	_	GE=DUR|Gloss=-DUR|nWord=2|RX=MOD|WordAlignmentBegin=84976|WordAlignmentEnd=85078|wordform=-vv
+1	wà	wà	PR	_	_	3	subj	_	GE=[3P]|Gloss=3P|nWord=1|RX=[PR]|WordAlignmentBegin=84470|WordAlignmentEnd=84774
+2	H-	_	AUX	_	_	3	aux	_	GE=[INAC]|Gloss=INAC-|nWord=2|RX=[MV]|WordAlignmentBegin=84774|WordAlignmentEnd=84875
+3	ɲɔŋ	ɲɔŋ	V	_	_	0	root	_	GE=manger|Gloss=manger|nWord=2|RX=[V]|WordAlignmentBegin=84875|WordAlignmentEnd=84976
+4	-vv	_	PART	_	_	3	det	_	GE=[DUR]|Gloss=-DUR|nWord=2|RX=[MOD]|WordAlignmentBegin=84976|WordAlignmentEnd=85078
 
 # sent_id = GYA_PRD_NARR_T9-C7_023-023b
 # text = ʔèè -H wà H- ʔa yík wèè
@@ -953,34 +953,34 @@
 7	ʔòé	ʔòé	ADV	ADV	_	5	mod	_	GE=aussi|Gloss=aussi|nWord=43|RX=ADV|WordAlignmentBegin=123974|WordAlignmentEnd=124330
 
 # sent_id = GYA_PRD_NARR_T9-C7_036-036
-# text = nám -ìí BHa- pei -H kàá ʔèá-ʔèá -vv
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = námìí pèá kàá ʔèá_ʔèá_ʔèá
+# text = nám -ìí BHa- pei -H kàá ʔèá-ʔèá -vv
+# text_phonetic = námìí pèá kàá ʔèá_ʔèá_ʔèá.
 # text_fr = Le buffle revient encore [= le poursuit toujours] longtemps.
-1	nám	nám	NOUN	N	_	4	subj	_	GE=buffle|Gloss=buffle|nWord=1|RX=N|WordAlignmentBegin=124330|WordAlignmentEnd=124720
-2	-ìí	-ìí	DET	MOD	_	1	det	_	GE=ANAPH|Gloss=-ANAPH|nWord=1|RX=MOD|WordAlignmentBegin=124720|WordAlignmentEnd=125110
-3	BHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	GE=ACC|Gloss=ACC-|nWord=2|RX=MV|WordAlignmentBegin=125110|WordAlignmentEnd=125370
-4	pei	pei	VERB	V	_	0	root	_	GE=revenir|Gloss=revenir|nWord=2|RX=V|WordAlignmentBegin=125370|WordAlignmentEnd=125630
-5	-H	-H	X	FCT	_	4	aff	_	GE=MT|Gloss=-D|nWord=2|RX=FCT|WordAlignmentBegin=125630|WordAlignmentEnd=125890
-6	kàá	kàá	PART	MV	_	4	mod	_	GE=REP-ADD|Gloss=REP-ADD|nWord=3|RX=MV|WordAlignmentBegin=125890|WordAlignmentEnd=126670
-7	ʔèá-ʔèá	ʔèá-ʔèá	ADV	ADV	_	4	mod	_	GE=longtemps|Gloss=longtemps|nWord=4|RX=ADV|WordAlignmentBegin=126670|WordAlignmentEnd=127060
-8	-VV	-VV	DET	MOD	_	7	det	_	GE=DUR|Gloss=-DUR|nWord=4|RX=MOD|WordAlignmentBegin=127060|WordAlignmentEnd=127450|wordform=-vv
+1	nám	nám	N	_	_	4	subj	_	GE=buffle|Gloss=buffle|nWord=1|RX=[N]|WordAlignmentBegin=124330|WordAlignmentEnd=124720
+2	-ìí	_	PART	_	_	1	det	_	GE=[ANAPH]|Gloss=-ANAPH|nWord=1|RX=[MOD]|WordAlignmentBegin=124720|WordAlignmentEnd=125110
+3	BHa-	_	AUX	_	_	4	aux	_	GE=[ACC]|Gloss=ACC-|nWord=2|RX=[MV]|WordAlignmentBegin=125110|WordAlignmentEnd=125370
+4	pei	pei	V	_	_	0	root	_	GE=revenir|Gloss=revenir|nWord=2|RX=[V]|WordAlignmentBegin=125370|WordAlignmentEnd=125630
+5	-H	_	X	_	_	4	aff	_	GE=[D]|Gloss=-D|nWord=2|RX=[FCT]|WordAlignmentBegin=125630|WordAlignmentEnd=125890
+6	kàá	kàá	PART	_	_	4	mod	_	GE=[REP-ADD]|Gloss=REP-ADD|nWord=3|RX=[MV]|WordAlignmentBegin=125890|WordAlignmentEnd=126670
+7	ʔèá-ʔèá	_	ADV	_	_	4	mod	_	GE=longtemps|Gloss=longtemps|nWord=4|RX=[ADV]|WordAlignmentBegin=126670|WordAlignmentEnd=127060
+8	-vv	_	PART	_	_	7	det	_	GE=[DUR]|Gloss=-DUR|nWord=4|RX=[MOD]|WordAlignmentBegin=127060|WordAlignmentEnd=127450
 
 # sent_id = GYA_PRD_NARR_T9-C7_037-037
-# text = nám -ìí BHa- pei -H kàá ʔèá -vv
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = námìí pèá kàá ʔèá_ʔèá_ʔèá
-# text_fr = Le buffle revient encore [= le poursuit toujours] longtemps
-1	nám	nám	NOUN	N	_	4	subj	_	GE=buffle|Gloss=buffle|nWord=1|RX=N|WordAlignmentBegin=127450|WordAlignmentEnd=127716
-2	-ìí	-ìí	DET	MOD	_	1	det	_	GE=ANAPH|Gloss=-ANAPH|nWord=1|RX=MOD|WordAlignmentBegin=127716|WordAlignmentEnd=127982
-3	BHa-	BHa-	AUX	MV	Aspect=Perf	4	aux	_	GE=ACC|Gloss=ACC-|nWord=2|RX=MV|WordAlignmentBegin=127982|WordAlignmentEnd=128159
-4	pei	pei	VERB	V	_	0	root	_	GE=revenir|Gloss=revenir|nWord=2|RX=V|WordAlignmentBegin=128159|WordAlignmentEnd=128336
-5	-H	-H	X	FCT	_	4	aff	_	GE=MT|Gloss=-D|nWord=2|RX=FCT|WordAlignmentBegin=128336|WordAlignmentEnd=128514
-6	kàá	kàá	PART	MV	_	4	mod	_	GE=REP-ADD|Gloss=REP-ADD|nWord=3|RX=MV|WordAlignmentBegin=128514|WordAlignmentEnd=129046
-7	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	GE=déjà|Gloss=déjà|nWord=4|RX=ADV|WordAlignmentBegin=129046|WordAlignmentEnd=129313
-8	-VV	-VV	DET	MOD	_	7	det	_	GE=DUR|Gloss=-DUR|nWord=4|RX=MOD|WordAlignmentBegin=129313|WordAlignmentEnd=129580|wordform=-vv
+# text = nám -ìí BHa- pei -H kàá ʔèá-ʔèá -vv
+# text_phonetic = námìí pèá kàá ʔèá_ʔèá_ʔèá.
+# text_fr = Le buffle revient encore [= le poursuit toujours] longtemps.
+1	nám	nám	N	_	_	4	subj	_	GE=buffle|Gloss=buffle|nWord=1|RX=[N]|WordAlignmentBegin=127450|WordAlignmentEnd=127716
+2	-ìí	_	PART	_	_	1	det	_	GE=[ANAPH]|Gloss=-ANAPH|nWord=1|RX=[MOD]|WordAlignmentBegin=127716|WordAlignmentEnd=127982
+3	BHa-	_	AUX	_	_	4	aux	_	GE=[ACC]|Gloss=ACC-|nWord=2|RX=[MV]|WordAlignmentBegin=127982|WordAlignmentEnd=128159
+4	pei	pei	V	_	_	0	root	_	GE=revenir|Gloss=revenir|nWord=2|RX=[V]|WordAlignmentBegin=128159|WordAlignmentEnd=128336
+5	-H	_	X	_	_	4	aff	_	GE=[D]|Gloss=-D|nWord=2|RX=[FCT]|WordAlignmentBegin=128336|WordAlignmentEnd=128514
+6	kàá	kàá	PART	_	_	4	mod	_	GE=[REP-ADD]|Gloss=REP-ADD|nWord=3|RX=[MV]|WordAlignmentBegin=128514|WordAlignmentEnd=129046
+7	ʔèá-ʔèá	_	ADV	_	_	4	mod	_	GE=longtemps|Gloss=longtemps|nWord=4|RX=[ADV]|WordAlignmentBegin=129046|WordAlignmentEnd=129313
+8	-vv	_	PART	_	_	7	det	_	GE=[DUR]|Gloss=-DUR|nWord=4|RX=[MOD]|WordAlignmentBegin=129313|WordAlignmentEnd=129580
 
 # sent_id = GYA_PRD_NARR_T9-C7_038-038
 # text = ʔà̰ H- zei ná ʔòé
@@ -1007,22 +1007,22 @@
 5	ʔòé	ʔòé	ADV	ADV	_	3	mod	_	GE=aussi|Gloss=aussi|nWord=4|RX=ADV|WordAlignmentBegin=132836|WordAlignmentEnd=133410
 
 # sent_id = GYA_PRD_NARR_T9-C7_040-040
-# text = ká yérè ʔèá-ʔèá -VV kà BHa- zṵ -H ʔɔ́m -H =à̰
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = ká yérè ʔèá_ʔèá_ʔèá ká zṵ̀ṵ̀ ʔɔ́máà
-# text_fr = alors le buffle s'acharne et lui défonce le poitrail
-1	ká	ká	CCONJ	SUB	_	3	cc	_	GE=alors|Gloss=alors|nWord=1|RX=SUB|WordAlignmentBegin=135340|WordAlignmentEnd=135765
-2	yérè	yérè	NOUN	MV	_	3	subj	_	GE=buffle|Gloss=buffle|nWord=2|RX=N|WordAlignmentBegin=135765|WordAlignmentEnd=135907
-3	ʔèá-ʔèá	ʔèá-ʔèá	ADV	V	_	0	root	_	GE=longtemps|Gloss=longtemps|nWord=3|RX=ADV|WordAlignmentBegin=135907|WordAlignmentEnd=136049
-4	-VV	-VV	DET	FCT	_	3	det	_	GE=DUR|Gloss=-DUR|nWord=3|RX=MOD|WordAlignmentBegin=136049|WordAlignmentEnd=136190|wordform=-vv
-5	kà	kà	CCONJ	N	_	7	cc	_	GE=alors|Gloss=alors|nWord=4|RX=SUB|WordAlignmentBegin=136190|WordAlignmentEnd=136332
-6	BHa-	BHa-	AUX	FCT	_	7	aux	_	GE=ACC|Gloss=ACC-|nWord=5|RX=MV|WordAlignmentBegin=136332|WordAlignmentEnd=136474
-7	zṵ	zṵ	VERB	MN	_	3	conj:coord	_	GE=enfoncer|Gloss=enfoncer|nWord=5|RX=V|WordAlignmentBegin=136474|WordAlignmentEnd=136615
-8	-H	-H	X	SUB	_	7	aff	_	GE=MT|Gloss=-D|nWord=5|RX=FCT|WordAlignmentBegin=136615|WordAlignmentEnd=137040
-9	ʔɔ́m	ʔɔ́m	NOUN	N	_	7	comp:obj	_	GE=poitrail|Gloss=poitrail|nWord=6|RX=N|WordAlignmentBegin=137040|WordAlignmentEnd=137465
-10	-H	-H	ADP	V	_	9	udep	_	GE=MT|Gloss=-D|nWord=6|RX=FCT|WordAlignmentBegin=137465|WordAlignmentEnd=137677
-11	=à̰	ʔà̰	PRON	MN	Number=Sing|Person=3	10	comp	_	GE=3SG|Gloss=-3SG|nWord=6|RX=MN|WordAlignmentBegin=137677|WordAlignmentEnd=137890
+# text = ká yérè ʔèá-ʔèá -vv ká BHa- zṵ -H ʔɔ́m -H -à
+# text_phonetic = ká yérè ʔèá ʔèá ʔèá ká zṵ̀ṵ̀ ʔɔ́máà
+# text_fr = alors le buffle s'acharne, il lui a enfloncé le poitrail
+1	ká	ká	CCONJ	_	_	3	cc	_	GE=alors|Gloss=alors|nWord=1|RX=[SUB]|WordAlignmentBegin=133410|WordAlignmentEnd=134053
+2	yérè	yérè	N	_	_	3	subj	_	GE=buffle|Gloss=buffle|nWord=2|RX=[N]|WordAlignmentBegin=134053|WordAlignmentEnd=134696
+3	ʔèá-ʔèá	_	ADV	_	_	0	root	_	GE=longtemps|Gloss=longtemps|nWord=3|RX=[ADV]|WordAlignmentBegin=134696|WordAlignmentEnd=135018
+4	-vv	_	PART	_	_	3	det	_	GE=[DUR]|Gloss=-DUR|nWord=3|RX=[MOD]|WordAlignmentBegin=135018|WordAlignmentEnd=135340
+5	ká	ká	CCONJ	_	_	7	cc	_	GE=alors|Gloss=alors|nWord=1|RX=[SUB]|WordAlignmentBegin=135340|WordAlignmentEnd=135765
+6	BHa-	_	AUX	_	_	7	aux	_	GE=[ACC]|Gloss=ACC-|nWord=2|RX=[MV]|WordAlignmentBegin=135765|WordAlignmentEnd=135907
+7	zṵ	zṵ	V	_	_	3	conj:coord	_	GE=enfoncer|Gloss=enfoncer|nWord=2|RX=[V]|WordAlignmentBegin=135907|WordAlignmentEnd=136049
+8	-H	_	X	_	_	7	aff	_	GE=[D]|Gloss=-D|nWord=2|RX=[FCT]|WordAlignmentBegin=136049|WordAlignmentEnd=136190
+9	ʔɔ́m	ʔɔ́m	N	_	_	7	comp:obj	_	GE=poitrail|Gloss=poitrail|nWord=3|RX=[N]|WordAlignmentBegin=136190|WordAlignmentEnd=136332
+10	-H	_	ADP	_	_	9	udep	_	GE=[D]|Gloss=-D|nWord=3|RX=[FCT]|WordAlignmentBegin=136332|WordAlignmentEnd=136474
+11	-à	_	PRON	_	_	10	comp	_	GE=[3SG]|Gloss=-3SG|nWord=3|RX=[MN]|WordAlignmentBegin=136474|WordAlignmentEnd=136615
 
 # sent_id = GYA_PRD_NARR_T9-C7_041-041a
 # text = ká yérè BHa- gɔm =à̰ ʔèá
@@ -1038,48 +1038,47 @@
 6	ʔèá	ʔèá	ADV	ADV	_	4	mod	_	GE=seulement|Gloss=seulement|nWord=7|RX=ADV|WordAlignmentBegin=137890|WordAlignmentEnd=138315
 
 # sent_id = GYA_PRD_NARR_T9-C7_041-041b
-# text = ká sɔ̀ngbɛ̀ɛ̀ ká bóɲá -H =à̰ BHa- fe ʔè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
+# text = ká sɔ̀ngbɛ̀ɛ̀ ká bóɲá -H =à̰ BHa- fe ʔè
 # text_phonetic = ká sɔ̀ngbɛ̀ɛ̀ ká bóɲáà fèá ʔè
 # text_fr = alors raide mort, son frère est dès lors mort
-1	ká	ká	CCONJ	COORD	_	8	cc	_	GE=alors|Gloss=alors|nWord=8|RX=COORD|WordAlignmentBegin=138315|WordAlignmentEnd=138740
-2	sɔ̀ngbɛ̀ɛ̀	sɔ̀ngbɛ̀ɛ̀	ADJ	AA	_	8	mod	_	GE=raide_mort|Gloss=raide_mort|nWord=9|RX=AA|WordAlignmentBegin=138740|WordAlignmentEnd=139165
-3	ká	ká	CCONJ	_	_	8	cc	_	GE=alors|Gloss=alors|nWord=10|WordAlignmentBegin=139165|WordAlignmentEnd=139590
-4	bóɲá	bóɲá	NOUN	N	_	8	subj	_	GE=frère|Gloss=frère|nWord=11|RX=N|WordAlignmentBegin=139590|WordAlignmentEnd=139802
-5	-H	-H	ADP	_	_	4	udep	_	GE=MT|nWord=11|RX=FCT
-6	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	comp	_	GE=3SG|Gloss=-3SG|nWord=11|RX=PERS|WordAlignmentBegin=139802|WordAlignmentEnd=140015
-7	BHa-	BHa-	AUX	MV	Aspect=Perf	8	aux	_	GE=ACC|Gloss=ACC-|nWord=12|RX=MV|WordAlignmentBegin=140015|WordAlignmentEnd=140227
-8	fe	fe	VERB	V	_	0	root	_	GE=mourir|Gloss=mourir|nWord=12|RX=V|WordAlignmentBegin=140227|WordAlignmentEnd=140440
-9	ʔè	ʔè	PART	ME	_	8	discourse:sp	_	GE=désormais|Gloss=désormais|nWord=13|RX=ME|WordAlignmentBegin=140440|WordAlignmentEnd=140860
+1	ká	ká	CCONJ	_	_	7	cc	_	GE=alors|Gloss=alors|nWord=8|RX=[COORD]|WordAlignmentBegin=138315|WordAlignmentEnd=138740
+2	sɔ̀ngbɛ̀ɛ̀	sɔ̀ngbɛ̀ɛ̀	ADJ	_	_	7	mod	_	GE=raide_mort|Gloss=raide_mort|nWord=9|RX=[AA]|WordAlignmentBegin=138740|WordAlignmentEnd=139165
+3	ká	ká	CCONJ	_	_	7	cc	_	GE=alors|Gloss=alors|nWord=10|WordAlignmentBegin=139165|WordAlignmentEnd=139590
+4	bóɲá	bóɲá	N	_	_	7	subj	_	GE=frère|Gloss=frère|nWord=11|RX=[N]|WordAlignmentBegin=139590|WordAlignmentEnd=139802
+5	-à̰	_	PERS	_	_	4	comp	_	GE=[3SG]|Gloss=-3SG|nWord=11|RX=[PERS]|WordAlignmentBegin=139802|WordAlignmentEnd=140015
+6	BHa-	_	AUX	_	_	7	aux	_	GE=[ACC]|Gloss=ACC-|nWord=12|RX=[MV]|WordAlignmentBegin=140015|WordAlignmentEnd=140227
+7	fe	fe	V	_	_	0	root	_	GE=mourir|Gloss=mourir|nWord=12|RX=[V]|WordAlignmentBegin=140227|WordAlignmentEnd=140440
+8	ʔè	ʔè	PART	_	_	7	mod	_	GE=désormais|Gloss=désormais|nWord=13|RX=[ME]|WordAlignmentBegin=140440|WordAlignmentEnd=140860
 
 # sent_id = GYA_PRD_NARR_T9-C7_042-042
-# text = ʔà̰ -HV tɛ̀ɛ́-B- kur wó ʔà̰ -HV tɛ̀ɛ́-B- kur wó ʔèè ká ʔá̰-nɛ̀ =à̰ -H BHa- fe -H kɔ́ =à̰ ʔè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = ʔà̰á̰ tɛ̀ɛ́-kùr wó ʔà̰á̰ tɛ̀ɛ́-kùr wó ʔèè ká ʔá̰-nàá fèè kɔ̰́à̰ ʔè
-# text_fr = Quand elle s'est levée, quand elle s'est levée, et alors voilà que son frère était, quant à lui, déjà mort
-1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	4	subj	_	GE=3SG|Gloss=3SG|nWord=1|RX=PR|WordAlignmentBegin=140860|WordAlignmentEnd=141066
-2	-HV	-HV	AUX	MV	_	4	aux	_	GE=cond|Gloss=-cond|nWord=1|RX=MV|WordAlignmentBegin=141066|WordAlignmentEnd=141273
-3	tɛ̀ɛ́-B-	tɛ̀ɛ́-B-	AUX	MV	Aspect=Perf|Mood=Cnd	4	aux	_	GE=COND.ACC|Gloss=COND.ACC-|nWord=2|RX=MV|WordAlignmentBegin=141273|WordAlignmentEnd=141479
-4	kur	kur	VERB	V	_	17	mod	_	GE=se_lever|Gloss=se_lever|nWord=2|RX=V|WordAlignmentBegin=141479|WordAlignmentEnd=141686
-5	wó	wó	PART	MOD	_	4	discourse:sp	_	GE=vraiment|Gloss=vraiment|nWord=3|RX=MOD|WordAlignmentBegin=141686|WordAlignmentEnd=142099
-6	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	9	subj	_	GE=3SG|Gloss=3SG|nWord=4|RX=PR|WordAlignmentBegin=142099|WordAlignmentEnd=142305
-7	-HV	-HV	AUX	MV	_	9	aux	_	GE=cond|Gloss=-cond|nWord=4|RX=MV|WordAlignmentBegin=142305|WordAlignmentEnd=142512
-8	tɛ̀ɛ́-B-	tɛ̀ɛ́-B-	AUX	MV	Aspect=Perf|Mood=Cnd	9	aux	_	GE=COND.ACC|Gloss=COND.ACC-|nWord=5|RX=MV|WordAlignmentBegin=142512|WordAlignmentEnd=142718
-9	kur	kur	VERB	V	_	4	conj:redup	_	GE=se_lever|Gloss=se_lever|nWord=5|RX=V|WordAlignmentBegin=142718|WordAlignmentEnd=142925
-10	wó	wó	PART	MOD	_	9	discourse:sp	_	GE=vraiment|Gloss=vraiment|nWord=6|RX=MOD|WordAlignmentBegin=142925|WordAlignmentEnd=143338
-11	ʔèè	ʔèè	CCONJ	SUB	_	17	cc	_	GE=puis|Gloss=puis|nWord=7|RX=SUB|WordAlignmentBegin=143338|WordAlignmentEnd=143751
-12	ká	ká	CCONJ	SUB	_	17	cc	_	GE=alors|Gloss=alors|nWord=8|RX=SUB|WordAlignmentBegin=143751|WordAlignmentEnd=144164
-13	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	SUB	_	17	cc	_	GE=voilà_que|Gloss=voilà_que|nWord=9|RX=SUB|WordAlignmentBegin=144164|WordAlignmentEnd=144302
-14	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	17	subj	_	GE=3SG|Gloss=-3SG|nWord=9|RX=PR|WordAlignmentBegin=144302|WordAlignmentEnd=144440
-15	-H	-H	X	FCT	_	14	aff	_	GE=MT|Gloss=-D|nWord=9|RX=FCT|WordAlignmentBegin=144440|WordAlignmentEnd=144577
-16	BHa-	BHa-	AUX	MV	Aspect=Perf	17	aux	_	GE=ACC|Gloss=ACC-|nWord=10|RX=MV|WordAlignmentBegin=144577|WordAlignmentEnd=144715
-17	fe	fe	VERB	V	_	0	root	_	GE=mourir|Gloss=mourir|nWord=10|RX=V|WordAlignmentBegin=144715|WordAlignmentEnd=144853
-18	-H	-H	X	FCT	_	17	aff	_	GE=MT|Gloss=-D|nWord=10|RX=FCT|WordAlignmentBegin=144853|WordAlignmentEnd=144990
-19	kɔ́	kɔ́	ADP	FCT	_	17	comp:obl	_	GE=quant_à|Gloss=quant_à|nWord=11|RX=FCT|WordAlignmentBegin=144990|WordAlignmentEnd=145196
-20	=à̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	19	comp	_	GE=3SG|Gloss=-3SG|nWord=11|RX=PR|WordAlignmentBegin=145196|WordAlignmentEnd=145403
-21	ʔè	ʔè	PART	ME	_	17	discourse:sp	_	GE=désormais|Gloss=désormais|nWord=12|RX=ME|WordAlignmentBegin=145403|WordAlignmentEnd=145820
+# text = ʔà̰ -Hv tɛ̀ɛ́-B kur wó ʔà̰ -Hv tɛ̀ɛ́-B kur wó ʔèè ká ʔá̰-nɛ̀ -à̰ -H BHa- fe -H kɔ́ -à̰ ʔè
+# text_phonetic = ʔà̰á̰ tɛ̀ɛ́-kùr wó ʔà̰á̰ tɛ̀ɛ́-kùr wó ʔèè ká ʔá̰-nàá fèè kɔ̰́à̰ ʔè.
+# text_fr = Quand elle s'est levée // quand emle s'est levée, et alors // voilà que son frère était, quant à lui, déjà mort.
+1	ʔà̰	ʔà̰	PRON	_	_	4	subj	_	GE=[3SG]|Gloss=3SG|nWord=1|RX=[PR]|WordAlignmentBegin=140860|WordAlignmentEnd=141066
+2	-Hv	_	AUX	_	_	4	aux	_	GE=cond|Gloss=-cond|nWord=1|RX=[MV]|WordAlignmentBegin=141066|WordAlignmentEnd=141273
+3	tɛ̀ɛ́-B	_	AUX	_	_	4	aux	_	GE=[COND].[ACC]|Gloss=COND.ACC-|nWord=2|RX=[MV]|WordAlignmentBegin=141273|WordAlignmentEnd=141479
+4	kur	kur	V	_	_	17	mod	_	GE=se_lever|Gloss=se_lever|nWord=2|RX=[V]|WordAlignmentBegin=141479|WordAlignmentEnd=141686
+5	wó	wó	PART	_	_	4	mod	_	GE=vraiment|Gloss=vraiment|nWord=3|RX=[MOD]|WordAlignmentBegin=141686|WordAlignmentEnd=142099
+6	ʔà̰	ʔà̰	PRON	_	_	9	subj	_	GE=[3SG]|Gloss=3SG|nWord=4|RX=[PR]|WordAlignmentBegin=142099|WordAlignmentEnd=142305
+7	-Hv	_	AUX	_	_	9	aux	_	GE=cond|Gloss=-cond|nWord=4|RX=[MV]|WordAlignmentBegin=142305|WordAlignmentEnd=142512
+8	tɛ̀ɛ́-B	_	AUX	_	_	9	aux	_	GE=[COND].[ACC]|Gloss=COND.ACC-|nWord=5|RX=[MV]|WordAlignmentBegin=142512|WordAlignmentEnd=142718
+9	kur	kur	V	_	_	17	mod:redup	_	GE=se_lever|Gloss=se_lever|nWord=5|RX=[V]|WordAlignmentBegin=142718|WordAlignmentEnd=142925
+10	wó	wó	PART	_	_	9	mod	_	GE=vraiment|Gloss=vraiment|nWord=6|RX=[MOD]|WordAlignmentBegin=142925|WordAlignmentEnd=143338
+11	ʔèè	ʔèè	CCONJ	_	_	17	cc	_	GE=puis|Gloss=puis|nWord=7|RX=[SUB]|WordAlignmentBegin=143338|WordAlignmentEnd=143751
+12	ká	ká	CCONJ	_	_	17	cc	_	GE=alors|Gloss=alors|nWord=8|RX=[SUB]|WordAlignmentBegin=143751|WordAlignmentEnd=144164
+13	ʔá̰-nɛ̀	_	CCONJ	_	_	17	cc	_	GE=voilà_que|Gloss=voilà_que|nWord=9|RX=[SUB]|WordAlignmentBegin=144164|WordAlignmentEnd=144302
+14	-à̰	_	PRON	_	_	17	subj	_	GE=[3SG]|Gloss=-3SG|nWord=9|RX=[PR]|WordAlignmentBegin=144302|WordAlignmentEnd=144440
+15	-H	_	FCT	_	_	_	_	_	GE=[D]|Gloss=-D|nWord=9|RX=[FCT]|WordAlignmentBegin=144440|WordAlignmentEnd=144577
+16	BHa-	_	AUX	_	_	17	aux	_	GE=[ACC]|Gloss=ACC-|nWord=10|RX=[MV]|WordAlignmentBegin=144577|WordAlignmentEnd=144715
+17	fe	fe	V	_	_	0	root	_	GE=mourir|Gloss=mourir|nWord=10|RX=[V]|WordAlignmentBegin=144715|WordAlignmentEnd=144853
+18	-H	_	X	_	_	17	aff	_	GE=[D]|Gloss=-D|nWord=10|RX=[FCT]|WordAlignmentBegin=144853|WordAlignmentEnd=144990
+19	kɔ́	kɔ́	FCT	_	_	17	comp:obl	_	GE=quant_à|Gloss=quant_à|nWord=11|RX=[FCT]|WordAlignmentBegin=144990|WordAlignmentEnd=145196
+20	-à̰	_	PR	_	_	19	comp	_	GE=[3SG]|Gloss=-3SG|nWord=11|RX=[PR]|WordAlignmentBegin=145196|WordAlignmentEnd=145403
+21	ʔè	ʔè	PART	_	_	17	mod	_	GE=désormais|Gloss=désormais|nWord=12|RX=[ME]|WordAlignmentBegin=145403|WordAlignmentEnd=145820
 
 # sent_id = GYA_PRD_NARR_T9-C7_043-043a
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- gbo -H kàá -H kútùà mɛ̀
@@ -1099,16 +1098,16 @@
 10	mɛ̀	mɛ̀	ADV	ADV	_	5	mod	_	GE=là-bas|Gloss=là-bas|nWord=5|RX=ADV|WordAlignmentBegin=147364|WordAlignmentEnd=147750
 
 # sent_id = GYA_PRD_NARR_T9-C7_043-043b
-# text = ʔà̰ H- gɔn kàá zàlàgbàk
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
+# text = ʔà̰ H- gɔn kàá zàlàgbàk
 # text_phonetic = ʔà̰ gɔ́n kàá zàlàgbàk
-# text_fr = elle se jette de désespoir par terre,//
-1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	3	subj	_	GE=3SG|Gloss=3SG|nWord=6|RX=PR|WordAlignmentBegin=147750|WordAlignmentEnd=148136
-2	H-	H-	AUX	MV	Aspect=Imp	3	aux	_	GE=INAC|Gloss=INAC-|nWord=7|RX=MV|WordAlignmentBegin=148136|WordAlignmentEnd=148329
-3	gɔn	gɔn	VERB	V	_	0	root	_	GE=s'écrouler|Gloss=s'écrouler|nWord=7|RX=V|WordAlignmentBegin=148329|WordAlignmentEnd=148522
-4	kàá	kàá	PART	MV	_	3	mod	_	GE=REP-ADD|Gloss=REP-ADD|nWord=8|RX=MV|WordAlignmentBegin=148522|WordAlignmentEnd=148908
-5	zàlàgbàk	zàlàgbàk	ADJ	AA	_	3	mod	_	GE=d'un_coup_à_terre|Gloss=d'un_coup_à_terre|nWord=9|RX=AA|WordAlignmentBegin=148908|WordAlignmentEnd=149294
+# text_fr = Voilà qu'elle sort aussi de la maison, // elle se jette de désespoir par terre,// sa soeur se jette à terre,// sa soeur se jette à terre en pleurant pleurant // pleurant.
+1	ʔà̰	ʔà̰	PRON	_	_	3	subj	_	GE=[3SG]|Gloss=3SG|nWord=6|RX=[PR]|WordAlignmentBegin=147750|WordAlignmentEnd=148136
+2	H-	_	AUX	_	_	3	aux	_	GE=[INAC]|Gloss=INAC-|nWord=7|RX=[MV]|WordAlignmentBegin=148136|WordAlignmentEnd=148329
+3	gɔn	gɔn	V	_	_	0	root	_	GE=s'écrouler|Gloss=s'écrouler|nWord=7|RX=[V]|WordAlignmentBegin=148329|WordAlignmentEnd=148522
+4	kàá	kàá	PART	_	_	3	mod	_	GE=[REP-ADD]|Gloss=REP-ADD|nWord=8|RX=[MV]|WordAlignmentBegin=148522|WordAlignmentEnd=148908
+5	zàlàgbàk	zàlàgbàk	ADJ	_	_	3	mod	_	GE=d'un_coup_à_terre|Gloss=d'un_coup_à_terre|nWord=9|RX=[AA]|WordAlignmentBegin=148908|WordAlignmentEnd=149294
 
 # sent_id = GYA_PRD_NARR_T9-C7_043-043c
 # text = bókáɲá =à H- gɔn
@@ -1123,22 +1122,21 @@
 5	gɔn	gɔn	VERB	V	_	0	root	_	GE=s'écrouler|Gloss=s'écrouler|nWord=11|RX=V|WordAlignmentBegin=149873|WordAlignmentEnd=150066
 
 # sent_id = GYA_PRD_NARR_T9-C7_043-043d
-# text = bókáɲá -H =à̰ H- gɔn H- hei kɔ̰̀á̰ ʔèá-ʔèá -REPET ʔèá
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
-# text_phonetic = bókáɲáà gɔ́n héí kɔ̰̀á̰ ʔèá_ʔèá_ʔèá ʔèá
-# text_fr = sa soeur se jette à terre et elle ne fait que pleurer longtemps
-1	bókáɲá	bókáɲá	NOUN	N	_	5	subj	_	GE=soeur|Gloss=soeur|nWord=12|RX=N|WordAlignmentBegin=150066|WordAlignmentEnd=150259
-2	-H	-H	ADP	_	_	1	udep	_	GE=MT|nWord=12|RX=FCT
-3	=à̰	ʔà̰	PRON	MN	Number=Sing|Person=3	2	comp	_	GE=3SG|Gloss=-3SG|nWord=12|RX=MN|WordAlignmentBegin=150259|WordAlignmentEnd=150452
-4	H-	H-	AUX	MV	Aspect=Imp	5	aux	_	GE=INAC|Gloss=INAC-|nWord=13|RX=MV|WordAlignmentBegin=150452|WordAlignmentEnd=150645
-5	gɔn	gɔn	VERB	V	_	0	root	_	GE=s'écrouler|Gloss=s'écrouler|nWord=13|RX=V|WordAlignmentBegin=150645|WordAlignmentEnd=150838
-6	H-	H-	AUX	MV	Aspect=Imp	7	aux	_	GE=INAC|Gloss=INAC-|nWord=14|RX=MV|WordAlignmentBegin=150838|WordAlignmentEnd=151031
-7	hei	hei	VERB	V	_	5	conj:coord	_	GE=pleurer|Gloss=pleurer|nWord=14|RX=V|WordAlignmentBegin=151031|WordAlignmentEnd=151224
-8	kɔ̰̀á̰	kɔ̰̀á̰	NOUN	N	_	7	comp:obj	_	GE=pleurs|Gloss=pleurs|nWord=15|RX=N|WordAlignmentBegin=151224|WordAlignmentEnd=151610
-9	ʔèá-ʔèá	ʔèá-ʔèá	ADV	ADV	_	7	mod	_	GE=longtemps|Gloss=longtemps|nWord=16|RX=ADV|WordAlignmentBegin=151610|WordAlignmentEnd=151803
-10	-REPET	-REPET	DET	MOD	_	9	det	_	GE=RPDD|Gloss=-RDPP|nWord=16|RX=MOD|WordAlignmentBegin=151803|WordAlignmentEnd=151996
-11	ʔèá	ʔèá	ADV	ADV	_	7	mod	_	GE=seulement|Gloss=seulement|nWord=17|RX=ADV|WordAlignmentBegin=151996|WordAlignmentEnd=152381
+# text = bókáɲá -à H- gɔn H- hei kɔ̰̀á̰ ʔèá-ʔèá -vv ʔèá
+# text_phonetic = bókáɲáà gɔ́n héí kɔ̰̀á̰ ʔèá ʔèá ʔèá, ʔèá.
+# text_fr = // sa soeur se jette à terre en pleurant pleurant // pleurant.
+1	bókáɲá	bókáɲá	N	_	_	4	subj	_	GE=soeur|Gloss=soeur|nWord=12|RX=[N]|WordAlignmentBegin=150066|WordAlignmentEnd=150259
+2	-à	_	PRON	_	_	1	comp	_	GE=[3SG]|Gloss=-3SG|nWord=12|RX=[MN]|WordAlignmentBegin=150259|WordAlignmentEnd=150452
+3	H-	_	AUX	_	_	4	aux	_	GE=[INAC]|Gloss=INAC-|nWord=13|RX=[MV]|WordAlignmentBegin=150452|WordAlignmentEnd=150645
+4	gɔn	gɔn	V	_	_	0	root	_	GE=s'écrouler|Gloss=s'écrouler|nWord=13|RX=[V]|WordAlignmentBegin=150645|WordAlignmentEnd=150838
+5	H-	_	AUX	_	_	6	aux	_	GE=[INF].[ACC]|Gloss=INF.ACC-|nWord=14|RX=[MV]|WordAlignmentBegin=150838|WordAlignmentEnd=151031
+6	hei	hei	V	_	_	4	conj:coord	_	GE=pleurer|Gloss=pleurer|nWord=14|RX=[V]|WordAlignmentBegin=151031|WordAlignmentEnd=151224
+7	kɔ̰̀á̰	kɔ̰̀á̰	N	_	_	6	comp:obj	_	GE=pleurs|Gloss=pleurs|nWord=15|RX=[N]|WordAlignmentBegin=151224|WordAlignmentEnd=151610
+8	ʔèá-ʔèá	_	ADV	_	_	6	mod	_	GE=longtemps|Gloss=longtemps|nWord=16|RX=[ADV]|WordAlignmentBegin=151610|WordAlignmentEnd=151803
+9	-vv	_	PART	_	_	8	det	_	GE=[DUR]|Gloss=-DUR|nWord=16|RX=[MOD]|WordAlignmentBegin=151803|WordAlignmentEnd=151996
+10	ʔèá	ʔèá	ADV	_	_	6	mod	_	GE=seulement|Gloss=seulement|nWord=17|RX=[ADV]|WordAlignmentBegin=151996|WordAlignmentEnd=152381
 
 # sent_id = GYA_PRD_NARR_T9-C7_044-044
 # text = ʔá̰-nɛ̀ =à̰ -H BHa- kɔk -H kàá -H túí ʔé H- ʔe sàɗì há̰ H- ya kɔ̀ gúɗù mɛ̀
@@ -1199,22 +1197,21 @@
 12	nà	nà	ADV	ADV	_	9	mod	_	GE=ici|Gloss=ici|nWord=14|RX=ADV|WordAlignmentBegin=159235|WordAlignmentEnd=159535
 
 # sent_id = GYA_PRD_NARR_T9-C7_046-046
-# text = ʔèè ká =à̰ BHa- gɔm -H bóɲá =à̰ ʔé yè
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
+# text = ʔèè ká -à̰ BHa- gɔm -H bóɲá -à̰ ʔé yè
 # text_phonetic = ʔèè ká̰à̰ gɔ̀mà bóɲáà ʔé yè
-# text_fr = Puis il a déjà finalement frappé son frère
-1	ʔèè	ʔèè	CCONJ	COORD	_	5	cc	_	GE=puis|Gloss=puis|nWord=1|RX=COORD|WordAlignmentBegin=159535|WordAlignmentEnd=159909
-2	ká	ká	CCONJ	COORD	_	5	cc	_	GE=alors|Gloss=alors|nWord=2|RX=COORD|WordAlignmentBegin=159909|WordAlignmentEnd=160096
-3	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	5	subj	_	GE=3SG|Gloss=-3SG|nWord=2|RX=PERS|WordAlignmentBegin=160096|WordAlignmentEnd=160283
-4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	GE=ACC|Gloss=ACC-|nWord=3|RX=MV|WordAlignmentBegin=160283|WordAlignmentEnd=160408
-5	gɔm	gɔm	VERB	V	_	0	root	_	GE=frapper|Gloss=frapper|nWord=3|RX=V|WordAlignmentBegin=160408|WordAlignmentEnd=160533
-6	-H	-H	X	FCT	_	5	aff	_	GE=MT|Gloss=-MT|nWord=3|RX=FCT|WordAlignmentBegin=160533|WordAlignmentEnd=160657
-7	bóɲá	bóɲá	NOUN	N	_	5	comp:obj	_	GE=frère|Gloss=frère|nWord=4|RX=N|WordAlignmentBegin=160657|WordAlignmentEnd=160844
-8	-H	-H	ADP	_	_	7	udep	_	GE=MT|nWord=4|RX=FCT
-9	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	8	comp	_	GE=3SG|Gloss=-3SG|nWord=4|RX=PERS|WordAlignmentBegin=160844|WordAlignmentEnd=161031
-10	ʔé	ʔé	ADV	ADV	_	5	mod	_	GE=déjà|Gloss=déjà|nWord=5|RX=ADV|WordAlignmentBegin=161031|WordAlignmentEnd=161405
-11	yè	yè	PART	MOD	_	5	discourse:sp	_	GE=finalement|Gloss=finalement|nWord=6|RX=MOD|WordAlignmentBegin=161405|WordAlignmentEnd=161778
+# text_fr = Puis il a déjà frappé son frère
+1	ʔèè	ʔèè	CCONJ	_	_	5	cc	_	GE=puis|Gloss=puis|nWord=1|RX=[COORD]|WordAlignmentBegin=159535|WordAlignmentEnd=159909
+2	ká	ká	CCONJ	_	_	5	cc	_	GE=alors|Gloss=alors|nWord=2|RX=[COORD]|WordAlignmentBegin=159909|WordAlignmentEnd=160096
+3	-à̰	_	PERS	_	_	5	subj	_	GE=[3SG]|Gloss=-3SG|nWord=2|RX=[PERS]|WordAlignmentBegin=160096|WordAlignmentEnd=160283
+4	BHa-	_	AUX	_	_	5	aux	_	GE=[ACC]|Gloss=ACC-|nWord=3|RX=[MV]|WordAlignmentBegin=160283|WordAlignmentEnd=160408
+5	gɔm	gɔm	V	_	_	0	root	_	GE=frapper|Gloss=frapper|nWord=3|RX=[V]|WordAlignmentBegin=160408|WordAlignmentEnd=160533
+6	-H	_	X	_	_	5	aff	_	GE=[MT]|Gloss=-MT|nWord=3|RX=[FCT]|WordAlignmentBegin=160533|WordAlignmentEnd=160657
+7	bóɲá	bóɲá	N	_	_	5	comp:obj	_	GE=frère|Gloss=frère|nWord=4|RX=[N]|WordAlignmentBegin=160657|WordAlignmentEnd=160844
+8	-à̰	_	PERS	_	_	7	comp	_	GE=[3SG]|Gloss=-3SG|nWord=4|RX=[PERS]|WordAlignmentBegin=160844|WordAlignmentEnd=161031
+9	ʔé	ʔé	ADV	_	_	5	mod	_	GE=déjà|Gloss=déjà|nWord=5|RX=[ADV]|WordAlignmentBegin=161031|WordAlignmentEnd=161405
+10	yè	yè	PART	_	_	5	mod	_	GE=finalement|Gloss=finalement|nWord=6|RX=[MOD]|WordAlignmentBegin=161405|WordAlignmentEnd=161778
 
 # sent_id = GYA_PRD_NARR_T9-C7_047-049
 # text = ʔèè bókáɲá -H =à ʔà̰ H- hɔ kpɔ́k tí ʔèè H- yak H- yak H- si nɛ̀ sààyé H- hei nɛ̀ kɔ̰̀á̰ ʔèááá ʔèè H- sa kàá -H H- nɛ H- sa béí hɛ̀n -H sààyé mɛ̀

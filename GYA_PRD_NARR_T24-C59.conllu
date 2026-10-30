@@ -89,7 +89,7 @@
 # text_phonetic = kɔ́wàá dɛ́ dòè kɔ́wà
 # text_fr = Et alors elles récoltent leurs termites
 1	ká	ká	CCONJ	COORD	_	5	cc	_	GE=alors|nWord=11|RX=COORD|WordAlignmentBegin=17102|WordAlignmentEnd=17202
-2	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	5	subj	_	GE=3PL|nWord=11|RX=PERS|WordAlignmentBegin=17202|WordAlignmentEnd=17302
+2	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	5	dislocated:subj	_	GE=3PL|nWord=11|RX=PERS|WordAlignmentBegin=17202|WordAlignmentEnd=17302
 3	-VH	-VH	DET	MOD MV-MV	_	2	det	_	GE=TOP|nWord=11|RX=MOD MV-MV|Topicalization=Yes|WordAlignmentBegin=17302|WordAlignmentEnd=17403
 4	H-	H-	AUX	FCT	Aspect=Imp	5	aux	_	GE=INAC|nWord=12|RX=MV|WordAlignmentBegin=17403|WordAlignmentEnd=17553
 5	dɛ	dɛ	VERB	V	_	0	root	_	GE=faire|nWord=12|RX=V|WordAlignmentBegin=17553|WordAlignmentEnd=17704
@@ -112,7 +112,7 @@
 7	H-	H-	AUX	MV	Aspect=Perf	8	aux	_	GE=INF-ACC|nWord=5|RX=MV|WordAlignmentBegin=20102|WordAlignmentEnd=20326
 8	dɔr	dɔr	VERB	V	_	4	conj:coord	_	GE=ramasser_un_à_un|nWord=5|RX=V|WordAlignmentBegin=20326|WordAlignmentEnd=20551
 9	dòè	dòè	NOUN	N	_	8	comp:obj	_	GE=termite|nWord=6|RX=N|WordAlignmentBegin=20551|WordAlignmentEnd=21000
-10	ʔîn	ʔîn	ADP	FCT	Degree=Cmp	8	mod	_	GE=COM|nWord=7|RX=FCT|WordAlignmentBegin=21000|WordAlignmentEnd=21113
+10	ʔîn	ʔîn	ADP	FCT	Degree=Cmp	8	comp:obl	_	GE=COM|nWord=7|RX=FCT|WordAlignmentBegin=21000|WordAlignmentEnd=21113
 11	-H	-H	X	FCT	_	10	aff	_	GE=MT|nWord=7|RX=FCT|WordAlignmentBegin=21113|WordAlignmentEnd=21226
 12	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	10	comp	_	GE=3PL|nWord=7|RX=PERS|WordAlignmentBegin=21226|WordAlignmentEnd=21339
 13	-VV	-VV	DET	MOD	_	12	det	_	GE=DUR|nWord=7|RX=MOD|WordAlignmentBegin=21339|WordAlignmentEnd=21451
@@ -143,7 +143,7 @@
 6	-B	-B	AUX	MV	Mood=Jus	8	aux	_	GE=INJ|nWord=4|RX=MV|WordAlignmentBegin=24721|WordAlignmentEnd=24921
 7	H-	H-	AUX	MV	Aspect=Imp|Mood=Jus	8	aux	_	GE=INJ-INAC|Gloss=INJ-INAC-|nWord=5|RX=MV|WordAlignmentBegin=24921|WordAlignmentEnd=25121
 8	ndak	ndak	VERB	V	_	0	root	_	GE=pourchasser|nWord=5|RX=V|WordAlignmentBegin=25121|WordAlignmentEnd=25321
-9	bé	bé	ADJ	N	_	10	mod	_	GE=petit|nWord=6|RX=N|WordAlignmentBegin=25321|WordAlignmentEnd=25721
+9	bé	bé	ADJ	N	_	10	det	_	GE=petit|nWord=6|RX=N|WordAlignmentBegin=25321|WordAlignmentEnd=25721
 10	sàɗì	sàɗì	NOUN	N	_	8	comp:obj	_	GE=animal|nWord=7|RX=N|WordAlignmentBegin=25721|WordAlignmentEnd=26121
 11	kɔ́	kɔ́	ADP	FCT	_	10	udep	_	GE=de|nWord=8|RX=FCT|WordAlignmentBegin=26121|WordAlignmentEnd=26320
 12	=ɛ́ɛ́	ʔɛ́ɛ́	PRON	PERS	Number=Plur|Person=1|PronType=Prs	11	comp	_	GE=1PL|nWord=8|RX=PERS|WordAlignmentBegin=26320|WordAlignmentEnd=26519
@@ -166,7 +166,7 @@
 # text_phonetic = kpɔ́lɔ́k bé pɛ̀ɲá Tò ndák ndák mɔ́-bà báà ndé
 # text_fr = Chant : le petit cobe de petite taille, wanto le poursuit, le poursuit pour l'attrapper,
 1	kpɔ́lɔ́k	kpɔ́lɔ́k	ADJ	AA	_	3	mod	_	GE=de_petite_taille|nWord=1|RX=AA|WordAlignmentBegin=28283|WordAlignmentEnd=28596
-2	bé	bé	ADJ	N	_	3	mod	_	GE=petit|nWord=2|RX=N|WordAlignmentBegin=28596|WordAlignmentEnd=28909
+2	bé	bé	ADJ	N	_	3	det	_	GE=petit|nWord=2|RX=N|WordAlignmentBegin=28596|WordAlignmentEnd=28909
 3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	6	dislocated:obj	_	GE=cobe_de_ɓuffon|nWord=3|RX=N|WordAlignmentBegin=28909|WordAlignmentEnd=29222
 4	Wàntò	Wàntò	PROPN	NPR	_	6	subj	_	GE=Wanto|nWord=4|RX=NPR|WordAlignmentBegin=29222|WordAlignmentEnd=29535
 5	H-	H-	AUX	MV	Aspect=Imp	6	aux	_	GE=INAC|nWord=5|RX=MV|WordAlignmentBegin=29535|WordAlignmentEnd=29691
@@ -196,7 +196,7 @@
 # text_phonetic = kpɔ́lɔ́k bé pɛ̀ɲá Tò ndák ndák mɔ́-bà báà ndé
 # text_fr = Chant : le petit cobe de petite taille, wanto le poursuit, le poursuit pour l'attrapper
 1	kpɔ́lɔ́k	kpɔ́lɔ́k	ADJ	AA	_	3	mod	_	GE=de_petite_taille|nWord=1|RX=AA|WordAlignmentBegin=31726|WordAlignmentEnd=32020
-2	bé	bé	ADJ	N	_	3	mod	_	GE=petit|nWord=2|RX=N|WordAlignmentBegin=32020|WordAlignmentEnd=32314
+2	bé	bé	ADJ	N	_	3	det	_	GE=petit|nWord=2|RX=N|WordAlignmentBegin=32020|WordAlignmentEnd=32314
 3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	6	dislocated:obj	_	GE=cobe_de_ɓuffon|nWord=3|RX=N|WordAlignmentBegin=32314|WordAlignmentEnd=32608
 4	Wàntò	Wàntò	PROPN	NPR	_	6	subj	_	GE=Wanto|nWord=4|RX=NPR|WordAlignmentBegin=32608|WordAlignmentEnd=32902
 5	H-	H-	AUX	MV	Aspect=Imp	6	aux	_	GE=INAC|nWord=5|RX=MV|WordAlignmentBegin=32902|WordAlignmentEnd=33049
@@ -226,7 +226,7 @@
 # text_phonetic = kpɔ́lɔ́k bé pɛ̀ɲá Tò ndák ndák mɔ́-bà báà ndé
 # text_fr = Chant : le petit cobe de petite taille, wanto le poursuit, le poursuit pour l'attrapper,
 1	kpɔ́lɔ́k	kpɔ́lɔ́k	ADJ	AA	_	3	mod	_	GE=de_petite_taille|nWord=1|RX=AA|WordAlignmentBegin=34955|WordAlignmentEnd=35244
-2	bé	bé	ADJ	N	_	3	mod	_	GE=petit|nWord=2|RX=N|WordAlignmentBegin=35244|WordAlignmentEnd=35533
+2	bé	bé	ADJ	N	_	3	det	_	GE=petit|nWord=2|RX=N|WordAlignmentBegin=35244|WordAlignmentEnd=35533
 3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	6	dislocated:obj	_	GE=cobe_de_ɓuffon|nWord=3|RX=N|WordAlignmentBegin=35533|WordAlignmentEnd=35822
 4	Wàntò	Wàntò	PROPN	NPR	_	6	subj	_	GE=Wanto|nWord=4|RX=NPR|WordAlignmentBegin=35822|WordAlignmentEnd=36111
 5	H-	H-	AUX	MV	Aspect=Imp	6	aux	_	GE=INAC|nWord=5|RX=MV|WordAlignmentBegin=36111|WordAlignmentEnd=36255
@@ -256,7 +256,7 @@
 # text_phonetic = kpɔ́lɔ́k bé pɛ̀ɲá Tò ndák ndák mɔ́-bà báà ndé
 # text_fr = Chant : le petit cobe de petite taille, wanto le poursuit, le poursuit pour l'attrapper
 1	kpɔ́lɔ́k	kpɔ́lɔ́k	ADJ	AA	_	3	mod	_	GE=de_petite_taille|nWord=1|RX=AA|WordAlignmentBegin=38132|WordAlignmentEnd=38424
-2	bé	bé	ADJ	N	_	3	mod	_	GE=petit|nWord=2|RX=N|WordAlignmentBegin=38424|WordAlignmentEnd=38716
+2	bé	bé	ADJ	N	_	3	det	_	GE=petit|nWord=2|RX=N|WordAlignmentBegin=38424|WordAlignmentEnd=38716
 3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	6	dislocated:obj	_	GE=cobe_de_buffon|nWord=3|RX=N|WordAlignmentBegin=38716|WordAlignmentEnd=39008
 4	Wàntò	Wàntò	PROPN	NPR	_	6	subj	_	GE=Wanto|nWord=4|RX=NPR|WordAlignmentBegin=39008|WordAlignmentEnd=39300
 5	H-	H-	AUX	MV	Aspect=Imp	6	aux	_	GE=INAC|nWord=5|RX=MV|WordAlignmentBegin=39300|WordAlignmentEnd=39446
@@ -300,7 +300,7 @@
 # text_phonetic = ká bé pɛ̀ɲá dàŋà gɔ́n zìtɔ̰́
 # text_fr = Alors le petit cobe monte sur une termitière
 1	ká	ká	CCONJ	COORD	_	5	cc	_	GE=alors|nWord=5|RX=COORD|WordAlignmentBegin=42485|WordAlignmentEnd=42771
-2	bé	bé	ADJ	N	_	3	mod	_	GE=petit|nWord=6|RX=N|WordAlignmentBegin=42771|WordAlignmentEnd=43057
+2	bé	bé	ADJ	N	_	3	det	_	GE=petit|nWord=6|RX=N|WordAlignmentBegin=42771|WordAlignmentEnd=43057
 3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	5	subj	_	GE=cobe_de_ɓuffon|nWord=7|RX=N|WordAlignmentBegin=43057|WordAlignmentEnd=43343
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	GE=ACC|nWord=8|RX=MV|WordAlignmentBegin=43343|WordAlignmentEnd=43438
 5	daŋ	daŋ	VERB	V	_	0	root	_	GE=monter|nWord=8|RX=V|WordAlignmentBegin=43438|WordAlignmentEnd=43533
@@ -315,7 +315,7 @@
 # text_phonetic = ká bé pɛ̀ɲá yɔ̀á
 # text_fr = Et le petit cobe disparaît.
 1	ká	ká	CCONJ	COORD	_	5	cc	_	GE=alors|nWord=11|RX=COORD|WordAlignmentBegin=44200|WordAlignmentEnd=44582
-2	bé	bé	ADJ	N	_	3	mod	_	GE=petit|nWord=12|RX=N|WordAlignmentBegin=44582|WordAlignmentEnd=44964
+2	bé	bé	ADJ	N	_	3	det	_	GE=petit|nWord=12|RX=N|WordAlignmentBegin=44582|WordAlignmentEnd=44964
 3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	5	subj	_	GE=cobe_de_ɓuffon|nWord=13|RX=N|WordAlignmentBegin=44964|WordAlignmentEnd=45346
 4	BHa-	BHa-	AUX	MV	Aspect=Perf	5	aux	_	GE=ACC|nWord=14|RX=MV|WordAlignmentBegin=45346|WordAlignmentEnd=45538
 5	yɔ	yɔ	VERB	V	Voice=Mid	0	root	_	GE=perdre|nWord=14|RX=V|WordAlignmentBegin=45538|WordAlignmentEnd=45729
@@ -345,7 +345,7 @@
 5	H-	H-	AUX	MV	Aspect=Imp	6	aux	_	GE=INAC|nWord=8|RX=MV|WordAlignmentBegin=48365|WordAlignmentEnd=48551
 6	be	be	VERB	V	_	0	root	_	GE=pouvoir_être|nWord=8|RX=V|WordAlignmentBegin=48551|WordAlignmentEnd=48737
 7	ná	ná	PART	MV	Polarity=Neg	6	mod	_	GE=NEG|nWord=9|RX=MV|WordAlignmentBegin=48737|WordAlignmentEnd=48923
-8	-TV	-TV	DET	MOD	_	7	det	_	GE=INS|nWord=9|RX=MOD|WordAlignmentBegin=48923|WordAlignmentEnd=49108
+8	-TV	-TV	PART	MOD	_	7	det	_	GE=INS|nWord=9|RX=MOD|WordAlignmentBegin=48923|WordAlignmentEnd=49108
 
 # sent_id = GYA_PRD_NARR_T24-C59_018-019
 # text = ʔó wàntò BHa- yak -H ɗòŋ ʔó dàn kɔ́ =éí
@@ -377,56 +377,28 @@
 5	sínɛ́	sínɛ́	PART	MV	_	3	mod	_	GE=en_s'en_allant|nWord=3|RX=MV|WordAlignmentBegin=52246|WordAlignmentEnd=52401
 6	-VV	-VV	DET	MOD	_	5	det	_	GE=DUR|nWord=3|RX=MOD|WordAlignmentBegin=52401|WordAlignmentEnd=52556
 
-# sent_id = GYA_PRD_NARR_T24-C59_020-020b
-# text = hó
+# sent_id = GYA_PRD_NARR_T24-C59_020-020b_021-021a_
+# text = hó dáà ʔó dí ʔó bókóbêm nɛ̀ =m -H H- tɛ B- ʔám H- kpa =wà
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
-# text_phonetic = hó
-# text_fr = Oh
-1	hó	hó	INTJ	NTERJ	_	0	root	_	GE=oh|nWord=4|RX=NTERJ|WordAlignmentBegin=52556|WordAlignmentEnd=52865
-
-# sent_id = GYA_PRD_NARR_T24-C59_021-021a
-# text = dáà
-# speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
-# text_phonetic = dáà
-# text_fr = petit père
-1	dáà	dáà	NOUN	N	_	0	root	_	GE=petit_père|nWord=1|RX=N|WordAlignmentBegin=52865|WordAlignmentEnd=53227
-
-# sent_id = GYA_PRD_NARR_T24-C59_021-021b
-# text = ʔó dí ʔó bókóbêm
-# speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
-# text_phonetic = ʔó dí ʔó bókóbêm
-# text_fr = les belles filles!
-1	ʔó	ʔó	DET	MN	Number=Plur	4	det	_	GE=PL|nWord=2|RX=MN|WordAlignmentBegin=53227|WordAlignmentEnd=53589
-2	dí	dí	ADJ	AV	_	4	mod	_	GE=beau|nWord=3|RX=AV|WordAlignmentBegin=53589|WordAlignmentEnd=53951
-3	ʔó	ʔó	DET	MN	Number=Plur	4	det	_	GE=PL|nWord=4|RX=MN|WordAlignmentBegin=53951|WordAlignmentEnd=54313
-4	bókóbêm	bókóbêm	NOUN	N	_	0	root	_	GE=fille|nWord=5|RX=N|WordAlignmentBegin=54313|WordAlignmentEnd=54675
-
-# sent_id = GYA_PRD_NARR_T24-C59_021-021c
-# text = nɛ̀ =m -H H- tɛ
-# speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
-# text_phonetic = nɛ̀m tɛ́
-# text_fr = Et ainsi je suis venu
-1	nɛ̀	nɛ̀	CCONJ	SUB.REL	_	5	cc	_	GE=et_ainsi|nWord=6|RX=COORD|WordAlignmentBegin=54675|WordAlignmentEnd=54796
-2	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	5	subj	_	GE=1SG|nWord=6|RX=PERS|WordAlignmentBegin=54796|WordAlignmentEnd=54917
-3	-H	-H	X	PERS	Number=Sing|Person=1|PronType=Prs	2	aff	_	GE=MT|nWord=6|RX=MOD|WordAlignmentBegin=54796|WordAlignmentEnd=54917
-4	H-	H-	AUX	PERS	Aspect=Imp|Number=Sing|Person=1|PronType=Prs	5	aux	_	GE=INAC|nWord=7|RX=MV|WordAlignmentBegin=54796|WordAlignmentEnd=54917
-5	tɛ	tɛ	VERB	PERS	_	0	root	_	GE=venir|nWord=7|RX=V|WordAlignmentBegin=54796|WordAlignmentEnd=54917
-
-# sent_id = GYA_PRD_NARR_T24-C59_021-021d
-# text = B- ʔám H- kpa =wà
-# speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_C24-C59.WAV
-# text_phonetic = ʔàm kpáwà
-# text_fr = et donc je les ai rencontrées
-1	B-	B-	CCONJ	FCT	_	4	cc	_	GE=et_donc|nWord=6|RX=COORD|WordAlignmentBegin=54917|WordAlignmentEnd=55037
-2	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	4	subj	_	GE=1SG|nWord=6|RX=PERS|WordAlignmentBegin=54796|WordAlignmentEnd=54917
-3	H-	H-	AUX	MV	Aspect=Imp	4	aux	_	GE=INAC|nWord=9|RX=MV|WordAlignmentBegin=55761|WordAlignmentEnd=55851
-4	kpa	kpa	VERB	V	_	0	root	_	GE=trouver|nWord=9|RX=V|WordAlignmentBegin=55851|WordAlignmentEnd=55941
-5	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	4	comp:obj	_	GE=3PL|nWord=9|RX=PERS|WordAlignmentBegin=56031|WordAlignmentEnd=56120
+# text_phonetic = hó dáà ʔó dí ʔó bókóbêm nɛ̀m tɛ́ ʔàm kpáwà
+# text_fr = Oh petit père les belles filles! Et ainsi je suis venu et donc je les ai rencontrées
+1	hó	hó	INTJ	NTERJ	_	11	discourse	_	GE=oh|nWord=4|RX=NTERJ|WordAlignmentBegin=52556|WordAlignmentEnd=52865
+2	dáà	dáà	NOUN	N	_	11	discourse	_	GE=petit_père|nWord=1|RX=N|WordAlignmentBegin=52865|WordAlignmentEnd=53227
+3	ʔó	ʔó	DET	MN	Number=Plur	6	det	_	GE=PL|nWord=2|RX=MN|WordAlignmentBegin=53227|WordAlignmentEnd=53589
+4	dí	dí	ADJ	AV	_	6	mod	_	GE=beau|nWord=3|RX=AV|WordAlignmentBegin=53589|WordAlignmentEnd=53951
+5	ʔó	ʔó	DET	MN	Number=Plur	6	det	_	GE=PL|nWord=4|RX=MN|WordAlignmentBegin=53951|WordAlignmentEnd=54313
+6	bókóbêm	bókóbêm	NOUN	N	_	15	dislocated:obj	_	GE=fille|nWord=5|RX=N|WordAlignmentBegin=54313|WordAlignmentEnd=54675
+7	nɛ̀	nɛ̀	CCONJ	SUB.REL	_	6	mod@relcl	_	GE=et_ainsi|nWord=6|RX=COORD|WordAlignmentBegin=54675|WordAlignmentEnd=54796
+8	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	11	subj	_	GE=1SG|nWord=6|RX=PERS|WordAlignmentBegin=54796|WordAlignmentEnd=54917
+9	-H	-H	X	PERS	Number=Sing|Person=1|PronType=Prs	8	aff	_	GE=MT|nWord=6|RX=MOD|WordAlignmentBegin=54796|WordAlignmentEnd=54917
+10	H-	H-	AUX	PERS	Aspect=Imp|Number=Sing|Person=1|PronType=Prs	11	aux	_	GE=INAC|nWord=7|RX=MV|WordAlignmentBegin=54796|WordAlignmentEnd=54917
+11	tɛ	tɛ	VERB	PERS	_	0	root	_	GE=venir|nWord=7|RX=V|WordAlignmentBegin=54796|WordAlignmentEnd=54917
+12	B-	B-	CCONJ	FCT	_	15	cc	_	GE=et_donc|nWord=6|RX=COORD|WordAlignmentBegin=54917|WordAlignmentEnd=55037
+13	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	15	subj	_	GE=1SG|nWord=6|RX=PERS|WordAlignmentBegin=54796|WordAlignmentEnd=54917
+14	H-	H-	AUX	MV	Aspect=Imp	15	aux	_	GE=INAC|nWord=9|RX=MV|WordAlignmentBegin=55761|WordAlignmentEnd=55851
+15	kpa	kpa	VERB	V	_	11	reparandum	_	GE=trouver|nWord=9|RX=V|WordAlignmentBegin=55851|WordAlignmentEnd=55941
+16	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	15	comp:obj	_	GE=3PL|nWord=9|RX=PERS|WordAlignmentBegin=56031|WordAlignmentEnd=56120
 
 # sent_id = GYA_PRD_NARR_T24-C59_022-022
 # text = sá ʔó dàn kɔ́ =à̰ Wàntò mɛ́ nɛ́-BHa- si mɛ́ -B H- kai bé fùù
